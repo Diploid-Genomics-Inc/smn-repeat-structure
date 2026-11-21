@@ -1,0 +1,7 @@
+element	name	tokens
+K	end of the core	8- 9- 10-
+Xi	Xi, inverted copy of the core's inner part	1- 5- 13- 16- 17- 21- 24- 3-
+S	S, palindrome spacer	20+ 20-
+Xd	Xd, outer half of Xi again, opposite to Xi (direct, as the core)	13+ 16+ 17+ 21+ 24+ 3+
+E	E, carries GTF2H2	7+ 14+ 18+ 19+ 23- 4+
+Fl	unique flank	2+ 2- 6+ 6- 11+ 11-

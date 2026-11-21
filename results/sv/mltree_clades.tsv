@@ -1,0 +1,22 @@
+group	copies	mrca_clade_size	mrca_outside	mrca_support	monophyletic	largest_pure_clade	largest_pure_support
+lineage A	405	736	331	93.0	False	94	20.0
+lineage B	117	128	11	91.0	False	63	100.0
+SMN1	522	864	342	100.0	False	94	20.0
+SMN2	318	327	9	95.0	False	85	21.0
+h21	20	864	844	100.0	False	11	100.0
+h12	4	683	679	67.0	False	0	
+apes (bonobo, chimp, gorilla)	3	867	864		False	2	100.0
+human copies	864	864	0	100.0	True	864	100.0
+haplogroup S1-1	125	624	499	67.0	False	18	49.0
+haplogroup S1-10	16	736	720	93.0	False	14	85.0
+haplogroup S1-1c	155	270	115	46.0	False	73	12.0
+haplogroup S1-2|S1-2c	47	51	4	99.0	False	10	100.0
+haplogroup S1-3	43	43	0	94.0	True	43	94.0
+haplogroup S1-5	10	54	44	99.0	False	9	100.0
+haplogroup S1-6	11	127	116	88.0	False	10	94.0
+haplogroup S1-8	42	42	0	100.0	True	42	100.0
+haplogroup S1-9	23	63	40	100.0	False	14	39.0
+haplogroup S1-9d	38	47	9	69.0	False	37	85.0
+haplogroup family S1-1 (S1-1/S1-1c)	280	624	344	67.0	False	94	20.0
+haplogroup family S1-6 (S1-6/S1-6c)	12	128	116	91.0	False	10	94.0
+haplogroup family S1-9 (S1-9/S1-9c/S1-9d)	63	63	0	100.0	True	63	100.0

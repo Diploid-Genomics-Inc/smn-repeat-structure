@@ -1,0 +1,36 @@
+{
+ "haplotypes": 432,
+ "people": 219,
+ "permutations": 9999,
+ "haplotypes_by_group": {
+  "AFR": 135,
+  "AMR": 80,
+  "EAS": 94,
+  "EUR": 53,
+  "SAS": 70
+ },
+ "arrangement": {
+  "types_tested": 12,
+  "rare_pooled_haplotypes": 31,
+  "chi2": 176.74550776927137,
+  "cramers_v": 0.31981757293661817,
+  "p_perm": 0.0001
+ },
+ "permanova_all5": {
+  "pseudoF": 8.14443203085667,
+  "R2": 0.07088622039290257,
+  "p_perm_1999": 0.0005
+ },
+ "permanova_non_AFR4": {
+  "pseudoF": 2.4931304323112,
+  "R2": 0.02489152838286493,
+  "p_perm_1999": 0.003
+ },
+ "median_within": {
+  "AFR": 0.401,
+  "AMR": 0.371,
+  "EAS": 0.24,
+  "EUR": 0.392,
+  "SAS": 0.364
+ }
+}

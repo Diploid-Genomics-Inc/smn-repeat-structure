@@ -1,0 +1,36 @@
+{
+ "haplotypes": 436,
+ "make_up_counts": {
+  "A": 347,
+  "AA": 15,
+  "AB": 3,
+  "B": 28,
+  "BB": 43
+ },
+ "permutations": 1999,
+ "AB_k16": {
+  "largest_struct_cluster": 1,
+  "struct_cluster_size": 130,
+  "largest_seq_cluster": 2,
+  "seq_cluster": "S1-9+rest",
+  "seq_cluster_size": 2,
+  "in_both": 1
+ },
+ "BB_k16": {
+  "largest_struct_cluster": 37,
+  "struct_cluster_size": 130,
+  "largest_seq_cluster": 38,
+  "seq_cluster": "S1-8+S1-9",
+  "seq_cluster_size": 38,
+  "in_both": 37
+ },
+ "B_k16": {
+  "largest_struct_cluster": 8,
+  "struct_cluster_size": 130,
+  "largest_seq_cluster": 19,
+  "seq_cluster": "S1-9",
+  "seq_cluster_size": 19,
+  "in_both": 7
+ },
+ "sequence_tree": "maximum likelihood (step 04a)"
+}

@@ -1,0 +1,461 @@
+src	sample	hap	population	superpop	resolved	arrangement	nA	nB	marker_copies	composition	B_copies
+GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN			reference	reference		2+ 1+	1	0	0	A	
+HG00097_hap1_hprc_r2_v1.0.1	HG00097	hap1	GBR	EUR	True	2- 1+	1	0	0	A	
+HG00097_hap2_hprc_r2_v1.0.1	HG00097	hap2	GBR	EUR	True	2- 1-	1	0	0	A	
+HG00099_hap1_hprc_r2_v1.0.1	HG00099	hap1	GBR	EUR	True	1+	1	0	0	A	
+HG00099_hap2_hprc_r2_v1.0.1	HG00099	hap2	GBR	EUR	True	2- 1+	1	0	0	A	
+HG00126_hap1_hprc_r2_v1.0.1	HG00126	hap1	GBR	EUR	True	2- 1+	1	0	0	A	
+HG00126_hap2_hprc_r2_v1.0.1	HG00126	hap2	GBR	EUR	True	2- 1+	1	0	0	A	
+HG00128_hap1_hprc_r2_v1.0.1	HG00128	hap1	GBR	EUR	True	2- 1+	1	0	0	A	
+HG00128_hap2_hprc_r2_v1.0.1	HG00128	hap2	GBR	EUR	True	2- 1+	0	1	0	B	telomeric+
+HG00133_hap1_hprc_r2_v1.0.1	HG00133	hap1	GBR	EUR	True	2- 1+	1	0	0	A	
+HG00133_hap2_hprc_r2_v1.0.1	HG00133	hap2	GBR	EUR	True	d2- 1+	1	0	0	A	
+HG00140_hap1_hprc_r2_v1.0.1	HG00140	hap1	GBR	EUR	True	1- 2+	1	0	0	A	
+HG00140_hap2_hprc_r2_v1.0.1	HG00140	hap2	GBR	EUR	True	2- 1+	1	0	0	A	
+HG00146_hap1_hprc_r2_v1.0.1	HG00146	hap1	GBR	EUR	True	2- 1+	1	0	0	A	
+HG00146_hap2_hprc_r2_v1.0.1	HG00146	hap2	GBR	EUR	True	1+	1	0	0	A	
+HG00232_hap1_hprc_r2_v1.0.1	HG00232	hap1	GBR	EUR	False		1	0	0	A	
+HG00235_hap1_hprc_r2_v1.0.1	HG00235	hap1	GBR	EUR	True	2- 1-	1	0	0	A	
+HG00235_hap2_hprc_r2_v1.0.1	HG00235	hap2	GBR	EUR	True	1+ 2+	1	0	0	A	
+HG00253_hap1_hprc_r2_v1.0.1	HG00253	hap1	GBR	EUR	True	2- 1+	1	0	0	A	
+HG00253_hap2_hprc_r2_v1.0.1	HG00253	hap2	GBR	EUR	True	2- 1-	1	0	0	A	
+HG00272_hap1_hprc_r2_v1.0.1	HG00272	hap1	FIN	EUR	True	d2- 1+	1	0	0	A	
+HG00272_hap2_hprc_r2_v1.0.1	HG00272	hap2	FIN	EUR	True	2- 1+	1	0	0	A	
+HG00280_hap1_hprc_r2_v1.0.1	HG00280	hap1	FIN	EUR	False		1	0	0	A	
+HG00280_hap2_hprc_r2_v1.0.1	HG00280	hap2	FIN	EUR	False		1	0	0	A	
+HG00290_hap1_hprc_r2_v1.0.1	HG00290	hap1	FIN	EUR	True	2- 1+	1	0	0	A	
+HG00290_hap2_hprc_r2_v1.0.1	HG00290	hap2	FIN	EUR	True	1+	1	0	0	A	
+HG00320_hap1_hprc_r2_v1.0.1	HG00320	hap1	FIN	EUR	True	1+	1	0	0	A	
+HG00320_hap2_hprc_r2_v1.0.1	HG00320	hap2	FIN	EUR	True	2- 1+	1	0	0	A	
+HG00321_hap1_hprc_r2_v1.0.1	HG00321	hap1	FIN	EUR	True	1-	1	0	0	A	
+HG00321_hap2_hprc_r2_v1.0.1	HG00321	hap2	FIN	EUR	True	2- 1+	1	0	0	A	
+HG00323_hap1_hprc_r2_v1.0.1	HG00323	hap1	FIN	EUR	True	2- 1+	1	0	0	A	
+HG00323_hap2_hprc_r2_v1.0.1	HG00323	hap2	FIN	EUR	True	2- 1+	1	0	0	A	
+HG00329_hap1_hprc_r2_v1.0.1	HG00329	hap1	FIN	EUR	False		1	0	0	A	
+HG00329_hap2_hprc_r2_v1.0.1	HG00329	hap2	FIN	EUR	False		1	0	0	A	
+HG00344_hap1_hprc_r2_v1.0.1	HG00344	hap1	FIN	EUR	True	2- 1+	1	0	0	A	
+HG00344_hap2_hprc_r2_v1.0.1	HG00344	hap2	FIN	EUR	True	1- 2+	1	0	0	A	
+HG00350_hap1_hprc_r2_v1.0.1	HG00350	hap1	FIN	EUR	True	1+	1	0	0	A	
+HG00350_hap2_hprc_r2_v1.0.1	HG00350	hap2	FIN	EUR	True	1+	1	0	0	A	
+HG00408_mat_hprc_r2_v1.0.1	HG00408	mat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG00408_pat_hprc_r2_v1.0.1	HG00408	pat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG00423_mat_hprc_r2_v1.0.1	HG00423	mat	CHS	EAS	False		1	0	0	A	
+HG00423_pat_hprc_r2_v1.0.1	HG00423	pat	CHS	EAS	False		1	0	0	A	
+HG00438_mat_hprc_r2_v1.0.1	HG00438	mat	CHS	EAS	True	1+ 2+	1	0	0	A	
+HG00438_pat_hprc_r2_v1.0.1	HG00438	pat	CHS	EAS	True	1+	1	0	0	A	
+HG00544_mat_hprc_r2_v1.0.1	HG00544	mat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG00544_pat_hprc_r2_v1.0.1	HG00544	pat	CHS	EAS	True	2+ 1+	1	0	0	A	
+HG00558_mat_hprc_r2_v1.0.1	HG00558	mat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG00558_pat_hprc_r2_v1.0.1	HG00558	pat	CHS	EAS	True	1+	1	0	0	A	
+HG00597_mat_hprc_r2_v1.0.1	HG00597	mat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG00597_pat_hprc_r2_v1.0.1	HG00597	pat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG005_mat_hprc_r2_v1.0.1	HG005	mat		other	True	2- 1-	1	0	0	A	
+HG005_pat_hprc_r2_v1.0.1	HG005	pat		other	True	2- 1+	1	0	0	A	
+HG00609_mat_hprc_r2_v1.0.1	HG00609	mat	CHS	EAS	True	1-	1	0	0	A	
+HG00609_pat_hprc_r2_v1.0.1	HG00609	pat	CHS	EAS	True	2+ 1-	1	0	0	A	
+HG00621_mat_hprc_r2_v1.0.1	HG00621	mat	CHS	EAS	True	2+ 1+	1	0	0	A	
+HG00621_pat_hprc_r2_v1.0.1	HG00621	pat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG00639_mat_hprc_r2_v1.0.1	HG00639	mat	PUR	AMR	True	2+ 1+	1	0	0	A	
+HG00639_pat_hprc_r2_v1.0.1	HG00639	pat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG00642_mat_hprc_r2_v1.0.1	HG00642	mat	PUR	AMR	True	2+ 1+	1	0	0	A	
+HG00642_pat_hprc_r2_v1.0.1	HG00642	pat	PUR	AMR	True	1- 2-	1	0	0	A	
+HG00658_mat_hprc_r2_v1.0.1	HG00658	mat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG00658_pat_hprc_r2_v1.0.1	HG00658	pat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG00673_mat_hprc_r2_v1.0.1	HG00673	mat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG00673_pat_hprc_r2_v1.0.1	HG00673	pat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG00706_mat_hprc_r2_v1.0.1	HG00706	mat	CHS	EAS	True	2- 1+	1	0	0	A	
+HG00706_pat_hprc_r2_v1.0.1	HG00706	pat	CHS	EAS	True	h21- 1+	1	0	0	A	
+HG00733_mat_hprc_r2_v1.0.1	HG00733	mat	PUR	AMR	False		1	0	0	A	
+HG00733_pat_hprc_r2_v1.0.1	HG00733	pat	PUR	AMR	True	d2- 1+	1	0	0	A	
+HG00735_mat_hprc_r2_v1.0.1	HG00735	mat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG00735_pat_hprc_r2_v1.0.1	HG00735	pat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG00738_mat_hprc_r2_v1.0.1	HG00738	mat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG00738_pat_hprc_r2_v1.0.1	HG00738	pat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG00741_mat_hprc_r2_v1.0.1	HG00741	mat	PUR	AMR	True	1- 2-	1	0	0	A	
+HG00741_pat_hprc_r2_v1.0.1	HG00741	pat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG01071_mat_hprc_r2_v1.0.1	HG01071	mat	PUR	AMR	True	1- 2+	1	0	0	A	
+HG01071_pat_hprc_r2_v1.0.1	HG01071	pat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG01074_mat_hprc_r2_v1.0.1	HG01074	mat	PUR	AMR	True	1+	1	0	0	A	
+HG01074_pat_hprc_r2_v1.0.1	HG01074	pat	PUR	AMR	True	d2- 1+	1	0	0	A	
+HG01081_mat_hprc_r2_v1.0.1	HG01081	mat	PUR	AMR	True	1+	1	0	0	A	
+HG01081_pat_hprc_r2_v1.0.1	HG01081	pat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG01099_mat_hprc_r2_v1.0.1	HG01099	mat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG01099_pat_hprc_r2_v1.0.1	HG01099	pat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG01106_mat_hprc_r2_v1.0.1	HG01106	mat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG01106_pat_hprc_r2_v1.0.1	HG01106	pat	PUR	AMR	True	1+	1	0	0	A	
+HG01109_mat_hprc_r2_v1.0.1	HG01109	mat	PUR	AMR	True	1- 1+	0	2	0	BB	centromeric-;telomeric+
+HG01109_pat_hprc_r2_v1.0.1	HG01109	pat	PUR	AMR	False		1	0	0	A	
+HG01123_mat_hprc_r2_v1.0.1	HG01123	mat	CLM	AMR	True	1- 1-	2	0	0	AA	
+HG01123_pat_hprc_r2_v1.0.1	HG01123	pat	CLM	AMR	True	2- 1-	1	0	0	A	
+HG01150_mat_hprc_r2_v1.0.1	HG01150	mat	CLM	AMR	True	2- 1+	1	0	0	A	
+HG01150_pat_hprc_r2_v1.0.1	HG01150	pat	CLM	AMR	True	2- 1+	1	0	0	A	
+HG01167_hap1_hprc_r2_v1.0.1	HG01167	hap1	PUR	AMR	True	1- 1+	0	2	2	BB	centromeric-;telomeric+
+HG01167_hap2_hprc_r2_v1.0.1	HG01167	hap2	PUR	AMR	True	2+ 1+	1	0	0	A	
+HG01175_mat_hprc_r2_v1.0.1	HG01175	mat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG01175_pat_hprc_r2_v1.0.1	HG01175	pat	PUR	AMR	True	d2- 1+	1	0	0	A	
+HG01192_mat_hprc_r2_v1.0.1	HG01192	mat	PUR	AMR	True	2- 1+	1	0	0	A	
+HG01192_pat_hprc_r2_v1.0.1	HG01192	pat	PUR	AMR	True	d2- 1+	1	0	0	A	
+HG01243_mat_hprc_r2_v1.0.1	HG01243	mat	PUR	AMR	True	2- 1-	0	1	0	B	telomeric-
+HG01243_pat_hprc_r2_v1.0.1	HG01243	pat	PUR	AMR	True	1- 2- 1+	2	0	0	AA	
+HG01252_mat_hprc_r2_v1.0.1	HG01252	mat	CLM	AMR	True	2- 1-	1	0	0	A	
+HG01252_pat_hprc_r2_v1.0.1	HG01252	pat	CLM	AMR	True	1+	1	0	0	A	
+HG01255_mat_hprc_r2_v1.0.1	HG01255	mat	CLM	AMR	True	2- 1+	1	0	0	A	
+HG01255_pat_hprc_r2_v1.0.1	HG01255	pat	CLM	AMR	True	1+	1	0	0	A	
+HG01258_mat_hprc_r2_v1.0.1	HG01258	mat	CLM	AMR	True	2- 1-	1	0	0	A	
+HG01258_pat_hprc_r2_v1.0.1	HG01258	pat	CLM	AMR	True	2- 1+	1	0	0	A	
+HG01261_mat_hprc_r2_v1.0.1	HG01261	mat	CLM	AMR	False		1	0	0	A	
+HG01261_pat_hprc_r2_v1.0.1	HG01261	pat	CLM	AMR	True	2- 1-	1	0	0	A	
+HG01346_mat_hprc_r2_v1.0.1	HG01346	mat	CLM	AMR	True	1+	1	0	0	A	
+HG01346_pat_hprc_r2_v1.0.1	HG01346	pat	CLM	AMR	True	1+	1	0	0	A	
+HG01358_mat_hprc_r2_v1.0.1	HG01358	mat	CLM	AMR	True	1+	1	0	0	A	
+HG01358_pat_hprc_r2_v1.0.1	HG01358	pat	CLM	AMR	True	2- 1-	1	0	0	A	
+HG01361_mat_hprc_r2_v1.0.1	HG01361	mat	CLM	AMR	True	2- 1+	1	0	0	A	
+HG01361_pat_hprc_r2_v1.0.1	HG01361	pat	CLM	AMR	True	2- 1+	1	0	0	A	
+HG01433_mat_hprc_r2_v1.0.1	HG01433	mat	CLM	AMR	True	2+ 1+	1	0	0	A	
+HG01433_pat_hprc_r2_v1.0.1	HG01433	pat	CLM	AMR	True	2+ 1+	1	0	0	A	
+HG01496_mat_hprc_r2_v1.0.1	HG01496	mat	CLM	AMR	True	1+	1	0	0	A	
+HG01496_pat_hprc_r2_v1.0.1	HG01496	pat	CLM	AMR	True	2- 1+	1	0	0	A	
+HG01530_hap1_hprc_r2_v1.0.1	HG01530	hap1	IBS	EUR	True	1- 2+	1	0	0	A	
+HG01530_hap2_hprc_r2_v1.0.1	HG01530	hap2	IBS	EUR	True	2+ 1+	1	0	0	A	
+HG01784_hap1_hprc_r2_v1.0.1	HG01784	hap1	IBS	EUR	True	1+	1	0	0	A	
+HG01784_hap2_hprc_r2_v1.0.1	HG01784	hap2	IBS	EUR	True	2- 1-	1	0	0	A	
+HG01786_hap1_hprc_r2_v1.0.1	HG01786	hap1	IBS	EUR	True	2- 1-	1	0	0	A	
+HG01786_hap2_hprc_r2_v1.0.1	HG01786	hap2	IBS	EUR	True	2- 1- 1+	2	0	0	AA	
+HG01884_mat_hprc_r2_v1.0.1	HG01884	mat	ACB	AFR	True	2- 1+	1	0	0	A	
+HG01884_pat_hprc_r2_v1.0.1	HG01884	pat	ACB	AFR	True	h21- 1-	1	0	0	A	
+HG01891_mat_hprc_r2_v1.0.1	HG01891	mat	ACB	AFR	True	2- 1+	1	0	0	A	
+HG01891_pat_hprc_r2_v1.0.1	HG01891	pat	ACB	AFR	True	2+ 1+	0	1	0	B	telomeric+
+HG01928_mat_hprc_r2_v1.0.1	HG01928	mat	PEL	AMR	True	1-	1	0	0	A	
+HG01928_pat_hprc_r2_v1.0.1	HG01928	pat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG01934_mat_hprc_r2_v1.0.1	HG01934	mat	PEL	AMR	False		1	0	0	A	
+HG01934_pat_hprc_r2_v1.0.1	HG01934	pat	PEL	AMR	True	1+	1	0	0	A	
+HG01940_mat_hprc_r2_v1.0.1	HG01940	mat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG01940_pat_hprc_r2_v1.0.1	HG01940	pat	PEL	AMR	True	1+	1	0	0	A	
+HG01943_mat_hprc_r2_v1.0.1	HG01943	mat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG01943_pat_hprc_r2_v1.0.1	HG01943	pat	PEL	AMR	True	1+	1	0	0	A	
+HG01952_mat_hprc_r2_v1.0.1	HG01952	mat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG01952_pat_hprc_r2_v1.0.1	HG01952	pat	PEL	AMR	True	2- 1-	1	0	0	A	
+HG01960_mat_hprc_r2_v1.0.1	HG01960	mat	ACB	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG01960_pat_hprc_r2_v1.0.1	HG01960	pat	ACB	AFR	True	1- 1+	2	0	0	AA	
+HG01969_mat_hprc_r2_v1.0.1	HG01969	mat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG01969_pat_hprc_r2_v1.0.1	HG01969	pat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG01975_mat_hprc_r2_v1.0.1	HG01975	mat	PEL	AMR	True	1+	1	0	0	A	
+HG01975_pat_hprc_r2_v1.0.1	HG01975	pat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG01978_mat_hprc_r2_v1.1.0	HG01978	mat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG01978_pat_hprc_r2_v1.1.0	HG01978	pat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG01981_mat_hprc_r2_v1.0.1	HG01981	mat	PEL	AMR	True	1+ 2+	1	0	0	A	
+HG01981_pat_hprc_r2_v1.0.1	HG01981	pat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG01993_mat_hprc_r2_v1.0.1	HG01993	mat	PEL	AMR	False		1	0	0	A	
+HG01993_pat_hprc_r2_v1.0.1	HG01993	pat	PEL	AMR	False		1	0	0	A	
+HG02004_mat_hprc_r2_v1.0.1	HG02004	mat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG02004_pat_hprc_r2_v1.0.1	HG02004	pat	PEL	AMR	True	1+	1	0	0	A	
+HG02015_mat_hprc_r2_v1.0.1	HG02015	mat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02015_pat_hprc_r2_v1.0.1	HG02015	pat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02027_mat_hprc_r2_v1.0.1	HG02027	mat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02027_pat_hprc_r2_v1.0.1	HG02027	pat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02040_hap1_hprc_r2_v1.0.1	HG02040	hap1	KHV	EAS	True	1+	1	0	0	A	
+HG02040_hap2_hprc_r2_v1.0.1	HG02040	hap2	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02055_mat_hprc_r2_v1.0.1	HG02055	mat	ACB	AFR	True	1-	0	1	1	B	single-
+HG02055_pat_hprc_r2_v1.0.1	HG02055	pat	ACB	AFR	True	1- 1+	1	1	1	AB	centromeric-
+HG02056_mat_hprc_r2_v1.0.1	HG02056	mat	KHV	EAS	True	2+ 1+	1	0	0	A	
+HG02056_pat_hprc_r2_v1.0.1	HG02056	pat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02071_mat_hprc_r2_v1.0.1	HG02071	mat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02071_pat_hprc_r2_v1.0.1	HG02071	pat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02074_mat_hprc_r2_v1.0.1	HG02074	mat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02074_pat_hprc_r2_v1.0.1	HG02074	pat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02080_mat_hprc_r2_v1.0.1	HG02080	mat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02080_pat_hprc_r2_v1.0.1	HG02080	pat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02083_mat_hprc_r2_v1.0.1	HG02083	mat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02083_pat_hprc_r2_v1.0.1	HG02083	pat	KHV	EAS	True	1- 2+	1	0	0	A	
+HG02109_mat_hprc_r2_v1.0.1	HG02109	mat	ACB	AFR	True	2- 1+	1	0	0	A	
+HG02109_pat_hprc_r2_v1.0.1	HG02109	pat	ACB	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG02129_mat_hprc_r2_v1.0.1	HG02129	mat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02129_pat_hprc_r2_v1.0.1	HG02129	pat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02132_mat_hprc_r2_v1.0.1	HG02132	mat	KHV	EAS	True	2+ 1+	1	0	0	A	
+HG02135_mat_hprc_r2_v1.0.1	HG02135	mat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02135_pat_hprc_r2_v1.0.1	HG02135	pat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02145_mat_hprc_r2_v1.0.1	HG02145	mat	ACB	AFR	True	1- 1+	2	0	0	AA	
+HG02145_pat_hprc_r2_v1.0.1	HG02145	pat	ACB	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG02148_mat_hprc_r2_v1.0.1	HG02148	mat	PEL	AMR	True	2- 1-	1	0	0	A	
+HG02148_pat_hprc_r2_v1.0.1	HG02148	pat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG02155_hap1_hprc_r2_v1.0.1	HG02155	hap1	CDX	EAS	True	1+	1	0	0	A	
+HG02155_hap2_hprc_r2_v1.0.1	HG02155	hap2	CDX	EAS	True	h21- 1+	1	0	0	A	
+HG02165_hap1_hprc_r2_v1.0.1	HG02165	hap1	CDX	EAS	True	2+ 1+	1	0	0	A	
+HG02165_hap2_hprc_r2_v1.0.1	HG02165	hap2	CDX	EAS	True	2+ 1+	1	0	0	A	
+HG02178_hap1_hprc_r2_v1.0.1	HG02178	hap1	CDX	EAS	True	2- 1+	1	0	0	A	
+HG02178_hap2_hprc_r2_v1.0.1	HG02178	hap2	CDX	EAS	True	2- 1+	1	0	0	A	
+HG02257_mat_hprc_r2_v1.1.0	HG02257	mat	ACB	AFR	True	1+ 2+	1	0	0	A	
+HG02257_pat_hprc_r2_v1.1.0	HG02257	pat	ACB	AFR	True	2- 1-	1	0	0	A	
+HG02258_mat_hprc_r2_v1.0.1	HG02258	mat	ACB	AFR	True	2- 1+	1	0	0	A	
+HG02258_pat_hprc_r2_v1.0.1	HG02258	pat	ACB	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG02273_hap1_hprc_r2_v1.0.1	HG02273	hap1	PEL	AMR	False		1	0	0	A	
+HG02273_hap2_hprc_r2_v1.0.1	HG02273	hap2	PEL	AMR	False		2	0	0	AA	
+HG02280_mat_hprc_r2_v1.0.1	HG02280	mat	ACB	AFR	True	1- 1+	2	0	0	AA	
+HG02280_pat_hprc_r2_v1.0.1	HG02280	pat	ACB	AFR	True	2- 1+	1	0	0	A	
+HG02293_mat_hprc_r2_v1.0.1	HG02293	mat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG02293_pat_hprc_r2_v1.0.1	HG02293	pat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG02300_mat_hprc_r2_v1.0.1	HG02300	mat	PEL	AMR	True	h12- 1+	1	0	0	A	
+HG02300_pat_hprc_r2_v1.0.1	HG02300	pat	PEL	AMR	True	2- 1+	1	0	0	A	
+HG02391_hap1_hprc_r2_v1.0.1	HG02391	hap1	CDX	EAS	True	2- 1-	1	0	0	A	
+HG02391_hap2_hprc_r2_v1.0.1	HG02391	hap2	CDX	EAS	True	2- 1+	1	0	0	A	
+HG02392_hap1_hprc_r2_v1.0.1	HG02392	hap1	CDX	EAS	True	2- 1+	1	0	0	A	
+HG02392_hap2_hprc_r2_v1.0.1	HG02392	hap2	CDX	EAS	True	2- 1+	1	0	0	A	
+HG02451_mat_hprc_r2_v1.0.1	HG02451	mat	ACB	AFR	True	2- 1+	1	0	0	A	
+HG02451_pat_hprc_r2_v1.0.1	HG02451	pat	ACB	AFR	True	1+	0	1	0	B	single+
+HG02486_mat_hprc_r2_v1.0.1	HG02486	mat	ACB	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG02486_pat_hprc_r2_v1.0.1	HG02486	pat	ACB	AFR	True	2- 1+	1	0	0	A	
+HG02514_mat_hprc_r2_v1.0.1	HG02514	mat	KHV	EAS	True	1+	1	0	0	A	
+HG02514_pat_hprc_r2_v1.0.1	HG02514	pat	KHV	EAS	True	2- 1-	1	0	0	A	
+HG02523_mat_hprc_r2_v1.0.1	HG02523	mat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02523_pat_hprc_r2_v1.0.1	HG02523	pat	KHV	EAS	True	2- 1+	1	0	0	A	
+HG02559_mat_hprc_r2_v1.0.1	HG02559	mat	ACB	AFR	True	2- 1-	1	0	0	A	
+HG02559_pat_hprc_r2_v1.0.1	HG02559	pat	ACB	AFR	True	1- h21+	0	1	1	B	centromeric-
+HG02572_mat_hprc_r2_v1.0.1	HG02572	mat	GWD	AFR	True	2- 1+	1	0	0	A	
+HG02572_pat_hprc_r2_v1.0.1	HG02572	pat	GWD	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG02583_hap1_hprc_r2_v1.0.1	HG02583	hap1	GWD	AFR	True	2- 1+	1	0	0	A	
+HG02583_hap2_hprc_r2_v1.0.1	HG02583	hap2	GWD	AFR	True	2- 1+	1	0	0	A	
+HG02602_mat_hprc_r2_v1.0.1	HG02602	mat	PJL	SAS	True	1-	1	0	0	A	
+HG02602_pat_hprc_r2_v1.0.1	HG02602	pat	PJL	SAS	True	1+	1	0	0	A	
+HG02615_mat_hprc_r2_v1.0.1	HG02615	mat	GWD	AFR	True	1- h21+	0	1	1	B	centromeric-
+HG02615_pat_hprc_r2_v1.0.1	HG02615	pat	GWD	AFR	True	2+ 1-	1	0	0	A	
+HG02622_mat_hprc_r2_v1.0.1	HG02622	mat	GWD	AFR	True	1- 1+	0	2	2	BB	centromeric-;telomeric+
+HG02622_pat_hprc_r2_v1.0.1	HG02622	pat	GWD	AFR	True	1- 1+	0	2	2	BB	centromeric-;telomeric+
+HG02630_mat_hprc_r2_v1.0.1	HG02630	mat	GWD	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG02630_pat_hprc_r2_v1.0.1	HG02630	pat	GWD	AFR	True	2+ 1-	1	0	0	A	
+HG02647_mat_hprc_r2_v1.0.1	HG02647	mat	GWD	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG02647_pat_hprc_r2_v1.0.1	HG02647	pat	GWD	AFR	True	1- h21+	0	1	1	B	centromeric-
+HG02668_mat_hprc_r2_v1.0.1	HG02668	mat	GWD	AFR	True	1- 2- 1-	1	1	1	AB	centromeric-
+HG02668_pat_hprc_r2_v1.0.1	HG02668	pat	GWD	AFR	True	2- 1+	1	0	0	A	
+HG02698_mat_hprc_r2_v1.0.1	HG02698	mat	PJL	SAS	True	1- 2+	1	0	0	A	
+HG02698_pat_hprc_r2_v1.0.1	HG02698	pat	PJL	SAS	True	1- h12+ 1+	2	0	0	AA	
+HG02717_mat_hprc_r2_v1.0.1	HG02717	mat	GWD	AFR	True	1- 1+	0	2	2	BB	centromeric-;telomeric+
+HG02717_pat_hprc_r2_v1.0.1	HG02717	pat	GWD	AFR	True	1- 1+	0	2	2	BB	centromeric-;telomeric+
+HG02723_mat_hprc_r2_v1.0.1	HG02723	mat	GWD	AFR	True	1- h21+	0	1	1	B	centromeric-
+HG02723_pat_hprc_r2_v1.0.1	HG02723	pat	GWD	AFR	True	2- 1+	1	0	0	A	
+HG02735_mat_hprc_r2_v1.0.1	HG02735	mat	PJL	SAS	True	2- 1-	1	0	0	A	
+HG02735_pat_hprc_r2_v1.0.1	HG02735	pat	PJL	SAS	True	1-	1	0	0	A	
+HG02738_mat_hprc_r2_v1.0.1	HG02738	mat	PJL	SAS	True	2- 1+	1	0	0	A	
+HG02738_pat_hprc_r2_v1.0.1	HG02738	pat	PJL	SAS	True	1+ 2+	1	0	0	A	
+HG02809_mat_hprc_r2_v1.0.1	HG02809	mat	GWD	AFR	True	1- 2+	1	0	0	A	
+HG02809_pat_hprc_r2_v1.0.1	HG02809	pat	GWD	AFR	True	2- 1+	0	1	1	B	telomeric+
+HG02818_mat_hprc_r2_v1.0.1	HG02818	mat	GWD	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG02818_pat_hprc_r2_v1.0.1	HG02818	pat	GWD	AFR	True	1- 2+	1	0	0	A	
+HG02841_mat_hprc_r2_v1.0.1	HG02841	mat	GWD	AFR	True	2- 1+	1	0	0	A	
+HG02841_pat_hprc_r2_v1.0.1	HG02841	pat	GWD	AFR	True	2+ 1-	1	0	0	A	
+HG02886_mat_hprc_r2_v1.0.1	HG02886	mat	GWD	AFR	True	2+ 1+	0	1	0	B	telomeric+
+HG02886_pat_hprc_r2_v1.0.1	HG02886	pat	GWD	AFR	True	2+ 1-	1	0	0	A	
+HG02922_hap1_hprc_r2_v1.0.1	HG02922	hap1	ESN	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG02922_hap2_hprc_r2_v1.0.1	HG02922	hap2	ESN	AFR	True	2- 1+	1	0	0	A	
+HG02965_hap1_hprc_r2_v1.0.1	HG02965	hap1	ESN	AFR	True	1-	0	1	1	B	single-
+HG02965_hap2_hprc_r2_v1.0.1	HG02965	hap2	ESN	AFR	True	h21+ 1-	0	1	0	B	telomeric-
+HG02976_hap1_hprc_r2_v1.0.1	HG02976	hap1	ESN	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG02976_hap2_hprc_r2_v1.0.1	HG02976	hap2	ESN	AFR	True	1- 2+	1	0	0	A	
+HG02984_mat_hprc_r2_v1.0.1	HG02984	mat	GWD	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG02984_pat_hprc_r2_v1.0.1	HG02984	pat	GWD	AFR	True	2- 1+	1	0	0	A	
+HG03017_mat_hprc_r2_v1.0.1	HG03017	mat	PJL	SAS	True	2- 1+	1	0	0	A	
+HG03017_pat_hprc_r2_v1.0.1	HG03017	pat	PJL	SAS	True	1- 1+	2	0	0	AA	
+HG03041_mat_hprc_r2_v1.0.1	HG03041	mat	GWD	AFR	True	1+	1	0	0	A	
+HG03041_pat_hprc_r2_v1.0.1	HG03041	pat	GWD	AFR	True	2- 1+	1	0	0	A	
+HG03050_mat_hprc_r2_v1.0.1	HG03050	mat	GWD	AFR	True	1+ h21+	0	1	0	B	centromeric+
+HG03050_pat_hprc_r2_v1.0.1	HG03050	pat	GWD	AFR	True	2- 1-	1	0	0	A	
+HG03098_mat_hprc_r2_v1.0.1	HG03098	mat	MSL	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG03098_pat_hprc_r2_v1.0.1	HG03098	pat	MSL	AFR	True	1- h21-	0	1	1	B	centromeric-
+HG03130_hap1_hprc_r2_v1.0.1	HG03130	hap1	ESN	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG03130_hap2_hprc_r2_v1.0.1	HG03130	hap2	ESN	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG03139_hap1_hprc_r2_v1.0.1	HG03139	hap1	ESN	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG03139_hap2_hprc_r2_v1.0.1	HG03139	hap2	ESN	AFR	True	1+	1	0	0	A	
+HG03195_hap1_hprc_r2_v1.0.1	HG03195	hap1	ESN	AFR	True	1+	1	0	0	A	
+HG03195_hap2_hprc_r2_v1.0.1	HG03195	hap2	ESN	AFR	True	1- 1+	0	2	2	BB	centromeric-;telomeric+
+HG03209_hap1_hprc_r2_v1.0.1	HG03209	hap1	MSL	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG03209_hap2_hprc_r2_v1.0.1	HG03209	hap2	MSL	AFR	True	2- 1+	1	0	0	A	
+HG03225_hap1_hprc_r2_v1.0.1	HG03225	hap1	MSL	AFR	True	2- 1+	1	0	0	A	
+HG03225_hap2_hprc_r2_v1.0.1	HG03225	hap2	MSL	AFR	True	1- 2-	1	0	0	A	
+HG03239_mat_hprc_r2_v1.0.1	HG03239	mat	PJL	SAS	True	2- 1+	1	0	0	A	
+HG03239_pat_hprc_r2_v1.0.1	HG03239	pat	PJL	SAS	True	2- 1+	1	0	0	A	
+HG03270_hap1_hprc_r2_v1.0.1	HG03270	hap1	ESN	AFR	False		1	0	0	A	
+HG03270_hap2_hprc_r2_v1.0.1	HG03270	hap2	ESN	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG03369_hap1_hprc_r2_v1.0.1	HG03369	hap1	ESN	AFR	True	2- 1+	1	0	0	A	
+HG03369_hap2_hprc_r2_v1.0.1	HG03369	hap2	ESN	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG03453_mat_hprc_r2_v1.0.1	HG03453	mat	MSL	AFR	True	1+ h21+	0	1	0	B	centromeric+
+HG03453_pat_hprc_r2_v1.0.1	HG03453	pat	MSL	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG03470_hap1_hprc_r2_v1.0.1	HG03470	hap1	MSL	AFR	True	2+ 1+	0	1	0	B	telomeric+
+HG03470_hap2_hprc_r2_v1.0.1	HG03470	hap2	MSL	AFR	True	2- 1+	1	0	0	A	
+HG03471_hap1_hprc_r2_v1.0.1	HG03471	hap1	MSL	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+HG03471_hap2_hprc_r2_v1.0.1	HG03471	hap2	MSL	AFR	True	2- 1+	1	0	0	A	
+HG03486_mat_hprc_r2_v1.0.1	HG03486	mat	MSL	AFR	True	2- 1+	1	0	0	A	
+HG03486_pat_hprc_r2_v1.0.1	HG03486	pat	MSL	AFR	True	1- 1+	0	2	2	BB	centromeric-;telomeric+
+HG03516_mat_hprc_r2_v1.1.0	HG03516	mat	ESN	AFR	True	1+	1	0	0	A	
+HG03516_pat_hprc_r2_v1.1.0	HG03516	pat	ESN	AFR	True	1- h21+	0	1	1	B	centromeric-
+HG03521_hap1_hprc_r2_v1.0.1	HG03521	hap1	ESN	AFR	True	1-	0	1	1	B	single-
+HG03521_hap2_hprc_r2_v1.0.1	HG03521	hap2	ESN	AFR	True	1- 2+	1	0	0	A	
+HG03540_mat_hprc_r2_v1.0.1	HG03540	mat	GWD	AFR	True	h21- 1+	0	1	0	B	telomeric+
+HG03540_pat_hprc_r2_v1.0.1	HG03540	pat	GWD	AFR	True	1- 1+	0	2	2	BB	centromeric-;telomeric+
+HG03579_mat_hprc_r2_v1.0.1	HG03579	mat	MSL	AFR	True	1- 1+	0	2	0	BB	centromeric-;telomeric+
+HG03579_pat_hprc_r2_v1.0.1	HG03579	pat	MSL	AFR	True	1+	1	0	0	A	
+HG03583_hap1_hprc_r2_v1.0.1	HG03583	hap1	MSL	AFR	True	1+	1	0	0	A	
+HG03654_mat_hprc_r2_v1.0.1	HG03654	mat	PJL	SAS	True	2- 1+	1	0	0	A	
+HG03654_pat_hprc_r2_v1.0.1	HG03654	pat	PJL	SAS	True	1- 2+	1	0	0	A	
+HG03669_mat_hprc_r2_v1.0.1	HG03669	mat	PJL	SAS	True	2+ 1+	1	0	0	A	
+HG03669_pat_hprc_r2_v1.0.1	HG03669	pat	PJL	SAS	True	2- 1+	1	0	0	A	
+HG03688_mat_hprc_r2_v1.0.1	HG03688	mat	STU	SAS	True	2- 1- 1+	2	0	0	AA	
+HG03688_pat_hprc_r2_v1.0.1	HG03688	pat	STU	SAS	True	2- 1+	1	0	0	A	
+HG03704_mat_hprc_r2_v1.0.1	HG03704	mat	PJL	SAS	True	1- 1+	2	0	0	AA	
+HG03704_pat_hprc_r2_v1.0.1	HG03704	pat	PJL	SAS	True	2- 1+	1	0	0	A	
+HG03710_mat_hprc_r2_v1.0.1	HG03710	mat	PJL	SAS	True	h21- 1+	1	0	0	A	
+HG03710_pat_hprc_r2_v1.0.1	HG03710	pat	PJL	SAS	True	2- 1+	1	0	0	A	
+HG03742_hap1_hprc_r2_v1.0.1	HG03742	hap1	ITU	SAS	True	2- 1+	1	0	0	A	
+HG03742_hap2_hprc_r2_v1.0.1	HG03742	hap2	ITU	SAS	True	1-	1	0	0	A	
+HG03784_hap2_hprc_r2_v1.0.1	HG03784	hap2	ITU	SAS	False		1	0	0	A	
+HG03804_mat_hprc_r2_v1.0.1	HG03804	mat	BEB	SAS	True	2- 1+	1	0	0	A	
+HG03804_pat_hprc_r2_v1.0.1	HG03804	pat	BEB	SAS	True	2- 1+	1	0	0	A	
+HG03816_mat_hprc_r2_v1.0.1	HG03816	mat	BEB	SAS	True	2- 1+	1	0	0	A	
+HG03816_pat_hprc_r2_v1.0.1	HG03816	pat	BEB	SAS	True	2- 1+	1	0	0	A	
+HG03831_mat_hprc_r2_v1.0.1	HG03831	mat	BEB	SAS	True	1-	1	0	0	A	
+HG03831_pat_hprc_r2_v1.0.1	HG03831	pat	BEB	SAS	True	2- 1-	1	0	0	A	
+HG03834_mat_hprc_r2_v1.0.1	HG03834	mat	BEB	SAS	True	2- 1+	1	0	0	A	
+HG03834_pat_hprc_r2_v1.0.1	HG03834	pat	BEB	SAS	True	2- 1-	1	0	0	A	
+HG03874_hap1_hprc_r2_v1.0.1	HG03874	hap1	ITU	SAS	True	1+	1	0	0	A	
+HG03874_hap2_hprc_r2_v1.0.1	HG03874	hap2	ITU	SAS	True	1+	1	0	0	A	
+HG03927_mat_hprc_r2_v1.0.1	HG03927	mat	BEB	SAS	True	2- 1+	1	0	0	A	
+HG03927_pat_hprc_r2_v1.0.1	HG03927	pat	BEB	SAS	True	1+	1	0	0	A	
+HG03942_mat_hprc_r2_v1.0.1	HG03942	mat	BEB	SAS	True	1+	1	0	0	A	
+HG03942_pat_hprc_r2_v1.0.1	HG03942	pat	BEB	SAS	True	2- 1+	1	0	0	A	
+HG04115_mat_hprc_r2_v1.0.1	HG04115	mat	STU	SAS	True	2- 1+	1	0	0	A	
+HG04115_pat_hprc_r2_v1.0.1	HG04115	pat	STU	SAS	True	1+	1	0	0	A	
+HG04157_mat_hprc_r2_v1.0.1	HG04157	mat	BEB	SAS	True	2- 1+	1	0	0	A	
+HG04157_pat_hprc_r2_v1.0.1	HG04157	pat	BEB	SAS	True	1- 1+	2	0	0	AA	
+HG04160_mat_hprc_r2_v1.0.1	HG04160	mat	BEB	SAS	True	h21- 1+	1	0	0	A	
+HG04160_pat_hprc_r2_v1.0.1	HG04160	pat	BEB	SAS	True	2- 1+	1	0	0	A	
+HG04184_mat_hprc_r2_v1.0.1	HG04184	mat	BEB	SAS	True	2- 1-	1	0	0	A	
+HG04184_pat_hprc_r2_v1.0.1	HG04184	pat	BEB	SAS	True	1-	1	0	0	A	
+HG04187_mat_hprc_r2_v1.0.1	HG04187	mat	BEB	SAS	True	1+	1	0	0	A	
+HG04187_pat_hprc_r2_v1.0.1	HG04187	pat	BEB	SAS	True	2- 1-	1	0	0	A	
+HG04199_mat_hprc_r2_v1.0.1	HG04199	mat	STU	SAS	True	2- 1+	1	0	0	A	
+HG04199_pat_hprc_r2_v1.0.1	HG04199	pat	STU	SAS	True	2- 1+	1	0	0	A	
+HG04204_mat_hprc_r2_v1.0.1	HG04204	mat	STU	SAS	True	1- 1+	2	0	0	AA	
+HG04204_pat_hprc_r2_v1.0.1	HG04204	pat	STU	SAS	True	2- 1+	1	0	0	A	
+HG04228_mat_hprc_r2_v1.0.1	HG04228	mat	STU	SAS	True	2- 1+	1	0	0	A	
+HG04228_pat_hprc_r2_v1.0.1	HG04228	pat	STU	SAS	True	2- 1+	1	0	0	A	
+HG06807_mat_v1.0.genbank	HG06807	mat	ASL	other	True	2- 1+	1	0	0	A	
+HG06807_pat_v1.0.genbank	HG06807	pat	ASL	other	True	1+	1	0	0	A	
+NA18505_hap1_hprc_r2_v1.0.1	NA18505	hap1	YRI	AFR	True	1- h21-	0	1	1	B	centromeric-
+NA18505_hap2_hprc_r2_v1.0.1	NA18505	hap2	YRI	AFR	True	h21+ 1-	1	0	0	A	
+NA18508_hap1_hprc_r2_v1.0.1	NA18508	hap1	YRI	AFR	True	2- 1+	1	0	0	A	
+NA18508_hap2_hprc_r2_v1.0.1	NA18508	hap2	YRI	AFR	True	1+	1	0	0	A	
+NA18522_hap1_hprc_r2_v1.0.1	NA18522	hap1	YRI	AFR	True	2- 1+	1	0	0	A	
+NA18522_hap2_hprc_r2_v1.0.1	NA18522	hap2	YRI	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+NA18565_hap1_hprc_r2_v1.0.1	NA18565	hap1	CHB	EAS	True	1- 1+	2	0	0	AA	
+NA18565_hap2_hprc_r2_v1.0.1	NA18565	hap2	CHB	EAS	True	2- 1+	1	0	0	A	
+NA18570_hap1_hprc_r2_v1.0.1	NA18570	hap1	CHB	EAS	True	2- 1+	1	0	0	A	
+NA18570_hap2_hprc_r2_v1.0.1	NA18570	hap2	CHB	EAS	True	2- 1+	1	0	0	A	
+NA18608_hap1_hprc_r2_v1.0.1	NA18608	hap1	CHB	EAS	True	2+ 1+	1	0	0	A	
+NA18608_hap2_hprc_r2_v1.0.1	NA18608	hap2	CHB	EAS	True	2- 1+	1	0	0	A	
+NA18620_hap1_hprc_r2_v1.0.1	NA18620	hap1	CHB	EAS	True	2- 1+	1	0	0	A	
+NA18620_hap2_hprc_r2_v1.0.1	NA18620	hap2	CHB	EAS	True	2- 1+	1	0	0	A	
+NA18747_hap1_hprc_r2_v1.0.1	NA18747	hap1	CHB	EAS	False		1	0	0	A	
+NA18747_hap2_hprc_r2_v1.0.1	NA18747	hap2	CHB	EAS	False		1	0	0	A	
+NA18879_hap1_hprc_r2_v1.0.1	NA18879	hap1	YRI	AFR	True	1- 1+	0	2	0	BB	centromeric-;telomeric+
+NA18906_mat_hprc_r2_v1.0.1	NA18906	mat	YRI	AFR	True	1+	1	0	0	A	
+NA18906_pat_hprc_r2_v1.0.1	NA18906	pat	YRI	AFR	True	2- 1+	1	0	0	A	
+NA18940_hap1_hprc_r2_v1.0.1	NA18940	hap1	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18940_hap2_hprc_r2_v1.0.1	NA18940	hap2	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18943_hap1_hprc_r2_v1.0.1	NA18943	hap1	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18943_hap2_hprc_r2_v1.0.1	NA18943	hap2	JPT	EAS	True	2- 1-	1	0	0	A	
+NA18944_hap1_hprc_r2_v1.0.1	NA18944	hap1	JPT	EAS	True	1+	1	0	0	A	
+NA18944_hap2_hprc_r2_v1.0.1	NA18944	hap2	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18945_hap1_hprc_r2_v1.0.1	NA18945	hap1	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18948_hap1_hprc_r2_v1.0.1	NA18948	hap1	JPT	EAS	True	2- 1-	1	0	0	A	
+NA18948_hap2_hprc_r2_v1.0.1	NA18948	hap2	JPT	EAS	True	2- 2- 1+	1	0	0	A	
+NA18952_hap1_hprc_r2_v1.0.1	NA18952	hap1	JPT	EAS	True	1+	1	0	0	A	
+NA18952_hap2_hprc_r2_v1.0.1	NA18952	hap2	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18959_hap1_hprc_r2_v1.0.1	NA18959	hap1	JPT	EAS	True	t- 2- 1+	1	0	0	A	
+NA18959_hap2_hprc_r2_v1.0.1	NA18959	hap2	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18960_hap1_hprc_r2_v1.0.1	NA18960	hap1	JPT	EAS	True	2- 2- 1-	1	0	0	A	
+NA18960_hap2_hprc_r2_v1.0.1	NA18960	hap2	JPT	EAS	True	1-	1	0	0	A	
+NA18967_hap1_hprc_r2_v1.0.1	NA18967	hap1	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18967_hap2_hprc_r2_v1.0.1	NA18967	hap2	JPT	EAS	True	1-	1	0	0	A	
+NA18970_hap1_hprc_r2_v1.0.1	NA18970	hap1	JPT	EAS	True	2+ 1+	1	0	0	A	
+NA18970_hap2_hprc_r2_v1.0.1	NA18970	hap2	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18971_hap1_hprc_r2_v1.0.1	NA18971	hap1	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18971_hap2_hprc_r2_v1.0.1	NA18971	hap2	JPT	EAS	True	1+	1	0	0	A	
+NA18974_hap1_hprc_r2_v1.0.1	NA18974	hap1	JPT	EAS	False		1	0	0	A	
+NA18974_hap2_hprc_r2_v1.0.1	NA18974	hap2	JPT	EAS	False		1	0	0	A	
+NA18976_hap1_hprc_r2_v1.0.1	NA18976	hap1	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18976_hap2_hprc_r2_v1.0.1	NA18976	hap2	JPT	EAS	True	1+	1	0	0	A	
+NA18982_hap1_hprc_r2_v1.0.1	NA18982	hap1	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18982_hap2_hprc_r2_v1.0.1	NA18982	hap2	JPT	EAS	True	2+ 1+	1	0	0	A	
+NA18983_hap1_hprc_r2_v1.0.1	NA18983	hap1	JPT	EAS	True	2- 1+	1	0	0	A	
+NA18983_hap2_hprc_r2_v1.0.1	NA18983	hap2	JPT	EAS	True	2- 1+	1	0	0	A	
+NA19036_hap1_hprc_r2_v1.0.1	NA19036	hap1	LWK	AFR	True	1+ 1-	1	1	0	AB	centromeric+
+NA19036_hap2_hprc_r2_v1.0.1	NA19036	hap2	LWK	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+NA19043_hap1_hprc_r2_v1.0.1	NA19043	hap1	LWK	AFR	True	1- 1+	0	2	0	BB	centromeric-;telomeric+
+NA19043_hap2_hprc_r2_v1.0.1	NA19043	hap2	LWK	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+NA19087_hap1_hprc_r2_v1.0.1	NA19087	hap1	JPT	EAS	True	2- 1+	1	0	0	A	
+NA19087_hap2_hprc_r2_v1.0.1	NA19087	hap2	JPT	EAS	True	2+ 1+	1	0	0	A	
+NA19159_hap1_hprc_r2_v1.0.1	NA19159	hap1	YRI	AFR	True	2- 1-	1	0	0	A	
+NA19159_hap2_hprc_r2_v1.0.1	NA19159	hap2	YRI	AFR	True	2- 1+	1	0	0	A	
+NA19185_hap1_hprc_r2_v1.0.1	NA19185	hap1	YRI	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+NA19185_hap2_hprc_r2_v1.0.1	NA19185	hap2	YRI	AFR	True	2- 1+	0	1	1	B	telomeric+
+NA19240_mat_hprc_r2_v1.0.1	NA19240	mat	YRI	AFR	True	1- 1+	0	2	2	BB	centromeric-;telomeric+
+NA19240_pat_hprc_r2_v1.0.1	NA19240	pat	YRI	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+NA19338_hap1_hprc_r2_v1.0.1	NA19338	hap1	LWK	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+NA19338_hap2_hprc_r2_v1.0.1	NA19338	hap2	LWK	AFR	True	2- 1-	1	0	0	A	
+NA19391_hap1_hprc_r2_v1.0.1	NA19391	hap1	LWK	AFR	True	2- 1+	0	1	1	B	telomeric+
+NA19391_hap2_hprc_r2_v1.0.1	NA19391	hap2	LWK	AFR	True	2- 1-	0	1	1	B	telomeric-
+NA19443_hap1_hprc_r2_v1.0.1	NA19443	hap1	LWK	AFR	False		1	0	0	A	
+NA19443_hap2_hprc_r2_v1.0.1	NA19443	hap2	LWK	AFR	False		1	0	0	A	
+NA19468_hap1_hprc_r2_v1.0.1	NA19468	hap1	LWK	AFR	True	2- 1-	1	0	0	A	
+NA19468_hap2_hprc_r2_v1.0.1	NA19468	hap2	LWK	AFR	True	1-	1	0	0	A	
+NA19682_hap1_hprc_r2_v1.0.1	NA19682	hap1	MXL	AMR	True	2- 1+	1	0	0	A	
+NA19682_hap2_hprc_r2_v1.0.1	NA19682	hap2	MXL	AMR	True	2- 1+	1	0	0	A	
+NA19700_hap1_hprc_r2_v1.0.1	NA19700	hap1	ASW	AFR	True	1-	0	1	1	B	single-
+NA19700_hap2_hprc_r2_v1.0.1	NA19700	hap2	ASW	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+NA19776_hap1_hprc_r2_v1.0.1	NA19776	hap1	MXL	AMR	True	2- 1+	1	0	0	A	
+NA19776_hap2_hprc_r2_v1.0.1	NA19776	hap2	MXL	AMR	True	2- 1+	1	0	0	A	
+NA19835_hap1_hprc_r2_v1.0.1	NA19835	hap1	ASW	AFR	True	2- 1+	1	0	0	A	
+NA19835_hap2_hprc_r2_v1.0.1	NA19835	hap2	ASW	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+NA19909_hap1_hprc_r2_v1.0.1	NA19909	hap1	ASW	AFR	True	2- 1-	1	0	0	A	
+NA19909_hap2_hprc_r2_v1.0.1	NA19909	hap2	ASW	AFR	True	1- h21-	0	1	1	B	centromeric-
+NA20129_mat_hprc_r2_v1.0.1	NA20129	mat	ASW	AFR	True	2- 1+	1	0	0	A	
+NA20129_pat_hprc_r2_v1.0.1	NA20129	pat	ASW	AFR	True	2- 1-	1	0	0	A	
+NA20282_hap1_hprc_r2_v1.0.1	NA20282	hap1	ASW	AFR	True	1- h21+	0	1	1	B	centromeric-
+NA20282_hap2_hprc_r2_v1.0.1	NA20282	hap2	ASW	AFR	True	1- h21-	0	1	1	B	centromeric-
+NA20346_hap1_hprc_r2_v1.0.1	NA20346	hap1	ASW	AFR	True	2- 1+	1	0	0	A	
+NA20346_hap2_hprc_r2_v1.0.1	NA20346	hap2	ASW	AFR	True	1+	1	0	0	A	
+NA20503_hap1_hprc_r2_v1.0.1	NA20503	hap1	TSI	EUR	True	2- 1-	1	0	0	A	
+NA20503_hap2_hprc_r2_v1.0.1	NA20503	hap2	TSI	EUR	True	2- 1-	1	0	0	A	
+NA20752_hap1_hprc_r2_v1.0.1	NA20752	hap1	TSI	EUR	True	2- 1+	1	0	0	A	
+NA20752_hap2_hprc_r2_v1.0.1	NA20752	hap2	TSI	EUR	False		1	0	0	A	
+NA20762_hap1_hprc_r2_v1.0.1	NA20762	hap1	TSI	EUR	True	2- 1+	1	0	0	A	
+NA20762_hap2_hprc_r2_v1.0.1	NA20762	hap2	TSI	EUR	True	1+ 2+	1	0	0	A	
+NA20799_hap1_hprc_r2_v1.0.1	NA20799	hap1	TSI	EUR	True	2- 1+	1	0	0	A	
+NA20799_hap2_hprc_r2_v1.0.1	NA20799	hap2	TSI	EUR	True	1-	1	0	0	A	
+NA20805_hap1_hprc_r2_v1.0.1	NA20805	hap1	TSI	EUR	True	1+	1	0	0	A	
+NA20805_hap2_hprc_r2_v1.0.1	NA20805	hap2	TSI	EUR	True	2- 1-	1	0	0	A	
+NA20806_hap1_hprc_r2_v1.0.1	NA20806	hap1	TSI	EUR	True	2- 1-	1	0	0	A	
+NA20806_hap2_hprc_r2_v1.0.1	NA20806	hap2	TSI	EUR	True	2+ 1-	1	0	0	A	
+NA20809_hap1_hprc_r2_v1.0.1	NA20809	hap1	TSI	EUR	True	2- 1+	1	0	0	A	
+NA20809_hap2_hprc_r2_v1.0.1	NA20809	hap2	TSI	EUR	True	2- 1+	1	0	0	A	
+NA20827_hap1_hprc_r2_v1.0.1	NA20827	hap1	TSI	EUR	True	2- 1-	1	0	0	A	
+NA20827_hap2_hprc_r2_v1.0.1	NA20827	hap2	TSI	EUR	True	d2- 1+	1	0	0	A	
+NA20850_hap1_hprc_r2_v1.0.1	NA20850	hap1	GIH	SAS	True	2- 1+	1	0	0	A	
+NA20850_hap2_hprc_r2_v1.0.1	NA20850	hap2	GIH	SAS	True	2- 1+	1	0	0	A	
+NA20870_hap1_hprc_r2_v1.0.1	NA20870	hap1	GIH	SAS	True	1+	1	0	0	A	
+NA20870_hap2_hprc_r2_v1.0.1	NA20870	hap2	GIH	SAS	True	2- 1+	1	0	0	A	
+NA20905_hap1_hprc_r2_v1.0.1	NA20905	hap1	GIH	SAS	True	f- 1-	1	0	0	A	
+NA20905_hap2_hprc_r2_v1.0.1	NA20905	hap2	GIH	SAS	True	2- 2- 1-	1	0	0	A	
+NA21093_hap1_hprc_r2_v1.0.1	NA21093	hap1	GIH	SAS	True	1+ 2+	1	0	0	A	
+NA21093_hap2_hprc_r2_v1.0.1	NA21093	hap2	GIH	SAS	True	1- 1+	2	0	0	AA	
+NA21102_hap1_hprc_r2_v1.0.1	NA21102	hap1	GIH	SAS	True	1+ 2+	1	0	0	A	
+NA21102_hap2_hprc_r2_v1.0.1	NA21102	hap2	GIH	SAS	True	2+ 1+ 2+	1	0	0	A	
+NA21106_hap1_hprc_r2_v1.0.1	NA21106	hap1	GIH	SAS	True	2- 1+	1	0	0	A	
+NA21106_hap2_hprc_r2_v1.0.1	NA21106	hap2	GIH	SAS	True	2- 1+	1	0	0	A	
+NA21110_hap1_hprc_r2_v1.0.1	NA21110	hap1	GIH	SAS	True	2- 1+	1	0	0	A	
+NA21110_hap2_hprc_r2_v1.0.1	NA21110	hap2	GIH	SAS	True	2- 1+	1	0	0	A	
+NA21144_hap1_hprc_r2_v1.0.1	NA21144	hap1	GIH	SAS	True	1- 2+	1	0	0	A	
+NA21144_hap2_hprc_r2_v1.0.1	NA21144	hap2	GIH	SAS	True	1-	1	0	0	A	
+NA21309_mat_hprc_r2_v1.0.1	NA21309	mat	MKK	AFR	True	2+ 1- 1+	2	0	0	AA	
+NA21309_pat_hprc_r2_v1.0.1	NA21309	pat	MKK	AFR	True	1- 1+	0	2	1	BB	centromeric-;telomeric+
+chm13v2.0_maskedY_rCRS.fa.PanSN			reference	reference		2- 1+	1	0	0	A	
+hg002v1.1.mat_MT.PanSN	HG002_Q100	mat		other	True	2- 1+	1	0	0	A	
+hg002v1.1.pat.PanSN	HG002_Q100	pat		other	True	2- 1+	1	0	0	A	

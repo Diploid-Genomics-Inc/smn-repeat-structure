@@ -1,0 +1,66 @@
+{
+ "n_haps": 270,
+ "n_units": 540,
+ "counted_per_arm": {
+  "1": 540
+ },
+ "copy_d_short": 313.831,
+ "copy_d_long": 334.9815,
+ "long_nested": {
+  "False": {
+   "False": 73,
+   "True": 0
+  },
+  "True": {
+   "False": 446,
+   "True": 21
+  }
+ },
+ "fisher_long_nested_p": 0.09533517992261367,
+ "rho_span_nestedbp": 0.7029952684259363,
+ "nested_ids_median": 1.0,
+ "nested_bp_median": 20553.0,
+ "nested_inverted_share_median": 0.0,
+ "nested_order_corr_median": -0.8674867197928424,
+ "nested_all_inverted": 1,
+ "nested_min_d_median": 124.948,
+ "nested_max_d_median": 160.259,
+ "bundle_ids_short": 11.0,
+ "bundle_ids_long": 19.0,
+ "copies_in_nested": 6,
+ "copies_total": 541,
+ "nested_by_side": {
+  "False": {
+   "left": 50,
+   "right": 23
+  },
+  "True": {
+   "left": 220,
+   "right": 247
+  }
+ },
+ "nested_by_afr": {
+  "False": {
+   "False": 55,
+   "True": 18
+  },
+  "True": {
+   "False": 311,
+   "True": 156
+  }
+ },
+ "genes_beyond_copy_per_unit": {
+  "(False, 'GTF2H2')": 0.31,
+  "(False, 'GTF2H2C')": 0.23,
+  "(False, 'NAIP')": 0.31,
+  "(False, 'OCLN')": 0.14,
+  "(True, 'GTF2H2')": 1.0,
+  "(True, 'GTF2H2C')": 0.9,
+  "(True, 'NAIP')": 1.14,
+  "(True, 'OCLN')": 0.95
+ },
+ "genes_inner_per_unit": {
+  "(False, 'SERF1B')": 2.0,
+  "(True, 'SERF1B')": 2.0
+ }
+}

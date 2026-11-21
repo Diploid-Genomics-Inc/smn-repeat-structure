@@ -1,0 +1,541 @@
+src	side	form	type	unit_kb	a_end_kb	over_kb	past_core	next_el	layout
+HG00097_hap1_hprc_r2_v1.0.1	cen	C1|T1	C1	309.385	345.22	-35.84	False	Xi	A Xi S Xd K E Fl
+HG00097_hap1_hprc_r2_v1.0.1	tel	C1|T1	T1	483.663	424.847	58.82	True	E	A E Xi S Xd K E K Xi S
+HG00099_hap2_hprc_r2_v1.0.1	cen	C1|T1	C1	328.817	347.207	-18.39	False	Xi	A Xi S Xd K E Fl
+HG00099_hap2_hprc_r2_v1.0.1	tel	C1|T1	T1	469.344	407.628	61.72	True	E	A E Xi S Xd K E K Xi S
+HG00126_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.112	365.445	-51.33	False	Xi	A Xi S Xd K E Fl
+HG00126_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	330.423	383.978	-53.56	False	E	A E K Xi S
+HG00128_hap1_hprc_r2_v1.0.1	cen	C1|T1	C1	328.815	347.202	-18.39	False	Xi	A Xi S Xd K E Fl
+HG00128_hap1_hprc_r2_v1.0.1	tel	C1|T1	T1	469.334	407.615	61.72	True	E	A E Xi S Xd K E K Xi S
+HG00133_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.577	365.913	-51.34	False	Xi	A Xi S Xd K E Fl
+HG00133_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	348.544	404.164	-55.62	False	E	A E K Xi S
+HG00133_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	327.602	376.031	-48.43	False	Xi	A Xi S Xd K E Fl
+HG00133_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	316.754	367.414	-50.66	False	E	A E K Xi S
+HG00140_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	294.103	345.457	-51.35	False	Xi	A Xi S Xd K E Fl
+HG00140_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	326.478	382.106	-55.63	False	E	A E K Xi S
+HG00140_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.138	365.488	-51.35	False	Xi	A Xi S Xd K E Fl
+HG00140_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	351.015	404.57	-53.56	False	E	A E K Xi S
+HG00146_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	349.288	382.236	-32.95	False	Xi	A Xi S Xd K E Fl
+HG00146_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	329.999	367.242	-37.24	False	E	A E K E K Xi S
+HG00253_hap1_hprc_r2_v1.0.1	cen	C1|T1	C1	328.885	347.26	-18.38	False	Xi	A Xi S Xd K E Fl
+HG00253_hap1_hprc_r2_v1.0.1	tel	C1|T1	T1	469.468	407.743	61.73	True	E	A E Xi S Xd K E K Xi S
+HG00272_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	327.576	376.022	-48.45	False	Xi	A Xi S Xd K E Fl
+HG00272_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	316.746	367.401	-50.66	False	E	A E K Xi S
+HG00272_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	349.335	382.298	-32.96	False	Xi	A Xi S Xd K E Fl
+HG00272_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	330.057	362.974	-32.92	False	Xi	A Xi S
+HG00290_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.163	365.514	-51.35	False	Xi	A Xi S Xd K E Fl
+HG00290_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	330.45	384.021	-53.57	False	E	A E K Xi S
+HG00320_hap2_hprc_r2_v1.0.1	cen	C0|T0	C0	478.861	403.839	75.02	True	E	A E Fl
+HG00320_hap2_hprc_r2_v1.0.1	tel	C0|T0	T0	452.226	408.377	43.85	True	E	A E K Xi S
+HG00321_hap2_hprc_r2_v1.0.1	cen	C0|T0	C0	479.168	404.144	75.02	True	E	A E Fl
+HG00321_hap2_hprc_r2_v1.0.1	tel	C0|T0	T0	452.207	408.358	43.85	True	E	A E K Xi S
+HG00323_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.67	348.543	-33.87	False	Xi	A Xi Xd K E Fl
+HG00323_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	337.17	387.829	-50.66	False	E	A E K Xi S
+HG00323_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.666	348.543	-33.88	False	Xi	A Xi S Xd K E Fl
+HG00323_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	337.172	387.834	-50.66	False	E	A E K Xi S
+HG00344_hap1_hprc_r2_v1.0.1	cen	C1|T1	C1	328.819	347.209	-18.39	False	Xi	A Xi S Xd K E Fl
+HG00344_hap1_hprc_r2_v1.0.1	tel	C1|T1	T1	469.276	407.562	61.71	True	E	A E Xi S Xd K E K Xi S
+HG00344_hap2_hprc_r2_v1.0.1	cen	C0|T1	C0	371.314	387.024	-15.71	False	E	A E K E Fl
+HG00344_hap2_hprc_r2_v1.0.1	tel	C0|T1	T1	389.741	401.166	-11.43	False	Xi	A Xi S Xd K Xi S
+HG00408_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.199	365.541	-51.34	False	Xi	A Xi S Xd K E Fl
+HG00408_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	312.669	366.231	-53.56	False	E	A E K Xi S
+HG00408_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	334.041	382.483	-48.44	False	Xi	A Xi S Xd K E Fl
+HG00408_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.644	367.301	-50.66	False	E	A E K Xi S
+HG00544_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	313.338	361.783	-48.44	False	Xi	A Xi S Xd K E Fl
+HG00544_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.587	367.265	-50.68	False	E	A E K Xi S
+HG00558_mat_hprc_r2_v1.0.1	cen	C0|T0	C0	444.439	369.889	74.55	True	E	A E Fl
+HG00558_mat_hprc_r2_v1.0.1	tel	C0|T0	T0	442.205	384.127	58.08	True	E	A E K Xi S
+HG00597_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	297.547	348.89	-51.34	False	Xi	A Xi S Xd K E Fl
+HG00597_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.602	384.154	-53.55	False	E	A E K Xi S
+HG00597_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.912	382.361	-48.45	False	Xi	A Xi S Xd K E Fl
+HG00597_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	296.161	346.829	-50.67	False	E	A E K Xi S
+HG005_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.769	382.225	-48.46	False	Xi	A Xi S Xd K E Fl
+HG005_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.576	367.251	-50.67	False	E	A E K Xi S
+HG00621_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	313.365	364.705	-51.34	False	Xi	A Xi S Xd K E Fl
+HG00621_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.148	383.707	-53.56	False	E	A E K Xi S
+HG00639_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	482.958	407.935	75.02	True	E	A E Fl
+HG00639_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	448.483	404.619	43.86	True	E	A E K Xi S
+HG00658_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.527	365.886	-51.36	False	Xi	A Xi S Xd K E Fl
+HG00658_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.567	384.138	-53.57	False	E	A E K Xi S
+HG00658_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	444.475	369.935	74.54	True	E	A E Fl
+HG00658_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	463.055	383.702	79.35	True	E	A E K Xi S
+HG00673_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	334.072	382.526	-48.45	False	Xi	A Xi S Xd K E Fl
+HG00673_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.646	367.296	-50.65	False	E	A E K Xi S
+HG00673_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.928	382.377	-48.45	False	Xi	A Xi S Xd K E Fl
+HG00673_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	337.323	387.979	-50.66	False	E	A E K Xi S
+HG00706_mat_hprc_r2_v1.0.1	cen	C0|T0	C0	444.504	369.955	74.55	True	E	A E Fl
+HG00706_mat_hprc_r2_v1.0.1	tel	C0|T0	T0	442.546	384.113	58.43	True	E	A E K Xi S
+HG00706_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	464.179	383.942	80.24	True	E	A E Fl
+HG00706_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	428.278	370.19	58.09	True	E	A E K Xi S
+HG00733_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	327.563	376.007	-48.44	False	Xi	A Xi S Xd K E Fl
+HG00733_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.754	367.416	-50.66	False	E	A E K Xi S
+HG00735_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	349.377	382.339	-32.96	False	Xi	A Xi S Xd K E Fl
+HG00735_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.078	362.997	-32.92	False	Xi	A Xi S
+HG00735_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.809	382.259	-48.45	False	Xi	A Xi S Xd K E Fl
+HG00735_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.583	367.251	-50.67	False	E	A E K Xi S
+HG00738_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	351.713	400.16	-48.45	False	Xi	A Xi S Xd K E Fl
+HG00738_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	339.793	390.461	-50.67	False	E	A E K Xi S
+HG00738_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.829	382.27	-48.44	False	Xi	A Xi S Xd K E Fl
+HG00738_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.568	367.242	-50.67	False	E	A E K Xi S
+HG00741_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	335.039	386.333	-51.29	False	Xi	A Xi S Xd K E Fl
+HG00741_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	350.501	404.072	-53.57	False	E	A E K Xi S
+HG01071_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	334.314	382.767	-48.45	False	Xi	A Xi S Xd K E Fl
+HG01071_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	313.355	366.084	-52.73	False	E	A E K Xi S
+HG01071_pat_hprc_r2_v1.0.1	cen	C1|T1	C1	328.824	347.214	-18.39	False	Xi	A Xi S Xd K E Fl
+HG01071_pat_hprc_r2_v1.0.1	tel	C1|T1	T1	469.339	407.622	61.72	True	E	A E Xi S Xd K E K Xi S
+HG01074_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	327.55	375.997	-48.45	False	Xi	A Xi S Xd K E Fl
+HG01074_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.723	367.378	-50.65	False	E	A E K Xi S
+HG01081_pat_hprc_r2_v1.0.1	cen	C1|T1	C1	323.028	344.315	-21.29	False	Xi	A Xi S Xd K E Fl
+HG01081_pat_hprc_r2_v1.0.1	tel	C1|T1	T1	469.255	410.437	58.82	True	E	A E Xi S Xd K Xi S
+HG01099_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.581	365.918	-51.34	False	Xi	A Xi S Xd K E Fl
+HG01099_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	328.102	383.728	-55.63	False	E	A E K Xi S
+HG01099_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	462.527	387.502	75.02	True	E	A E Fl
+HG01099_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	462.714	404.628	58.09	True	E	A E K Xi S
+HG01106_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	349.23	382.193	-32.96	False	Xi	A Xi S Xd K E Fl
+HG01106_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.003	367.248	-37.25	False	E	A E K E K Xi S
+HG01109_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	344.573	380.38	-35.81	False	Xi	A Xi S Xd K E Fl
+HG01109_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	372.163	412.298	-40.13	False	E	A E Xi S
+HG01150_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	313.71	362.139	-48.43	False	Xi	A Xi S Xd K E Fl
+HG01150_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.193	366.849	-50.66	False	E	A E K Xi S
+HG01167_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	467.944	387.712	80.23	True	E	A E Fl
+HG01167_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	458.652	405.031	53.62	True	E	A E Xi S Xd K E K Xi S
+HG01175_mat_hprc_r2_v1.0.1	cen	C1|T1	C1	328.81	347.2	-18.39	False	Xi	A Xi S Xd K E Fl
+HG01175_mat_hprc_r2_v1.0.1	tel	C1|T1	T1	469.317	407.603	61.71	True	E	A E Xi S Xd K E K Xi S
+HG01175_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	327.55	375.997	-48.45	False	Xi	A Xi S Xd K E Fl
+HG01175_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.723	367.38	-50.66	False	E	A E K Xi S
+HG01192_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	321.683	373.01	-51.33	False	Xi	A Xi S Xd K E Fl
+HG01192_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.702	370.259	-53.56	False	E	A E K Xi S
+HG01243_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	350.483	386.308	-35.82	False	Xi	A Xi S Xd K E Xi S Xd K E Fl
+HG01243_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	483.648	404.103	79.55	True	E	A E K Xi S
+HG01255_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	350.083	385.937	-35.85	False	Xi	A Xi S Xd K E Fl
+HG01255_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	343.879	384.031	-40.15	False	E	A E K E K Xi S
+HG01258_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.196	365.535	-51.34	False	Xi	A Xi S Xd K E Fl
+HG01258_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.461	384.023	-53.56	False	E	A E K Xi S
+HG01361_mat_hprc_r2_v1.0.1	cen	C0|T0	C0	465.353	390.33	75.02	True	E	A E Fl
+HG01361_mat_hprc_r2_v1.0.1	tel	C0|T0	T0	466.008	422.158	43.85	True	E	A E K Xi S
+HG01361_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	476.331	401.305	75.03	True	E	A E Fl
+HG01361_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	448.824	390.738	58.09	True	E	A E K Xi S
+HG01496_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	309.615	360.954	-51.34	False	Xi	A Xi S Xd K E Fl
+HG01496_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.511	384.077	-53.57	False	E	A E K Xi S
+HG01530_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.584	365.938	-51.35	False	Xi	A Xi S Xd K E Fl
+HG01530_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	327.294	382.92	-55.63	False	E	A E K Xi S
+HG01786_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	448.531	386.825	61.71	True	E	A E Xi S Xd K Xi S Xd K Xi S Xd K E Fl
+HG01786_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	428.199	367.219	60.98	True	E	A E K Xi S
+HG01884_mat_hprc_r2_v1.0.1	cen	C0|T0	C0	499.13	424.567	74.56	True	E	A E Fl
+HG01884_mat_hprc_r2_v1.0.1	tel	C0|T0	T0	449.759	370.197	79.56	True	E	A E K Xi S
+HG01891_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.558	365.889	-51.33	False	Xi	A Xi S Xd K E Fl
+HG01891_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.039	383.594	-53.56	False	E	A E K Xi S
+HG01928_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.167	365.503	-51.34	False	Xi	A Xi S Xd K E Fl
+HG01928_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.465	384.032	-53.57	False	E	A E K Xi S
+HG01940_mat_hprc_r2_v1.0.1	cen	C1|T1	C1	309.424	345.26	-35.84	False	Xi	A Xi S Xd K E Fl
+HG01940_mat_hprc_r2_v1.0.1	tel	C1|T1	T1	483.755	424.922	58.83	True	E	A E Xi S Xd Xi S
+HG01943_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.772	382.211	-48.44	False	Xi	A Xi S Xd K E Fl
+HG01943_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.759	367.418	-50.66	False	E	A E K Xi S
+HG01952_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.998	382.443	-48.44	False	Xi	A Xi S Xd K E Fl
+HG01952_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	296.373	347.027	-50.65	False	E	A E K Xi S
+HG01960_mat_hprc_r2_v1.0.1	cen	C0|T1	C0	471.458	391.231	80.23	True	E	A E Fl
+HG01960_mat_hprc_r2_v1.0.1	tel	C0|T1	T1	458.318	404.687	53.63	True	E	A E Xi S Xd K E K E K Xi S
+HG01960_pat_hprc_r2_v1.0.1	cen	C1|T1	C1	410.514	443.697	-33.18	False	Xi	A Xi S Xd K E Fl
+HG01960_pat_hprc_r2_v1.0.1	tel	C1|T1	T1	408.932	346.822	62.11	True	E	A E Xi S Xd K E K Xi S
+HG01969_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.938	382.384	-48.45	False	Xi	A Xi S Xd K E Fl
+HG01969_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	315.777	366.449	-50.67	False	E	A E K Xi S
+HG01969_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	293.717	345.058	-51.34	False	Xi	A Xi S Xd K E Fl
+HG01969_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.403	383.961	-53.56	False	E	A E K Xi S
+HG01975_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	328.155	379.496	-51.34	False	Xi	A Xi S Xd K E Fl
+HG01975_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	317.431	370.977	-53.55	False	E	A E K Xi S
+HG01978_mat_hprc_r2_v1.1.0	cen	C1|T1	C1	323.011	344.296	-21.28	False	Xi	A Xi S Xd K E Fl
+HG01978_mat_hprc_r2_v1.1.0	tel	C1|T1	T1	469.284	410.462	58.82	True	E	A E Xi S Xd K Xi S
+HG01978_pat_hprc_r2_v1.1.0	cen	C1|T1	C1	309.415	345.25	-35.83	False	Xi	A Xi S Xd K E Fl
+HG01978_pat_hprc_r2_v1.1.0	tel	C1|T1	T1	483.64	424.806	58.83	True	E	A E Xi S Xd Xi S
+HG01981_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.156	365.499	-51.34	False	Xi	A Xi S Xd K E Fl
+HG01981_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.507	384.067	-53.56	False	E	A E K Xi S
+HG02004_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.936	382.384	-48.45	False	Xi	A Xi S Xd K E Fl
+HG02004_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.614	367.288	-50.67	False	E	A E K Xi S
+HG02015_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.789	382.233	-48.44	False	Xi	A Xi S Xd K E Fl
+HG02015_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.666	367.33	-50.66	False	E	A E K Xi S
+HG02015_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.851	382.3	-48.45	False	Xi	A Xi S Xd K E Fl
+HG02015_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.63	367.284	-50.65	False	E	A E K Xi S
+HG02027_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	334.175	382.639	-48.46	False	Xi	A Xi S Xd K E Fl
+HG02027_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.194	366.861	-50.67	False	E	A E K Xi S
+HG02027_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	334.154	382.592	-48.44	False	Xi	A Xi S Xd K E Fl
+HG02027_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	296.124	346.63	-50.51	False	E	A E K Xi S
+HG02040_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.151	365.491	-51.34	False	Xi	A Xi S Xd K E Fl
+HG02040_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	330.564	384.132	-53.57	False	E	A E K Xi S
+HG02055_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	468.034	387.81	80.22	True	E	A E Fl
+HG02055_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	464.654	385.091	79.56	True	E	A E K Xi S
+HG02056_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	334.024	382.466	-48.44	False	Xi	A Xi S Xd K E Fl
+HG02056_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.812	367.471	-50.66	False	E	A E K Xi S
+HG02071_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	334.697	386.041	-51.34	False	Xi	A Xi S Xd K E Fl
+HG02071_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.682	384.24	-53.56	False	E	A E K Xi S
+HG02071_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.847	382.281	-48.43	False	Xi	A Xi S Xd K E Fl
+HG02071_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.593	367.263	-50.67	False	E	A E K Xi S
+HG02074_mat_hprc_r2_v1.0.1	cen	C0|T0	C0	457.824	383.276	74.55	True	E	A E Fl
+HG02074_mat_hprc_r2_v1.0.1	tel	C0|T0	T0	428.345	370.264	58.08	True	E	A E K Xi S
+HG02074_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.17	365.502	-51.33	False	Xi	A Xi S Xd K E Fl
+HG02074_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.439	384.013	-53.57	False	E	A E K Xi S
+HG02080_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	329.637	365.515	-35.88	False	Xi	A Xi S Xd K E Fl
+HG02080_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	323.44	359.254	-35.81	False	Xi	A Xi S
+HG02080_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.826	382.261	-48.44	False	Xi	A Xi S Xd K E Fl
+HG02080_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.577	367.244	-50.67	False	E	A E K Xi S
+HG02083_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.785	382.226	-48.44	False	Xi	A Xi S Xd K E Fl
+HG02083_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	332.305	382.962	-50.66	False	E	A E K Xi S
+HG02083_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	337.528	383.915	-46.39	False	Xi	A Xi S Xd K E Fl
+HG02083_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	314.164	366.897	-52.73	False	E	A E K Xi S
+HG02109_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.529	365.858	-51.33	False	Xi	A Xi S Xd K E Fl
+HG02109_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.049	383.606	-53.56	False	E	A E K Xi S
+HG02109_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	467.867	387.639	80.23	True	E	A E Fl
+HG02109_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	437.969	384.349	53.62	True	E	A E Xi S
+HG02129_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	395.346	443.783	-48.44	False	Xi	A Xi S Xd K E Fl
+HG02129_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.66	367.324	-50.66	False	E	A E K Xi S
+HG02129_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.961	382.406	-48.44	False	Xi	A Xi S Xd K E Fl
+HG02129_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.786	367.452	-50.67	False	E	A E K Xi S
+HG02132_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	309.958	345.81	-35.85	False	Xi	A Xi S Xd Xi S Xd K E Fl
+HG02132_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	421.323	363.233	58.09	True	E	A E K Xi S
+HG02135_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	315.022	366.368	-51.35	False	Xi	A Xi S Xd K E Fl
+HG02135_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.521	384.065	-53.54	False	E	A E K Xi S
+HG02135_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.145	365.489	-51.34	False	Xi	A Xi S Xd K E Fl
+HG02135_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.452	384.028	-53.58	False	E	A E K Xi S
+HG02145_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	429.035	462.219	-33.18	False	Xi	A Xi S Xd K E Xi S Xd K E K E Fl
+HG02145_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	272.727	323.387	-50.66	False	E	A E K Xi S
+HG02145_pat_hprc_r2_v1.0.1	cen	C0|T1	C0	467.909	387.695	80.21	True	E	A E Fl
+HG02145_pat_hprc_r2_v1.0.1	tel	C0|T1	T1	458.61	404.991	53.62	True	E	A E Xi S Xd Xi S
+HG02148_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.149	365.493	-51.34	False	Xi	A Xi S Xd K E Fl
+HG02148_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.434	384.0	-53.57	False	E	A E K Xi S
+HG02155_hap2_hprc_r2_v1.0.1	cen	C0|T0	C0	464.129	383.885	80.24	True	E	A E Fl
+HG02155_hap2_hprc_r2_v1.0.1	tel	C0|T0	T0	428.274	370.188	58.09	True	E	A E K Xi S
+HG02178_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.235	365.575	-51.34	False	Xi	A Xi S Xd K E Fl
+HG02178_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	351.048	404.606	-53.56	False	E	A E K Xi S
+HG02178_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.64	365.973	-51.33	False	Xi	A Xi S Xd K E Fl
+HG02178_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	329.36	382.911	-53.55	False	E	A E K Xi S
+HG02258_mat_hprc_r2_v1.0.1	cen	C0|T1	C0	498.475	423.016	75.46	True	E	A E Fl
+HG02258_mat_hprc_r2_v1.0.1	tel	C0|T1	T1	451.666	392.467	59.2	True	E	A E Xi S Xd K E K Xi S
+HG02258_pat_hprc_r2_v1.0.1	cen	C0|T1	C0	467.964	387.736	80.23	True	E	A E Fl
+HG02258_pat_hprc_r2_v1.0.1	tel	C0|T1	T1	458.656	405.029	53.63	True	E	A E Xi S Xd K E K Xi S
+HG02280_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	309.36	345.44	-36.08	False	Xi	A Xi S Xd K E Fl
+HG02280_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	384.501	424.602	-40.1	False	E	A E Xi S
+HG02280_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	349.294	382.243	-32.95	False	Xi	A Xi S Xd K E Fl
+HG02280_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	329.989	367.234	-37.25	False	E	A E K E K Xi S
+HG02293_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.921	382.37	-48.45	False	Xi	A Xi S Xd K E Fl
+HG02293_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.609	367.28	-50.67	False	E	A E K Xi S
+HG02293_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.657	366.002	-51.35	False	Xi	A Xi S Xd K E Fl
+HG02293_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.286	383.839	-53.55	False	E	A E K Xi S
+HG02300_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.621	382.07	-48.45	False	Xi	A Xi S Xd K E Fl
+HG02300_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.713	367.368	-50.65	False	E	A E K Xi S
+HG02300_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.769	382.197	-48.43	False	Xi	A Xi S Xd K E Fl
+HG02300_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.571	367.228	-50.66	False	E	A E K Xi S
+HG02391_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	333.933	382.382	-48.45	False	Xi	A Xi S Xd K E Fl
+HG02391_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	337.226	387.88	-50.65	False	E	A E K Xi S
+HG02392_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	315.32	370.946	-55.63	False	E	A E K Xi S Xd K E Fl
+HG02392_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	310.19	359.455	-49.26	False	Xi	A Xi S
+HG02392_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.157	365.498	-51.34	False	Xi	A Xi S Xd K E Fl
+HG02392_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	330.473	384.043	-53.57	False	E	A E K Xi S
+HG02451_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	332.994	381.389	-48.39	False	Xi	A Xi S Xd K E Fl
+HG02451_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	337.099	387.772	-50.67	False	E	A E K Xi S
+HG02486_mat_hprc_r2_v1.0.1	cen	C0|T1	C0	467.851	387.616	80.24	True	E	A E Fl
+HG02486_mat_hprc_r2_v1.0.1	tel	C0|T1	T1	458.676	405.057	53.62	True	E	A E Xi S Xd K E K Xi S
+HG02486_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	464.957	390.406	74.55	True	E	A E Fl
+HG02486_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	462.361	382.821	79.54	True	E	A E K Xi S
+HG02523_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	334.033	382.478	-48.44	False	Xi	A Xi S Xd K E Fl
+HG02523_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	296.195	346.853	-50.66	False	E	A E K Xi S
+HG02523_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.886	382.33	-48.44	False	Xi	A Xi S Xd K E Fl
+HG02523_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.661	367.312	-50.65	False	E	A E K Xi S
+HG02559_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	371.994	387.678	-15.68	False	E	A E Fl
+HG02559_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	371.726	383.094	-11.37	False	Xi	A Xi S
+HG02572_pat_hprc_r2_v1.0.1	cen	C0|T1	C0	461.384	381.149	80.24	True	E	A E Fl
+HG02572_pat_hprc_r2_v1.0.1	tel	C0|T1	T1	507.748	391.259	116.49	True	E	A E Xi S Xd K E K Xi S
+HG02583_hap1_hprc_r2_v1.0.1	cen	C1|T1	C1	308.843	344.925	-36.08	False	Xi	A Xi S Xd K E Fl
+HG02583_hap1_hprc_r2_v1.0.1	tel	C1|T1	T1	462.588	403.382	59.21	True	E	A E Xi S Xd K E K Xi S
+HG02583_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	313.501	361.938	-48.44	False	Xi	A Xi S Xd K E Fl
+HG02583_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	316.563	367.219	-50.66	False	E	A E K Xi S
+HG02615_mat_hprc_r2_v1.0.1	cen	C0|T0	C0	372.002	387.687	-15.69	False	E	A E Fl
+HG02615_mat_hprc_r2_v1.0.1	tel	C0|T0	T0	371.771	383.111	-11.34	False	Xi	A Xi S
+HG02622_mat_hprc_r2_v1.0.1	cen	C0|T1	C0	447.491	367.269	80.22	True	E	A E Fl
+HG02622_mat_hprc_r2_v1.0.1	tel	C0|T1	T1	520.845	384.217	136.63	True	E	A E Xi S Xd K E K Xi S
+HG02622_pat_hprc_r2_v1.0.1	cen	C0|T1	C0	467.84	387.618	80.22	True	E	A E Fl
+HG02622_pat_hprc_r2_v1.0.1	tel	C0|T1	T1	541.159	404.651	136.51	True	E	A E Xi S Xd K E Xi S Xd K E K Xi S
+HG02630_mat_hprc_r2_v1.0.1	cen	C0|T1	C0	467.705	387.474	80.23	True	E	A E Fl
+HG02630_mat_hprc_r2_v1.0.1	tel	C0|T1	T1	438.268	384.642	53.63	True	E	A E Xi S Xd K E K Xi S
+HG02647_mat_hprc_r2_v1.0.1	cen	C0|T1	C0	481.314	401.082	80.23	True	E	A E Fl
+HG02647_mat_hprc_r2_v1.0.1	tel	C0|T1	T1	445.158	391.534	53.62	True	E	A E Xi S Xd K E K Xi S
+HG02647_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	352.878	371.459	-18.58	False	E	A E Fl
+HG02647_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	385.244	399.51	-14.27	False	Xi	A Xi S
+HG02668_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	540.086	465.542	74.54	True	E	A E Fl
+HG02668_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	449.721	370.178	79.54	True	E	A E K Xi S
+HG02698_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.573	365.928	-51.36	False	Xi	A Xi S Xd K E Fl
+HG02698_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	327.234	382.865	-55.63	False	E	A E K Xi S
+HG02698_pat_hprc_r2_v1.0.1	cen	C0|T1	C0	361.828	375.315	-13.49	False	E	A E Fl
+HG02698_pat_hprc_r2_v1.0.1	tel	C0|T1	T1	364.99	374.171	-9.18	False	Xi	A Xi S Xd K Xi S
+HG02717_pat_hprc_r2_v1.0.1	cen	C0|T1	C0	467.861	387.632	80.23	True	E	A E Fl
+HG02717_pat_hprc_r2_v1.0.1	tel	C0|T1	T1	521.544	405.053	116.49	True	E	A E Xi S Xd K E K Xi S
+HG02723_mat_hprc_r2_v1.0.1	cen	C0|T0	C0	353.028	371.61	-18.58	False	E	A E Fl
+HG02723_mat_hprc_r2_v1.0.1	tel	C0|T0	T0	384.962	399.228	-14.27	False	Xi	A Xi S
+HG02723_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	499.094	424.53	74.56	True	E	A E Fl
+HG02723_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	449.748	370.185	79.56	True	E	A E K Xi S
+HG02738_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.663	348.538	-33.88	False	Xi	A Xi S Xd K E Fl
+HG02738_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	337.195	387.858	-50.66	False	E	A E K Xi S
+HG02809_mat_hprc_r2_v1.0.1	cen	C0|T0	C0	450.408	370.124	80.28	True	E	A E Fl
+HG02809_mat_hprc_r2_v1.0.1	tel	C0|T0	T0	498.409	424.563	73.85	True	E	A E K Xi S
+HG02809_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	464.781	390.221	74.56	True	E	A E Fl
+HG02809_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	504.453	424.928	79.52	True	E	A E K Xi S
+HG02818_mat_hprc_r2_v1.0.1	cen	C0|T1	C0	471.894	391.673	80.22	True	E	A E Fl
+HG02818_mat_hprc_r2_v1.0.1	tel	C0|T1	T1	457.423	403.805	53.62	True	E	A E Xi S Xd K E K Xi S
+HG02818_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	336.279	382.651	-46.37	False	Xi	A Xi S Xd K E Fl
+HG02818_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	314.158	366.868	-52.71	False	E	A E K Xi S
+HG02841_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.528	365.856	-51.33	False	Xi	A Xi S Xd K E Fl
+HG02841_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	329.981	383.536	-53.56	False	E	A E K Xi S
+HG02922_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	467.822	387.591	80.23	True	E	A E Fl
+HG02922_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	458.663	405.046	53.62	True	E	A E Xi S Xd K E K Xi S
+HG02922_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	335.076	386.37	-51.29	False	Xi	A Xi S Xd K E Fl
+HG02922_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	308.79	362.362	-53.57	False	E	A E K Xi S
+HG02976_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	467.849	387.62	80.23	True	E	A E Fl
+HG02976_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	541.606	405.039	136.57	True	E	A E Xi S Xd K E Xi S Xd K E K Xi S
+HG02976_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	336.232	382.606	-46.37	False	Xi	A Xi S Xd K E Fl
+HG02976_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	314.117	366.827	-52.71	False	E	A E K Xi S
+HG02984_mat_hprc_r2_v1.0.1	cen	C0|T0	C0	467.908	387.678	80.23	True	E	A E Fl
+HG02984_mat_hprc_r2_v1.0.1	tel	C0|T0	T0	437.835	384.211	53.62	True	E	A E Xi S
+HG02984_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	639.83	365.503	274.33	True	Xi	A Xi Xd K E Fl
+HG02984_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	442.07	383.985	58.08	True	E	A E K Xi S
+HG03017_mat_hprc_r2_v1.0.1	cen	C1|T1	C1	349.271	367.663	-18.39	False	Xi	A Xi S Xd K E Fl
+HG03017_mat_hprc_r2_v1.0.1	tel	C1|T1	T1	661.985	367.428	294.56	True	E	A E K Xi S Xd K E K Xi S
+HG03017_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	315.16	361.541	-46.38	False	Xi	A Xi S Xd K E Fl
+HG03017_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.73	367.389	-50.66	False	E	A E K Xi S
+HG03041_pat_hprc_r2_v1.0.1	cen	C0|T1	C0	498.494	423.063	75.43	True	E	A E Fl
+HG03041_pat_hprc_r2_v1.0.1	tel	C0|T1	T1	451.699	392.477	59.22	True	E	A E Xi S Xd K E K Xi S
+HG03098_mat_hprc_r2_v1.0.1	cen	C0|T1	C0	467.955	387.721	80.23	True	E	A E Fl
+HG03098_mat_hprc_r2_v1.0.1	tel	C0|T1	T1	458.632	405.01	53.62	True	E	A E Xi S Xd K E K Xi S
+HG03130_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	467.96	387.728	80.23	True	E	A E Fl
+HG03130_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	438.25	384.623	53.63	True	E	A E Xi S Xd K E K Xi S
+HG03130_hap2_hprc_r2_v1.0.1	cen	C0|T1	C0	467.848	387.62	80.23	True	E	A E Fl
+HG03130_hap2_hprc_r2_v1.0.1	tel	C0|T1	T1	458.656	405.038	53.62	True	E	A E Xi S Xd K E K Xi S
+HG03139_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	485.704	405.469	80.24	True	E	A E Fl
+HG03139_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	440.8	387.18	53.62	True	E	A E Xi S Xd K E K Xi S
+HG03195_hap2_hprc_r2_v1.0.1	cen	C0|T1	C0	467.831	387.601	80.23	True	E	A E Fl
+HG03195_hap2_hprc_r2_v1.0.1	tel	C0|T1	T1	458.65	405.031	53.62	True	E	A E Xi S Xd K E K Xi S
+HG03209_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	467.912	387.676	80.24	True	E	A E Fl
+HG03209_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	458.667	405.046	53.62	True	E	A E Xi S Xd K E K Xi S
+HG03209_hap2_hprc_r2_v1.0.1	cen	C1|T1	C1	323.259	359.103	-35.84	False	Xi	A Xi S Xd K E Fl
+HG03209_hap2_hprc_r2_v1.0.1	tel	C1|T1	T1	365.01	370.123	-5.11	False	E	A E Xi S Xd K Xi S
+HG03225_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	498.462	422.995	75.47	True	E	A E Fl
+HG03225_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	451.645	392.443	59.2	True	E	A E Xi S Xd K E K Xi S
+HG03239_mat_hprc_r2_v1.0.1	cen	C1|T1	C1	370.272	391.568	-21.3	False	Xi	A Xi S Xd K E Fl
+HG03239_mat_hprc_r2_v1.0.1	tel	C1|T1	T1	422.033	363.213	58.82	True	E	A E Xi S Xd K E K Xi S
+HG03239_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.81	382.26	-48.45	False	Xi	A Xi S Xd K E Fl
+HG03239_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.626	367.279	-50.65	False	E	A E K Xi S
+HG03270_hap2_hprc_r2_v1.0.1	cen	C0|T1	C0	467.844	387.613	80.23	True	E	A E Fl
+HG03270_hap2_hprc_r2_v1.0.1	tel	C0|T1	T1	438.266	384.661	53.61	True	E	A E Xi S Xd K E K Xi S
+HG03369_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.118	365.445	-51.33	False	Xi	A Xi S Xd K E Fl
+HG03369_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	330.418	383.976	-53.56	False	E	A E K Xi S
+HG03369_hap2_hprc_r2_v1.0.1	cen	C0|T1	C0	467.878	387.647	80.23	True	E	A E Fl
+HG03369_hap2_hprc_r2_v1.0.1	tel	C0|T1	T1	458.662	405.043	53.62	True	E	A E Xi S Xd K E K Xi S
+HG03453_pat_hprc_r2_v1.0.1	cen	C0|T1	C0	447.392	367.159	80.23	True	E	A E Fl
+HG03453_pat_hprc_r2_v1.0.1	tel	C0|T1	T1	540.837	404.18	136.66	True	E	A E Xi S Xd K E K Xi S
+HG03470_hap2_hprc_r2_v1.0.1	cen	C0|T0	C0	464.812	390.249	74.56	True	E	A E Fl
+HG03470_hap2_hprc_r2_v1.0.1	tel	C0|T0	T0	463.637	384.075	79.56	True	E	A E K Xi S
+HG03471_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	508.822	428.596	80.23	True	E	A E Fl
+HG03471_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	458.66	405.041	53.62	True	E	A E Xi S Xd K E K Xi S
+HG03471_hap2_hprc_r2_v1.0.1	cen	C1|T1	C1	329.018	361.964	-32.95	False	Xi	A Xi S Xd K E Fl
+HG03471_hap2_hprc_r2_v1.0.1	tel	C1|T1	T1	428.972	367.255	61.72	True	E	A E Xi S Xd K E K Xi S
+HG03486_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	335.015	386.312	-51.3	False	Xi	A Xi S Xd K E Fl
+HG03486_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	350.505	404.081	-53.58	False	E	A E K Xi S
+HG03486_pat_hprc_r2_v1.0.1	cen	C0|T1	C0	481.002	400.774	80.23	True	E	A E Fl
+HG03486_pat_hprc_r2_v1.0.1	tel	C0|T1	T1	445.021	391.402	53.62	True	E	A E Xi S Xd K E K Xi S
+HG03516_pat_hprc_r2_v1.1.0	cen	C0|T1	C0	491.491	411.262	80.23	True	E	A E Fl
+HG03516_pat_hprc_r2_v1.1.0	tel	C0|T1	T1	541.151	404.668	136.48	True	E	A E Xi S Xd K E K Xi S
+HG03521_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	295.805	345.077	-49.27	False	Xi	A Xi S Xd K E Fl
+HG03521_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	328.522	384.139	-55.62	False	E	A E K Xi S
+HG03540_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	514.504	384.223	130.28	True	E	A E Xi S Xd K E Fl
+HG03540_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	757.135	387.572	369.56	True	E	A E K Xi S
+HG03579_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	344.587	380.394	-35.81	False	Xi	A Xi S Xd K E Fl
+HG03579_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	372.17	412.305	-40.13	False	E	A E Xi S
+HG03654_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.55	365.89	-51.34	False	Xi	A Xi S Xd K E Fl
+HG03654_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.221	383.781	-53.56	False	E	A E K Xi S
+HG03654_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	315.917	362.281	-46.36	False	Xi	A Xi S Xd K E Fl
+HG03654_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	315.029	367.75	-52.72	False	E	A E K Xi S
+HG03669_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	444.498	369.954	74.54	True	E	A E Fl
+HG03669_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	462.673	404.591	58.08	True	E	A E K Xi S
+HG03688_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	448.601	386.892	61.71	True	E	A E Xi S Xd K Xi Xd K Xi S Xd K E Fl
+HG03688_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	428.247	367.267	60.98	True	E	A E K Xi S
+HG03688_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.241	365.577	-51.34	False	Xi	A Xi S Xd K E Fl
+HG03688_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.53	384.087	-53.56	False	E	A E K Xi S
+HG03704_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.962	382.397	-48.44	False	Xi	A Xi S Xd K E Fl
+HG03704_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.665	367.315	-50.65	False	E	A E K Xi S
+HG03704_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.85	382.303	-48.45	False	Xi	A Xi S Xd K E Fl
+HG03704_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.658	367.317	-50.66	False	E	A E K Xi S
+HG03710_mat_hprc_r2_v1.0.1	cen	C1|T1	C1	309.07	344.907	-35.84	False	Xi	A Xi S Xd K E Fl
+HG03710_mat_hprc_r2_v1.0.1	tel	C1|T1	T1	510.813	445.137	65.68	True	E	A E Xi S Xd Xi S
+HG03710_pat_hprc_r2_v1.0.1	cen	C1|T1	C1	323.024	344.312	-21.29	False	Xi	A Xi S Xd K E Fl
+HG03710_pat_hprc_r2_v1.0.1	tel	C1|T1	T1	469.269	410.452	58.82	True	E	A E Xi S Xd K Xi S
+HG03742_hap1_hprc_r2_v1.0.1	cen	C0|T0	C0	463.972	383.74	80.23	True	E	A E Fl
+HG03742_hap1_hprc_r2_v1.0.1	tel	C0|T0	T0	470.154	390.634	79.52	True	E	A E K Xi S
+HG03804_mat_hprc_r2_v1.0.1	cen	C1|T1	C1	287.624	308.899	-21.27	False	Xi	A Xi S Xd K E Fl
+HG03804_mat_hprc_r2_v1.0.1	tel	C1|T1	T1	501.771	442.939	58.83	True	E	A E Xi S Xd K E Xi S Xd K E K Xi S
+HG03804_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.937	382.389	-48.45	False	Xi	A Xi S Xd K E Fl
+HG03804_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.582	367.236	-50.65	False	E	A E K Xi S
+HG03816_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.883	382.322	-48.44	False	Xi	A Xi S Xd K E Fl
+HG03816_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.765	367.428	-50.66	False	E	A E K Xi S
+HG03816_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.771	382.205	-48.43	False	Xi	A Xi S Xd K E Fl
+HG03816_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	337.033	387.71	-50.68	False	E	A E K Xi S
+HG03834_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	293.841	345.18	-51.34	False	Xi	A Xi S Xd K E Fl
+HG03834_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	310.15	363.727	-53.58	False	E	A E K Xi S
+HG03927_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	315.902	367.238	-51.34	False	Xi	A Xi S Xd K E Fl
+HG03927_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	310.152	363.693	-53.54	False	E	A E K Xi S
+HG03942_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.771	382.206	-48.44	False	Xi	A Xi S Xd K E Fl
+HG03942_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	337.049	387.724	-50.68	False	E	A E K Xi S
+HG04115_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.247	365.599	-51.35	False	Xi	A Xi S Xd K E Fl
+HG04115_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	330.537	384.091	-53.55	False	E	A E K Xi S
+HG04157_mat_hprc_r2_v1.0.1	cen	C1|T1	C1	310.99	353.796	-42.81	False	Xi	A Xi S Xd K E Fl
+HG04157_mat_hprc_r2_v1.0.1	tel	C1|T1	T1	469.528	431.856	37.67	True	E	A E Xi S Xd K E K Xi S
+HG04157_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	316.397	365.675	-49.28	False	Xi	A Xi S Xd K E Fl
+HG04157_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	309.764	363.32	-53.56	False	E	A E K Xi S
+HG04160_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.645	365.862	-51.22	False	Xi	A Xi S Xd K E Fl
+HG04160_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	309.722	363.292	-53.57	False	E	A E K Xi S
+HG04160_pat_hprc_r2_v1.0.1	cen	C1|T1	C1	323.076	344.362	-21.29	False	Xi	A Xi S Xd K E Fl
+HG04160_pat_hprc_r2_v1.0.1	tel	C1|T1	T1	405.359	410.472	-5.11	False	E	A E Xi S Xd Xi S
+HG04199_mat_hprc_r2_v1.0.1	cen	C1|T1	C1	310.994	353.822	-42.83	False	Xi	A Xi S Xd K E Fl
+HG04199_mat_hprc_r2_v1.0.1	tel	C1|T1	T1	731.879	611.635	120.24	True	E	A E Xi S Xd K E K Xi S
+HG04199_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	307.718	359.067	-51.35	False	Xi	A Xi S Xd K E Fl
+HG04199_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.697	370.254	-53.56	False	E	A E K Xi S
+HG04204_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	314.174	365.507	-51.33	False	Xi	A Xi S Xd K E Fl
+HG04204_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	309.932	363.5	-53.57	False	E	A E K Xi S
+HG04228_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.888	382.339	-48.45	False	Xi	A Xi S Xd K E Fl
+HG04228_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	316.613	367.269	-50.66	False	E	A E K Xi S
+HG04228_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	313.868	362.303	-48.44	False	Xi	A Xi S Xd K E Fl
+HG04228_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	317.097	367.75	-50.65	False	E	A E K Xi S
+NA18508_hap1_hprc_r2_v1.0.1	cen	C1|T1	C1	349.663	382.599	-32.94	False	Xi	A Xi S Xd K E Fl
+NA18508_hap1_hprc_r2_v1.0.1	tel	C1|T1	T1	408.89	346.774	62.12	True	E	A E Xi S Xd K E K Xi S
+NA18522_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	351.152	369.267	-18.12	False	E	A E Fl
+NA18522_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	365.422	379.738	-14.32	False	Xi	A Xi S Xd K E K Xi S
+NA18522_hap2_hprc_r2_v1.0.1	cen	C0|T1	C0	485.347	405.125	80.22	True	E	A E Fl
+NA18522_hap2_hprc_r2_v1.0.1	tel	C0|T1	T1	443.975	390.337	53.64	True	E	A E Xi S Xd K E K Xi S
+NA18565_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.133	365.483	-51.35	False	Xi	A Xi S Xd K E Fl
+NA18565_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	330.161	383.714	-53.55	False	E	A E K Xi S
+NA18565_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	333.92	382.36	-48.44	False	Xi	A Xi S Xd K E Fl
+NA18565_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	316.777	367.43	-50.65	False	E	A E K Xi S
+NA18570_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.741	366.072	-51.33	False	Xi	A Xi S Xd K E Fl
+NA18570_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	330.168	383.721	-53.55	False	E	A E K Xi S
+NA18570_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	333.787	382.221	-48.43	False	Xi	A Xi S Xd K E Fl
+NA18570_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	316.595	367.268	-50.67	False	E	A E K Xi S
+NA18608_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	334.116	382.571	-48.46	False	Xi	A Xi S Xd K E Fl
+NA18608_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	316.575	367.247	-50.67	False	E	A E K Xi S
+NA18620_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	333.905	382.353	-48.45	False	Xi	A Xi S Xd K E Fl
+NA18620_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	316.691	367.349	-50.66	False	E	A E K Xi S
+NA18620_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.472	365.812	-51.34	False	Xi	A Xi S Xd K E Fl
+NA18620_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	309.985	363.548	-53.56	False	E	A E K Xi S
+NA18879_hap1_hprc_r2_v1.0.1	cen	C0|T0	C0	369.162	387.735	-18.57	False	E	A E Fl
+NA18879_hap1_hprc_r2_v1.0.1	tel	C0|T0	T0	406.899	421.546	-14.65	False	Xi	A Xi S
+NA18879_hap2_hprc_r2_v1.0.1	cen	C0|T0	C0	485.154	411.056	74.1	True	E	A E Fl
+NA18879_hap2_hprc_r2_v1.0.1	tel	C0|T0	T0	462.81	383.239	79.57	True	E	A E K Xi S
+NA18906_pat_hprc_r2_v1.0.1	cen	C1|T0	C1	333.781	382.214	-48.43	False	Xi	A Xi S Xd K E Fl
+NA18906_pat_hprc_r2_v1.0.1	tel	C1|T0	T0	296.133	346.793	-50.66	False	E	A E K Xi S
+NA18940_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	333.63	382.053	-48.42	False	Xi	A Xi S Xd K E Fl
+NA18940_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	337.155	387.812	-50.66	False	E	A E K Xi S
+NA18940_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.153	365.495	-51.34	False	Xi	A Xi S Xd K E Fl
+NA18940_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	328.404	384.035	-55.63	False	E	A E K Xi S
+NA18943_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	333.757	382.204	-48.45	False	Xi	A Xi S Xd K E Fl
+NA18943_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	316.609	367.262	-50.65	False	E	A E K Xi S
+NA18944_hap2_hprc_r2_v1.0.1	cen	C0|T0	C0	444.399	369.851	74.55	True	E	A E Fl
+NA18944_hap2_hprc_r2_v1.0.1	tel	C0|T0	T0	442.217	384.137	58.08	True	E	A E K Xi S
+NA18945_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	354.232	402.676	-48.44	False	Xi	A Xi S Xd K E Fl
+NA18945_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	316.266	366.945	-50.68	False	E	A E K Xi S
+NA18945_hap2_hprc_r2_v1.0.1	cen	C0|T0	C0	444.376	369.351	75.02	True	E	A E Fl
+NA18945_hap2_hprc_r2_v1.0.1	tel	C0|T0	T0	442.043	383.962	58.08	True	E	A E K Xi S
+NA18948_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	369.737	402.683	-32.95	False	Xi	A Xi S Xd K Xi S Xd K E Fl
+NA18948_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	316.573	367.241	-50.67	False	E	A E K Xi S
+NA18952_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.128	365.47	-51.34	False	Xi	A Xi S Xd K E Fl
+NA18952_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	331.116	384.664	-53.55	False	E	A E K Xi S
+NA18959_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	372.047	404.998	-32.95	False	Xi	A Xi S Xd K E Fl
+NA18959_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	330.057	367.295	-37.24	False	E	A E K Xi S
+NA18959_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.187	365.524	-51.34	False	Xi	A Xi S Xd K E Fl
+NA18959_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	330.519	384.07	-53.55	False	E	A E K Xi S
+NA18967_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.522	365.886	-51.36	False	Xi	A Xi S Xd K E Fl
+NA18967_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	330.112	383.671	-53.56	False	E	A E K Xi S
+NA18970_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	333.796	382.238	-48.44	False	Xi	A Xi S Xd K E Fl
+NA18970_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	314.636	367.226	-52.59	False	E	A E K Xi S
+NA18971_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	333.525	381.95	-48.43	False	Xi	A Xi S Xd K E Fl
+NA18971_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	316.626	367.284	-50.66	False	E	A E K Xi S
+NA18976_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	333.81	382.245	-48.44	False	Xi	A Xi S Xd K E Fl
+NA18976_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	316.608	359.377	-42.77	False	E	A E K Xi S
+NA18982_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	333.849	382.293	-48.44	False	Xi	A Xi S Xd K E Fl
+NA18982_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	316.739	367.39	-50.65	False	E	A E K Xi S
+NA18983_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.151	365.484	-51.33	False	Xi	A Xi S Xd K E Fl
+NA18983_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	330.387	383.956	-53.57	False	E	A E K Xi S
+NA18983_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.197	365.533	-51.34	False	Xi	A Xi S Xd K E Fl
+NA18983_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	330.468	384.017	-53.55	False	E	A E K Xi S
+NA19036_hap2_hprc_r2_v1.0.1	cen	C0|T1	C0	499.277	419.039	80.24	True	E	A E Fl
+NA19036_hap2_hprc_r2_v1.0.1	tel	C0|T1	T1	445.199	391.575	53.62	True	E	A E Xi S Xd K E K Xi S
+NA19043_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	344.574	380.384	-35.81	False	Xi	A Xi S Xd K E Fl
+NA19043_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	392.648	432.783	-40.13	False	E	A E Xi S
+NA19043_hap2_hprc_r2_v1.0.1	cen	C0|T1	C0	373.764	413.945	-40.18	False	E	A E Fl
+NA19043_hap2_hprc_r2_v1.0.1	tel	C0|T1	T1	330.671	397.462	-66.79	False	E	A E Xi S Xd K E K Xi S
+NA19087_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.175	365.516	-51.34	False	Xi	A Xi S Xd K E Fl
+NA19087_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	327.994	381.561	-53.57	False	E	A E K Xi S
+NA19159_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	313.599	362.036	-48.44	False	Xi	A Xi S Xd K E Fl
+NA19159_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	314.513	367.224	-52.71	False	E	A E K Xi S
+NA19185_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	467.882	387.654	80.23	True	E	A E Fl
+NA19185_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	438.228	384.608	53.62	True	E	A E Xi S Xd K E K Xi S
+NA19185_hap2_hprc_r2_v1.0.1	cen	C1|T1	C1	308.816	344.895	-36.08	False	Xi	A Xi S Xd K E Fl
+NA19185_hap2_hprc_r2_v1.0.1	tel	C1|T1	T1	463.067	404.276	58.79	True	E	A E Xi S Xd K E K Xi S
+NA19240_mat_hprc_r2_v1.0.1	cen	C0|T0	C0	448.278	368.058	80.22	True	E	A E Fl
+NA19240_mat_hprc_r2_v1.0.1	tel	C0|T0	T0	478.158	403.839	74.32	True	E	A E K Xi S
+NA19240_pat_hprc_r2_v1.0.1	cen	C0|T1	C0	481.355	401.125	80.23	True	E	A E Fl
+NA19240_pat_hprc_r2_v1.0.1	tel	C0|T1	T1	445.17	391.546	53.62	True	E	A E Xi S Xd K E K Xi S
+NA19338_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	471.226	390.997	80.23	True	E	A E Fl
+NA19338_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	520.854	384.236	136.62	True	E	A E Xi S Xd K E K Xi S
+NA19391_hap1_hprc_r2_v1.0.1	cen	C1|T1	C1	308.814	344.906	-36.09	False	Xi	A Xi S Xd K E Fl
+NA19391_hap1_hprc_r2_v1.0.1	tel	C1|T1	T1	462.993	404.211	58.78	True	E	A E Xi S Xd K E K Xi S
+NA19682_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	333.952	382.387	-48.44	False	Xi	A Xi S Xd K E Fl
+NA19682_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	316.708	367.361	-50.65	False	E	A E K Xi S
+NA19682_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.147	365.488	-51.34	False	Xi	A Xi S Xd K E Fl
+NA19682_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	330.49	384.051	-53.56	False	E	A E K Xi S
+NA19700_hap2_hprc_r2_v1.0.1	cen	C0|T1	C0	427.766	347.533	80.23	True	E	A E Fl
+NA19700_hap2_hprc_r2_v1.0.1	tel	C0|T1	T1	458.637	405.012	53.62	True	E	A E Xi S Xd K E K Xi S
+NA19776_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	333.777	382.218	-48.44	False	Xi	A Xi S Xd K E Fl
+NA19776_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	316.578	367.251	-50.67	False	E	A E K Xi S
+NA19776_hap2_hprc_r2_v1.0.1	cen	C1|T1	C1	328.84	347.228	-18.39	False	Xi	A Xi S Xd K E Fl
+NA19776_hap2_hprc_r2_v1.0.1	tel	C1|T1	T1	470.152	408.433	61.72	True	E	A E Xi S Xd K E K Xi S
+NA19835_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.156	365.488	-51.33	False	Xi	A Xi S Xd K E Fl
+NA19835_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	330.091	383.644	-53.55	False	E	A E K Xi S
+NA19835_hap2_hprc_r2_v1.0.1	cen	C0|T1	C0	467.823	387.591	80.23	True	E	A E Fl
+NA19835_hap2_hprc_r2_v1.0.1	tel	C0|T1	T1	438.185	384.568	53.62	True	E	A E Xi S Xd K E K Xi S
+NA20129_mat_hprc_r2_v1.0.1	cen	C1|T0	C1	295.519	346.848	-51.33	False	Xi	A Xi S Xd K E Fl
+NA20129_mat_hprc_r2_v1.0.1	tel	C1|T0	T0	307.28	360.829	-53.55	False	E	A E K Xi S
+NA20282_hap1_hprc_r2_v1.0.1	cen	C0|T1	C0	491.658	411.43	80.23	True	E	A E Fl
+NA20282_hap1_hprc_r2_v1.0.1	tel	C0|T1	T1	500.904	384.248	116.66	True	E	A E Xi S Xd K E K Xi S
+NA20346_hap1_hprc_r2_v1.0.1	cen	C0|T0	C0	506.003	425.737	80.27	True	E	A E Fl
+NA20346_hap1_hprc_r2_v1.0.1	tel	C0|T0	T0	451.198	371.698	79.5	True	E	A E K Xi S
+NA20752_hap1_hprc_r2_v1.0.1	cen	C1|T1	C1	323.039	344.326	-21.29	False	Xi	A Xi S Xd K E Fl
+NA20752_hap1_hprc_r2_v1.0.1	tel	C1|T1	T1	469.268	410.454	58.81	True	E	A E Xi S Xd K Xi S
+NA20762_hap1_hprc_r2_v1.0.1	cen	C0|T0	C0	442.089	367.068	75.02	True	E	A E Fl
+NA20762_hap1_hprc_r2_v1.0.1	tel	C0|T0	T0	460.219	402.134	58.08	True	E	A E K Xi S
+NA20799_hap1_hprc_r2_v1.0.1	cen	C1|T1	C1	309.419	330.708	-21.29	False	Xi	A Xi S Xd K E Fl
+NA20799_hap1_hprc_r2_v1.0.1	tel	C1|T1	T1	482.942	424.125	58.82	True	E	A E Xi S Xd K E K Xi S
+NA20809_hap1_hprc_r2_v1.0.1	cen	C1|T1	C1	328.823	347.212	-18.39	False	Xi	A Xi S Xd K E Fl
+NA20809_hap1_hprc_r2_v1.0.1	tel	C1|T1	T1	469.334	407.62	61.71	True	E	A E Xi S Xd K E K Xi S
+NA20809_hap2_hprc_r2_v1.0.1	cen	C0|T0	C0	496.792	421.769	75.02	True	E	A E Fl
+NA20809_hap2_hprc_r2_v1.0.1	tel	C0|T0	T0	448.865	390.774	58.09	True	E	A E K Xi S
+NA20827_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	327.552	376.0	-48.45	False	Xi	A Xi S Xd K E Fl
+NA20827_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	316.732	367.385	-50.65	False	E	A E K Xi S
+NA20850_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.675	366.012	-51.34	False	Xi	A Xi S Xd K E Fl
+NA20850_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	350.642	404.204	-53.56	False	E	A E K Xi S
+NA20850_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	333.869	382.32	-48.45	False	Xi	A Xi S Xd K E Fl
+NA20850_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	316.615	367.276	-50.66	False	E	A E K Xi S
+NA20870_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.59	365.949	-51.36	False	Xi	A Xi S Xd K E Fl
+NA20870_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	330.133	383.692	-53.56	False	E	A E K Xi S
+NA21093_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	336.063	382.445	-46.38	False	Xi	A Xi S Xd K E Fl
+NA21093_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	296.329	346.99	-50.66	False	E	A E K Xi S
+NA21106_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	314.151	365.498	-51.35	False	Xi	A Xi S Xd K E Fl
+NA21106_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	330.494	384.046	-53.55	False	E	A E K Xi S
+NA21106_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	307.536	358.884	-51.35	False	Xi	A Xi S Xd K E Fl
+NA21106_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	316.618	370.173	-53.56	False	E	A E K Xi S
+NA21110_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	333.821	382.255	-48.43	False	Xi	A Xi S Xd K E Fl
+NA21110_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	337.064	387.726	-50.66	False	E	A E K Xi S
+NA21110_hap2_hprc_r2_v1.0.1	cen	C1|T0	C1	314.039	365.37	-51.33	False	Xi	A Xi S Xd K E Fl
+NA21110_hap2_hprc_r2_v1.0.1	tel	C1|T0	T0	330.607	384.156	-53.55	False	E	A E K Xi S
+NA21144_hap1_hprc_r2_v1.0.1	cen	C1|T0	C1	315.949	362.311	-46.36	False	Xi	A Xi S Xd K E Fl
+NA21144_hap1_hprc_r2_v1.0.1	tel	C1|T0	T0	293.876	346.602	-52.73	False	E	A E K Xi S
+NA21309_mat_hprc_r2_v1.0.1	cen	C1|T1	C1	593.811	468.325	125.49	True	E	A E Xi S Xd Xi S Xd K E Fl
+NA21309_mat_hprc_r2_v1.0.1	tel	C1|T1	T1	491.321	346.31	145.01	True	E	A E Xi S Xd K E K Xi S
+NA21309_pat_hprc_r2_v1.0.1	cen	C0|T0	C0	430.984	350.755	80.23	True	E	A E Fl
+NA21309_pat_hprc_r2_v1.0.1	tel	C0|T0	T0	457.818	383.51	74.31	True	E	A E K Xi S
+hg002v1.1.pat.PanSN	cen	C1|T0	C1	314.634	348.51	-33.88	False	Xi	A Xi S Xd K E Fl
+hg002v1.1.pat.PanSN	tel	C1|T0	T0	337.195	387.875	-50.68	False	E	A E K Xi S

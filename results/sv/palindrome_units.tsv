@@ -1,0 +1,436 @@
+src	arr	units	n	has_pair	depth	room	kind
+GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN	2+ 1+	C+ A- B+ C+ A- D- B+	7	False			
+HG00097_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+HG00097_hap2_hprc_r2_v1.0.1	2- 1-	C+ B- A+ B- D+ A+	6	False			
+HG00099_hap1_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG00099_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+HG00126_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ C+ A- D- B+	7	False			
+HG00126_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00128_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+HG00128_hap2_hprc_r2_v1.0.1	2- 1+	C+ L+ B- F+ F- D- B+	7	False			
+HG00133_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00133_hap2_hprc_r2_v1.0.1	d2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00140_hap1_hprc_r2_v1.0.1	1- 2+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00140_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00146_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- D- B+	7	True	0.0	2.0	head
+HG00146_hap2_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG00235_hap1_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+HG00235_hap2_hprc_r2_v1.0.1	1+ 2+	C+ A- E+ A- B+ C- B+	7	False			
+HG00253_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+HG00253_hap2_hprc_r2_v1.0.1	2- 1-	C+ B- E+ B- A+ C- A+ C- B+	9	False			
+HG00272_hap1_hprc_r2_v1.0.1	d2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00272_hap2_hprc_r2_v1.0.1	2- 1+	E+ B- A+ A- B+	5	True	1.0	1.0	head
+HG00290_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00290_hap2_hprc_r2_v1.0.1	1+	C+ A- E+ B- C+	5	False			
+HG00320_hap1_hprc_r2_v1.0.1	1+	C+ A- B+ C- B+	5	False			
+HG00320_hap2_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG00321_hap1_hprc_r2_v1.0.1	1-	D+ A+ C- B+	4	False			
+HG00321_hap2_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG00323_hap1_hprc_r2_v1.0.1	2- 1+	C+ I- A+ A- D- B+	6	True	0.0	2.0	head
+HG00323_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00344_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+HG00344_hap2_hprc_r2_v1.0.1	1- 2+	D+ D+ A+ A- B+ E- B+	7	True	0.0	2.0	head
+HG00350_hap1_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG00350_hap2_hprc_r2_v1.0.1	1+	C+ A- D- D- B+	5	False			
+HG00408_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00408_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00438_mat_hprc_r2_v1.0.1	1+ 2+	C+ A- B+ A- B+	5	False			
+HG00438_pat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG00544_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00544_pat_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- D- B+	6	False			
+HG00558_mat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG00558_pat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG00597_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00597_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG005_mat_hprc_r2_v1.0.1	2- 1-	A+ A+ C- B+	4	False			
+HG005_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00609_mat_hprc_r2_v1.0.1	1-	C+ C- A+ C- B+	5	False			
+HG00609_pat_hprc_r2_v1.0.1	2+ 1-	C+ A- B+ A+ C- B+	6	False			
+HG00621_mat_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- B+	5	False			
+HG00621_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00639_mat_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- B+	5	False			
+HG00639_pat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG00642_mat_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- E+ B- C+	7	False			
+HG00642_pat_hprc_r2_v1.0.1	1- 2-	C+ B- D+ A+ C- B- A+	7	False			
+HG00658_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00658_pat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG00673_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00673_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00706_mat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG00706_pat_hprc_r2_v1.0.1	h21- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG00733_pat_hprc_r2_v1.0.1	d2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00735_mat_hprc_r2_v1.0.1	2- 1+	E+ B- A+ A- B+	5	True	1.0	1.0	head
+HG00735_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00738_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00738_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG00741_mat_hprc_r2_v1.0.1	1- 2-	D+ A+ B- A+ C- B+	6	False			
+HG00741_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01071_mat_hprc_r2_v1.0.1	1- 2+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01071_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+HG01074_mat_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG01074_pat_hprc_r2_v1.0.1	d2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01081_mat_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG01081_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ B- B+	7	True	0.0	2.0	head
+HG01099_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01099_pat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG01106_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- D- B+	7	True	0.0	2.0	head
+HG01106_pat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG01109_mat_hprc_r2_v1.0.1	1- 1+	C+ B- A+ A- D- E+	6	True	0.0	2.0	head
+HG01123_mat_hprc_r2_v1.0.1	1- 1-	C+ B- A+ B- D+ A+	6	False			
+HG01123_pat_hprc_r2_v1.0.1	2- 1-	C+ B- E+ B- A+ C- A+ C- B+	9	False			
+HG01150_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01150_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ C+ C- B+	6	False			
+HG01167_hap1_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG01167_hap2_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ C+ A- B+	6	False			
+HG01175_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+HG01175_pat_hprc_r2_v1.0.1	d2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01192_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ F- G- C+ C- F+ E+	9	False			
+HG01192_pat_hprc_r2_v1.0.1	d2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01243_mat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ B- D+ D+ A+	7	False			
+HG01243_pat_hprc_r2_v1.0.1	1- 2- 1+	C+ E- A+ B- A+ A- B+	7	True	1.0	1.0	head
+HG01252_mat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+HG01252_pat_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG01255_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- D- B+	7	True	0.0	2.0	head
+HG01255_pat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG01258_mat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ B- D+ A+	6	False			
+HG01258_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01261_pat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+HG01346_mat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG01346_pat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG01358_mat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG01358_pat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+HG01361_mat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG01361_pat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG01433_mat_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- B+	5	False			
+HG01433_pat_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- E+ C- B+	7	False			
+HG01496_mat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG01496_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01530_hap1_hprc_r2_v1.0.1	1- 2+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01530_hap2_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ C+ A- D- B+	7	False			
+HG01784_hap1_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG01784_hap2_hprc_r2_v1.0.1	2- 1-	C+ B- A+ E- D+ A+	6	False			
+HG01786_hap1_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+HG01786_hap2_hprc_r2_v1.0.1	2- 1- 1+	C+ B- E+ B- A+ E- A+ A- B+	9	True	0.0	1.0	head
+HG01884_mat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG01884_pat_hprc_r2_v1.0.1	h21- 1-	C+ E- D+ A+ B- A+	6	False			
+HG01891_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01891_pat_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- E+ C- B+	7	False			
+HG01928_mat_hprc_r2_v1.0.1	1-	D+ A+ C- C- B+	5	False			
+HG01928_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01934_pat_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG01940_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ B- C+	7	True	0.0	2.0	head
+HG01940_pat_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG01943_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01943_pat_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG01952_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01952_pat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+HG01960_mat_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- K- B+	6	True	0.0	0.0	head
+HG01960_pat_hprc_r2_v1.0.1	1- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+HG01969_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01969_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG01975_mat_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG01975_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- F+ J+ J+ B+	9	True	0.0	2.0	head
+HG01978_mat_hprc_r2_v1.1.0	2- 1+	C+ B- A+ A- E+ B- B+	7	True	0.0	2.0	head
+HG01978_pat_hprc_r2_v1.1.0	2- 1+	C+ B- A+ A- E+ B- C+	7	True	0.0	2.0	head
+HG01981_mat_hprc_r2_v1.0.1	1+ 2+	C+ A- E+ A- B+ C- B+	7	False			
+HG01981_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02004_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02004_pat_hprc_r2_v1.0.1	1+	C+ A- A-	3	False			
+HG02015_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02015_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02027_mat_hprc_r2_v1.0.1	2- 1+	C+ E+ B- A+ A- D- B+	7	True	0.0	2.0	head
+HG02027_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02040_hap1_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG02040_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02055_mat_hprc_r2_v1.0.1	1-	C+ A- A+ B+	4	True	0.0	1.0	tail
+HG02055_pat_hprc_r2_v1.0.1	1- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG02056_mat_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- D- B+	6	False			
+HG02056_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02071_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02071_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02074_mat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG02074_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02080_mat_hprc_r2_v1.0.1	2- 1+	E+ B- A+ A- B+	5	True	1.0	1.0	head
+HG02080_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02083_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02083_pat_hprc_r2_v1.0.1	1- 2+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02109_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02109_pat_hprc_r2_v1.0.1	1- 1+	A+ A- E+	3	True	0.0	0.0	head
+HG02129_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02129_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02132_mat_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- B+	5	False			
+HG02132_pat_hprc_r2_v1.0.1	2+ 2- 2+	C+ A- E+ B- A+ A- B+	7	True	1.0	1.0	head
+HG02135_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02135_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02145_mat_hprc_r2_v1.0.1	1- 1+	C+ C+ B- A+ A- D- B+	7	True	0.0	2.0	head
+HG02145_pat_hprc_r2_v1.0.1	1- 1+	A+ A- E+ B- C+	5	True	0.0	0.0	head
+HG02148_mat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ E- D+ A+	6	False			
+HG02148_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02155_hap1_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG02155_hap2_hprc_r2_v1.0.1	h21- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG02165_hap1_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- B+	5	False			
+HG02165_hap2_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- B+	5	False			
+HG02178_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02178_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02257_mat_hprc_r2_v1.1.0	1+ 2+	C+ A- E+ A- B+ C- B+	7	False			
+HG02257_pat_hprc_r2_v1.1.0	2- 1-	C+ B- A+ B- D+ A+	6	False			
+HG02258_mat_hprc_r2_v1.0.1	2- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG02258_pat_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG02280_mat_hprc_r2_v1.0.1	1- 1+	C+ B- A+ A- D- E+	6	True	0.0	2.0	head
+HG02280_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- D- B+	7	True	0.0	2.0	head
+HG02293_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02293_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02300_mat_hprc_r2_v1.0.1	h12- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02300_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02391_hap1_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+HG02391_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02392_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- D+ A+ A- B+	6	True	0.0	1.0	head
+HG02392_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02451_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02451_pat_hprc_r2_v1.0.1	1+	C+ A- A-	3	False			
+HG02486_mat_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG02486_pat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG02514_mat_hprc_r2_v1.0.1	1+	C+ E+ A- E+ C- B+	6	False			
+HG02514_pat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+HG02523_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02523_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02559_mat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ B- D+ A+	6	False			
+HG02559_pat_hprc_r2_v1.0.1	1- h21+	A+ A- B+	3	True	0.0	0.0	head
+HG02572_mat_hprc_r2_v1.0.1	2- 1+	C+ B- I+ E+ A- D- B+	7	False			
+HG02572_pat_hprc_r2_v1.0.1	1- 1+	A+ A- C- B+	4	True	0.0	0.0	head
+HG02583_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+HG02583_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02602_mat_hprc_r2_v1.0.1	1-	C+ E- D+ A+ C- B+	6	False			
+HG02602_pat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG02615_mat_hprc_r2_v1.0.1	1- h21+	A+ A- B+	3	True	0.0	0.0	head
+HG02615_pat_hprc_r2_v1.0.1	2+ 1-	D+ L+ B- C+ A- B+ B- D+ A+	9	False			
+HG02622_mat_hprc_r2_v1.0.1	1- 1+	A+ A- C- B+	4	True	0.0	0.0	head
+HG02622_pat_hprc_r2_v1.0.1	1- 1+	A+ A- C- C- B+	5	True	0.0	0.0	head
+HG02630_mat_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG02630_pat_hprc_r2_v1.0.1	2+ 1-	C+ B- C+ A- B+ B- A+	7	False			
+HG02647_mat_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG02647_pat_hprc_r2_v1.0.1	1- h21+	A+ A- B+	3	True	0.0	0.0	head
+HG02668_mat_hprc_r2_v1.0.1	1- 2- 1-	A+ B- A+ I- A+	5	False			
+HG02668_pat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG02698_mat_hprc_r2_v1.0.1	1- 2+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02698_pat_hprc_r2_v1.0.1	1- h12+ 1+	A+ A- B+ A- B+	5	True	0.0	0.0	head
+HG02717_mat_hprc_r2_v1.0.1	1- 1+	G+ F+ G- F-	4	False			
+HG02717_pat_hprc_r2_v1.0.1	1- 1+	A+ A- C- B+	4	True	0.0	0.0	head
+HG02723_mat_hprc_r2_v1.0.1	1- h21+	A+ A- B+	3	True	0.0	0.0	head
+HG02723_pat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG02735_mat_hprc_r2_v1.0.1	2- 1-	C+ B- E+ B- A+ C- A+ B- C+	9	False			
+HG02735_pat_hprc_r2_v1.0.1	1-	D+ A+ C- B+	4	False			
+HG02738_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02738_pat_hprc_r2_v1.0.1	1+ 2+	C+ A- E+ A- B+ C- B+	7	False			
+HG02809_mat_hprc_r2_v1.0.1	1- 2+	A+ A- B+	3	True	0.0	0.0	head
+HG02809_pat_hprc_r2_v1.0.1	2- 1+	A+ A- K- B+	4	True	0.0	0.0	head
+HG02818_mat_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG02818_pat_hprc_r2_v1.0.1	1- 2+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02841_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02841_pat_hprc_r2_v1.0.1	2+ 1-	C+ B- E+ A- B+ B- D+ K+ A+	9	False			
+HG02886_mat_hprc_r2_v1.0.1	2+ 1+	C+ A- I+ B+ A- E+ B- C+	8	False			
+HG02886_pat_hprc_r2_v1.0.1	2+ 1-	C+ B- C+ A- B+ B- A+	7	False			
+HG02922_hap1_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG02922_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02965_hap2_hprc_r2_v1.0.1	h21+ 1-	C+ A- A+	3	True	0.0	0.0	tail
+HG02976_hap1_hprc_r2_v1.0.1	1- 1+	A+ A- C- C- B+	5	True	0.0	0.0	head
+HG02976_hap2_hprc_r2_v1.0.1	1- 2+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG02984_mat_hprc_r2_v1.0.1	1- 1+	A+ A- E+	3	True	0.0	0.0	head
+HG02984_pat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG03017_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- A-	5	True	0.0	1.0	head
+HG03017_pat_hprc_r2_v1.0.1	1- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03041_mat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG03041_pat_hprc_r2_v1.0.1	2- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03050_mat_hprc_r2_v1.0.1	1+ h21+	C+ A- E+ A- B+	5	False			
+HG03050_pat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ B- D+ A+	6	False			
+HG03098_mat_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03098_pat_hprc_r2_v1.0.1	1- h21-	A+ B- A+	3	False			
+HG03130_hap1_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03130_hap2_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03139_hap1_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03139_hap2_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG03195_hap1_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG03195_hap2_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03209_hap1_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03209_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- E+ C- B+	8	True	0.0	2.0	head
+HG03225_hap1_hprc_r2_v1.0.1	2- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03225_hap2_hprc_r2_v1.0.1	1- 2-	C+ A- C- A+ B- A+	6	False			
+HG03239_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+HG03239_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03270_hap2_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03369_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03369_hap2_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03453_mat_hprc_r2_v1.0.1	1+ h21+	C+ A- E+ A- B+	5	False			
+HG03453_pat_hprc_r2_v1.0.1	1- 1+	A+ A- C- B+	4	True	0.0	0.0	head
+HG03470_hap1_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- E+ A+ A+	7	False			
+HG03470_hap2_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG03471_hap1_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03471_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+HG03486_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03486_pat_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+HG03516_mat_hprc_r2_v1.1.0	1+	C+ A- E+ C- B+	5	False			
+HG03516_pat_hprc_r2_v1.1.0	1- h21+	A+ A- C- B+	4	True	0.0	0.0	head
+HG03521_hap2_hprc_r2_v1.0.1	1- 2+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03540_mat_hprc_r2_v1.0.1	h21- 1+	C+ A+ A-	3	True	0.0	0.0	head
+HG03540_pat_hprc_r2_v1.0.1	1- 1+	G+ F+ G- F-	4	False			
+HG03579_mat_hprc_r2_v1.0.1	1- 1+	C+ B- A+ A- D- E+	6	True	0.0	2.0	head
+HG03579_pat_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG03583_hap1_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG03654_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03654_pat_hprc_r2_v1.0.1	1- 2+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03669_mat_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- B+	5	False			
+HG03669_pat_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG03688_mat_hprc_r2_v1.0.1	2- 1- 1+	C+ B- M+ I- A+ E- A+ A- F+ J+ B+	11	True	0.0	3.0	head
+HG03688_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03704_mat_hprc_r2_v1.0.1	1- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03704_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03710_mat_hprc_r2_v1.0.1	h21- 1+	C+ B- A+ A- E+ B- C+	7	True	0.0	2.0	head
+HG03710_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ B- B+	7	True	0.0	2.0	head
+HG03742_hap1_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+HG03742_hap2_hprc_r2_v1.0.1	1-	D+ D+ J+ J+ J+	5	False			
+HG03804_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- C- B+	8	True	0.0	2.0	head
+HG03804_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03816_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03816_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03831_mat_hprc_r2_v1.0.1	1-	D+ A+ C- B+	4	False			
+HG03831_pat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ E- D+ A+ C- B+	8	False			
+HG03834_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03834_pat_hprc_r2_v1.0.1	2- 1-	C+ B- E+ B- A+ C- A+ B- C+	9	False			
+HG03874_hap1_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG03874_hap2_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG03927_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG03927_pat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG03942_mat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG03942_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG04115_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG04115_pat_hprc_r2_v1.0.1	1+	C+ A- E+ C- B+	5	False			
+HG04157_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ A+	6	True	0.0	2.0	head
+HG04157_pat_hprc_r2_v1.0.1	1- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG04160_mat_hprc_r2_v1.0.1	h21- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG04160_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- E+ B- E+	8	True	0.0	2.0	head
+HG04184_mat_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+HG04184_pat_hprc_r2_v1.0.1	1-	C+ E- A+ E- B+	5	False			
+HG04187_mat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+HG04187_pat_hprc_r2_v1.0.1	2- 1-	C+ B- E+ B- A+ C- A+ C- B+	9	False			
+HG04199_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- A-	5	True	0.0	1.0	head
+HG04199_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- F+ J+ J+ J+ J+ B+	11	True	0.0	2.0	head
+HG04204_mat_hprc_r2_v1.0.1	1- 1+	C+ B- A+ F- G- B+	6	False			
+HG04204_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG04228_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG04228_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+HG06807_mat_v1.0.genbank	2- 1+	C+ B- A+ C+ A- D- B+	7	False			
+HG06807_pat_v1.0.genbank	1+	C+ A- D- B+	4	False			
+NA18505_hap1_hprc_r2_v1.0.1	1- h21-	A+ B- A+	3	False			
+NA18505_hap2_hprc_r2_v1.0.1	h21+ 1-	B+ A- E+ B- A+ C- B+	7	False			
+NA18508_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+NA18508_hap2_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+NA18522_hap1_hprc_r2_v1.0.1	2- 1+	D+ A+ A- B+ C- B+	6	True	0.0	1.0	head
+NA18522_hap2_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+NA18565_hap1_hprc_r2_v1.0.1	1- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18565_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18570_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18570_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18608_hap1_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- E+ C- B+	7	False			
+NA18608_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18620_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18620_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18879_hap1_hprc_r2_v1.0.1	1- 1+	A+ A- B+	3	True	0.0	0.0	head
+NA18879_hap2_hprc_r2_v1.0.1	2- h12+	A+ A- B+	3	True	0.0	0.0	head
+NA18906_mat_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+NA18906_pat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18940_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18940_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18943_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18943_hap2_hprc_r2_v1.0.1	2- 1-	A+ A+ C- B+	4	False			
+NA18944_hap1_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+NA18944_hap2_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+NA18945_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18945_hap2_hprc_r2_v1.0.1	2- h12+	A+ A- B+	3	True	0.0	0.0	head
+NA18948_hap1_hprc_r2_v1.0.1	2- 1-	A+ A+ C- B+	4	False			
+NA18948_hap2_hprc_r2_v1.0.1	2- 2- 1+	C+ B- A+ B- A+ A- D- B+	8	True	0.0	2.0	head
+NA18952_hap1_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+NA18952_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18959_hap1_hprc_r2_v1.0.1	t- 2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18959_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18960_hap1_hprc_r2_v1.0.1	2- 2- 1-	C+ B- A+ C+ B- A+ E- A+ C- B+	10	False			
+NA18960_hap2_hprc_r2_v1.0.1	1-	C+ C- A+ C- B+	5	False			
+NA18967_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18967_hap2_hprc_r2_v1.0.1	1-	C+ C- A+ C- B+	5	False			
+NA18970_hap1_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- B+	5	False			
+NA18970_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18971_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18971_hap2_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+NA18976_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18976_hap2_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+NA18982_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18982_hap2_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- D- B+	6	False			
+NA18983_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA18983_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA19036_hap1_hprc_r2_v1.0.1	1+ 1-	C+ A- A+	3	True	0.0	0.0	tail
+NA19036_hap2_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+NA19043_hap1_hprc_r2_v1.0.1	1- 1+	C+ B- A+ A- D- E+	6	True	0.0	2.0	head
+NA19043_hap2_hprc_r2_v1.0.1	1- 1+	A+ A- E+ E- C- F+ E+	7	True	0.0	0.0	head
+NA19087_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA19087_hap2_hprc_r2_v1.0.1	2+ 1+	C+ A- B+ A- E+ C- B+	7	False			
+NA19159_hap1_hprc_r2_v1.0.1	2- 1-	C+ B- A+ B- D+ A+	6	False			
+NA19159_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA19185_hap1_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+NA19185_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+NA19240_mat_hprc_r2_v1.0.1	1- 1+	A+ A- K- B+	4	True	0.0	0.0	head
+NA19240_pat_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+NA19338_hap1_hprc_r2_v1.0.1	1- 1+	A+ A- C- B+	4	True	0.0	0.0	head
+NA19338_hap2_hprc_r2_v1.0.1	2- 1-	C+ B- A+ B- D+ A+	6	False			
+NA19391_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+NA19391_hap2_hprc_r2_v1.0.1	2- 1-	C+ B- A+ A+ A-	5	True	0.0	0.0	head
+NA19468_hap1_hprc_r2_v1.0.1	2- 1-	D- E+ B- A+ B- D- D- A+	8	False			
+NA19468_hap2_hprc_r2_v1.0.1	1-	C+ B- D+ A+	4	False			
+NA19682_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA19682_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA19700_hap2_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+NA19776_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA19776_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+NA19835_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA19835_hap2_hprc_r2_v1.0.1	1- 1+	A+ A- E+ C- B+	5	True	0.0	0.0	head
+NA19909_hap1_hprc_r2_v1.0.1	2- 1-	A+ B- C+ E- A+	5	False			
+NA19909_hap2_hprc_r2_v1.0.1	1- h21-	A+ B- A+	3	False			
+NA20129_mat_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- H+	6	True	0.0	2.0	head
+NA20129_pat_hprc_r2_v1.0.1	2- 1-	A+ B- C+ E- A+	5	False			
+NA20282_hap1_hprc_r2_v1.0.1	1- h21+	A+ A- C- B+	4	True	0.0	0.0	head
+NA20282_hap2_hprc_r2_v1.0.1	1- h21-	A+ B- A+	3	False			
+NA20346_hap1_hprc_r2_v1.0.1	2- 1+	A+ A- K- B+	4	True	0.0	0.0	head
+NA20346_hap2_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+NA20503_hap1_hprc_r2_v1.0.1	2- 1-	C+ B- A+ B- D+ A+	6	False			
+NA20503_hap2_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+NA20752_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ B- B+	7	True	0.0	2.0	head
+NA20762_hap1_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+NA20762_hap2_hprc_r2_v1.0.1	1+ 2+	C+ A- E+ A- B+ C- B+	7	False			
+NA20799_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+NA20799_hap2_hprc_r2_v1.0.1	1-	C+ C- A+ C- B+	5	False			
+NA20805_hap1_hprc_r2_v1.0.1	1+	C+ A- D- B+	4	False			
+NA20805_hap2_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+NA20806_hap1_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+NA20806_hap2_hprc_r2_v1.0.1	2+ 1-	C- A- B+ C- A+ E- D+ B+	8	False			
+NA20809_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- E+ C- B+	7	True	0.0	2.0	head
+NA20809_hap2_hprc_r2_v1.0.1	2- 1+	A+ A- B+	3	True	0.0	0.0	head
+NA20827_hap1_hprc_r2_v1.0.1	2- 1-	C+ B- A+ C- A+ C- B+	7	False			
+NA20827_hap2_hprc_r2_v1.0.1	d2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA20850_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA20850_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA20870_hap1_hprc_r2_v1.0.1	1+	C+ A- D- D- B+	5	False			
+NA20870_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA20905_hap1_hprc_r2_v1.0.1	f- 1-	C+ B- A+ C- A+ C- B+	7	False			
+NA20905_hap2_hprc_r2_v1.0.1	2- 2- 1-	C+ B- A+ A+ A+	5	False			
+NA21093_hap1_hprc_r2_v1.0.1	1+ 2+	C+ A- E+ A- B+ C- B+	7	False			
+NA21093_hap2_hprc_r2_v1.0.1	1- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA21102_hap1_hprc_r2_v1.0.1	1+ 2+	C+ A- B+ A- B+	5	False			
+NA21102_hap2_hprc_r2_v1.0.1	2+ 1+ 2+	C+ A- B+ A- A- B+ C- B+	8	False			
+NA21106_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA21106_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA21110_hap1_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA21110_hap2_hprc_r2_v1.0.1	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA21144_hap1_hprc_r2_v1.0.1	1- 2+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head
+NA21144_hap2_hprc_r2_v1.0.1	1-	D+ A+ C- B+	4	False			
+NA21309_mat_hprc_r2_v1.0.1	2+ 1- 1+	C+ A- B+ A+ A- C- B+	7	True	0.0	2.0	head
+NA21309_pat_hprc_r2_v1.0.1	1- 1+	A+ A- K- B+	4	True	0.0	0.0	head
+hg002v1.1.mat_MT.PanSN	2- 1+	C+ B- A+ C+ A- D- B+	7	False			
+hg002v1.1.pat.PanSN	2- 1+	C+ B- A+ A- D- B+	6	True	0.0	2.0	head

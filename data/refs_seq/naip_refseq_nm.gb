@@ -1,0 +1,1218 @@
+LOCUS       NM_022892               6422 bp    mRNA    linear   PRI 29-APR-2025
+DEFINITION  Homo sapiens NLR family apoptosis inhibitory protein (NAIP),
+            transcript variant 2, mRNA.
+ACCESSION   NM_022892 XM_001126635 XM_003403389 XM_006726222
+VERSION     NM_022892.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6422)
+  AUTHORS   An,Y., Zhai,Z., Wang,X., Ding,Y., He,L., Li,L., Mo,Q., Mu,C.,
+            Xie,R., Liu,T., Zhong,W., Wang,B. and Cao,H.
+  TITLE     Targeting Desulfovibrio vulgaris flagellin-induced NAIP/NLRC4
+            inflammasome activation in macrophages attenuates ulcerative
+            colitis
+  JOURNAL   J Adv Res 52, 219-232 (2023)
+   PUBMED   37586642
+  REMARK    GeneRIF: Targeting Desulfovibrio vulgaris flagellin-induced
+            NAIP/NLRC4 inflammasome activation in macrophages attenuates
+            ulcerative colitis.
+REFERENCE   2  (bases 1 to 6422)
+  AUTHORS   Hussain,N., Alkhateeb,M.A., Bashir,A., Iqbal,R., Hussain,T.,
+            Aziz,T., Al-Abbas,N.S., Shaer,N.A., Alamri,A.S., Alhomrani,M.,
+            Shakoori,A. and Labban,S.
+  TITLE     Deletions of SMNI gene exon 7 and NAIP gene exon 5 in spinal
+            muscular atrophy patients in selected population
+  JOURNAL   Eur Rev Med Pharmacol Sci 27 (17), 7935-7945 (2023)
+   PUBMED   37750622
+  REMARK    GeneRIF: Deletions of SMNI gene exon 7 and NAIP gene exon 5 in
+            spinal muscular atrophy patients in selected population.
+REFERENCE   3  (bases 1 to 6422)
+  AUTHORS   Xu,W.B., Kotheeranurak,V., Chen,D.Q., Sun,N.K., Cai,D.X.,
+            Chen,C.M., Lin,G.X. and Rui,G.
+  TITLE     Pan-cancer analysis of the intervertebral-disc-degeneration-related
+            innate immunity gene NAIP
+  JOURNAL   PLoS One 18 (6), e0286647 (2023)
+   PUBMED   37267294
+  REMARK    GeneRIF: Pan-cancer analysis of the
+            intervertebral-disc-degeneration-related innate immunity gene NAIP.
+REFERENCE   4  (bases 1 to 6422)
+  AUTHORS   Naseer,N., Zhang,J., Bauer,R., Constant,D.A., Nice,T.J.,
+            Brodsky,I.E., Rauch,I. and Shin,S.
+  TITLE     Salmonella enterica Serovar Typhimurium Induces NAIP/NLRC4- and
+            NLRP3/ASC-Independent, Caspase-4-Dependent Inflammasome Activation
+            in Human Intestinal Epithelial Cells
+  JOURNAL   Infect Immun 90 (7), e0066321 (2022)
+   PUBMED   35678562
+  REMARK    GeneRIF: Salmonella enterica Serovar Typhimurium Induces
+            NAIP/NLRC4- and NLRP3/ASC-Independent, Caspase-4-Dependent
+            Inflammasome Activation in Human Intestinal Epithelial Cells.
+REFERENCE   5  (bases 1 to 6422)
+  AUTHORS   Samperio Ventayol,P., Geiser,P., Di Martino,M.L., Florbrant,A.,
+            Fattinger,S.A., Walder,N., Sima,E., Shao,F., Gekara,N.O.,
+            Sundbom,M., Hardt,W.D., Webb,D.L., Hellstrom,P.M., Eriksson,J. and
+            Sellin,M.E.
+  TITLE     Bacterial detection by NAIP/NLRC4 elicits prompt contractions of
+            intestinal epithelial cell layers
+  JOURNAL   Proc Natl Acad Sci U S A 118 (16) (2021)
+   PUBMED   33846244
+  REMARK    GeneRIF: Bacterial detection by NAIP/NLRC4 elicits prompt
+            contractions of intestinal epithelial cell layers.
+REFERENCE   6  (bases 1 to 6422)
+  AUTHORS   Romanish,M.T., Lock,W.M., van de Lagemaat,L.N., Dunn,C.A. and
+            Mager,D.L.
+  TITLE     Repeated recruitment of LTR retrotransposons as promoters by the
+            anti-apoptotic locus NAIP during mammalian evolution
+  JOURNAL   PLoS Genet 3 (1), e10 (2007)
+   PUBMED   17222062
+  REMARK    GeneRIF: Multiple, domesticated long terminal repeats (LTRs) of
+            endogenous retroviral elements provide NAIP promoter function in
+            human, mouse, and rat.
+REFERENCE   7  (bases 1 to 6422)
+  AUTHORS   Monani,U.R., Lorson,C.L., Parsons,D.W., Prior,T.W., Androphy,E.J.,
+            Burghes,A.H. and McPherson,J.D.
+  TITLE     A single nucleotide difference that alters splicing patterns
+            distinguishes the SMA gene SMN1 from the copy gene SMN2
+  JOURNAL   Hum Mol Genet 8 (7), 1177-1183 (1999)
+   PUBMED   10369862
+REFERENCE   8  (bases 1 to 6422)
+  AUTHORS   Liston,P., Roy,N., Tamai,K., Lefebvre,C., Baird,S.,
+            Cherton-Horvat,G., Farahani,R., McLean,M., Ikeda,J.E., MacKenzie,A.
+            and Korneluk,R.G.
+  TITLE     Suppression of apoptosis in mammalian cells by NAIP and a related
+            family of IAP genes
+  JOURNAL   Nature 379 (6563), 349-353 (1996)
+   PUBMED   8552191
+REFERENCE   9  (bases 1 to 6422)
+  AUTHORS   Roy,N., Mahadevan,M.S., McLean,M., Shutler,G., Yaraghi,Z.,
+            Farahani,R., Baird,S., Besner-Johnston,A., Lefebvre,C., Kang,X. et
+            al.
+  TITLE     The gene for neuronal apoptosis inhibitory protein is partially
+            deleted in individuals with spinal muscular atrophy
+  JOURNAL   Cell 80 (1), 167-178 (1995)
+   PUBMED   7813013
+REFERENCE   10 (bases 1 to 6422)
+  AUTHORS   van der Steege,G., Draaijers,T.G., Grootscholten,P.M., Osinga,J.,
+            Anzevino,R., Velona,I., Den Dunnen,J.T., Scheffer,H., Brahe,C., van
+            Ommen,G.J. et al.
+  TITLE     A provisional transcript map of the spinal muscular atrophy (SMA)
+            critical region
+  JOURNAL   Eur J Hum Genet 3 (2), 87-95 (1995)
+   PUBMED   7552146
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC044797.5.
+            
+            On Nov 21, 2019 this sequence version replaced NM_022892.1.
+            
+            Summary: This gene is part of a 500 kb inverted duplication on
+            chromosome 5q13. This duplicated region contains at least four
+            genes and repetitive elements which make it prone to rearrangements
+            and deletions. The repetitiveness and complexity of the sequence
+            have also caused difficulty in determining the organization of this
+            genomic region. This copy of the gene is full length; additional
+            copies with truncations and internal deletions are also present in
+            this region of chromosome 5q13. It is thought that this gene is a
+            modifier of spinal muscular atrophy caused by mutations in a
+            neighboring gene, SMN1. The protein encoded by this gene contains
+            regions of homology to two baculovirus inhibitor of apoptosis
+            proteins, and it is able to suppress apoptosis induced by various
+            signals. Alternative splicing and the use of alternative promoters
+            results in multiple transcript variants. [provided by RefSeq, Nov
+            2016].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+                              [ECO:0006172]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 5' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-725               AC044797.5         121601-122325       c
+            726-814             AC044797.5         121304-121392       c
+            815-940             AC044797.5         117645-117770       c
+            941-1022            AC044797.5         100762-100843       c
+            1023-1074           AC044797.5         99078-99129         c
+            1075-1194           AC044797.5         98684-98803         c
+            1195-1294           AC044797.5         95710-95809         c
+            1295-1376           AC044797.5         84779-84860         c
+            1377-1434           AC044797.5         83731-83788         c
+            1435-3546           AC044797.5         80761-82872         c
+            3547-3714           AC044797.5         76855-77022         c
+            3715-3867           AC044797.5         73892-74044         c
+            3868-3954           AC044797.5         73146-73232         c
+            3955-4119           AC044797.5         71115-71279         c
+            4120-6422           AC044797.5         65152-67454         c
+FEATURES             Location/Qualifiers
+     source          1..6422
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5q13.2"
+     gene            1..6422
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="NLR family apoptosis inhibitory protein"
+                     /db_xref="GeneID:4671"
+                     /db_xref="HGNC:HGNC:7634"
+                     /db_xref="MIM:600355"
+     exon            1..725
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            726..814
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    744..746
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="upstream in-frame stop codon"
+     CDS             759..4484
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="isoform 2 is encoded by transcript variant 2;
+                     neuronal apoptosis inhibitory protein; nucleotide-binding
+                     oligomerization domain, leucine rich repeat and BIR domain
+                     containing 1; baculoviral IAP repeat-containing protein 1;
+                     psi neuronal apoptosis inhibitory protein"
+                     /codon_start=1
+                     /product="baculoviral IAP repeat-containing protein 1
+                     isoform 2"
+                     /protein_id="NP_075043.1"
+                     /db_xref="CCDS:CCDS43327.1"
+                     /db_xref="GeneID:4671"
+                     /db_xref="HGNC:HGNC:7634"
+                     /db_xref="MIM:600355"
+                     /translation="MPLHIGDFVWDSKVHSLQSSLNIFSLLPTKGRTEHLFFSHILSF
+                     HWPAFSSIRLELWINLRCEFLRSKKSSEEITQYIQSYKGFVDITGEHFVNSWVQRELP
+                     MASAYCNDSIFAYEELRLDSFKDWPRESAVGVAALAKAGLFYTGIKDIVQCFSCGGCL
+                     EKWQEGDDPLDDHTRCFPNCPFLQNMKSSAEVTPDLQSRGELCELLETTSESNLEDSI
+                     AVGPIVPEMAQGEAQWFQEAKNLNEQLRAAYTSASFRHMSLLDISSDLATDHLLGCDL
+                     SIASKHISKPVQEPLVLPEVFGNLNSVMCVEGEAGSGKTVLLKKIAFLWASGCCPLLN
+                     RFQLVFYLSLSSTRPDEGLASIICDQLLEKEGSVTEMCVRNIIQQLKNQVLFLLDDYK
+                     EICSIPQVIGKLIQKNHLSRTCLLIAVRTNRARDIRRYLETILEIKAFPFYNTVCILR
+                     KLFSHNMTRLRKFMVYFGKNQSLQKIQKTPLFVAAICAHWFQYPFDPSFDDVAVFKSY
+                     MERLSLRNKATAEILKATVSSCGELALKGFFSCCFEFNDDDLAEAGVDEDEDLTMCLM
+                     SKFTAQRLRPFYRFLSPAFQEFLAGMRLIELLDSDRQEHQDLGLYHLKQINSPMMTVS
+                     AYNNFLNYVSSLPSTKAGPKIVSHLLHLVDNKESLENISENDDYLKHQPEISLQMQLL
+                     RGLWQICPQAYFSMVSEHLLVLALKTAYQSNTVAACSPFVLQFLQGRTLTLGALNLQY
+                     FFDHPESLSLLRSIHFPIRGNKTSPRAHFSVLETCFDKSQVPTIDQDYASAFEPMNEW
+                     ERNLAEKEDNVKSYMDMQRRASPDLSTGYWKLSPKQYKIPCLEVDVNDIDVVGQDMLE
+                     ILMTVFSASQRIELHLNHSRGFIESIRPALELSKASVTKCSISKLELSAAEQELLLTL
+                     PSLESLEVSGTIQSQDQIFPNLDKFLCLKELSVDLEGNINVFSVIPEEFPNFHHMEKL
+                     LIQISAEYDPSKLVKLIQNSPNLHVFHLKCNFFSDFGSLMTMLVSCKKLTEIKFSDSF
+                     FQAVPFVASLPNFISLKILNLEGQQFPDEETSEKFAYILGSLSNLEELILPTGDGIYR
+                     VAKLIIQQCQQLHCLRVLSFFKTLNDDSVVEIAKVAISGGFQKLENLKLSINHKITEE
+                     GYRNFFQALDNMPNLQELDISRHFTECIKAQATTVKSLSQCVLRLPRLIRLNMLSWLL
+                     DADDIALLNVMKERHPQSKYLTILQKWILPFSPIIQK"
+     exon            815..940
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            941..1022
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1023..1074
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1075..1194
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1195..1294
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1295..1376
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1377..1434
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1435..3546
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3547..3714
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3715..3867
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3868..3954
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3955..4119
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4120..6422
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 caacatcagg taaaagtaca gactagccag atcactggtt aaccttaacc cctatgtgct
+       61 tgagtttcct tatctgtaat atggagatga tatagcaata gctgattttg gactgttaaa
+      121 ggaattaagt ggacacatgt aaagtgctta gaattgtgcc tggcaagtag taggctgcaa
+      181 tattgtgata taataaatat atatatttga tcttcatcca gttcctggca cagatctcca
+      241 gaaacccttg taatttcctg agtgacaggg gtgatagaaa catcttttat tagaatactt
+      301 ggtcttggtt cctgacacaa gagcttctaa gacctttgga atctccaagt gataagagtg
+      361 tatgacagtg agctaactgg tggctgggat cctttagaca acttcaggat gggggctatc
+      421 ccctgaaaga ctaaggcatg attagaggtc tgggatttgc agccccacgc ctcgacctcc
+      481 agagagggta aaagggctgg agattgatta accaccagtt gccagtgatt taaccaatca
+      541 tgcctaagtg atggcacctc cattaaaaaa taaaccacag gtttggagag ctttcggttt
+      601 ggttaacccc aaccacatac caagaaggcg atgcacctca aactgcatga agacaaaagg
+      661 tcctgtgctc acctgggacc cttctggacg ttgccctgtg tacctcttcg actgcctgtt
+      721 catctacgac gaaccccggg tattgacccc agacaacaat gccacttcat attggggact
+      781 tcgtctggga ttccaaggtg cattcattgc aaagttcctt aaatattttc tcactgcttc
+      841 ctactaaagg acggacagag catttgttct tcagccacat actttccttc cactggccag
+      901 cattctcctc tattagacta gaactgtgga taaacctcag atgtgaattt cttcggagta
+      961 agaaatcctc agaggaaatt acccagtata ttcaaagcta caagggattt gttgacataa
+     1021 cgggagaaca ttttgtgaat tcctgggtcc agagagaatt acctatggca tcagcttatt
+     1081 gcaatgacag catctttgct tacgaagaac tacggctgga ctcttttaag gactggcccc
+     1141 gggaatcagc tgtgggagtt gcagcactgg ccaaagcagg tcttttctac acaggtataa
+     1201 aggacatcgt ccagtgcttt tcctgtggag ggtgtttaga gaaatggcag gaaggtgatg
+     1261 acccattaga cgatcacacc agatgttttc ccaattgtcc atttctccaa aatatgaagt
+     1321 cctctgcgga agtgactcca gaccttcaga gccgtggtga actttgtgaa ttactggaaa
+     1381 ccacaagtga aagcaatctt gaagattcaa tagcagttgg tcctatagtg ccagaaatgg
+     1441 cacagggtga agcccagtgg tttcaagagg caaagaatct gaatgagcag ctgagagcag
+     1501 cttataccag cgccagtttc cgccacatgt ctttgcttga tatctcttcc gatctggcca
+     1561 cggaccactt gctgggctgt gatctgtcta ttgcttcaaa acacatcagc aaacctgtgc
+     1621 aagaacctct ggtgctgcct gaggtctttg gcaacttgaa ctctgtcatg tgtgtggagg
+     1681 gtgaagctgg aagtggaaag acggtcctcc tgaagaaaat agcttttctg tgggcatctg
+     1741 gatgctgtcc cctgttaaac aggttccagc tggttttcta cctctccctt agttccacca
+     1801 gaccagacga ggggctggcc agtatcatct gtgaccagct cctagagaaa gaaggatctg
+     1861 ttactgaaat gtgcgtgagg aacattatcc agcagttaaa gaatcaggtc ttattccttt
+     1921 tagatgacta caaagaaata tgttcaatcc ctcaagtcat aggaaaactg attcaaaaaa
+     1981 accacttatc ccggacctgc ctattgattg ctgtccgtac aaacagggcc agggacatcc
+     2041 gccgatacct agagaccatt ctagagatca aagcatttcc cttttataat actgtctgta
+     2101 tattacggaa gctcttttca cataatatga ctcgtctgcg aaagtttatg gtttactttg
+     2161 gaaagaacca aagtttgcag aagatacaga aaactcctct ctttgtggcg gcgatctgtg
+     2221 ctcattggtt tcagtatcct tttgacccat cctttgatga tgtggctgtt ttcaagtcct
+     2281 atatggaacg cctttcctta aggaacaaag cgacagctga aattctcaaa gcaactgtgt
+     2341 cctcctgtgg tgagctggcc ttgaaagggt ttttttcatg ttgctttgag tttaatgatg
+     2401 atgatctcgc agaagcaggg gttgatgaag atgaagatct aaccatgtgc ttgatgagca
+     2461 aatttacagc ccagagacta agaccattct accggttttt aagtcctgcc ttccaagaat
+     2521 ttcttgcggg gatgaggctg attgaactcc tggattcaga taggcaggaa catcaagatt
+     2581 tgggactgta tcatttgaaa caaatcaact cacccatgat gactgtaagc gcctacaaca
+     2641 attttttgaa ctatgtctcc agcctccctt caacaaaagc agggcccaaa attgtgtctc
+     2701 atttgctcca tttagtggat aacaaagagt cattggagaa tatatctgaa aatgatgact
+     2761 acttaaagca ccagccagaa atttcactgc agatgcagtt acttagggga ttgtggcaaa
+     2821 tttgtccaca agcttacttt tcaatggttt cagaacattt actggttctt gccctgaaaa
+     2881 ctgcttatca aagcaacact gttgctgcgt gttctccatt tgttttgcaa ttccttcaag
+     2941 ggagaacact gactttgggt gcgcttaact tacagtactt tttcgaccac ccagaaagct
+     3001 tgtcattgtt gaggagcatc cacttcccaa tacgaggaaa taagacatca cccagagcac
+     3061 atttttcagt tctggaaaca tgttttgaca aatcacaggt gccaactata gatcaggact
+     3121 atgcttctgc ctttgaacct atgaatgaat gggagcgaaa tttagctgaa aaagaggata
+     3181 atgtaaagag ctatatggat atgcagcgca gggcatcacc agaccttagt actggctatt
+     3241 ggaaactttc tccaaagcag tacaagattc cctgtctaga agtcgatgtg aatgatattg
+     3301 atgttgtagg ccaggatatg cttgagattc taatgacagt tttctcagct tcacagcgca
+     3361 tcgaactcca tttaaaccac agcagaggct ttatagaaag catccgccca gctcttgagc
+     3421 tgtctaaggc ctctgtcacc aagtgctcca taagcaagtt ggaactcagc gcagccgaac
+     3481 aggaactgct tctcaccctg ccttccctgg aatctcttga agtctcaggg acaatccagt
+     3541 cacaagacca aatctttcct aatctggata agttcctgtg cctgaaagaa ctgtctgtgg
+     3601 atctggaggg caatataaat gttttttcag tcattcctga agaatttcca aacttccacc
+     3661 atatggagaa attattgatc caaatttcag ctgagtatga tccttccaaa ctagtaaaat
+     3721 taattcaaaa ttctccaaac cttcatgttt tccatctgaa gtgtaacttc ttttcggatt
+     3781 ttgggtctct catgactatg cttgtttcct gtaagaaact cacagaaatt aagttttcgg
+     3841 attcattttt tcaagccgtc ccatttgttg ccagtttgcc aaattttatt tctctgaaga
+     3901 tattaaatct tgaaggccag caatttcctg atgaggaaac atcagaaaaa tttgcctaca
+     3961 ttttaggttc tcttagtaac ctggaagaat tgatccttcc tactggggat ggaatttatc
+     4021 gagtggccaa actgatcatc cagcagtgtc agcagcttca ttgtctccga gtcctctcat
+     4081 ttttcaagac tttgaatgat gacagcgtgg tggaaattgc caaagtagca atcagtggag
+     4141 gtttccagaa acttgagaac ctaaagcttt caatcaatca caagattaca gaggaaggat
+     4201 acagaaattt ctttcaagca ctggacaaca tgccaaactt gcaggagttg gacatctcca
+     4261 ggcatttcac agagtgtatc aaagctcagg ccacaacagt caagtctttg agtcaatgtg
+     4321 tgttacgact accaaggctc attagactga acatgttaag ttggctcttg gatgcagatg
+     4381 atattgcatt gcttaatgtc atgaaagaaa gacatcctca atctaagtac ttaactattc
+     4441 tccagaaatg gatactgccg ttctctccaa tcattcagaa ataaaagatt cagctaaaaa
+     4501 ctgctgaatc aataatttgt cttggggcat attgaggatg taaaaaaagt tgttgattaa
+     4561 tgctaaaaac caaattatcc aaaattattt tattaaatat tgcatacaaa agaaaatgtg
+     4621 taaggcttgc taaaaaacaa aacaaaacaa aacacagtcc tgcatactca ccaccaagct
+     4681 caagaaataa atcatcacca atacctttga ggtccctgag taatccaccc cagctaaagg
+     4741 caaacccttc aatcaagttt atacagcaaa ccctccattg tccatggtca acagggaagg
+     4801 ggttggggac aggtctgcca atctatctaa aagccacaat atggaagaag tattcaattt
+     4861 atataataaa tggctaactt aacggttgaa tcactttcat acatggatga aacgggttta
+     4921 acacaggatc cacatgaatc ttctgtgggc caagagatgt tccttaatcc ttgtagaacc
+     4981 tgttttctat attgaactag ctttggtaca gtagagttaa cttactttcc atttatccac
+     5041 tgccaatata aagaggaaac aggggttagg gaaaaatgac ttcattccag aggcttctca
+     5101 gagttcaaca tatgctataa tttagaattt tcttatgaat ccactctact tgggtagaaa
+     5161 atattttatc tctagtgatt gcatattatt tccatatcat agtatttcat agtattatat
+     5221 ttgatatgag tgtctatatc aatgtcagtg tccagaattt cgttcctacc agttaagtag
+     5281 ttttctgaac ggccagaaga ccattcgaaa ttcatgatac tactataagt tggtaaacaa
+     5341 ccatactttt atcctcattt ttattctcac taagaaaaaa gtcaactccc ctccccttgc
+     5401 ccaagtatga aatataggga cagtatgtat ggtgtggtct catttgttta gaaaaccact
+     5461 tatgactggg tgcggtggct cacacctgta atcccagcac tttgggaggc tgaggcgggc
+     5521 gaatcatttg aggtgaggaa ttcgagacca gcctggccag catggtgaaa ccccatctct
+     5581 actaaaaata caaaaattag ccaggtgtgg tggcacatgc ctgtagtccc agccactagg
+     5641 gcggctgaga cgcaagactt gcttgaaccc gggaggcaga ggttgcagtg agccaagatg
+     5701 gcgccactgc attccagcct gggcaacaga gcaagaccct gtctgtctca aaacaaaaaa
+     5761 caaaaccact tatattgcta gctacattaa gaatttctga atatgttact gagcttgctt
+     5821 gtggtaacca tttataatat cagaaagtat atgtacacca aaacatgttg aacatccatg
+     5881 ttgtacaact gaaatataaa taattttgtc aattatacct aaataaaact ggaaaaaaat
+     5941 ttctggaagt ttatatctaa aaatgttaat agtgcgtacc tctaggaagt gggcctggaa
+     6001 gccattctta cttttcagtc tctcccattc tgtactgttt tttgttttac tttcgtgcct
+     6061 gcattatttt tctatttaaa acaaaaataa atctagttta gcactaaaat attaactgga
+     6121 gctacctctg gagggcaaga gtactagaag gtgggatgga ttgtcttctt gcttgtctga
+     6181 ttttatatgt aatacctttg taattagaaa ggttgttaag cattatatca gaatccagtc
+     6241 aggagacaga aaccacacag aaatttgaat ggggaaagtt taatatacag atgctcggcc
+     6301 tgacgcagtg gctcacgcct gtaattccag cactttggga ggccgaggtg ggcagatcac
+     6361 ttgaggtcag gagttcgaga ccagcctggc caacatggtg aaatcctgtc tctactaaaa
+     6421 at
+//
+
+LOCUS       NM_001346870            6840 bp    mRNA    linear   PRI 29-APR-2025
+DEFINITION  Homo sapiens NLR family apoptosis inhibitory protein (NAIP),
+            transcript variant 3, mRNA.
+ACCESSION   NM_001346870
+VERSION     NM_001346870.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6840)
+  AUTHORS   An,Y., Zhai,Z., Wang,X., Ding,Y., He,L., Li,L., Mo,Q., Mu,C.,
+            Xie,R., Liu,T., Zhong,W., Wang,B. and Cao,H.
+  TITLE     Targeting Desulfovibrio vulgaris flagellin-induced NAIP/NLRC4
+            inflammasome activation in macrophages attenuates ulcerative
+            colitis
+  JOURNAL   J Adv Res 52, 219-232 (2023)
+   PUBMED   37586642
+  REMARK    GeneRIF: Targeting Desulfovibrio vulgaris flagellin-induced
+            NAIP/NLRC4 inflammasome activation in macrophages attenuates
+            ulcerative colitis.
+REFERENCE   2  (bases 1 to 6840)
+  AUTHORS   Hussain,N., Alkhateeb,M.A., Bashir,A., Iqbal,R., Hussain,T.,
+            Aziz,T., Al-Abbas,N.S., Shaer,N.A., Alamri,A.S., Alhomrani,M.,
+            Shakoori,A. and Labban,S.
+  TITLE     Deletions of SMNI gene exon 7 and NAIP gene exon 5 in spinal
+            muscular atrophy patients in selected population
+  JOURNAL   Eur Rev Med Pharmacol Sci 27 (17), 7935-7945 (2023)
+   PUBMED   37750622
+  REMARK    GeneRIF: Deletions of SMNI gene exon 7 and NAIP gene exon 5 in
+            spinal muscular atrophy patients in selected population.
+REFERENCE   3  (bases 1 to 6840)
+  AUTHORS   Xu,W.B., Kotheeranurak,V., Chen,D.Q., Sun,N.K., Cai,D.X.,
+            Chen,C.M., Lin,G.X. and Rui,G.
+  TITLE     Pan-cancer analysis of the intervertebral-disc-degeneration-related
+            innate immunity gene NAIP
+  JOURNAL   PLoS One 18 (6), e0286647 (2023)
+   PUBMED   37267294
+  REMARK    GeneRIF: Pan-cancer analysis of the
+            intervertebral-disc-degeneration-related innate immunity gene NAIP.
+REFERENCE   4  (bases 1 to 6840)
+  AUTHORS   Naseer,N., Zhang,J., Bauer,R., Constant,D.A., Nice,T.J.,
+            Brodsky,I.E., Rauch,I. and Shin,S.
+  TITLE     Salmonella enterica Serovar Typhimurium Induces NAIP/NLRC4- and
+            NLRP3/ASC-Independent, Caspase-4-Dependent Inflammasome Activation
+            in Human Intestinal Epithelial Cells
+  JOURNAL   Infect Immun 90 (7), e0066321 (2022)
+   PUBMED   35678562
+  REMARK    GeneRIF: Salmonella enterica Serovar Typhimurium Induces
+            NAIP/NLRC4- and NLRP3/ASC-Independent, Caspase-4-Dependent
+            Inflammasome Activation in Human Intestinal Epithelial Cells.
+REFERENCE   5  (bases 1 to 6840)
+  AUTHORS   Samperio Ventayol,P., Geiser,P., Di Martino,M.L., Florbrant,A.,
+            Fattinger,S.A., Walder,N., Sima,E., Shao,F., Gekara,N.O.,
+            Sundbom,M., Hardt,W.D., Webb,D.L., Hellstrom,P.M., Eriksson,J. and
+            Sellin,M.E.
+  TITLE     Bacterial detection by NAIP/NLRC4 elicits prompt contractions of
+            intestinal epithelial cell layers
+  JOURNAL   Proc Natl Acad Sci U S A 118 (16) (2021)
+   PUBMED   33846244
+  REMARK    GeneRIF: Bacterial detection by NAIP/NLRC4 elicits prompt
+            contractions of intestinal epithelial cell layers.
+REFERENCE   6  (bases 1 to 6840)
+  AUTHORS   Romanish,M.T., Lock,W.M., van de Lagemaat,L.N., Dunn,C.A. and
+            Mager,D.L.
+  TITLE     Repeated recruitment of LTR retrotransposons as promoters by the
+            anti-apoptotic locus NAIP during mammalian evolution
+  JOURNAL   PLoS Genet 3 (1), e10 (2007)
+   PUBMED   17222062
+  REMARK    GeneRIF: Multiple, domesticated long terminal repeats (LTRs) of
+            endogenous retroviral elements provide NAIP promoter function in
+            human, mouse, and rat.
+REFERENCE   7  (bases 1 to 6840)
+  AUTHORS   Monani,U.R., Lorson,C.L., Parsons,D.W., Prior,T.W., Androphy,E.J.,
+            Burghes,A.H. and McPherson,J.D.
+  TITLE     A single nucleotide difference that alters splicing patterns
+            distinguishes the SMA gene SMN1 from the copy gene SMN2
+  JOURNAL   Hum Mol Genet 8 (7), 1177-1183 (1999)
+   PUBMED   10369862
+REFERENCE   8  (bases 1 to 6840)
+  AUTHORS   Liston,P., Roy,N., Tamai,K., Lefebvre,C., Baird,S.,
+            Cherton-Horvat,G., Farahani,R., McLean,M., Ikeda,J.E., MacKenzie,A.
+            and Korneluk,R.G.
+  TITLE     Suppression of apoptosis in mammalian cells by NAIP and a related
+            family of IAP genes
+  JOURNAL   Nature 379 (6563), 349-353 (1996)
+   PUBMED   8552191
+REFERENCE   9  (bases 1 to 6840)
+  AUTHORS   Roy,N., Mahadevan,M.S., McLean,M., Shutler,G., Yaraghi,Z.,
+            Farahani,R., Baird,S., Besner-Johnston,A., Lefebvre,C., Kang,X. et
+            al.
+  TITLE     The gene for neuronal apoptosis inhibitory protein is partially
+            deleted in individuals with spinal muscular atrophy
+  JOURNAL   Cell 80 (1), 167-178 (1995)
+   PUBMED   7813013
+REFERENCE   10 (bases 1 to 6840)
+  AUTHORS   van der Steege,G., Draaijers,T.G., Grootscholten,P.M., Osinga,J.,
+            Anzevino,R., Velona,I., Den Dunnen,J.T., Scheffer,H., Brahe,C., van
+            Ommen,G.J. et al.
+  TITLE     A provisional transcript map of the spinal muscular atrophy (SMA)
+            critical region
+  JOURNAL   Eur J Hum Genet 3 (2), 87-95 (1995)
+   PUBMED   7552146
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC044797.5.
+            
+            On Nov 21, 2019 this sequence version replaced NM_001346870.1.
+            
+            Summary: This gene is part of a 500 kb inverted duplication on
+            chromosome 5q13. This duplicated region contains at least four
+            genes and repetitive elements which make it prone to rearrangements
+            and deletions. The repetitiveness and complexity of the sequence
+            have also caused difficulty in determining the organization of this
+            genomic region. This copy of the gene is full length; additional
+            copies with truncations and internal deletions are also present in
+            this region of chromosome 5q13. It is thought that this gene is a
+            modifier of spinal muscular atrophy caused by mutations in a
+            neighboring gene, SMN1. The protein encoded by this gene contains
+            regions of homology to two baculovirus inhibitor of apoptosis
+            proteins, and it is able to suppress apoptosis induced by various
+            signals. Alternative splicing and the use of alternative promoters
+            results in multiple transcript variants. [provided by RefSeq, Nov
+            2016].
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            CDS exon combination :: BC136273.1 [ECO:0000331]
+            RNAseq introns       :: mixed sample support SAMEA1965299,
+                                    SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-430               AC044797.5         120102-120531       c
+            431-561             AC044797.5         118586-118716       c
+            562-687             AC044797.5         117645-117770       c
+            688-1258            AC044797.5         109334-109904       c
+            1259-1358           AC044797.5         108261-108360       c
+            1359-1440           AC044797.5         100762-100843       c
+            1441-1492           AC044797.5         99078-99129         c
+            1493-1612           AC044797.5         98684-98803         c
+            1613-1712           AC044797.5         95710-95809         c
+            1713-1794           AC044797.5         84779-84860         c
+            1795-1852           AC044797.5         83731-83788         c
+            1853-3964           AC044797.5         80761-82872         c
+            3965-4132           AC044797.5         76855-77022         c
+            4133-4285           AC044797.5         73892-74044         c
+            4286-4372           AC044797.5         73146-73232         c
+            4373-4537           AC044797.5         71115-71279         c
+            4538-6840           AC044797.5         65152-67454         c
+FEATURES             Location/Qualifiers
+     source          1..6840
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5q13.2"
+     gene            1..6840
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="NLR family apoptosis inhibitory protein"
+                     /db_xref="GeneID:4671"
+                     /db_xref="HGNC:HGNC:7634"
+                     /db_xref="MIM:600355"
+     exon            1..430
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            431..561
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            562..687
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    661..663
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="upstream in-frame stop codon"
+     exon            688..1258
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             691..4902
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="isoform 1 is encoded by transcript variant 3;
+                     neuronal apoptosis inhibitory protein; nucleotide-binding
+                     oligomerization domain, leucine rich repeat and BIR domain
+                     containing 1; baculoviral IAP repeat-containing protein 1;
+                     psi neuronal apoptosis inhibitory protein"
+                     /codon_start=1
+                     /product="baculoviral IAP repeat-containing protein 1
+                     isoform 1"
+                     /protein_id="NP_001333799.1"
+                     /db_xref="CCDS:CCDS4009.1"
+                     /db_xref="GeneID:4671"
+                     /db_xref="HGNC:HGNC:7634"
+                     /db_xref="MIM:600355"
+                     /translation="MATQQKASDERISQFDHNLLPELSALLGLDAVQLAKELEEEEQK
+                     ERAKMQKGYNSQMRSEAKRLKTFVTYEPYSSWIPQEMAAAGFYFTGVKSGIQCFCCSL
+                     ILFGAGLTRLPIEDHKRFHPDCGFLLNKDVGNIAKYDIRVKNLKSRLRGGKMRYQEEE
+                     ARLASFRNWPFYVQGISPCVLSEAGFVFTGKQDTVQCFSCGGCLGNWEEGDDPWKEHA
+                     KWFPKCEFLRSKKSSEEITQYIQSYKGFVDITGEHFVNSWVQRELPMASAYCNDSIFA
+                     YEELRLDSFKDWPRESAVGVAALAKAGLFYTGIKDIVQCFSCGGCLEKWQEGDDPLDD
+                     HTRCFPNCPFLQNMKSSAEVTPDLQSRGELCELLETTSESNLEDSIAVGPIVPEMAQG
+                     EAQWFQEAKNLNEQLRAAYTSASFRHMSLLDISSDLATDHLLGCDLSIASKHISKPVQ
+                     EPLVLPEVFGNLNSVMCVEGEAGSGKTVLLKKIAFLWASGCCPLLNRFQLVFYLSLSS
+                     TRPDEGLASIICDQLLEKEGSVTEMCVRNIIQQLKNQVLFLLDDYKEICSIPQVIGKL
+                     IQKNHLSRTCLLIAVRTNRARDIRRYLETILEIKAFPFYNTVCILRKLFSHNMTRLRK
+                     FMVYFGKNQSLQKIQKTPLFVAAICAHWFQYPFDPSFDDVAVFKSYMERLSLRNKATA
+                     EILKATVSSCGELALKGFFSCCFEFNDDDLAEAGVDEDEDLTMCLMSKFTAQRLRPFY
+                     RFLSPAFQEFLAGMRLIELLDSDRQEHQDLGLYHLKQINSPMMTVSAYNNFLNYVSSL
+                     PSTKAGPKIVSHLLHLVDNKESLENISENDDYLKHQPEISLQMQLLRGLWQICPQAYF
+                     SMVSEHLLVLALKTAYQSNTVAACSPFVLQFLQGRTLTLGALNLQYFFDHPESLSLLR
+                     SIHFPIRGNKTSPRAHFSVLETCFDKSQVPTIDQDYASAFEPMNEWERNLAEKEDNVK
+                     SYMDMQRRASPDLSTGYWKLSPKQYKIPCLEVDVNDIDVVGQDMLEILMTVFSASQRI
+                     ELHLNHSRGFIESIRPALELSKASVTKCSISKLELSAAEQELLLTLPSLESLEVSGTI
+                     QSQDQIFPNLDKFLCLKELSVDLEGNINVFSVIPEEFPNFHHMEKLLIQISAEYDPSK
+                     LVKLIQNSPNLHVFHLKCNFFSDFGSLMTMLVSCKKLTEIKFSDSFFQAVPFVASLPN
+                     FISLKILNLEGQQFPDEETSEKFAYILGSLSNLEELILPTGDGIYRVAKLIIQQCQQL
+                     HCLRVLSFFKTLNDDSVVEIAKVAISGGFQKLENLKLSINHKITEEGYRNFFQALDNM
+                     PNLQELDISRHFTECIKAQATTVKSLSQCVLRLPRLIRLNMLSWLLDADDIALLNVMK
+                     ERHPQSKYLTILQKWILPFSPIIQK"
+     misc_feature    868..1071
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13075.3);
+                     Region: BIR 1"
+     misc_feature    1165..1371
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13075.3);
+                     Region: BIR 2"
+     misc_feature    1522..1725
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13075.3);
+                     Region: BIR 3"
+     exon            1259..1358
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1359..1440
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1441..1492
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1493..1612
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1613..1712
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1713..1794
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1795..1852
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1853..3964
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3965..4132
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4133..4285
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4286..4372
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4373..4537
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4538..6840
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 gcaaatcaga cgccgcctcc tcaggcctac ctataaaatc tggtgcagtc caccgcaggc
+       61 cggattttcc tttcggaagc ccctcacaag ggagagatct gttctcgttt ttctttcttt
+      121 tgcctattaa acctctgctc ctaaactccc ccaaccccca agaaagaaat tatcgaacct
+      181 gagggggttg cagataccca tgatttgtag tgaactcaga cagaagtgtg ggtaccctga
+      241 ggtcctaata gttgtggctg gcatctgaag tagggggcag tcttgggggc tgagccccta
+      301 acccgtgggg tctgcactaa ctctggttaa ttagcatcag aattgagtaa aattgtaaga
+      361 cactcagctg ctgtctgtgg agaattggag aattggttgg tggaaaaccc atatatttga
+      421 tgtcagaaat attggagaac cggaatataa aggagaggac agctgggtgc ggtggctcac
+      481 acctgtcatc ccagcatttt gggaggctga ggccggcaga tcacttgagc ccgggagttt
+      541 gagaccagcc tgggcaacaa gttccttaaa tattttctca ctgcttccta ctaaaggacg
+      601 gacagagcat ttgttcttca gccacatact ttccttccac tggccagcat tctcctctat
+      661 tagactagaa ctgtggataa acctcagaaa atggccaccc agcagaaagc ctctgacgag
+      721 aggatctccc agtttgatca caatttgctg ccagagctgt ctgctcttct gggcctagat
+      781 gcagttcagt tggcaaagga actagaagaa gaggagcaga aggagcgagc aaaaatgcag
+      841 aaaggctaca actctcaaat gcgcagtgaa gcaaaaaggt taaagacttt tgtgacttat
+      901 gagccgtaca gctcatggat accacaggag atggcggccg ctgggtttta cttcactggg
+      961 gtaaaatctg ggattcagtg cttctgctgt agcctaatcc tctttggtgc cggcctcacg
+     1021 agactcccca tagaagacca caagaggttt catccagatt gtgggttcct tttgaacaag
+     1081 gatgttggta acattgccaa gtacgacata agggtgaaga atctgaagag caggctgaga
+     1141 ggaggtaaaa tgaggtacca agaagaggag gctagacttg cgtccttcag gaactggcca
+     1201 ttttatgtcc aagggatatc cccttgtgtg ctctcagagg ctggctttgt ctttacaggt
+     1261 aaacaggaca cggtacagtg tttttcctgt ggtggatgtt taggaaattg ggaagaagga
+     1321 gatgatcctt ggaaggaaca tgccaaatgg ttccccaaat gtgaatttct tcggagtaag
+     1381 aaatcctcag aggaaattac ccagtatatt caaagctaca agggatttgt tgacataacg
+     1441 ggagaacatt ttgtgaattc ctgggtccag agagaattac ctatggcatc agcttattgc
+     1501 aatgacagca tctttgctta cgaagaacta cggctggact cttttaagga ctggccccgg
+     1561 gaatcagctg tgggagttgc agcactggcc aaagcaggtc ttttctacac aggtataaag
+     1621 gacatcgtcc agtgcttttc ctgtggaggg tgtttagaga aatggcagga aggtgatgac
+     1681 ccattagacg atcacaccag atgttttccc aattgtccat ttctccaaaa tatgaagtcc
+     1741 tctgcggaag tgactccaga ccttcagagc cgtggtgaac tttgtgaatt actggaaacc
+     1801 acaagtgaaa gcaatcttga agattcaata gcagttggtc ctatagtgcc agaaatggca
+     1861 cagggtgaag cccagtggtt tcaagaggca aagaatctga atgagcagct gagagcagct
+     1921 tataccagcg ccagtttccg ccacatgtct ttgcttgata tctcttccga tctggccacg
+     1981 gaccacttgc tgggctgtga tctgtctatt gcttcaaaac acatcagcaa acctgtgcaa
+     2041 gaacctctgg tgctgcctga ggtctttggc aacttgaact ctgtcatgtg tgtggagggt
+     2101 gaagctggaa gtggaaagac ggtcctcctg aagaaaatag cttttctgtg ggcatctgga
+     2161 tgctgtcccc tgttaaacag gttccagctg gttttctacc tctcccttag ttccaccaga
+     2221 ccagacgagg ggctggccag tatcatctgt gaccagctcc tagagaaaga aggatctgtt
+     2281 actgaaatgt gcgtgaggaa cattatccag cagttaaaga atcaggtctt attcctttta
+     2341 gatgactaca aagaaatatg ttcaatccct caagtcatag gaaaactgat tcaaaaaaac
+     2401 cacttatccc ggacctgcct attgattgct gtccgtacaa acagggccag ggacatccgc
+     2461 cgatacctag agaccattct agagatcaaa gcatttccct tttataatac tgtctgtata
+     2521 ttacggaagc tcttttcaca taatatgact cgtctgcgaa agtttatggt ttactttgga
+     2581 aagaaccaaa gtttgcagaa gatacagaaa actcctctct ttgtggcggc gatctgtgct
+     2641 cattggtttc agtatccttt tgacccatcc tttgatgatg tggctgtttt caagtcctat
+     2701 atggaacgcc tttccttaag gaacaaagcg acagctgaaa ttctcaaagc aactgtgtcc
+     2761 tcctgtggtg agctggcctt gaaagggttt ttttcatgtt gctttgagtt taatgatgat
+     2821 gatctcgcag aagcaggggt tgatgaagat gaagatctaa ccatgtgctt gatgagcaaa
+     2881 tttacagccc agagactaag accattctac cggtttttaa gtcctgcctt ccaagaattt
+     2941 cttgcgggga tgaggctgat tgaactcctg gattcagata ggcaggaaca tcaagatttg
+     3001 ggactgtatc atttgaaaca aatcaactca cccatgatga ctgtaagcgc ctacaacaat
+     3061 tttttgaact atgtctccag cctcccttca acaaaagcag ggcccaaaat tgtgtctcat
+     3121 ttgctccatt tagtggataa caaagagtca ttggagaata tatctgaaaa tgatgactac
+     3181 ttaaagcacc agccagaaat ttcactgcag atgcagttac ttaggggatt gtggcaaatt
+     3241 tgtccacaag cttacttttc aatggtttca gaacatttac tggttcttgc cctgaaaact
+     3301 gcttatcaaa gcaacactgt tgctgcgtgt tctccatttg ttttgcaatt ccttcaaggg
+     3361 agaacactga ctttgggtgc gcttaactta cagtactttt tcgaccaccc agaaagcttg
+     3421 tcattgttga ggagcatcca cttcccaata cgaggaaata agacatcacc cagagcacat
+     3481 ttttcagttc tggaaacatg ttttgacaaa tcacaggtgc caactataga tcaggactat
+     3541 gcttctgcct ttgaacctat gaatgaatgg gagcgaaatt tagctgaaaa agaggataat
+     3601 gtaaagagct atatggatat gcagcgcagg gcatcaccag accttagtac tggctattgg
+     3661 aaactttctc caaagcagta caagattccc tgtctagaag tcgatgtgaa tgatattgat
+     3721 gttgtaggcc aggatatgct tgagattcta atgacagttt tctcagcttc acagcgcatc
+     3781 gaactccatt taaaccacag cagaggcttt atagaaagca tccgcccagc tcttgagctg
+     3841 tctaaggcct ctgtcaccaa gtgctccata agcaagttgg aactcagcgc agccgaacag
+     3901 gaactgcttc tcaccctgcc ttccctggaa tctcttgaag tctcagggac aatccagtca
+     3961 caagaccaaa tctttcctaa tctggataag ttcctgtgcc tgaaagaact gtctgtggat
+     4021 ctggagggca atataaatgt tttttcagtc attcctgaag aatttccaaa cttccaccat
+     4081 atggagaaat tattgatcca aatttcagct gagtatgatc cttccaaact agtaaaatta
+     4141 attcaaaatt ctccaaacct tcatgttttc catctgaagt gtaacttctt ttcggatttt
+     4201 gggtctctca tgactatgct tgtttcctgt aagaaactca cagaaattaa gttttcggat
+     4261 tcattttttc aagccgtccc atttgttgcc agtttgccaa attttatttc tctgaagata
+     4321 ttaaatcttg aaggccagca atttcctgat gaggaaacat cagaaaaatt tgcctacatt
+     4381 ttaggttctc ttagtaacct ggaagaattg atccttccta ctggggatgg aatttatcga
+     4441 gtggccaaac tgatcatcca gcagtgtcag cagcttcatt gtctccgagt cctctcattt
+     4501 ttcaagactt tgaatgatga cagcgtggtg gaaattgcca aagtagcaat cagtggaggt
+     4561 ttccagaaac ttgagaacct aaagctttca atcaatcaca agattacaga ggaaggatac
+     4621 agaaatttct ttcaagcact ggacaacatg ccaaacttgc aggagttgga catctccagg
+     4681 catttcacag agtgtatcaa agctcaggcc acaacagtca agtctttgag tcaatgtgtg
+     4741 ttacgactac caaggctcat tagactgaac atgttaagtt ggctcttgga tgcagatgat
+     4801 attgcattgc ttaatgtcat gaaagaaaga catcctcaat ctaagtactt aactattctc
+     4861 cagaaatgga tactgccgtt ctctccaatc attcagaaat aaaagattca gctaaaaact
+     4921 gctgaatcaa taatttgtct tggggcatat tgaggatgta aaaaaagttg ttgattaatg
+     4981 ctaaaaacca aattatccaa aattatttta ttaaatattg catacaaaag aaaatgtgta
+     5041 aggcttgcta aaaaacaaaa caaaacaaaa cacagtcctg catactcacc accaagctca
+     5101 agaaataaat catcaccaat acctttgagg tccctgagta atccacccca gctaaaggca
+     5161 aacccttcaa tcaagtttat acagcaaacc ctccattgtc catggtcaac agggaagggg
+     5221 ttggggacag gtctgccaat ctatctaaaa gccacaatat ggaagaagta ttcaatttat
+     5281 ataataaatg gctaacttaa cggttgaatc actttcatac atggatgaaa cgggtttaac
+     5341 acaggatcca catgaatctt ctgtgggcca agagatgttc cttaatcctt gtagaacctg
+     5401 ttttctatat tgaactagct ttggtacagt agagttaact tactttccat ttatccactg
+     5461 ccaatataaa gaggaaacag gggttaggga aaaatgactt cattccagag gcttctcaga
+     5521 gttcaacata tgctataatt tagaattttc ttatgaatcc actctacttg ggtagaaaat
+     5581 attttatctc tagtgattgc atattatttc catatcatag tatttcatag tattatattt
+     5641 gatatgagtg tctatatcaa tgtcagtgtc cagaatttcg ttcctaccag ttaagtagtt
+     5701 ttctgaacgg ccagaagacc attcgaaatt catgatacta ctataagttg gtaaacaacc
+     5761 atacttttat cctcattttt attctcacta agaaaaaagt caactcccct ccccttgccc
+     5821 aagtatgaaa tatagggaca gtatgtatgg tgtggtctca tttgtttaga aaaccactta
+     5881 tgactgggtg cggtggctca cacctgtaat cccagcactt tgggaggctg aggcgggcga
+     5941 atcatttgag gtgaggaatt cgagaccagc ctggccagca tggtgaaacc ccatctctac
+     6001 taaaaataca aaaattagcc aggtgtggtg gcacatgcct gtagtcccag ccactagggc
+     6061 ggctgagacg caagacttgc ttgaacccgg gaggcagagg ttgcagtgag ccaagatggc
+     6121 gccactgcat tccagcctgg gcaacagagc aagaccctgt ctgtctcaaa acaaaaaaca
+     6181 aaaccactta tattgctagc tacattaaga atttctgaat atgttactga gcttgcttgt
+     6241 ggtaaccatt tataatatca gaaagtatat gtacaccaaa acatgttgaa catccatgtt
+     6301 gtacaactga aatataaata attttgtcaa ttatacctaa ataaaactgg aaaaaaattt
+     6361 ctggaagttt atatctaaaa atgttaatag tgcgtacctc taggaagtgg gcctggaagc
+     6421 cattcttact tttcagtctc tcccattctg tactgttttt tgttttactt tcgtgcctgc
+     6481 attatttttc tatttaaaac aaaaataaat ctagtttagc actaaaatat taactggagc
+     6541 tacctctgga gggcaagagt actagaaggt gggatggatt gtcttcttgc ttgtctgatt
+     6601 ttatatgtaa tacctttgta attagaaagg ttgttaagca ttatatcaga atccagtcag
+     6661 gagacagaaa ccacacagaa atttgaatgg ggaaagttta atatacagat gctcggcctg
+     6721 acgcagtggc tcacgcctgt aattccagca ctttgggagg ccgaggtggg cagatcactt
+     6781 gaggtcagga gttcgagacc agcctggcca acatggtgaa atcctgtctc tactaaaaat
+//
+
+LOCUS       NM_004536               7093 bp    mRNA    linear   PRI 29-APR-2025
+DEFINITION  Homo sapiens NLR family apoptosis inhibitory protein (NAIP),
+            transcript variant 1, mRNA.
+ACCESSION   NM_004536 XM_005248521 XM_005276799 XM_006726218 XM_011546973
+            XM_936944
+VERSION     NM_004536.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7093)
+  AUTHORS   An,Y., Zhai,Z., Wang,X., Ding,Y., He,L., Li,L., Mo,Q., Mu,C.,
+            Xie,R., Liu,T., Zhong,W., Wang,B. and Cao,H.
+  TITLE     Targeting Desulfovibrio vulgaris flagellin-induced NAIP/NLRC4
+            inflammasome activation in macrophages attenuates ulcerative
+            colitis
+  JOURNAL   J Adv Res 52, 219-232 (2023)
+   PUBMED   37586642
+  REMARK    GeneRIF: Targeting Desulfovibrio vulgaris flagellin-induced
+            NAIP/NLRC4 inflammasome activation in macrophages attenuates
+            ulcerative colitis.
+REFERENCE   2  (bases 1 to 7093)
+  AUTHORS   Hussain,N., Alkhateeb,M.A., Bashir,A., Iqbal,R., Hussain,T.,
+            Aziz,T., Al-Abbas,N.S., Shaer,N.A., Alamri,A.S., Alhomrani,M.,
+            Shakoori,A. and Labban,S.
+  TITLE     Deletions of SMNI gene exon 7 and NAIP gene exon 5 in spinal
+            muscular atrophy patients in selected population
+  JOURNAL   Eur Rev Med Pharmacol Sci 27 (17), 7935-7945 (2023)
+   PUBMED   37750622
+  REMARK    GeneRIF: Deletions of SMNI gene exon 7 and NAIP gene exon 5 in
+            spinal muscular atrophy patients in selected population.
+REFERENCE   3  (bases 1 to 7093)
+  AUTHORS   Xu,W.B., Kotheeranurak,V., Chen,D.Q., Sun,N.K., Cai,D.X.,
+            Chen,C.M., Lin,G.X. and Rui,G.
+  TITLE     Pan-cancer analysis of the intervertebral-disc-degeneration-related
+            innate immunity gene NAIP
+  JOURNAL   PLoS One 18 (6), e0286647 (2023)
+   PUBMED   37267294
+  REMARK    GeneRIF: Pan-cancer analysis of the
+            intervertebral-disc-degeneration-related innate immunity gene NAIP.
+REFERENCE   4  (bases 1 to 7093)
+  AUTHORS   Naseer,N., Zhang,J., Bauer,R., Constant,D.A., Nice,T.J.,
+            Brodsky,I.E., Rauch,I. and Shin,S.
+  TITLE     Salmonella enterica Serovar Typhimurium Induces NAIP/NLRC4- and
+            NLRP3/ASC-Independent, Caspase-4-Dependent Inflammasome Activation
+            in Human Intestinal Epithelial Cells
+  JOURNAL   Infect Immun 90 (7), e0066321 (2022)
+   PUBMED   35678562
+  REMARK    GeneRIF: Salmonella enterica Serovar Typhimurium Induces
+            NAIP/NLRC4- and NLRP3/ASC-Independent, Caspase-4-Dependent
+            Inflammasome Activation in Human Intestinal Epithelial Cells.
+REFERENCE   5  (bases 1 to 7093)
+  AUTHORS   Samperio Ventayol,P., Geiser,P., Di Martino,M.L., Florbrant,A.,
+            Fattinger,S.A., Walder,N., Sima,E., Shao,F., Gekara,N.O.,
+            Sundbom,M., Hardt,W.D., Webb,D.L., Hellstrom,P.M., Eriksson,J. and
+            Sellin,M.E.
+  TITLE     Bacterial detection by NAIP/NLRC4 elicits prompt contractions of
+            intestinal epithelial cell layers
+  JOURNAL   Proc Natl Acad Sci U S A 118 (16) (2021)
+   PUBMED   33846244
+  REMARK    GeneRIF: Bacterial detection by NAIP/NLRC4 elicits prompt
+            contractions of intestinal epithelial cell layers.
+REFERENCE   6  (bases 1 to 7093)
+  AUTHORS   Romanish,M.T., Lock,W.M., van de Lagemaat,L.N., Dunn,C.A. and
+            Mager,D.L.
+  TITLE     Repeated recruitment of LTR retrotransposons as promoters by the
+            anti-apoptotic locus NAIP during mammalian evolution
+  JOURNAL   PLoS Genet 3 (1), e10 (2007)
+   PUBMED   17222062
+  REMARK    GeneRIF: Multiple, domesticated long terminal repeats (LTRs) of
+            endogenous retroviral elements provide NAIP promoter function in
+            human, mouse, and rat.
+REFERENCE   7  (bases 1 to 7093)
+  AUTHORS   Monani,U.R., Lorson,C.L., Parsons,D.W., Prior,T.W., Androphy,E.J.,
+            Burghes,A.H. and McPherson,J.D.
+  TITLE     A single nucleotide difference that alters splicing patterns
+            distinguishes the SMA gene SMN1 from the copy gene SMN2
+  JOURNAL   Hum Mol Genet 8 (7), 1177-1183 (1999)
+   PUBMED   10369862
+REFERENCE   8  (bases 1 to 7093)
+  AUTHORS   Liston,P., Roy,N., Tamai,K., Lefebvre,C., Baird,S.,
+            Cherton-Horvat,G., Farahani,R., McLean,M., Ikeda,J.E., MacKenzie,A.
+            and Korneluk,R.G.
+  TITLE     Suppression of apoptosis in mammalian cells by NAIP and a related
+            family of IAP genes
+  JOURNAL   Nature 379 (6563), 349-353 (1996)
+   PUBMED   8552191
+REFERENCE   9  (bases 1 to 7093)
+  AUTHORS   Roy,N., Mahadevan,M.S., McLean,M., Shutler,G., Yaraghi,Z.,
+            Farahani,R., Baird,S., Besner-Johnston,A., Lefebvre,C., Kang,X. et
+            al.
+  TITLE     The gene for neuronal apoptosis inhibitory protein is partially
+            deleted in individuals with spinal muscular atrophy
+  JOURNAL   Cell 80 (1), 167-178 (1995)
+   PUBMED   7813013
+REFERENCE   10 (bases 1 to 7093)
+  AUTHORS   van der Steege,G., Draaijers,T.G., Grootscholten,P.M., Osinga,J.,
+            Anzevino,R., Velona,I., Den Dunnen,J.T., Scheffer,H., Brahe,C., van
+            Ommen,G.J. et al.
+  TITLE     A provisional transcript map of the spinal muscular atrophy (SMA)
+            critical region
+  JOURNAL   Eur J Hum Genet 3 (2), 87-95 (1995)
+   PUBMED   7552146
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC044797.5.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 21, 2019 this sequence version replaced NM_004536.2.
+            
+            Summary: This gene is part of a 500 kb inverted duplication on
+            chromosome 5q13. This duplicated region contains at least four
+            genes and repetitive elements which make it prone to rearrangements
+            and deletions. The repetitiveness and complexity of the sequence
+            have also caused difficulty in determining the organization of this
+            genomic region. This copy of the gene is full length; additional
+            copies with truncations and internal deletions are also present in
+            this region of chromosome 5q13. It is thought that this gene is a
+            modifier of spinal muscular atrophy caused by mutations in a
+            neighboring gene, SMN1. The protein encoded by this gene contains
+            regions of homology to two baculovirus inhibitor of apoptosis
+            proteins, and it is able to suppress apoptosis induced by various
+            signals. Alternative splicing and the use of alternative promoters
+            results in multiple transcript variants. [provided by RefSeq, Nov
+            2016].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: U19251.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000517649.6/ ENSP00000428657.2
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 5' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-725               AC044797.5         121601-122325       c
+            726-814             AC044797.5         121304-121392       c
+            815-940             AC044797.5         117645-117770       c
+            941-1511            AC044797.5         109334-109904       c
+            1512-1611           AC044797.5         108261-108360       c
+            1612-1693           AC044797.5         100762-100843       c
+            1694-1745           AC044797.5         99078-99129         c
+            1746-1865           AC044797.5         98684-98803         c
+            1866-1965           AC044797.5         95710-95809         c
+            1966-2047           AC044797.5         84779-84860         c
+            2048-2105           AC044797.5         83731-83788         c
+            2106-4217           AC044797.5         80761-82872         c
+            4218-4385           AC044797.5         76855-77022         c
+            4386-4538           AC044797.5         73892-74044         c
+            4539-4625           AC044797.5         73146-73232         c
+            4626-4790           AC044797.5         71115-71279         c
+            4791-7093           AC044797.5         65152-67454         c
+FEATURES             Location/Qualifiers
+     source          1..7093
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5q13.2"
+     gene            1..7093
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="NLR family apoptosis inhibitory protein"
+                     /db_xref="GeneID:4671"
+                     /db_xref="HGNC:HGNC:7634"
+                     /db_xref="MIM:600355"
+     exon            1..725
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            726..814
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            815..940
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    914..916
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="upstream in-frame stop codon"
+     exon            941..1511
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             944..5155
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     neuronal apoptosis inhibitory protein; nucleotide-binding
+                     oligomerization domain, leucine rich repeat and BIR domain
+                     containing 1; baculoviral IAP repeat-containing protein 1;
+                     psi neuronal apoptosis inhibitory protein"
+                     /codon_start=1
+                     /product="baculoviral IAP repeat-containing protein 1
+                     isoform 1"
+                     /protein_id="NP_004527.2"
+                     /db_xref="CCDS:CCDS4009.1"
+                     /db_xref="GeneID:4671"
+                     /db_xref="HGNC:HGNC:7634"
+                     /db_xref="MIM:600355"
+                     /translation="MATQQKASDERISQFDHNLLPELSALLGLDAVQLAKELEEEEQK
+                     ERAKMQKGYNSQMRSEAKRLKTFVTYEPYSSWIPQEMAAAGFYFTGVKSGIQCFCCSL
+                     ILFGAGLTRLPIEDHKRFHPDCGFLLNKDVGNIAKYDIRVKNLKSRLRGGKMRYQEEE
+                     ARLASFRNWPFYVQGISPCVLSEAGFVFTGKQDTVQCFSCGGCLGNWEEGDDPWKEHA
+                     KWFPKCEFLRSKKSSEEITQYIQSYKGFVDITGEHFVNSWVQRELPMASAYCNDSIFA
+                     YEELRLDSFKDWPRESAVGVAALAKAGLFYTGIKDIVQCFSCGGCLEKWQEGDDPLDD
+                     HTRCFPNCPFLQNMKSSAEVTPDLQSRGELCELLETTSESNLEDSIAVGPIVPEMAQG
+                     EAQWFQEAKNLNEQLRAAYTSASFRHMSLLDISSDLATDHLLGCDLSIASKHISKPVQ
+                     EPLVLPEVFGNLNSVMCVEGEAGSGKTVLLKKIAFLWASGCCPLLNRFQLVFYLSLSS
+                     TRPDEGLASIICDQLLEKEGSVTEMCVRNIIQQLKNQVLFLLDDYKEICSIPQVIGKL
+                     IQKNHLSRTCLLIAVRTNRARDIRRYLETILEIKAFPFYNTVCILRKLFSHNMTRLRK
+                     FMVYFGKNQSLQKIQKTPLFVAAICAHWFQYPFDPSFDDVAVFKSYMERLSLRNKATA
+                     EILKATVSSCGELALKGFFSCCFEFNDDDLAEAGVDEDEDLTMCLMSKFTAQRLRPFY
+                     RFLSPAFQEFLAGMRLIELLDSDRQEHQDLGLYHLKQINSPMMTVSAYNNFLNYVSSL
+                     PSTKAGPKIVSHLLHLVDNKESLENISENDDYLKHQPEISLQMQLLRGLWQICPQAYF
+                     SMVSEHLLVLALKTAYQSNTVAACSPFVLQFLQGRTLTLGALNLQYFFDHPESLSLLR
+                     SIHFPIRGNKTSPRAHFSVLETCFDKSQVPTIDQDYASAFEPMNEWERNLAEKEDNVK
+                     SYMDMQRRASPDLSTGYWKLSPKQYKIPCLEVDVNDIDVVGQDMLEILMTVFSASQRI
+                     ELHLNHSRGFIESIRPALELSKASVTKCSISKLELSAAEQELLLTLPSLESLEVSGTI
+                     QSQDQIFPNLDKFLCLKELSVDLEGNINVFSVIPEEFPNFHHMEKLLIQISAEYDPSK
+                     LVKLIQNSPNLHVFHLKCNFFSDFGSLMTMLVSCKKLTEIKFSDSFFQAVPFVASLPN
+                     FISLKILNLEGQQFPDEETSEKFAYILGSLSNLEELILPTGDGIYRVAKLIIQQCQQL
+                     HCLRVLSFFKTLNDDSVVEIAKVAISGGFQKLENLKLSINHKITEEGYRNFFQALDNM
+                     PNLQELDISRHFTECIKAQATTVKSLSQCVLRLPRLIRLNMLSWLLDADDIALLNVMK
+                     ERHPQSKYLTILQKWILPFSPIIQK"
+     misc_feature    1121..1324
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13075.3);
+                     Region: BIR 1"
+     misc_feature    1418..1624
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13075.3);
+                     Region: BIR 2"
+     misc_feature    1775..1978
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13075.3);
+                     Region: BIR 3"
+     exon            1512..1611
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1612..1693
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1694..1745
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1746..1865
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1866..1965
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1966..2047
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2048..2105
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2106..4217
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4218..4385
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4386..4538
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4539..4625
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4626..4790
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4791..7093
+                     /gene="NAIP"
+                     /gene_synonym="BIRC1; NLRB1; psiNAIP"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 caacatcagg taaaagtaca gactagccag atcactggtt aaccttaacc cctatgtgct
+       61 tgagtttcct tatctgtaat atggagatga tatagcaata gctgattttg gactgttaaa
+      121 ggaattaagt ggacacatgt aaagtgctta gaattgtgcc tggcaagtag taggctgcaa
+      181 tattgtgata taataaatat atatatttga tcttcatcca gttcctggca cagatctcca
+      241 gaaacccttg taatttcctg agtgacaggg gtgatagaaa catcttttat tagaatactt
+      301 ggtcttggtt cctgacacaa gagcttctaa gacctttgga atctccaagt gataagagtg
+      361 tatgacagtg agctaactgg tggctgggat cctttagaca acttcaggat gggggctatc
+      421 ccctgaaaga ctaaggcatg attagaggtc tgggatttgc agccccacgc ctcgacctcc
+      481 agagagggta aaagggctgg agattgatta accaccagtt gccagtgatt taaccaatca
+      541 tgcctaagtg atggcacctc cattaaaaaa taaaccacag gtttggagag ctttcggttt
+      601 ggttaacccc aaccacatac caagaaggcg atgcacctca aactgcatga agacaaaagg
+      661 tcctgtgctc acctgggacc cttctggacg ttgccctgtg tacctcttcg actgcctgtt
+      721 catctacgac gaaccccggg tattgacccc agacaacaat gccacttcat attggggact
+      781 tcgtctggga ttccaaggtg cattcattgc aaagttcctt aaatattttc tcactgcttc
+      841 ctactaaagg acggacagag catttgttct tcagccacat actttccttc cactggccag
+      901 cattctcctc tattagacta gaactgtgga taaacctcag aaaatggcca cccagcagaa
+      961 agcctctgac gagaggatct cccagtttga tcacaatttg ctgccagagc tgtctgctct
+     1021 tctgggccta gatgcagttc agttggcaaa ggaactagaa gaagaggagc agaaggagcg
+     1081 agcaaaaatg cagaaaggct acaactctca aatgcgcagt gaagcaaaaa ggttaaagac
+     1141 ttttgtgact tatgagccgt acagctcatg gataccacag gagatggcgg ccgctgggtt
+     1201 ttacttcact ggggtaaaat ctgggattca gtgcttctgc tgtagcctaa tcctctttgg
+     1261 tgccggcctc acgagactcc ccatagaaga ccacaagagg tttcatccag attgtgggtt
+     1321 ccttttgaac aaggatgttg gtaacattgc caagtacgac ataagggtga agaatctgaa
+     1381 gagcaggctg agaggaggta aaatgaggta ccaagaagag gaggctagac ttgcgtcctt
+     1441 caggaactgg ccattttatg tccaagggat atccccttgt gtgctctcag aggctggctt
+     1501 tgtctttaca ggtaaacagg acacggtaca gtgtttttcc tgtggtggat gtttaggaaa
+     1561 ttgggaagaa ggagatgatc cttggaagga acatgccaaa tggttcccca aatgtgaatt
+     1621 tcttcggagt aagaaatcct cagaggaaat tacccagtat attcaaagct acaagggatt
+     1681 tgttgacata acgggagaac attttgtgaa ttcctgggtc cagagagaat tacctatggc
+     1741 atcagcttat tgcaatgaca gcatctttgc ttacgaagaa ctacggctgg actcttttaa
+     1801 ggactggccc cgggaatcag ctgtgggagt tgcagcactg gccaaagcag gtcttttcta
+     1861 cacaggtata aaggacatcg tccagtgctt ttcctgtgga gggtgtttag agaaatggca
+     1921 ggaaggtgat gacccattag acgatcacac cagatgtttt cccaattgtc catttctcca
+     1981 aaatatgaag tcctctgcgg aagtgactcc agaccttcag agccgtggtg aactttgtga
+     2041 attactggaa accacaagtg aaagcaatct tgaagattca atagcagttg gtcctatagt
+     2101 gccagaaatg gcacagggtg aagcccagtg gtttcaagag gcaaagaatc tgaatgagca
+     2161 gctgagagca gcttatacca gcgccagttt ccgccacatg tctttgcttg atatctcttc
+     2221 cgatctggcc acggaccact tgctgggctg tgatctgtct attgcttcaa aacacatcag
+     2281 caaacctgtg caagaacctc tggtgctgcc tgaggtcttt ggcaacttga actctgtcat
+     2341 gtgtgtggag ggtgaagctg gaagtggaaa gacggtcctc ctgaagaaaa tagcttttct
+     2401 gtgggcatct ggatgctgtc ccctgttaaa caggttccag ctggttttct acctctccct
+     2461 tagttccacc agaccagacg aggggctggc cagtatcatc tgtgaccagc tcctagagaa
+     2521 agaaggatct gttactgaaa tgtgcgtgag gaacattatc cagcagttaa agaatcaggt
+     2581 cttattcctt ttagatgact acaaagaaat atgttcaatc cctcaagtca taggaaaact
+     2641 gattcaaaaa aaccacttat cccggacctg cctattgatt gctgtccgta caaacagggc
+     2701 cagggacatc cgccgatacc tagagaccat tctagagatc aaagcatttc ccttttataa
+     2761 tactgtctgt atattacgga agctcttttc acataatatg actcgtctgc gaaagtttat
+     2821 ggtttacttt ggaaagaacc aaagtttgca gaagatacag aaaactcctc tctttgtggc
+     2881 ggcgatctgt gctcattggt ttcagtatcc ttttgaccca tcctttgatg atgtggctgt
+     2941 tttcaagtcc tatatggaac gcctttcctt aaggaacaaa gcgacagctg aaattctcaa
+     3001 agcaactgtg tcctcctgtg gtgagctggc cttgaaaggg tttttttcat gttgctttga
+     3061 gtttaatgat gatgatctcg cagaagcagg ggttgatgaa gatgaagatc taaccatgtg
+     3121 cttgatgagc aaatttacag cccagagact aagaccattc taccggtttt taagtcctgc
+     3181 cttccaagaa tttcttgcgg ggatgaggct gattgaactc ctggattcag ataggcagga
+     3241 acatcaagat ttgggactgt atcatttgaa acaaatcaac tcacccatga tgactgtaag
+     3301 cgcctacaac aattttttga actatgtctc cagcctccct tcaacaaaag cagggcccaa
+     3361 aattgtgtct catttgctcc atttagtgga taacaaagag tcattggaga atatatctga
+     3421 aaatgatgac tacttaaagc accagccaga aatttcactg cagatgcagt tacttagggg
+     3481 attgtggcaa atttgtccac aagcttactt ttcaatggtt tcagaacatt tactggttct
+     3541 tgccctgaaa actgcttatc aaagcaacac tgttgctgcg tgttctccat ttgttttgca
+     3601 attccttcaa gggagaacac tgactttggg tgcgcttaac ttacagtact ttttcgacca
+     3661 cccagaaagc ttgtcattgt tgaggagcat ccacttccca atacgaggaa ataagacatc
+     3721 acccagagca catttttcag ttctggaaac atgttttgac aaatcacagg tgccaactat
+     3781 agatcaggac tatgcttctg cctttgaacc tatgaatgaa tgggagcgaa atttagctga
+     3841 aaaagaggat aatgtaaaga gctatatgga tatgcagcgc agggcatcac cagaccttag
+     3901 tactggctat tggaaacttt ctccaaagca gtacaagatt ccctgtctag aagtcgatgt
+     3961 gaatgatatt gatgttgtag gccaggatat gcttgagatt ctaatgacag ttttctcagc
+     4021 ttcacagcgc atcgaactcc atttaaacca cagcagaggc tttatagaaa gcatccgccc
+     4081 agctcttgag ctgtctaagg cctctgtcac caagtgctcc ataagcaagt tggaactcag
+     4141 cgcagccgaa caggaactgc ttctcaccct gccttccctg gaatctcttg aagtctcagg
+     4201 gacaatccag tcacaagacc aaatctttcc taatctggat aagttcctgt gcctgaaaga
+     4261 actgtctgtg gatctggagg gcaatataaa tgttttttca gtcattcctg aagaatttcc
+     4321 aaacttccac catatggaga aattattgat ccaaatttca gctgagtatg atccttccaa
+     4381 actagtaaaa ttaattcaaa attctccaaa ccttcatgtt ttccatctga agtgtaactt
+     4441 cttttcggat tttgggtctc tcatgactat gcttgtttcc tgtaagaaac tcacagaaat
+     4501 taagttttcg gattcatttt ttcaagccgt cccatttgtt gccagtttgc caaattttat
+     4561 ttctctgaag atattaaatc ttgaaggcca gcaatttcct gatgaggaaa catcagaaaa
+     4621 atttgcctac attttaggtt ctcttagtaa cctggaagaa ttgatccttc ctactgggga
+     4681 tggaatttat cgagtggcca aactgatcat ccagcagtgt cagcagcttc attgtctccg
+     4741 agtcctctca tttttcaaga ctttgaatga tgacagcgtg gtggaaattg ccaaagtagc
+     4801 aatcagtgga ggtttccaga aacttgagaa cctaaagctt tcaatcaatc acaagattac
+     4861 agaggaagga tacagaaatt tctttcaagc actggacaac atgccaaact tgcaggagtt
+     4921 ggacatctcc aggcatttca cagagtgtat caaagctcag gccacaacag tcaagtcttt
+     4981 gagtcaatgt gtgttacgac taccaaggct cattagactg aacatgttaa gttggctctt
+     5041 ggatgcagat gatattgcat tgcttaatgt catgaaagaa agacatcctc aatctaagta
+     5101 cttaactatt ctccagaaat ggatactgcc gttctctcca atcattcaga aataaaagat
+     5161 tcagctaaaa actgctgaat caataatttg tcttggggca tattgaggat gtaaaaaaag
+     5221 ttgttgatta atgctaaaaa ccaaattatc caaaattatt ttattaaata ttgcatacaa
+     5281 aagaaaatgt gtaaggcttg ctaaaaaaca aaacaaaaca aaacacagtc ctgcatactc
+     5341 accaccaagc tcaagaaata aatcatcacc aatacctttg aggtccctga gtaatccacc
+     5401 ccagctaaag gcaaaccctt caatcaagtt tatacagcaa accctccatt gtccatggtc
+     5461 aacagggaag gggttgggga caggtctgcc aatctatcta aaagccacaa tatggaagaa
+     5521 gtattcaatt tatataataa atggctaact taacggttga atcactttca tacatggatg
+     5581 aaacgggttt aacacaggat ccacatgaat cttctgtggg ccaagagatg ttccttaatc
+     5641 cttgtagaac ctgttttcta tattgaacta gctttggtac agtagagtta acttactttc
+     5701 catttatcca ctgccaatat aaagaggaaa caggggttag ggaaaaatga cttcattcca
+     5761 gaggcttctc agagttcaac atatgctata atttagaatt ttcttatgaa tccactctac
+     5821 ttgggtagaa aatattttat ctctagtgat tgcatattat ttccatatca tagtatttca
+     5881 tagtattata tttgatatga gtgtctatat caatgtcagt gtccagaatt tcgttcctac
+     5941 cagttaagta gttttctgaa cggccagaag accattcgaa attcatgata ctactataag
+     6001 ttggtaaaca accatacttt tatcctcatt tttattctca ctaagaaaaa agtcaactcc
+     6061 cctccccttg cccaagtatg aaatataggg acagtatgta tggtgtggtc tcatttgttt
+     6121 agaaaaccac ttatgactgg gtgcggtggc tcacacctgt aatcccagca ctttgggagg
+     6181 ctgaggcggg cgaatcattt gaggtgagga attcgagacc agcctggcca gcatggtgaa
+     6241 accccatctc tactaaaaat acaaaaatta gccaggtgtg gtggcacatg cctgtagtcc
+     6301 cagccactag ggcggctgag acgcaagact tgcttgaacc cgggaggcag aggttgcagt
+     6361 gagccaagat ggcgccactg cattccagcc tgggcaacag agcaagaccc tgtctgtctc
+     6421 aaaacaaaaa acaaaaccac ttatattgct agctacatta agaatttctg aatatgttac
+     6481 tgagcttgct tgtggtaacc atttataata tcagaaagta tatgtacacc aaaacatgtt
+     6541 gaacatccat gttgtacaac tgaaatataa ataattttgt caattatacc taaataaaac
+     6601 tggaaaaaaa tttctggaag tttatatcta aaaatgttaa tagtgcgtac ctctaggaag
+     6661 tgggcctgga agccattctt acttttcagt ctctcccatt ctgtactgtt ttttgtttta
+     6721 ctttcgtgcc tgcattattt ttctatttaa aacaaaaata aatctagttt agcactaaaa
+     6781 tattaactgg agctacctct ggagggcaag agtactagaa ggtgggatgg attgtcttct
+     6841 tgcttgtctg attttatatg taataccttt gtaattagaa aggttgttaa gcattatatc
+     6901 agaatccagt caggagacag aaaccacaca gaaatttgaa tggggaaagt ttaatataca
+     6961 gatgctcggc ctgacgcagt ggctcacgcc tgtaattcca gcactttggg aggccgaggt
+     7021 gggcagatca cttgaggtca ggagttcgag accagcctgg ccaacatggt gaaatcctgt
+     7081 ctctactaaa aat
+//
+

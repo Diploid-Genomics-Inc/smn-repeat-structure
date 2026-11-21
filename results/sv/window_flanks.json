@@ -1,0 +1,19 @@
+{
+ "cen_unique_kb_med": 86.9,
+ "cen_unique_kb_min": 85.8,
+ "grch38_end": 71564926,
+ "grch38_q_from": 304,
+ "grch38_q_to": 2119342,
+ "grch38_start1": 69445889,
+ "len_kb_max": 2955,
+ "len_kb_med": 1914,
+ "len_kb_min": 753,
+ "n_both_single": 440,
+ "n_reach_query_end": 439,
+ "n_rev": 0,
+ "n_start_le_2kb": 440,
+ "n_windows": 440,
+ "query_len": 2119342,
+ "tel_unique_kb_med": 200.5,
+ "tel_unique_kb_min": 199.8
+}

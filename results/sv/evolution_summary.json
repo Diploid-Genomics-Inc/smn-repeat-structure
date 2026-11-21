@@ -1,0 +1,70 @@
+{
+ "n_S": 13,
+ "n_AB": 7,
+ "S_span": [
+  70950189,
+  70952674
+ ],
+ "S_anc_smn1": 8,
+ "S_anc_smn2": 4,
+ "S_unres": 1,
+ "S_AB_both_smn1": 13,
+ "S_shared_derived_AB": 4,
+ "S_apes_unanimous": 11,
+ "c840_apes": "CCCC",
+ "cs239_apes": "GGGG",
+ "c840": [
+  "C",
+  "T"
+ ],
+ "cs239": [
+  "G",
+  "A"
+ ],
+ "S_apes_smn2_base": {
+  "chimpanzee": 5,
+  "bonobo": 5,
+  "gorilla": 4,
+  "orangutan": 3
+ },
+ "AB_span": [
+  70925090,
+  70941877
+ ],
+ "AB_anc_A": 2,
+ "AB_anc_B": 4,
+ "AB_unres": 1,
+ "AB_smn2_eq_A": 7,
+ "AB_smn2_eq_A_anc": 2,
+ "AB_shared_derived_A_SMN2": 4,
+ "AB_apes_A_base": {
+  "chimpanzee": 2,
+  "bonobo": 2,
+  "gorilla": 2,
+  "orangutan": 2
+ },
+ "d_AA": 0.3957,
+ "d_BB": 0.628,
+ "d_22": 0.3982,
+ "d_AB": 1.1279,
+ "d_A2": 1.0542,
+ "d_B2": 1.6434,
+ "nA": 405,
+ "nB": 117,
+ "nSMN2": 318,
+ "B_afr": 111,
+ "n_h12": 4,
+ "n_h21": 20,
+ "ape_haps": 8,
+ "ape_copies": 8,
+ "ape_haps_smn1_tests": 8,
+ "gene_full": 4,
+ "gene_short": 6,
+ "gene_short_range": [
+  825,
+  1479
+ ],
+ "ml_sup_B_half": 91.0,
+ "ml_sup_A_half": 93.0,
+ "ml_SMN2_in_A_half": 318
+}

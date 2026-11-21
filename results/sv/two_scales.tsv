@@ -1,0 +1,11 @@
+test	haplotypes	coarse_spearman	coarse_p	fine_spearman	fine_p
+all copies	440	0.4599	0.001	0.5151	0.001
+SMN1	436	0.4229	0.001	0.4765	0.001
+SMN2	287	0.5392	0.001	0.5642	0.001
+SMN1, AFR	133	0.2424	0.001	0.3058	0.001
+SMN1, outside AFR	303	0.5415	0.001	0.5867	0.001
+SMN1, C1 arms	191	0.6523	0.001	0.6924	0.001
+SMN1, C0 arms	76	0.3323	0.001	0.5157	0.001
+SMN1, T0 arms	195	0.4122	0.001	0.4792	0.001
+SMN1, T1 arms	72	0.5697	0.001	0.5604	0.001
+cophenetic correlation (SMN1 haplotypes)	436	0.4094		0.4591	

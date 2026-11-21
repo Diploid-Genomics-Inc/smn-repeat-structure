@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>14</Count><RetMax>14</RetMax><RetStart>0</RetStart><IdList>
+<Id>2217423766</Id>
+<Id>2217423756</Id>
+<Id>2217423754</Id>
+<Id>2217423746</Id>
+<Id>2217423739</Id>
+<Id>2217423732</Id>
+<Id>2217423730</Id>
+<Id>2217423723</Id>
+<Id>2217423718</Id>
+<Id>2217423710</Id>
+<Id>2217423708</Id>
+<Id>1777425376</Id>
+<Id>1777425375</Id>
+<Id>1777425372</Id>
+</IdList><TranslationSet><Translation>     <From>Homo sapiens[orgn]</From>     <To>"Homo sapiens"[Organism]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>NAIP[gene]</Term>    <Field>gene</Field>    <Count>13588</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"Homo sapiens"[Organism]</Term>    <Field>Organism</Field>    <Count>29886767</Count>    <Explode>Y</Explode>   </TermSet>   <OP>AND</OP>   <TermSet>    <Term>refseq[filter]</Term>    <Field>filter</Field>    <Count>154050058</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <TermSet>    <Term>biomol_mrna[prop]</Term>    <Field>prop</Field>    <Count>253876666</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>  </TranslationStack><QueryTranslation>NAIP[gene] AND "Homo sapiens"[Organism] AND refseq[filter] AND biomol_mrna[prop]</QueryTranslation></eSearchResult>

@@ -1,0 +1,62 @@
+subset	lineage	context	level	copies	median_to_SMN2	median_to_A	median_to_B
+all	A	arm	telSMN	203	1.022	0.281	1.086
+all	A	arm	no pair	176	1.053	0.38	1.077
+all	A	arm	cenSMN	24	1.015	0.304	1.108
+all	A	position3	telomeric	276	1.023	0.298	1.077
+all	A	position3	single	63	1.058	0.444	1.113
+all	A	position3	centromeric	35	1.022	0.308	1.077
+all	A	palindrome_arm	yes	227	1.022	0.282	1.106
+all	A	palindrome_arm	no	176	1.053	0.38	1.077
+all	A	arrangement_top	2- 1+	182	1.022	0.281	1.077
+all	A	arrangement_top	1+	49	1.058	0.331	1.136
+all	A	arrangement_top	2- 1-	35	1.051	0.444	1.005
+all	A	arrangement_top	1- 1+	19	0.976	0.339	1.112
+all	A	arrangement_top	2+ 1+	17	1.058	0.317	1.077
+all	A	arrangement_top	1-	13	1.083	0.444	1.041
+all	A	arrangement_top	1- 2+	12	1.022	0.274	1.092
+all	A	env	SMN1	349	1.03	0.304	1.077
+all	A	env	SMN2	24	1.022	0.426	1.112
+all	A	naip3	full	370	1.035	0.308	1.084
+all	A	naip3	trunc5	33	1.022	0.282	1.077
+all	B	arm	cenSMN	48	1.785	1.242	0.541
+all	B	arm	telSMN	45	1.443	0.972	0.674
+all	B	arm	no pair	24	1.773	1.229	0.638
+all	B	position3	centromeric	58	1.785	1.242	0.566
+all	B	position3	telomeric	54	1.444	0.972	0.674
+all	B	position3	single	5	1.773	1.229	0.606
+all	B	palindrome_arm	yes	94	1.698	1.154	0.642
+all	B	palindrome_arm	no	23	1.773	1.229	0.638
+all	B	arrangement_top	1- 1+	87	1.635	1.097	0.656
+all	B	env	SMN1	105	1.75	1.206	0.617
+all	B	env	mixed	7	1.547	1.016	0.726
+all	B	env	SMN2	5	1.635	1.097	0.705
+all	B	naip3	full	111	1.714	1.171	0.638
+all	B	naip3	trunc5	6	1.617	1.079	0.702
+AFR	A	arm	telSMN	33	1.022	0.366	1.181
+AFR	A	arm	no pair	32	1.047	0.356	1.112
+AFR	A	arm	cenSMN	8	0.922	0.528	1.175
+AFR	A	position3	telomeric	50	1.022	0.351	1.106
+AFR	A	position3	single	10	1.006	0.676	1.212
+AFR	A	position3	centromeric	9	1.01	0.444	1.148
+AFR	A	palindrome_arm	yes	41	1.022	0.366	1.181
+AFR	A	palindrome_arm	no	32	1.047	0.356	1.112
+AFR	A	arrangement_top	2- 1+	29	1.027	0.351	1.173
+AFR	A	arrangement_top	1+	9	0.964	0.768	1.266
+AFR	A	arrangement_top	2- 1-	8	1.002	0.3	1.085
+AFR	A	arrangement_top	1- 1+	7	0.8	0.669	1.23
+AFR	A	env	SMN1	67	1.022	0.351	1.113
+AFR	A	naip3	full	64	1.024	0.356	1.141
+AFR	A	naip3	trunc5	9	1.01	0.58	1.112
+AFR	B	arm	cenSMN	46	1.785	1.242	0.541
+AFR	B	arm	telSMN	43	1.443	0.972	0.674
+AFR	B	arm	no pair	22	1.778	1.231	0.638
+AFR	B	position3	centromeric	56	1.785	1.242	0.566
+AFR	B	position3	telomeric	50	1.444	0.972	0.674
+AFR	B	position3	single	5	1.773	1.229	0.606
+AFR	B	palindrome_arm	yes	90	1.714	1.17	0.638
+AFR	B	palindrome_arm	no	21	1.783	1.232	0.638
+AFR	B	arrangement_top	1- 1+	83	1.645	1.1	0.65
+AFR	B	env	SMN1	102	1.75	1.207	0.615
+AFR	B	env	mixed	5	1.599	1.061	0.758
+AFR	B	naip3	full	106	1.733	1.188	0.626
+AFR	B	naip3	trunc5	5	1.635	1.097	0.702

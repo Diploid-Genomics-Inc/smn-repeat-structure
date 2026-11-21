@@ -1,0 +1,93 @@
+{
+ "n_occ": 814,
+ "by_site": {
+  "tel": 345,
+  "axis": 271,
+  "cen": 198
+ },
+ "len_bp_median": 5853.0,
+ "len_bp_q05_q95": [
+  5542.0,
+  5854.0
+ ],
+ "cont_best_min": 0.73,
+ "cont_best_median": 0.979,
+ "cont_other_max": 0.0,
+ "orient_vs_bundle": {
+  "axis|+|reverse": 140,
+  "axis|-|ref": 131,
+  "cen|+|reverse": 106,
+  "cen|-|ref": 92,
+  "tel|+|reverse": 323,
+  "tel|-|ref": 22
+ },
+ "variant": {
+  "axis|axis|Sa": 271,
+  "cen|C1|Sa": 186,
+  "cen|C1|St": 12,
+  "tel|T0|St": 198,
+  "tel|T1|Sa": 4,
+  "tel|T1|St": 141
+ },
+ "to_axis_by_variant": {
+  "Sa": {
+   "n": 190,
+   "median": 0.512,
+   "q05": 0.0,
+   "q95": 1.196
+  },
+  "St": {
+   "n": 351,
+   "median": 13.583,
+   "q05": 4.955,
+   "q95": 14.109
+  }
+ },
+ "pairs": {
+  "between:axis-axis": {
+   "n": 780,
+   "median": 0.342,
+   "q95": 2.1771999999997305
+  },
+  "between:cen-cen": {
+   "n": 465,
+   "median": 0.342,
+   "q95": 1.367
+  },
+  "between:tel-tel": {
+   "n": 780,
+   "median": 0.0,
+   "q95": 14.641
+  },
+  "within:axis-axis": {
+   "n": 2,
+   "median": 0.0,
+   "q95": 0.0
+  },
+  "within:axis-cen": {
+   "n": 200,
+   "median": 0.512,
+   "q95": 4.621399999999998
+  },
+  "within:axis-tel": {
+   "n": 347,
+   "median": 13.326,
+   "q95": 13.849
+  },
+  "within:cen-cen": {
+   "n": 9,
+   "median": 5.966,
+   "q95": 6.4328
+  },
+  "within:cen-tel": {
+   "n": 231,
+   "median": 13.153,
+   "q95": 13.837
+  },
+  "within:tel-tel": {
+   "n": 78,
+   "median": 11.727,
+   "q95": 14.712499999999999
+  }
+ }
+}

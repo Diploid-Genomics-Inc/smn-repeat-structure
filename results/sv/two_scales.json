@@ -1,0 +1,149 @@
+{
+ "haplotypes": 440,
+ "cophenetic_seq_tree": "maximum likelihood",
+ "upgma_seq_tree": {
+  "coarse": 0.3937,
+  "fine": 0.4581
+ },
+ "ml_patristic_vs_pdistance_spearman": 0.9784,
+ "ml_tips": 497,
+ "coarse_vs_fine_struct_spearman": 0.9485,
+ "tests": [
+  {
+   "test": "all copies",
+   "haplotypes": 440,
+   "coarse_spearman": 0.4599,
+   "coarse_p": 0.001,
+   "fine_spearman": 0.5151,
+   "fine_p": 0.001
+  },
+  {
+   "test": "SMN1",
+   "haplotypes": 436,
+   "coarse_spearman": 0.4229,
+   "coarse_p": 0.001,
+   "fine_spearman": 0.4765,
+   "fine_p": 0.001
+  },
+  {
+   "test": "SMN2",
+   "haplotypes": 287,
+   "coarse_spearman": 0.5392,
+   "coarse_p": 0.001,
+   "fine_spearman": 0.5642,
+   "fine_p": 0.001
+  },
+  {
+   "test": "SMN1, AFR",
+   "haplotypes": 133,
+   "coarse_spearman": 0.2424,
+   "coarse_p": 0.001,
+   "fine_spearman": 0.3058,
+   "fine_p": 0.001
+  },
+  {
+   "test": "SMN1, outside AFR",
+   "haplotypes": 303,
+   "coarse_spearman": 0.5415,
+   "coarse_p": 0.001,
+   "fine_spearman": 0.5867,
+   "fine_p": 0.001
+  },
+  {
+   "test": "SMN1, C1 arms",
+   "haplotypes": 191,
+   "coarse_spearman": 0.6523,
+   "coarse_p": 0.001,
+   "fine_spearman": 0.6924,
+   "fine_p": 0.001
+  },
+  {
+   "test": "SMN1, C0 arms",
+   "haplotypes": 76,
+   "coarse_spearman": 0.3323,
+   "coarse_p": 0.001,
+   "fine_spearman": 0.5157,
+   "fine_p": 0.001
+  },
+  {
+   "test": "SMN1, T0 arms",
+   "haplotypes": 195,
+   "coarse_spearman": 0.4122,
+   "coarse_p": 0.001,
+   "fine_spearman": 0.4792,
+   "fine_p": 0.001
+  },
+  {
+   "test": "SMN1, T1 arms",
+   "haplotypes": 72,
+   "coarse_spearman": 0.5697,
+   "coarse_p": 0.001,
+   "fine_spearman": 0.5604,
+   "fine_p": 0.001
+  },
+  {
+   "test": "cophenetic correlation (SMN1 haplotypes)",
+   "haplotypes": 436,
+   "coarse_spearman": 0.4094,
+   "coarse_p": null,
+   "fine_spearman": 0.4591,
+   "fine_p": null
+  }
+ ],
+ "params": [
+  {
+   "scale": "coarse",
+   "bed": "results/decomp/smn.bed",
+   "decomp_cmd": "pangea cohort bundle decomp -f data/derived/windows/all_windows.fa -o data/derived/decomp/smn -w 48 -k 55 -r 4 --min-span 16 --min-cov 0 --min-branch-size 29 --bundle-length-cutoff 4238 --bundle-merge-distance 4238",
+   "w": "48",
+   "w_source": "given",
+   "k": "55",
+   "k_source": "given",
+   "r": "4",
+   "r_source": "given",
+   "min-span": "16",
+   "min-span_source": "given",
+   "min-cov": "0",
+   "min-cov_source": "given",
+   "min-branch-size": "29",
+   "min-branch-size_source": "given",
+   "bundle-length-cutoff": "4238",
+   "bundle-length-cutoff_source": "given",
+   "bundle-merge-distance": "4238",
+   "bundle-merge-distance_source": "given",
+   "repeat_units_cmd": "pangea cohort bundle repeat-units -b results/decomp/smn.bed -o results/decomp/smn",
+   "dist_cmd": "pangea cohort bundle dist -b results/decomp/smn.bed --top-n 50",
+   "rows": 440,
+   "segments": 36211,
+   "bundle_ids": 25,
+   "pangea_version_now": "pangea pangea-bin 0.27.0 (main:56818da6, release build, macos [aarch64] [rustc 1.99.1 (58cf8f9c3 2026-10-13)])"
+  },
+  {
+   "scale": "fine",
+   "bed": "results/bundles/smn.bed",
+   "decomp_cmd": "pangea cohort bundle decomp -f data/derived/windows/smn_windows.fa -o results/bundles/smn -w 48 -r 4 --bundle-length-cutoff 2500 --bundle-merge-distance 10000",
+   "w": "48",
+   "w_source": "given",
+   "k": "56",
+   "k_source": "default",
+   "r": "4",
+   "r_source": "given",
+   "min-span": "12",
+   "min-span_source": "default",
+   "min-cov": "0",
+   "min-cov_source": "default",
+   "min-branch-size": "8",
+   "min-branch-size_source": "default",
+   "bundle-length-cutoff": "2500",
+   "bundle-length-cutoff_source": "given",
+   "bundle-merge-distance": "10000",
+   "bundle-merge-distance_source": "given",
+   "repeat_units_cmd": "pangea cohort bundle repeat-units -b results/bundles/smn.bed -o results/bundles/smn",
+   "dist_cmd": "pangea cohort bundle dist -b results/bundles/smn.bed --top-n 50",
+   "rows": 440,
+   "segments": 49757,
+   "bundle_ids": 47,
+   "pangea_version_now": "pangea pangea-bin 0.27.0 (main:56818da6, release build, macos [aarch64] [rustc 1.99.1 (58cf8f9c3 2026-10-13)])"
+  }
+ ]
+}

@@ -1,0 +1,874 @@
+copy_id	src	window	token	copy_class	strand_grch38	pos_grch38_frame_kb	window_kb	serf1_5p	serf1_dist	naip_3p	naip_dist	next_3p	whole_unit	environment	rank_from_cen	n_in_window	sample	status	resolved	is_ref	population_abbreviation	arrangement
+GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN|w3|c0	GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN	3	2+	SMN2	+	617.7	2119.0	SERF1	6555.0	trunc5	15130	none	True	SMN2	1	2	GRCh38	complete	True	True		2+ 1+
+GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN|w3|c1	GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN	3	1+	SMN1	+	1493.2	2119.0	SERF1	6556.0	full	15155	GTF2H2	True	SMN1	2	2	GRCh38	complete	True	True		2+ 1+
+HG00097_hap1_hprc_r2_v1.0.1|w4|c0	HG00097_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	633.9	2238.4	SERF1	6553.0	trunc5	15132	none	True	SMN2	1	2	HG00097	complete	True	False	GBR	2- 1+
+HG00097_hap1_hprc_r2_v1.0.1|w4|c1	HG00097_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1267.8	2238.4	SERF1	6578.0	full	15124	GTF2H2	True	SMN1	2	2	HG00097	complete	True	False	GBR	2- 1+
+HG00097_hap2_hprc_r2_v1.0.1|w3|c0	HG00097_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	693.9	1906.7	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG00097	complete	True	False	GBR	2- 1-
+HG00097_hap2_hprc_r2_v1.0.1|w3|c1	HG00097_hap2_hprc_r2_v1.0.1	3	1-	SMN1	-	1379.6	1906.7	SERF1	6558.0	full	15115	GTF2H2	True	SMN1	2	2	HG00097	complete	True	False	GBR	2- 1-
+HG00099_hap1_hprc_r2_v1.0.1|w3|c0	HG00099_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	595.3	1273.9	SERF1	6553.0	full	15121	GTF2H2	True	SMN1	1	1	HG00099	complete	True	False	GBR	1+
+HG00099_hap2_hprc_r2_v1.0.1|w4|c0	HG00099_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	550.5	2173.8	SERF1	6544.0	trunc5	15124	none	True	SMN2	1	2	HG00099	complete	True	False	GBR	2- 1+
+HG00099_hap2_hprc_r2_v1.0.1|w4|c1	HG00099_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1183.7	2173.8	SERF1	6550.0	full	15120	GTF2H2	True	SMN1	2	2	HG00099	complete	True	False	GBR	2- 1+
+HG00126_hap1_hprc_r2_v1.0.1|w3|c0	HG00126_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	653.8	2171.3	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG00126	complete	True	False	GBR	2- 1+
+HG00126_hap1_hprc_r2_v1.0.1|w3|c1	HG00126_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1545.4	2171.3	SERF1	6553.0	full	15120	GTF2H2	True	SMN1	2	2	HG00126	complete	True	False	GBR	2- 1+
+HG00126_hap2_hprc_r2_v1.0.1|w3|c0	HG00126_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	653.6	1922.7	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG00126	complete	True	False	GBR	2- 1+
+HG00126_hap2_hprc_r2_v1.0.1|w3|c1	HG00126_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	1266.9	1922.7	SERF1	6557.0	full	15117	GTF2H2	True	SMN1	2	2	HG00126	complete	True	False	GBR	2- 1+
+HG00128_hap1_hprc_r2_v1.0.1|w3|c0	HG00128_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	552.1	2174.6	SERF1	6544.0	trunc5	15126	none	True	SMN2	1	2	HG00128	complete	True	False	GBR	2- 1+
+HG00128_hap1_hprc_r2_v1.0.1|w3|c1	HG00128_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1185.3	2174.6	SERF1	6550.0	full	15124	GTF2H2	True	SMN1	2	2	HG00128	complete	True	False	GBR	2- 1+
+HG00128_hap2_hprc_r2_v1.0.1|w4|c0	HG00128_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	602.8	1928.1	SERF1	6555.0	trunc5	15131	none	True	SMN2	1	2	HG00128	gapped	True	False	GBR	2- 1+
+HG00128_hap2_hprc_r2_v1.0.1|w4|c1	HG00128_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1264.1	1928.1	SERF1	6562.0	full	15119	GTF2H2	True	SMN1	2	2	HG00128	gapped	True	False	GBR	2- 1+
+HG00133_hap1_hprc_r2_v1.0.1|w5|c0	HG00133_hap1_hprc_r2_v1.0.1	5	2-	SMN2	-	655.4	1963.2	SERF1	6551.0	trunc5	15128	none	True	SMN2	1	2	HG00133	complete	True	False	GBR	2- 1+
+HG00133_hap1_hprc_r2_v1.0.1|w5|c1	HG00133_hap1_hprc_r2_v1.0.1	5	1+	SMN1	+	1289.4	1963.2	SERF1	6551.0	full	15128	GTF2H2	True	SMN2	2	2	HG00133	complete	True	False	GBR	2- 1+
+HG00133_hap2_hprc_r2_v1.0.1|w4|c0	HG00133_hap2_hprc_r2_v1.0.1	4	d2-	del7_8_SMN2like	-	649.9	1953.1	SERF1	6553.0	trunc5	13513	none	True		1	2	HG00133	complete	True	False	GBR	d2- 1+
+HG00133_hap2_hprc_r2_v1.0.1|w4|c1	HG00133_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1261.2	1953.1	SERF1	6562.0	full	15116	GTF2H2	True	SMN1	2	2	HG00133	complete	True	False	GBR	d2- 1+
+HG00140_hap1_hprc_r2_v1.0.1|w2|c0	HG00140_hap1_hprc_r2_v1.0.1	2	1-	SMN1	-	694.6	1996.0	SERF1	6556.0	trunc5	15130	none	True	SMN2	1	2	HG00140	complete	True	False	GBR	1- 2+
+HG00140_hap1_hprc_r2_v1.0.1|w2|c1	HG00140_hap1_hprc_r2_v1.0.1	2	2+	SMN2	+	1286.1	1996.0	SERF1	6547.0	full	15130	GTF2H2	True	SMN2	2	2	HG00140	complete	True	False	GBR	1- 2+
+HG00140_hap2_hprc_r2_v1.0.1|w3|c0	HG00140_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	694.6	2056.5	SERF1	6551.0	trunc5	15129	none	True	SMN2	1	2	HG00140	complete	True	False	GBR	2- 1+
+HG00140_hap2_hprc_r2_v1.0.1|w3|c1	HG00140_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	1328.6	2056.5	SERF1	6562.0	full	15113	GTF2H2	True	SMN1	2	2	HG00140	complete	True	False	GBR	2- 1+
+HG00146_hap1_hprc_r2_v1.0.1|w4|c0	HG00146_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	633.9	2009.9	SERF1	6555.0	trunc5	15129	none	True	SMN2	1	2	HG00146	complete	True	False	GBR	2- 1+
+HG00146_hap1_hprc_r2_v1.0.1|w4|c1	HG00146_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1247.3	2009.9	SERF1	6552.0	full	15116	GTF2H2	True	SMN1	2	2	HG00146	complete	True	False	GBR	2- 1+
+HG00146_hap2_hprc_r2_v1.0.1|w4|c0	HG00146_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	721.4	1413.2	SERF1	6558.0	full	15113	GTF2H2	True	SMN1	1	1	HG00146	complete	True	False	GBR	1+
+HG00232_hap1_hprc_r2_v1.0.1|w0|c0	HG00232_hap1_hprc_r2_v1.0.1	0	2-	SMN2	-	229.9	1219.6	SERF1	6554.0	trunc5	15130	none	True		1	2	HG00232	split	False	False	GBR	2- | 2- 1-
+HG00232_hap1_hprc_r2_v1.0.1|w0|c1	HG00232_hap1_hprc_r2_v1.0.1	0	1-	SMN1	-	725.9	1219.6	SERF1	6560.0	full	15145	GTF2H2	True		2	2	HG00232	split	False	False	GBR	2- | 2- 1-
+HG00232_hap1_hprc_r2_v1.0.1|w6|c0	HG00232_hap1_hprc_r2_v1.0.1	6	2-	SMN2	-	602.2	715.6	SERF1	6553.0	trunc5	15129	none	True		1	1	HG00232	split	False	False	GBR	2- | 2- 1-
+HG00235_hap1_hprc_r2_v1.0.1|w3|c0	HG00235_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	602.2	2119.4	SERF1	6553.0	trunc5	15120	none	True	SMN2	1	2	HG00235	complete	True	False	GBR	2- 1-
+HG00235_hap1_hprc_r2_v1.0.1|w3|c1	HG00235_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	1098.3	2119.4	SERF1	6563.0	full	15151	GTF2H2	True	SMN1	2	2	HG00235	complete	True	False	GBR	2- 1-
+HG00235_hap2_hprc_r2_v1.0.1|w3|c0	HG00235_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	637.7	2116.4	SERF1	6558.0	full	15143	GTF2H2	True	SMN1	1	2	HG00235	complete	True	False	GBR	1+ 2+
+HG00235_hap2_hprc_r2_v1.0.1|w3|c1	HG00235_hap2_hprc_r2_v1.0.1	3	2+	SMN2	+	1130.3	2116.4	SERF1	6555.0	trunc5	15128	none	True	SMN2	2	2	HG00235	complete	True	False	GBR	1+ 2+
+HG00253_hap1_hprc_r2_v1.0.1|w2|c0	HG00253_hap1_hprc_r2_v1.0.1	2	2-	SMN2	-	551.3	2176.5	SERF1	6554.0	trunc5	15125	none	True	SMN2	1	2	HG00253	complete	True	False	GBR	2- 1+
+HG00253_hap1_hprc_r2_v1.0.1|w2|c1	HG00253_hap1_hprc_r2_v1.0.1	2	1+	SMN1	+	1184.7	2176.5	SERF1	6554.0	full	15133	GTF2H2	True	SMN1	2	2	HG00253	complete	True	False	GBR	2- 1+
+HG00253_hap2_hprc_r2_v1.0.1|w5|c0	HG00253_hap2_hprc_r2_v1.0.1	5	2-	SMN2	-	1035.2	2551.5	SERF1	6554.0	trunc5	15130	none	True	SMN2	1	2	HG00253	complete	True	False	GBR	2- 1-
+HG00253_hap2_hprc_r2_v1.0.1|w5|c1	HG00253_hap2_hprc_r2_v1.0.1	5	1-	SMN1	-	1530.8	2551.5	SERF1	6556.0	full	15131	GTF2H2	True	mixed	2	2	HG00253	complete	True	False	GBR	2- 1-
+HG00272_hap1_hprc_r2_v1.0.1|w3|c0	HG00272_hap1_hprc_r2_v1.0.1	3	d2-	del7_8_SMN2like	-	649.9	1991.5	SERF1	6551.0	trunc5	13532	none	True		1	2	HG00272	complete	True	False	FIN	d2- 1+
+HG00272_hap1_hprc_r2_v1.0.1|w3|c1	HG00272_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1261.2	1991.5	SERF1	6557.0	full	15116	GTF2H2	True	SMN1	2	2	HG00272	complete	True	False	FIN	d2- 1+
+HG00272_hap2_hprc_r2_v1.0.1|w4|c0	HG00272_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	694.7	1825.8	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG00272	complete	True	False	FIN	2- 1+
+HG00272_hap2_hprc_r2_v1.0.1|w4|c1	HG00272_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1308.2	1825.8	SERF1	6558.0	trunc5	15113	none	True	SMN1	2	2	HG00272	complete	True	False	FIN	2- 1+
+HG00280_hap1_hprc_r2_v1.0.1|w6|c0	HG00280_hap1_hprc_r2_v1.0.1	6	2-	SMN2	-	425.0	2048.5	SERF1	6544.0	trunc5	15126	none	True		1	2	HG00280	partial	False	False	FIN	2- 1+
+HG00280_hap1_hprc_r2_v1.0.1|w6|c1	HG00280_hap1_hprc_r2_v1.0.1	6	1+	SMN1	+	1058.3	2048.5	SERF1	6544.0	full	15124	GTF2H2	True		2	2	HG00280	partial	False	False	FIN	2- 1+
+HG00280_hap2_hprc_r2_v1.0.1|w2|c0	HG00280_hap2_hprc_r2_v1.0.1	2	1+	SMN1	+	479.8	580.3	SERF1	6555.0	full	15122	GTF2H2	True		1	1	HG00280	partial	False	False	FIN	1+
+HG00290_hap1_hprc_r2_v1.0.1|w3|c0	HG00290_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	633.7	1872.4	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG00290	complete	True	False	FIN	2- 1+
+HG00290_hap1_hprc_r2_v1.0.1|w3|c1	HG00290_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1247.1	1872.4	SERF1	6544.0	full	15121	GTF2H2	True	SMN1	2	2	HG00290	complete	True	False	FIN	2- 1+
+HG00290_hap2_hprc_r2_v1.0.1|w2|c0	HG00290_hap2_hprc_r2_v1.0.1	2	1+	SMN1	+	594.5	1520.2	SERF1	6574.0	full	15125	GTF2H2	True	SMN2	1	1	HG00290	complete	True	False	FIN	1+
+HG00320_hap1_hprc_r2_v1.0.1|w2|c0	HG00320_hap1_hprc_r2_v1.0.1	2	1+	SMN1	+	594.9	1617.7	SERF1	6553.0	trunc5	15138	none	True	SMN1	1	1	HG00320	complete	True	False	FIN	1+
+HG00320_hap2_hprc_r2_v1.0.1|w4|c0	HG00320_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	236.9	1550.7	SERF1	6559.0	full	15119	GTF2H2	True	SMN2	1	2	HG00320	complete	True	False	FIN	2- 1+
+HG00320_hap2_hprc_r2_v1.0.1|w4|c1	HG00320_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	909.2	1550.7	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	HG00320	complete	True	False	FIN	2- 1+
+HG00321_hap1_hprc_r2_v1.0.1|w4|c0	HG00321_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	243.2	1269.4	SERF1	6555.0	full	15120	GTF2H2	True	SMN1	1	1	HG00321	complete	True	False	FIN	1-
+HG00321_hap2_hprc_r2_v1.0.1|w4|c0	HG00321_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	236.9	1551.1	SERF1	6561.0	full	15119	GTF2H2	True	SMN2	1	2	HG00321	complete	True	False	FIN	2- 1+
+HG00321_hap2_hprc_r2_v1.0.1|w4|c1	HG00321_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	909.5	1551.1	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG00321	complete	True	False	FIN	2- 1+
+HG00323_hap1_hprc_r2_v1.0.1|w3|c0	HG00323_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	551.7	1845.0	SERF1	6544.0	trunc5	15125	none	True	SMN2	1	2	HG00323	gapped	True	False	FIN	2- 1+
+HG00323_hap1_hprc_r2_v1.0.1|w3|c1	HG00323_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1166.5	1845.0	SERF1	6551.0	full	15122	GTF2H2	True	SMN1	2	2	HG00323	gapped	True	False	FIN	2- 1+
+HG00323_hap2_hprc_r2_v1.0.1|w4|c0	HG00323_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	551.1	1844.4	SERF1	6544.0	trunc5	15125	none	True	SMN2	1	2	HG00323	complete	True	False	FIN	2- 1+
+HG00323_hap2_hprc_r2_v1.0.1|w4|c1	HG00323_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1165.9	1844.4	SERF1	6551.0	full	15122	GTF2H2	True	SMN1	2	2	HG00323	complete	True	False	FIN	2- 1+
+HG00329_hap1_hprc_r2_v1.0.1|w4|c1	HG00329_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1704.3	2661.7	SERF1	6551.0	full	15116	GTF2H2	True		1	1	HG00329	split	False	False	FIN	t- 1+ | 2+
+HG00329_hap1_hprc_r2_v1.0.1|w7|c0	HG00329_hap1_hprc_r2_v1.0.1	7	2+	SMN2	+	378.6	640.0	SERF1	6555.0	trunc5	15130	none	True		1	1	HG00329	split	False	False	FIN	t- 1+ | 2+
+HG00329_hap2_hprc_r2_v1.0.1|w5|c0	HG00329_hap2_hprc_r2_v1.0.1	5	2-	SMN2	-	613.5	1860.0	SERF1	6551.0	trunc5	15133	none	True		1	2	HG00329	split	False	False	FIN	2- 1+ | 2+ | t+
+HG00329_hap2_hprc_r2_v1.0.1|w5|c1	HG00329_hap2_hprc_r2_v1.0.1	5	1+	SMN1	+	1186.2	1860.0	SERF1	6551.0	full	15129	GTF2H2	True		2	2	HG00329	split	False	False	FIN	2- 1+ | 2+ | t+
+HG00329_hap2_hprc_r2_v1.0.1|w8|c0	HG00329_hap2_hprc_r2_v1.0.1	8	2+	SMN2	+	20.3	281.7	not assessable		trunc5	15130	none	False		1	1	HG00329	split	False	False	FIN	2- 1+ | 2+ | t+
+HG00344_hap1_hprc_r2_v1.0.1|w4|c0	HG00344_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	552.1	2175.4	SERF1	6544.0	trunc5	15126	none	True	SMN2	1	2	HG00344	complete	True	False	FIN	2- 1+
+HG00344_hap1_hprc_r2_v1.0.1|w4|c1	HG00344_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1185.3	2175.4	SERF1	6552.0	full	15124	GTF2H2	True	SMN1	2	2	HG00344	complete	True	False	FIN	2- 1+
+HG00344_hap2_hprc_r2_v1.0.1|w4|c0	HG00344_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	339.6	2003.3	SERF1	6555.0	full	15116	GTF2H2	True	SMN1	1	2	HG00344	complete	True	False	FIN	1- 2+
+HG00344_hap2_hprc_r2_v1.0.1|w4|c1	HG00344_hap2_hprc_r2_v1.0.1	4	2+	SMN2	+	991.7	2003.3	SERF1	6551.0	trunc5	15129	none	True	SMN2	2	2	HG00344	complete	True	False	FIN	1- 2+
+HG00350_hap1_hprc_r2_v1.0.1|w3|c0	HG00350_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	641.3	1285.3	SERF1	6560.0	full	15122	GTF2H2	True	SMN1	1	1	HG00350	complete	True	False	FIN	1+
+HG00350_hap2_hprc_r2_v1.0.1|w3|c0	HG00350_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	641.3	1375.8	SERF1	6555.0	full	15122	GTF2H2	True	SMN1	1	1	HG00350	complete	True	False	FIN	1+
+HG00408_mat_hprc_r2_v1.0.1|w3|c0	HG00408_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	633.3	1920.9	SERF1	6557.0	trunc5	15129	none	True	SMN2	1	2	HG00408	gapped	True	False	CHS	2- 1+
+HG00408_mat_hprc_r2_v1.0.1|w3|c1	HG00408_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1229.0	1920.9	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	2	2	HG00408	gapped	True	False	CHS	2- 1+
+HG00408_pat_hprc_r2_v1.0.1|w3|c0	HG00408_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	652.2	1939.7	SERF1	6552.0	trunc5	15130	none	True	SMN2	1	2	HG00408	complete	True	False	CHS	2- 1+
+HG00408_pat_hprc_r2_v1.0.1|w3|c1	HG00408_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1265.9	1939.7	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG00408	complete	True	False	CHS	2- 1+
+HG00423_mat_hprc_r2_v1.0.1|w2|c0	HG00423_mat_hprc_r2_v1.0.1	2	1+	SMN1	+	202.5	845.0	SERF1	6553.0	full	15122	GTF2H2	True		1	1	HG00423	split	False	False	CHS	2- | 1+
+HG00423_mat_hprc_r2_v1.0.1|w6|c0	HG00423_mat_hprc_r2_v1.0.1	6	2-	SMN2	-	613.0	815.9	SERF1	6553.0	trunc5	15132	none	True		1	1	HG00423	split	False	False	CHS	2- | 1+
+HG00423_pat_hprc_r2_v1.0.1|w2|c0	HG00423_pat_hprc_r2_v1.0.1	2	1+	SMN1	+	191.5	834.0	SERF1	6553.0	full	15122	GTF2H2	True		1	1	HG00423	split	False	False	CHS	2- | 1+
+HG00423_pat_hprc_r2_v1.0.1|w6|c0	HG00423_pat_hprc_r2_v1.0.1	6	2-	SMN2	-	853.4	1074.1	SERF1	6553.0	trunc5	15131	none	True		1	1	HG00423	split	False	False	CHS	2- | 1+
+HG00438_mat_hprc_r2_v1.0.1|w3|c0	HG00438_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	621.1	1940.1	SERF1	6560.0	trunc5	15117	none	True	SMN1	1	2	HG00438	complete	True	False	CHS	1+ 2+
+HG00438_mat_hprc_r2_v1.0.1|w3|c1	HG00438_mat_hprc_r2_v1.0.1	3	2+	SMN2	+	1248.2	1940.1	SERF1	6555.0	full	15130	GTF2H2	True	SMN2	2	2	HG00438	complete	True	False	CHS	1+ 2+
+HG00438_pat_hprc_r2_v1.0.1|w3|c0	HG00438_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	663.3	1355.2	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	1	1	HG00438	complete	True	False	CHS	1+
+HG00544_mat_hprc_r2_v1.0.1|w4|c0	HG00544_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	633.1	1904.6	SERF1	6539.0	trunc5	15130	none	True	SMN2	1	2	HG00544	complete	True	False	CHS	2- 1+
+HG00544_mat_hprc_r2_v1.0.1|w4|c1	HG00544_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1226.1	1904.6	SERF1	6551.0	full	15123	GTF2H2	True	SMN1	2	2	HG00544	complete	True	False	CHS	2- 1+
+HG00544_pat_hprc_r2_v1.0.1|w3|c0	HG00544_pat_hprc_r2_v1.0.1	3	2+	SMN2	+	641.8	1890.0	SERF1	6555.0	trunc5	15129	none	True	SMN2	1	2	HG00544	complete	True	False	CHS	2+ 1+
+HG00544_pat_hprc_r2_v1.0.1|w3|c1	HG00544_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1247.6	1890.0	SERF1	6547.0	full	15122	GTF2H2	True	SMN1	2	2	HG00544	complete	True	False	CHS	2+ 1+
+HG00558_mat_hprc_r2_v1.0.1|w4|c0	HG00558_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	237.1	1560.6	SERF1	6556.0	full	15129	GTF2H2	True	SMN2	1	2	HG00558	complete	True	False	CHS	2- 1+
+HG00558_mat_hprc_r2_v1.0.1|w4|c1	HG00558_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	850.7	1560.6	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG00558	complete	True	False	CHS	2- 1+
+HG00558_pat_hprc_r2_v1.0.1|w4|c0	HG00558_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	641.2	1355.7	SERF1	6568.0	full	15117	GTF2H2	True	SMN1	1	1	HG00558	complete	True	False	CHS	1+
+HG00597_mat_hprc_r2_v1.0.1|w4|c0	HG00597_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	652.8	1957.7	SERF1	6551.0	trunc5	15131	none	True	SMN2	1	2	HG00597	complete	True	False	CHS	2- 1+
+HG00597_mat_hprc_r2_v1.0.1|w4|c2	HG00597_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1247.9	1957.7	SERF1	6557.0	full	15116	GTF2H2	True	SMN1	2	2	HG00597	complete	True	False	CHS	2- 1+
+HG00597_pat_hprc_r2_v1.0.1|w3|c0	HG00597_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	631.8	1844.7	SERF1	6551.0	trunc5	15132	none	True	SMN2	1	2	HG00597	complete	True	False	CHS	2- 1+
+HG00597_pat_hprc_r2_v1.0.1|w3|c1	HG00597_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1224.9	1844.7	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	2	2	HG00597	complete	True	False	CHS	2- 1+
+HG005_mat_hprc_r2_v1.0.1|w2|c0	HG005_mat_hprc_r2_v1.0.1	2	2-	SMN2	-	237.5	1772.5	SERF1	6540.0	full	15130	GTF2H2	True	SMN2	1	2	HG005	complete	True	False		2- 1-
+HG005_mat_hprc_r2_v1.0.1|w2|c1	HG005_mat_hprc_r2_v1.0.1	2	1-	SMN1	-	733.4	1772.5	SERF1	6562.0	full	15149	GTF2H2	True	SMN1	2	2	HG005	complete	True	False		2- 1-
+HG005_pat_hprc_r2_v1.0.1|w2|c0	HG005_pat_hprc_r2_v1.0.1	2	2-	SMN2	-	633.9	1903.9	SERF1	6559.0	trunc5	15130	none	True	SMN2	1	2	HG005	complete	True	False		2- 1+
+HG005_pat_hprc_r2_v1.0.1|w2|c1	HG005_pat_hprc_r2_v1.0.1	2	1+	SMN1	+	1247.3	1903.9	SERF1	6553.0	full	15122	GTF2H2	True	SMN1	2	2	HG005	complete	True	False		2- 1+
+HG00609_mat_hprc_r2_v1.0.1|w3|c0	HG00609_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	541.6	1562.4	SERF1	6557.0	full	15130	GTF2H2	True	SMN2	1	1	HG00609	complete	True	False	CHS	1-
+HG00609_pat_hprc_r2_v1.0.1|w3|c0	HG00609_pat_hprc_r2_v1.0.1	3	2+	SMN2	+	618.8	2099.8	SERF1	6554.0	trunc5	15126	none	True	SMN2	1	2	HG00609	complete	True	False	CHS	2+ 1-
+HG00609_pat_hprc_r2_v1.0.1|w3|c1	HG00609_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	1099.2	2099.8	SERF1	6559.0	full	15134	GTF2H2	True	SMN1	2	2	HG00609	complete	True	False	CHS	2+ 1-
+HG00621_mat_hprc_r2_v1.0.1|w4|c0	HG00621_mat_hprc_r2_v1.0.1	4	2+	SMN2	+	637.9	2009.7	SERF1	6559.0	trunc5	15116	none	True	SMN2	1	2	HG00621	complete	True	False	CHS	2+ 1+
+HG00621_mat_hprc_r2_v1.0.1|w4|c1	HG00621_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1263.8	2009.7	SERF1	6561.0	full	15116	GTF2H2	True	SMN1	2	2	HG00621	complete	True	False	CHS	2+ 1+
+HG00621_pat_hprc_r2_v1.0.1|w4|c0	HG00621_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	631.4	1869.7	SERF1	6552.0	trunc5	15129	none	True	SMN2	1	2	HG00621	complete	True	False	CHS	2- 1+
+HG00621_pat_hprc_r2_v1.0.1|w4|c1	HG00621_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1243.7	1869.7	SERF1	6563.0	full	15116	GTF2H2	True	SMN1	2	2	HG00621	complete	True	False	CHS	2- 1+
+HG00639_mat_hprc_r2_v1.0.1|w4|c0	HG00639_mat_hprc_r2_v1.0.1	4	2+	SMN2	+	662.8	1923.0	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG00639	complete	True	False	PUR	2+ 1+
+HG00639_mat_hprc_r2_v1.0.1|w4|c1	HG00639_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1267.1	1923.0	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	HG00639	complete	True	False	PUR	2+ 1+
+HG00639_pat_hprc_r2_v1.0.1|w3|c0	HG00639_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	236.9	1551.2	SERF1	6551.0	full	15119	GTF2H2	True	SMN2	1	2	HG00639	complete	True	False	PUR	2- 1+
+HG00639_pat_hprc_r2_v1.0.1|w3|c1	HG00639_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	909.5	1551.2	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG00639	complete	True	False	PUR	2- 1+
+HG00642_mat_hprc_r2_v1.0.1|w4|c0	HG00642_mat_hprc_r2_v1.0.1	4	2+	SMN2	+	595.5	2158.5	SERF1	6571.0	trunc5	15124	none	True	SMN2	1	2	HG00642	complete	True	False	PUR	2+ 1+
+HG00642_mat_hprc_r2_v1.0.1|w4|c1	HG00642_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1221.0	2158.5	SERF1	6558.0	full	15126	GTF2H2	True	SMN2	2	2	HG00642	complete	True	False	PUR	2+ 1+
+HG00642_pat_hprc_r2_v1.0.1|w3|c0	HG00642_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	752.2	2121.0	SERF1	6560.0	full	15159	GTF2H2	True	SMN1	1	2	HG00642	complete	True	False	PUR	1- 2-
+HG00642_pat_hprc_r2_v1.0.1|w3|c1	HG00642_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	1627.6	2121.0	SERF1	6553.0	trunc5	15131	none	True	SMN2	2	2	HG00642	complete	True	False	PUR	1- 2-
+HG00658_mat_hprc_r2_v1.0.1|w3|c0	HG00658_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	634.0	1939.8	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG00658	complete	True	False	CHS	2- 1+
+HG00658_mat_hprc_r2_v1.0.1|w3|c1	HG00658_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1247.9	1939.8	SERF1	6555.0	full	15116	GTF2H2	True	SMN1	2	2	HG00658	complete	True	False	CHS	2- 1+
+HG00658_pat_hprc_r2_v1.0.1|w4|c0	HG00658_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	237.2	1476.3	SERF1	6558.0	full	15130	GTF2H2	True	SMN2	1	2	HG00658	complete	True	False	CHS	2- 1+
+HG00658_pat_hprc_r2_v1.0.1|w4|c1	HG00658_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	850.4	1476.3	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG00658	complete	True	False	CHS	2- 1+
+HG00673_mat_hprc_r2_v1.0.1|w4|c0	HG00673_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	652.2	1993.9	SERF1	6550.0	trunc5	15135	none	True	SMN2	1	2	HG00673	complete	True	False	CHS	2- 1+
+HG00673_mat_hprc_r2_v1.0.1|w4|c1	HG00673_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1266.0	1993.9	SERF1	6560.0	full	15111	GTF2H2	True	SMN1	2	2	HG00673	complete	True	False	CHS	2- 1+
+HG00673_pat_hprc_r2_v1.0.1|w6|c0	HG00673_pat_hprc_r2_v1.0.1	6	2-	SMN2	-	695.2	2039.3	SERF1	6552.0	trunc5	15131	none	True	SMN2	1	2	HG00673	gapped	True	False	CHS	2- 1+
+HG00673_pat_hprc_r2_v1.0.1|w6|c1	HG00673_pat_hprc_r2_v1.0.1	6	1+	SMN1	+	1329.4	2039.3	SERF1	6560.0	full	15116	GTF2H2	True	SMN1	2	2	HG00673	gapped	True	False	CHS	2- 1+
+HG00706_mat_hprc_r2_v1.0.1|w4|c0	HG00706_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	237.2	1542.4	SERF1	6554.0	full	15130	GTF2H2	True	SMN2	1	2	HG00706	complete	True	False	CHS	2- 1+
+HG00706_mat_hprc_r2_v1.0.1|w4|c1	HG00706_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	850.8	1542.4	SERF1	6556.0	full	15117	GTF2H2	True	SMN1	2	2	HG00706	complete	True	False	CHS	2- 1+
+HG00706_pat_hprc_r2_v1.0.1|w4|c0	HG00706_pat_hprc_r2_v1.0.1	4	h21-	hyb_2_1	-	242.6	1494.1	SERF1	6554.0	full	15132	GTF2H2	True	SMN2	1	2	HG00706	complete	True	False	CHS	h21- 1+
+HG00706_pat_hprc_r2_v1.0.1|w4|c1	HG00706_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	856.2	1494.1	SERF1	6556.0	full	15117	GTF2H2	True	SMN1	2	2	HG00706	complete	True	False	CHS	h21- 1+
+HG00733_mat_hprc_r2_v1.0.1|w4|c0	HG00733_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	654.6	1924.7	SERF1	6562.0	trunc5	15128	none	True		1	2	HG00733	split	False	False	PUR	2- 1+ | 2+
+HG00733_mat_hprc_r2_v1.0.1|w4|c1	HG00733_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1227.4	1924.7	SERF1	6559.0	full	15122	GTF2H2	True		2	2	HG00733	split	False	False	PUR	2- 1+ | 2+
+HG00733_mat_hprc_r2_v1.0.1|w7|c0	HG00733_mat_hprc_r2_v1.0.1	7	2+	SMN2	+	19.2	577.3	not assessable		trunc5	15128	none	False		1	1	HG00733	split	False	False	PUR	2- 1+ | 2+
+HG00733_pat_hprc_r2_v1.0.1|w4|c0	HG00733_pat_hprc_r2_v1.0.1	4	d2-	del7_8_SMN2like	-	650.4	1971.6	SERF1	6550.0	trunc5	13532	none	True		1	2	HG00733	complete	True	False	PUR	d2- 1+
+HG00733_pat_hprc_r2_v1.0.1|w4|c1	HG00733_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1261.7	1971.6	SERF1	6557.0	full	15119	GTF2H2	True	SMN1	2	2	HG00733	complete	True	False	PUR	d2- 1+
+HG00735_mat_hprc_r2_v1.0.1|w4|c0	HG00735_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	694.6	1915.9	SERF1	6552.0	trunc5	15130	none	True	SMN2	1	2	HG00735	complete	True	False	PUR	2- 1+
+HG00735_mat_hprc_r2_v1.0.1|w4|c1	HG00735_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1308.2	1915.9	SERF1	6561.0	trunc5	15115	none	True	SMN1	2	2	HG00735	complete	True	False	PUR	2- 1+
+HG00735_pat_hprc_r2_v1.0.1|w4|c0	HG00735_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	634.3	1867.5	SERF1	6554.0	trunc5	15129	none	True	SMN2	1	2	HG00735	complete	True	False	PUR	2- 1+
+HG00735_pat_hprc_r2_v1.0.1|w4|c1	HG00735_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1247.7	1867.5	SERF1	6555.0	full	15112	GTF2H2	True	SMN1	2	2	HG00735	complete	True	False	PUR	2- 1+
+HG00738_mat_hprc_r2_v1.0.1|w3|c0	HG00738_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	602.8	1949.2	SERF1	6555.0	trunc5	15130	none	True	SMN2	1	2	HG00738	gapped	True	False	PUR	2- 1+
+HG00738_mat_hprc_r2_v1.0.1|w3|c1	HG00738_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1257.3	1949.2	SERF1	6562.0	full	15118	GTF2H2	True	SMN1	2	2	HG00738	gapped	True	False	PUR	2- 1+
+HG00738_pat_hprc_r2_v1.0.1|w5|c0	HG00738_pat_hprc_r2_v1.0.1	5	2-	SMN2	-	633.9	1993.2	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG00738	complete	True	False	PUR	2- 1+
+HG00738_pat_hprc_r2_v1.0.1|w5|c1	HG00738_pat_hprc_r2_v1.0.1	5	1+	SMN1	+	1247.4	1993.2	SERF1	6549.0	full	15116	GTF2H2	True	SMN1	2	2	HG00738	complete	True	False	PUR	2- 1+
+HG00741_mat_hprc_r2_v1.0.1|w4|c0	HG00741_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	242.9	2083.3	SERF1	6553.0	full	15120	GTF2H2	True	SMN1	1	2	HG00741	complete	True	False	PUR	1- 2-
+HG00741_mat_hprc_r2_v1.0.1|w4|c1	HG00741_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	866.1	2083.3	SERF1	6554.0	trunc5	15128	none	True	SMN2	2	2	HG00741	complete	True	False	PUR	1- 2-
+HG00741_pat_hprc_r2_v1.0.1|w3|c0	HG00741_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	587.3	1866.2	SERF1	6559.0	trunc5	15124	none	True	SMN2	1	2	HG00741	complete	True	False	PUR	2- 1+
+HG00741_pat_hprc_r2_v1.0.1|w3|c1	HG00741_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1241.6	1866.2	SERF1	6555.0	full	15124	GTF2H2	True	SMN1	2	2	HG00741	complete	True	False	PUR	2- 1+
+HG01071_mat_hprc_r2_v1.0.1|w4|c0	HG01071_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	715.1	2037.8	SERF1	6558.0	trunc5	15130	none	True	SMN2	1	2	HG01071	complete	True	False	PUR	1- 2+
+HG01071_mat_hprc_r2_v1.0.1|w4|c1	HG01071_mat_hprc_r2_v1.0.1	4	2+	SMN2	+	1327.8	2037.8	SERF1	6547.0	full	15130	GTF2H2	True	SMN2	2	2	HG01071	complete	True	False	PUR	1- 2+
+HG01071_pat_hprc_r2_v1.0.1|w4|c0	HG01071_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	552.1	2175.5	SERF1	6544.0	trunc5	15126	none	True	SMN2	1	2	HG01071	complete	True	False	PUR	2- 1+
+HG01071_pat_hprc_r2_v1.0.1|w4|c1	HG01071_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1185.4	2175.5	SERF1	6552.0	full	15124	GTF2H2	True	SMN1	2	2	HG01071	complete	True	False	PUR	2- 1+
+HG01074_mat_hprc_r2_v1.0.1|w4|c0	HG01074_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	663.5	1655.0	SERF1	6546.0	full	15125	GTF2H2	True	SMN1	1	1	HG01074	complete	True	False	PUR	1+
+HG01074_pat_hprc_r2_v1.0.1|w5|c0	HG01074_pat_hprc_r2_v1.0.1	5	d2-	del7_8_SMN2like	-	650.5	1971.6	SERF1	6551.0	trunc5	13532	none	True		1	2	HG01074	complete	True	False	PUR	d2- 1+
+HG01074_pat_hprc_r2_v1.0.1|w5|c1	HG01074_pat_hprc_r2_v1.0.1	5	1+	SMN1	+	1261.7	1971.6	SERF1	6554.0	full	15116	GTF2H2	True	SMN1	2	2	HG01074	complete	True	False	PUR	d2- 1+
+HG01081_mat_hprc_r2_v1.0.1|w3|c0	HG01081_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	620.0	1649.1	SERF1	6565.0	full	15115	GTF2H2	True	SMN1	1	1	HG01081	complete	True	False	PUR	1+
+HG01081_pat_hprc_r2_v1.0.1|w3|c0	HG01081_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	552.1	2058.0	SERF1	6556.0	trunc5	15124	none	True	SMN2	1	2	HG01081	complete	True	False	PUR	2- 1+
+HG01081_pat_hprc_r2_v1.0.1|w3|c1	HG01081_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1185.3	2058.0	SERF1	6578.0	full	15124	GTF2H2	True	SMN1	2	2	HG01081	complete	True	False	PUR	2- 1+
+HG01099_mat_hprc_r2_v1.0.1|w6|c0	HG01099_mat_hprc_r2_v1.0.1	6	2-	SMN2	-	655.4	1942.8	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG01099	complete	True	False	PUR	2- 1+
+HG01099_mat_hprc_r2_v1.0.1|w6|c1	HG01099_mat_hprc_r2_v1.0.1	6	1+	SMN1	+	1269.0	1942.8	SERF1	6555.0	full	15130	GTF2H2	True	SMN2	2	2	HG01099	complete	True	False	PUR	2- 1+
+HG01099_pat_hprc_r2_v1.0.1|w4|c0	HG01099_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	236.8	1544.9	SERF1	6545.0	full	15119	GTF2H2	True	SMN2	1	2	HG01099	complete	True	False	PUR	2- 1+
+HG01099_pat_hprc_r2_v1.0.1|w4|c1	HG01099_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	889.0	1544.9	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	HG01099	complete	True	False	PUR	2- 1+
+HG01106_mat_hprc_r2_v1.0.1|w6|c0	HG01106_mat_hprc_r2_v1.0.1	6	2-	SMN2	-	634.0	2018.0	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG01106	complete	True	False	PUR	2- 1+
+HG01106_mat_hprc_r2_v1.0.1|w6|c1	HG01106_mat_hprc_r2_v1.0.1	6	1+	SMN1	+	1247.4	2018.0	SERF1	6553.0	full	15116	GTF2H2	True	SMN1	2	2	HG01106	complete	True	False	PUR	2- 1+
+HG01106_pat_hprc_r2_v1.0.1|w4|c0	HG01106_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	701.8	1447.6	SERF1	6558.0	full	15115	GTF2H2	True	SMN1	1	1	HG01106	complete	True	False	PUR	1+
+HG01109_mat_hprc_r2_v1.0.1|w2|c0	HG01109_mat_hprc_r2_v1.0.1	2	1-	SMN1	-	627.8	1702.2	SERF1	6553.0	trunc5	15127	none	True	SMN2	1	2	HG01109	complete	True	False	PUR	1- 1+
+HG01109_mat_hprc_r2_v1.0.1|w2|c1	HG01109_mat_hprc_r2_v1.0.1	2	1+	SMN1	+	1284.4	1702.2	SERF1	6540.0	full	15119	GTF2H2	True	mixed	2	2	HG01109	complete	True	False	PUR	1- 1+
+HG01109_pat_hprc_r2_v1.0.1|w2|c0	HG01109_pat_hprc_r2_v1.0.1	2	1+	SMN1	+	204.6	1098.6	SERF1	6552.0	full	15115	GTF2H2	True		1	1	HG01109	split	False	False	PUR	2- | 1+
+HG01109_pat_hprc_r2_v1.0.1|w7|c0	HG01109_pat_hprc_r2_v1.0.1	7	2-	SMN2	-	633.9	836.8	SERF1	6555.0	trunc5	15132	none	True		1	1	HG01109	split	False	False	PUR	2- | 1+
+HG01123_mat_hprc_r2_v1.0.1|w3|c0	HG01123_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	613.5	1811.0	SERF1	6562.0	trunc5	15119	none	True	SMN1	1	2	HG01123	complete	True	False	CLM	1- 1-
+HG01123_mat_hprc_r2_v1.0.1|w3|c1	HG01123_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	1319.9	1811.0	SERF1	6560.0	full	15116	GTF2H2	True	SMN1	2	2	HG01123	complete	True	False	CLM	1- 1-
+HG01123_pat_hprc_r2_v1.0.1|w4|c0	HG01123_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	998.4	2513.1	SERF1	6554.0	trunc5	15130	none	True	SMN2	1	2	HG01123	complete	True	False	CLM	2- 1-
+HG01123_pat_hprc_r2_v1.0.1|w4|c1	HG01123_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	1494.2	2513.1	SERF1	6550.0	full	15131	GTF2H2	True	SMN1	2	2	HG01123	complete	True	False	CLM	2- 1-
+HG01150_mat_hprc_r2_v1.0.1|w4|c0	HG01150_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	653.7	1956.5	SERF1	6554.0	trunc5	15129	none	True	SMN2	1	2	HG01150	complete	True	False	CLM	2- 1+
+HG01150_mat_hprc_r2_v1.0.1|w4|c1	HG01150_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1246.6	1956.5	SERF1	6562.0	full	15115	GTF2H2	True	SMN1	2	2	HG01150	complete	True	False	CLM	2- 1+
+HG01150_pat_hprc_r2_v1.0.1|w3|c0	HG01150_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	552.1	1935.5	SERF1	6544.0	trunc5	15126	none	True	SMN2	1	2	HG01150	complete	True	False	CLM	2- 1+
+HG01150_pat_hprc_r2_v1.0.1|w3|c1	HG01150_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	945.4	1935.5	SERF1	6550.0	full	15123	GTF2H2	True	SMN1	2	2	HG01150	complete	True	False	CLM	2- 1+
+HG01167_hap1_hprc_r2_v1.0.1|w4|c0	HG01167_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1898.7	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	HG01167	complete	True	False	PUR	1- 1+
+HG01167_hap1_hprc_r2_v1.0.1|w4|c1	HG01167_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	895.7	1898.7	SERF1	6562.0	full	15120	GTF2H2	True	SMN1	2	2	HG01167	complete	True	False	PUR	1- 1+
+HG01167_hap2_hprc_r2_v1.0.1|w3|c0	HG01167_hap2_hprc_r2_v1.0.1	3	2+	SMN2	+	618.2	2117.3	SERF1	6555.0	trunc5	15130	none	True	SMN2	1	2	HG01167	gapped	True	False	PUR	2+ 1+
+HG01167_hap2_hprc_r2_v1.0.1|w3|c1	HG01167_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	1472.3	2117.3	SERF1	6556.0	trunc5	15148	none	True	SMN1	2	2	HG01167	gapped	True	False	PUR	2+ 1+
+HG01175_mat_hprc_r2_v1.0.1|w4|c0	HG01175_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	552.1	2175.4	SERF1	6544.0	trunc5	15126	none	True	SMN2	1	2	HG01175	complete	True	False	PUR	2- 1+
+HG01175_mat_hprc_r2_v1.0.1|w4|c1	HG01175_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1185.3	2175.4	SERF1	6550.0	full	15124	GTF2H2	True	SMN1	2	2	HG01175	complete	True	False	PUR	2- 1+
+HG01175_pat_hprc_r2_v1.0.1|w5|c0	HG01175_pat_hprc_r2_v1.0.1	5	d2-	del7_8_SMN2like	-	649.9	1971.1	SERF1	6551.0	trunc5	13533	none	True		1	2	HG01175	complete	True	False	PUR	d2- 1+
+HG01175_pat_hprc_r2_v1.0.1|w5|c1	HG01175_pat_hprc_r2_v1.0.1	5	1+	SMN1	+	1261.2	1971.1	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG01175	complete	True	False	PUR	d2- 1+
+HG01192_mat_hprc_r2_v1.0.1|w3|c0	HG01192_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	552.0	2268.7	SERF1	6544.0	trunc5	15126	none	True	SMN2	1	2	HG01192	gapped	True	False	PUR	2- 1+
+HG01192_mat_hprc_r2_v1.0.1|w3|c1	HG01192_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1278.6	2268.7	SERF1	6550.0	full	15122	GTF2H2	True	SMN1	2	2	HG01192	gapped	True	False	PUR	2- 1+
+HG01192_pat_hprc_r2_v1.0.1|w3|c0	HG01192_pat_hprc_r2_v1.0.1	3	d2-	del7_8_SMN2like	-	649.8	2081.5	SERF1	6551.0	trunc5	13532	none	True		1	2	HG01192	complete	True	False	PUR	d2- 1+
+HG01192_pat_hprc_r2_v1.0.1|w3|c1	HG01192_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1261.0	2081.5	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG01192	complete	True	False	PUR	d2- 1+
+HG01243_mat_hprc_r2_v1.0.1|w3|c0	HG01243_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	714.1	2157.4	SERF1	6538.0	trunc5	15130	none	True	SMN2	1	2	HG01243	complete	True	False	PUR	2- 1-
+HG01243_mat_hprc_r2_v1.0.1|w3|c1	HG01243_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	1603.2	2157.4	SERF1	6551.0	full	15131	GTF2H2	True	mixed	2	2	HG01243	complete	True	False	PUR	2- 1-
+HG01243_pat_hprc_r2_v1.0.1|w4|c0	HG01243_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	683.8	2635.4	SERF1	6564.0	full	15117	GTF2H2	True	SMN1	1	3	HG01243	complete	True	False	PUR	1- 2- 1+
+HG01243_pat_hprc_r2_v1.0.1|w4|c1	HG01243_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	1284.5	2635.4	SERF1	6559.0	trunc5	15123	none	True	SMN2	2	3	HG01243	complete	True	False	PUR	1- 2- 1+
+HG01243_pat_hprc_r2_v1.0.1|w4|c2	HG01243_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1938.9	2635.4	SERF1	6561.0	full	15125	GTF2H2	True	SMN1	3	3	HG01243	complete	True	False	PUR	1- 2- 1+
+HG01252_mat_hprc_r2_v1.0.1|w3|c0	HG01252_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	602.1	2119.4	SERF1	6552.0	trunc5	15120	none	True	SMN2	1	2	HG01252	complete	True	False	CLM	2- 1-
+HG01252_mat_hprc_r2_v1.0.1|w3|c1	HG01252_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	1098.4	2119.4	SERF1	6562.0	full	15162	GTF2H2	True	SMN1	2	2	HG01252	complete	True	False	CLM	2- 1-
+HG01252_pat_hprc_r2_v1.0.1|w3|c0	HG01252_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	640.8	1606.8	SERF1	6586.0	full	15115	GTF2H2	True	SMN1	1	1	HG01252	complete	True	False	CLM	1+
+HG01255_mat_hprc_r2_v1.0.1|w4|c0	HG01255_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	631.5	2126.0	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG01255	complete	True	False	CLM	2- 1+
+HG01255_mat_hprc_r2_v1.0.1|w4|c1	HG01255_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1265.3	2126.0	SERF1	6551.0	full	15116	GTF2H2	True	SMN1	2	2	HG01255	complete	True	False	CLM	2- 1+
+HG01255_pat_hprc_r2_v1.0.1|w3|c0	HG01255_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	595.8	1274.4	SERF1	6553.0	full	15121	GTF2H2	True	SMN1	1	1	HG01255	complete	True	False	CLM	1+
+HG01258_mat_hprc_r2_v1.0.1|w5|c0	HG01258_mat_hprc_r2_v1.0.1	5	2-	SMN2	-	639.5	1931.4	SERF1	6557.0	trunc5	15129	none	True	SMN2	1	2	HG01258	complete	True	False	CLM	2- 1-
+HG01258_mat_hprc_r2_v1.0.1|w5|c1	HG01258_mat_hprc_r2_v1.0.1	5	1-	SMN1	-	1368.3	1931.4	SERF1	6553.0	full	15111	GTF2H2	True	SMN1	2	2	HG01258	complete	True	False	CLM	2- 1-
+HG01258_pat_hprc_r2_v1.0.1|w4|c0	HG01258_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	602.9	1926.2	SERF1	6557.0	trunc5	15130	none	True	SMN2	1	2	HG01258	complete	True	False	CLM	2- 1+
+HG01258_pat_hprc_r2_v1.0.1|w4|c1	HG01258_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1216.3	1926.2	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	HG01258	complete	True	False	CLM	2- 1+
+HG01261_mat_hprc_r2_v1.0.1|w2|c0	HG01261_mat_hprc_r2_v1.0.1	2	2-	SMN2	-	647.9	1660.7	SERF1	6553.0	trunc5	15119	none	True		1	2	HG01261	split	False	False	CLM	2- 1- | 2+
+HG01261_mat_hprc_r2_v1.0.1|w2|c1	HG01261_mat_hprc_r2_v1.0.1	2	1-	SMN1	-	1167.0	1660.7	SERF1	6556.0	full	15118	NAIP:full	True		2	2	HG01261	split	False	False	CLM	2- 1- | 2+
+HG01261_mat_hprc_r2_v1.0.1|w5|c0	HG01261_mat_hprc_r2_v1.0.1	5	2+	SMN2	+	40.6	147.4	SERF1	6566.0	full	15119	GTF2H2	True		1	1	HG01261	split	False	False	CLM	2- 1- | 2+
+HG01261_pat_hprc_r2_v1.0.1|w2|c0	HG01261_pat_hprc_r2_v1.0.1	2	2-	SMN2	-	602.5	2120.0	SERF1	6554.0	trunc5	15130	none	True	SMN2	1	2	HG01261	complete	True	False	CLM	2- 1-
+HG01261_pat_hprc_r2_v1.0.1|w2|c1	HG01261_pat_hprc_r2_v1.0.1	2	1-	SMN1	-	1116.5	2120.0	SERF1	6556.0	full	15133	GTF2H2	True	SMN1	2	2	HG01261	complete	True	False	CLM	2- 1-
+HG01346_mat_hprc_r2_v1.0.1|w2|c0	HG01346_mat_hprc_r2_v1.0.1	2	1+	SMN1	+	595.8	1274.4	SERF1	6553.0	full	15121	GTF2H2	True	SMN1	1	1	HG01346	complete	True	False	CLM	1+
+HG01346_pat_hprc_r2_v1.0.1|w4|c0	HG01346_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	701.7	1411.5	SERF1	6558.0	full	15115	GTF2H2	True	SMN1	1	1	HG01346	complete	True	False	CLM	1+
+HG01358_mat_hprc_r2_v1.0.1|w3|c0	HG01358_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	595.8	1274.4	SERF1	6553.0	full	15120	GTF2H2	True	SMN1	1	1	HG01358	complete	True	False	CLM	1+
+HG01358_pat_hprc_r2_v1.0.1|w2|c0	HG01358_pat_hprc_r2_v1.0.1	2	2-	SMN2	-	602.1	2119.1	SERF1	6553.0	trunc5	15120	none	True	SMN2	1	2	HG01358	complete	True	False	CLM	2- 1-
+HG01358_pat_hprc_r2_v1.0.1|w2|c1	HG01358_pat_hprc_r2_v1.0.1	2	1-	SMN1	-	1098.0	2119.1	SERF1	6562.0	full	15147	GTF2H2	True	SMN1	2	2	HG01358	complete	True	False	CLM	2- 1-
+HG01361_mat_hprc_r2_v1.0.1|w3|c0	HG01361_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	236.9	1551.0	SERF1	6560.0	full	15119	GTF2H2	True	SMN2	1	2	HG01361	complete	True	False	CLM	2- 1+
+HG01361_mat_hprc_r2_v1.0.1|w3|c1	HG01361_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	909.4	1551.0	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG01361	complete	True	False	CLM	2- 1+
+HG01361_pat_hprc_r2_v1.0.1|w3|c0	HG01361_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	236.9	1544.9	SERF1	6558.0	full	15119	GTF2H2	True	SMN2	1	2	HG01361	complete	True	False	CLM	2- 1+
+HG01361_pat_hprc_r2_v1.0.1|w3|c1	HG01361_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	889.0	1544.9	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG01361	complete	True	False	CLM	2- 1+
+HG01433_mat_hprc_r2_v1.0.1|w3|c0	HG01433_mat_hprc_r2_v1.0.1	3	2+	SMN2	+	615.5	1908.0	SERF1	6554.0	trunc5	15131	none	True	SMN2	1	2	HG01433	complete	True	False	CLM	2+ 1+
+HG01433_mat_hprc_r2_v1.0.1|w3|c1	HG01433_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1216.2	1908.0	SERF1	6563.0	full	15117	GTF2H2	True	SMN1	2	2	HG01433	complete	True	False	CLM	2+ 1+
+HG01433_pat_hprc_r2_v1.0.1|w4|c0	HG01433_pat_hprc_r2_v1.0.1	4	2+	SMN2	+	595.0	2175.6	SERF1	6544.0	trunc5	15125	none	True	SMN2	1	2	HG01433	complete	True	False	CLM	2+ 1+
+HG01433_pat_hprc_r2_v1.0.1|w4|c1	HG01433_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1185.3	2175.6	SERF1	6550.0	full	15131	GTF2H2	True	SMN1	2	2	HG01433	complete	True	False	CLM	2+ 1+
+HG01496_mat_hprc_r2_v1.0.1|w4|c0	HG01496_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	639.2	1388.5	SERF1	6560.0	full	15116	GTF2H2	True	SMN1	1	1	HG01496	gapped	True	False	CLM	1+
+HG01496_pat_hprc_r2_v1.0.1|w4|c0	HG01496_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	602.9	1903.7	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG01496	complete	True	False	CLM	2- 1+
+HG01496_pat_hprc_r2_v1.0.1|w4|c1	HG01496_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1211.8	1903.7	SERF1	6558.0	full	15117	GTF2H2	True	SMN1	2	2	HG01496	complete	True	False	CLM	2- 1+
+HG01530_hap1_hprc_r2_v1.0.1|w4|c0	HG01530_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	695.0	2035.7	SERF1	6558.0	trunc5	15130	none	True	SMN2	1	2	HG01530	complete	True	False	IBS	1- 2+
+HG01530_hap1_hprc_r2_v1.0.1|w4|c1	HG01530_hap1_hprc_r2_v1.0.1	4	2+	SMN2	+	1307.8	2035.7	SERF1	6547.0	full	15131	GTF2H2	True	SMN2	2	2	HG01530	complete	True	False	IBS	1- 2+
+HG01530_hap2_hprc_r2_v1.0.1|w2|c0	HG01530_hap2_hprc_r2_v1.0.1	2	2+	SMN2	+	618.2	2119.6	SERF1	6555.0	trunc5	15129	none	True	SMN2	1	2	HG01530	complete	True	False	IBS	2+ 1+
+HG01530_hap2_hprc_r2_v1.0.1|w2|c1	HG01530_hap2_hprc_r2_v1.0.1	2	1+	SMN1	+	1493.7	2119.6	SERF1	6556.0	full	15154	GTF2H2	True	SMN1	2	2	HG01530	complete	True	False	IBS	2+ 1+
+HG01784_hap1_hprc_r2_v1.0.1|w3|c0	HG01784_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	641.1	1628.4	SERF1	6553.0	full	15117	GTF2H2	True	SMN1	1	1	HG01784	complete	True	False	IBS	1+
+HG01784_hap2_hprc_r2_v1.0.1|w2|c0	HG01784_hap2_hprc_r2_v1.0.1	2	2-	SMN2	-	620.8	1610.7	SERF1	6553.0	trunc5	15119	none	True	SMN2	1	2	HG01784	complete	True	False	IBS	2- 1-
+HG01784_hap2_hprc_r2_v1.0.1|w2|c1	HG01784_hap2_hprc_r2_v1.0.1	2	1-	SMN1	-	1117.0	1610.7	SERF1	6556.0	full	15118	GTF2H2	True	SMN1	2	2	HG01784	complete	True	False	IBS	2- 1-
+HG01786_hap1_hprc_r2_v1.0.1|w4|c0	HG01786_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	633.9	2148.6	SERF1	6554.0	trunc5	15131	none	True	SMN2	1	2	HG01786	complete	True	False	IBS	2- 1-
+HG01786_hap1_hprc_r2_v1.0.1|w4|c1	HG01786_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	1129.7	2148.6	SERF1	6557.0	full	15133	GTF2H2	True	SMN1	2	2	HG01786	complete	True	False	IBS	2- 1-
+HG01786_hap2_hprc_r2_v1.0.1|w4|c0	HG01786_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	998.9	2836.3	SERF1	6554.0	trunc5	15130	none	True	SMN2	1	3	HG01786	complete	True	False	IBS	2- 1- 1+
+HG01786_hap2_hprc_r2_v1.0.1|w4|c1	HG01786_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	1494.8	2836.3	SERF1	6556.0	full	15131	GTF2H2	True	SMN1	2	3	HG01786	complete	True	False	IBS	2- 1- 1+
+HG01786_hap2_hprc_r2_v1.0.1|w4|c2	HG01786_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	2108.4	2836.3	SERF1	6556.0	full	15114	GTF2H2	True	SMN1	3	3	HG01786	complete	True	False	IBS	2- 1- 1+
+HG01884_mat_hprc_r2_v1.0.1|w3|c0	HG01884_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	237.5	1624.5	SERF1	6551.0	full	15128	GTF2H2	True	SMN2	1	2	HG01884	complete	True	False	ACB	2- 1+
+HG01884_mat_hprc_r2_v1.0.1|w3|c1	HG01884_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	891.8	1624.5	SERF1	6551.0	full	15119	GTF2H2	True	SMN1	2	2	HG01884	complete	True	False	ACB	2- 1+
+HG01884_pat_hprc_r2_v1.0.1|w3|c0	HG01884_pat_hprc_r2_v1.0.1	3	h21-	hyb_2_1	-	582.4	1866.3	SERF1	6564.0	full	15121	GTF2H2	True	SMN2	1	2	HG01884	complete	True	False	ACB	h21- 1-
+HG01884_pat_hprc_r2_v1.0.1|w3|c1	HG01884_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	1274.4	1866.3	SERF1	6547.0	trunc5	15124	none	True	SMN1	2	2	HG01884	complete	True	False	ACB	h21- 1-
+HG01891_mat_hprc_r2_v1.0.1|w2|c0	HG01891_mat_hprc_r2_v1.0.1	2	2-	SMN2	-	634.3	1903.6	SERF1	6551.0	trunc5	15131	none	True	SMN2	1	2	HG01891	complete	True	False	ACB	2- 1+
+HG01891_mat_hprc_r2_v1.0.1|w2|c1	HG01891_mat_hprc_r2_v1.0.1	2	1+	SMN1	+	1247.7	1903.6	SERF1	6558.0	full	15129	GTF2H2	True	SMN1	2	2	HG01891	complete	True	False	ACB	2- 1+
+HG01891_pat_hprc_r2_v1.0.1|w1|c0	HG01891_pat_hprc_r2_v1.0.1	1	2+	SMN2	+	662.2	2429.0	SERF1	6550.0	trunc5	15129	none	True	SMN2	1	2	HG01891	gapped	True	False	ACB	2+ 1+
+HG01891_pat_hprc_r2_v1.0.1|w1|c1	HG01891_pat_hprc_r2_v1.0.1	1	1+	SMN1	+	1453.0	2429.0	SERF1	6546.0	full	15118	GTF2H2	True	mixed	2	2	HG01891	gapped	True	False	ACB	2+ 1+
+HG01928_mat_hprc_r2_v1.0.1|w4|c0	HG01928_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	243.1	1649.1	SERF1	6587.0	full	15115	GTF2H2	True	SMN1	1	1	HG01928	complete	True	False	PEL	1-
+HG01928_pat_hprc_r2_v1.0.1|w4|c0	HG01928_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	602.9	1926.2	SERF1	6557.0	trunc5	15130	none	True	SMN2	1	2	HG01928	complete	True	False	PEL	2- 1+
+HG01928_pat_hprc_r2_v1.0.1|w4|c1	HG01928_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1216.3	1926.2	SERF1	6558.0	full	15117	GTF2H2	True	SMN1	2	2	HG01928	complete	True	False	PEL	2- 1+
+HG01934_mat_hprc_r2_v1.0.1|w4|c0	HG01934_mat_hprc_r2_v1.0.1	4	d2-	del7_8_SMN2like	-	649.9	2068.9	SERF1	6551.0	trunc5	13532	none	True		1	1	HG01934	split	False	False	PEL	d2- | 1+
+HG01934_mat_hprc_r2_v1.0.1|w7|c0	HG01934_mat_hprc_r2_v1.0.1	7	1+	SMN1	+	128.3	351.6	SERF1	6558.0	full	15116	GTF2H2	True		1	1	HG01934	split	False	False	PEL	d2- | 1+
+HG01934_pat_hprc_r2_v1.0.1|w4|c0	HG01934_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	641.3	1649.2	SERF1	6574.0	full	15115	GTF2H2	True	SMN1	1	1	HG01934	complete	True	False	PEL	1+
+HG01940_mat_hprc_r2_v1.0.1|w4|c0	HG01940_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	587.4	2153.7	SERF1	6566.0	trunc5	15124	none	True	SMN2	1	2	HG01940	complete	True	False	PEL	2- 1+
+HG01940_mat_hprc_r2_v1.0.1|w4|c1	HG01940_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1221.5	2153.7	SERF1	6574.0	full	15127	GTF2H2	True	SMN2	2	2	HG01940	complete	True	False	PEL	2- 1+
+HG01940_pat_hprc_r2_v1.0.1|w4|c0	HG01940_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	641.3	1669.5	SERF1	6594.0	full	15115	GTF2H2	True	SMN1	1	1	HG01940	complete	True	False	PEL	1+
+HG01943_mat_hprc_r2_v1.0.1|w4|c0	HG01943_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	602.9	1836.1	SERF1	6557.0	trunc5	15130	none	True	SMN2	1	2	HG01943	complete	True	False	PEL	2- 1+
+HG01943_mat_hprc_r2_v1.0.1|w4|c1	HG01943_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1216.5	1836.1	SERF1	6548.0	full	15113	GTF2H2	True	SMN1	2	2	HG01943	complete	True	False	PEL	2- 1+
+HG01943_pat_hprc_r2_v1.0.1|w4|c0	HG01943_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	641.3	1668.8	SERF1	6575.0	full	15115	GTF2H2	True	SMN1	1	1	HG01943	complete	True	False	PEL	1+
+HG01952_mat_hprc_r2_v1.0.1|w4|c0	HG01952_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	654.4	1939.7	SERF1	6547.0	trunc5	15129	none	True	SMN2	1	2	HG01952	complete	True	False	PEL	2- 1+
+HG01952_mat_hprc_r2_v1.0.1|w4|c1	HG01952_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1247.8	1939.7	SERF1	6549.0	full	15113	GTF2H2	True	SMN1	2	2	HG01952	complete	True	False	PEL	2- 1+
+HG01952_pat_hprc_r2_v1.0.1|w6|c0	HG01952_pat_hprc_r2_v1.0.1	6	2-	SMN2	-	602.3	2120.1	SERF1	6532.0	trunc5	15130	none	True	SMN2	1	2	HG01952	complete	True	False	PEL	2- 1-
+HG01952_pat_hprc_r2_v1.0.1|w6|c1	HG01952_pat_hprc_r2_v1.0.1	6	1-	SMN1	-	1098.2	2120.1	SERF1	6551.0	full	15152	GTF2H2	True	SMN1	2	2	HG01952	complete	True	False	PEL	2- 1-
+HG01960_mat_hprc_r2_v1.0.1|w3|c0	HG01960_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	243.0	2029.0	SERF1	6536.0	full	15116	GTF2H2	True	SMN1	1	2	HG01960	complete	True	False	ACB	1- 1+
+HG01960_mat_hprc_r2_v1.0.1|w3|c1	HG01960_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	899.0	2029.0	SERF1	6570.0	full	15119	GTF2H2	True	SMN1	2	2	HG01960	complete	True	False	ACB	1- 1+
+HG01960_pat_hprc_r2_v1.0.1|w3|c0	HG01960_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	584.5	2173.9	SERF1	6556.0	trunc5	15127	none	True	SMN1	1	2	HG01960	complete	True	False	ACB	1- 1+
+HG01960_pat_hprc_r2_v1.0.1|w3|c1	HG01960_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1238.9	2173.9	SERF1	6552.0	full	15125	GTF2H2	True	SMN1	2	2	HG01960	complete	True	False	ACB	1- 1+
+HG01969_mat_hprc_r2_v1.0.1|w6|c0	HG01969_mat_hprc_r2_v1.0.1	6	2-	SMN2	-	634.3	1920.9	SERF1	6554.0	trunc5	15129	none	True	SMN2	1	2	HG01969	complete	True	False	PEL	2- 1+
+HG01969_mat_hprc_r2_v1.0.1|w6|c1	HG01969_mat_hprc_r2_v1.0.1	6	1+	SMN1	+	1247.1	1920.9	SERF1	6556.0	full	15121	GTF2H2	True	SMN1	2	2	HG01969	complete	True	False	PEL	2- 1+
+HG01969_pat_hprc_r2_v1.0.1|w4|c0	HG01969_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	633.4	1900.2	SERF1	6558.0	trunc5	15129	none	True	SMN2	1	2	HG01969	complete	True	False	PEL	2- 1+
+HG01969_pat_hprc_r2_v1.0.1|w4|c1	HG01969_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1226.3	1900.2	SERF1	6554.0	full	15115	GTF2H2	True	SMN1	2	2	HG01969	complete	True	False	PEL	2- 1+
+HG01975_mat_hprc_r2_v1.0.1|w4|c0	HG01975_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	641.3	1649.6	SERF1	6589.0	full	15115	GTF2H2	True	SMN1	1	1	HG01975	complete	True	False	PEL	1+
+HG01975_pat_hprc_r2_v1.0.1|w4|c0	HG01975_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	611.9	2080.4	SERF1	6552.0	trunc5	15131	none	True	SMN2	1	2	HG01975	complete	True	False	PEL	2- 1+
+HG01975_pat_hprc_r2_v1.0.1|w4|c1	HG01975_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1226.3	2080.4	SERF1	6556.0	full	15117	GTF2H2	True	SMN1	2	2	HG01975	complete	True	False	PEL	2- 1+
+HG01978_mat_hprc_r2_v1.1.0|w2|c0	HG01978_mat_hprc_r2_v1.1.0	2	2-	SMN2	-	551.9	2057.8	SERF1	6561.0	trunc5	15125	none	True	SMN2	1	2	HG01978	complete	True	False	PEL	2- 1+
+HG01978_mat_hprc_r2_v1.1.0|w2|c1	HG01978_mat_hprc_r2_v1.1.0	2	1+	SMN1	+	1185.2	2057.8	SERF1	6579.0	full	15124	GTF2H2	True	SMN1	2	2	HG01978	complete	True	False	PEL	2- 1+
+HG01978_pat_hprc_r2_v1.1.0|w4|c0	HG01978_pat_hprc_r2_v1.1.0	4	2-	SMN2	-	586.7	2152.7	SERF1	6566.0	trunc5	15124	none	True	SMN2	1	2	HG01978	complete	True	False	PEL	2- 1+
+HG01978_pat_hprc_r2_v1.1.0|w4|c1	HG01978_pat_hprc_r2_v1.1.0	4	1+	SMN1	+	1220.7	2152.7	SERF1	6575.0	full	15127	GTF2H2	True	SMN2	2	2	HG01978	complete	True	False	PEL	2- 1+
+HG01981_mat_hprc_r2_v1.0.1|w3|c0	HG01981_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	595.9	2098.9	SERF1	6556.0	full	15120	GTF2H2	True	SMN1	1	2	HG01981	complete	True	False	PEL	1+ 2+
+HG01981_mat_hprc_r2_v1.0.1|w3|c1	HG01981_mat_hprc_r2_v1.0.1	3	2+	SMN2	+	1091.7	2098.9	SERF1	6558.0	trunc5	15129	none	True	SMN2	2	2	HG01981	complete	True	False	PEL	1+ 2+
+HG01981_pat_hprc_r2_v1.0.1|w4|c0	HG01981_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	633.9	1907.8	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG01981	complete	True	False	PEL	2- 1+
+HG01981_pat_hprc_r2_v1.0.1|w4|c1	HG01981_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1247.4	1907.8	SERF1	6553.0	full	15111	GTF2H2	True	SMN1	2	2	HG01981	complete	True	False	PEL	2- 1+
+HG01993_mat_hprc_r2_v1.0.1|w4|c0	HG01993_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	633.8	841.8	SERF1	6551.0	trunc5	15129	none	True		1	1	HG01993	split	False	False	PEL	2- | 1+
+HG01993_mat_hprc_r2_v1.0.1|w5|c0	HG01993_mat_hprc_r2_v1.0.1	5	1+	SMN1	+	206.0	884.5	SERF1	6551.0	full	15111	GTF2H2	True		1	1	HG01993	split	False	False	PEL	2- | 1+
+HG01993_pat_hprc_r2_v1.0.1|w0|c0	HG01993_pat_hprc_r2_v1.0.1	0	1+	SMN1	+	185.5	864.0	SERF1	6551.0	full	15111	GTF2H2	True		1	1	HG01993	split	False	False	PEL	2- | 1+
+HG01993_pat_hprc_r2_v1.0.1|w5|c0	HG01993_pat_hprc_r2_v1.0.1	5	2-	SMN2	-	633.8	841.8	SERF1	6551.0	trunc5	15129	none	True		1	1	HG01993	split	False	False	PEL	2- | 1+
+HG02004_mat_hprc_r2_v1.0.1|w0|c0	HG02004_mat_hprc_r2_v1.0.1	0	2-	SMN2	-	634.3	1975.8	SERF1	6556.0	trunc5	15130	none	True	SMN2	1	2	HG02004	complete	True	False	PEL	2- 1+
+HG02004_mat_hprc_r2_v1.0.1|w0|c1	HG02004_mat_hprc_r2_v1.0.1	0	1+	SMN1	+	1247.9	1975.8	SERF1	6558.0	full	15122	GTF2H2	True	SMN1	2	2	HG02004	complete	True	False	PEL	2- 1+
+HG02004_pat_hprc_r2_v1.0.1|w2|c0	HG02004_pat_hprc_r2_v1.0.1	2	1+	SMN1	+	682.3	1690.1	SERF1	6587.0	full	15116	GTF2H2	True	SMN1	1	1	HG02004	complete	True	False	PEL	1+
+HG02015_mat_hprc_r2_v1.0.1|w6|c0	HG02015_mat_hprc_r2_v1.0.1	6	2-	SMN2	-	633.4	1902.6	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG02015	complete	True	False	KHV	2- 1+
+HG02015_mat_hprc_r2_v1.0.1|w6|c1	HG02015_mat_hprc_r2_v1.0.1	6	1+	SMN1	+	1246.8	1902.6	SERF1	6552.0	full	15115	GTF2H2	True	SMN1	2	2	HG02015	complete	True	False	KHV	2- 1+
+HG02015_pat_hprc_r2_v1.0.1|w3|c0	HG02015_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	652.3	1867.5	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG02015	complete	True	False	KHV	2- 1+
+HG02015_pat_hprc_r2_v1.0.1|w3|c1	HG02015_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1265.8	1867.5	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG02015	complete	True	False	KHV	2- 1+
+HG02027_mat_hprc_r2_v1.0.1|w4|c0	HG02027_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	754.5	2028.2	SERF1	6557.0	trunc5	15130	none	True	SMN2	1	2	HG02027	gapped	True	False	KHV	2- 1+
+HG02027_mat_hprc_r2_v1.0.1|w4|c1	HG02027_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1367.9	2028.2	SERF1	6547.0	full	15122	GTF2H2	True	SMN1	2	2	HG02027	gapped	True	False	KHV	2- 1+
+HG02027_pat_hprc_r2_v1.0.1|w3|c0	HG02027_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	633.8	1887.6	SERF1	6555.0	trunc5	15129	none	True	SMN2	1	2	HG02027	complete	True	False	KHV	2- 1+
+HG02027_pat_hprc_r2_v1.0.1|w3|c1	HG02027_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1227.1	1887.6	SERF1	6553.0	full	15122	GTF2H2	True	SMN1	2	2	HG02027	complete	True	False	KHV	2- 1+
+HG02040_hap1_hprc_r2_v1.0.1|w3|c0	HG02040_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	663.5	1355.4	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	1	1	HG02040	complete	True	False	KHV	1+
+HG02040_hap2_hprc_r2_v1.0.1|w3|c0	HG02040_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	602.8	1854.2	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG02040	complete	True	False	KHV	2- 1+
+HG02040_hap2_hprc_r2_v1.0.1|w3|c1	HG02040_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	1216.4	1854.2	SERF1	6558.0	full	15117	GTF2H2	True	SMN1	2	2	HG02040	complete	True	False	KHV	2- 1+
+HG02055_mat_hprc_r2_v1.0.1|w4|c0	HG02055_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	1152.3	1919.7	SERF1	6554.0	full	15116	GTF2H2	True	SMN1	1	1	HG02055	complete	True	False	ACB	1-
+HG02055_pat_hprc_r2_v1.0.1|w4|c0	HG02055_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	242.9	1554.0	SERF1	3823.0	full	15116	GTF2H2	True	SMN1	1	2	HG02055	complete	True	False	ACB	1- 1+
+HG02055_pat_hprc_r2_v1.0.1|w4|c1	HG02055_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	875.4	1554.0	SERF1	6557.0	full	15117	GTF2H2	True	SMN1	2	2	HG02055	complete	True	False	ACB	1- 1+
+HG02056_mat_hprc_r2_v1.0.1|w4|c0	HG02056_mat_hprc_r2_v1.0.1	4	2+	SMN2	+	642.3	1907.0	SERF1	6543.0	trunc5	15131	none	True	SMN2	1	2	HG02056	complete	True	False	KHV	2+ 1+
+HG02056_mat_hprc_r2_v1.0.1|w4|c1	HG02056_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1246.5	1907.0	SERF1	6543.0	full	15120	GTF2H2	True	SMN1	2	2	HG02056	complete	True	False	KHV	2+ 1+
+HG02056_pat_hprc_r2_v1.0.1|w4|c0	HG02056_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	652.3	1976.1	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG02056	complete	True	False	KHV	2- 1+
+HG02056_pat_hprc_r2_v1.0.1|w4|c1	HG02056_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1266.1	1976.1	SERF1	6559.0	full	15118	GTF2H2	True	SMN1	2	2	HG02056	complete	True	False	KHV	2- 1+
+HG02071_mat_hprc_r2_v1.0.1|w5|c0	HG02071_mat_hprc_r2_v1.0.1	5	2-	SMN2	-	653.9	1962.0	SERF1	6554.0	trunc5	15129	none	True	SMN2	1	2	HG02071	complete	True	False	KHV	2- 1+
+HG02071_mat_hprc_r2_v1.0.1|w5|c1	HG02071_mat_hprc_r2_v1.0.1	5	1+	SMN1	+	1288.1	1962.0	SERF1	6555.0	full	15118	GTF2H2	True	SMN1	2	2	HG02071	complete	True	False	KHV	2- 1+
+HG02071_pat_hprc_r2_v1.0.1|w4|c0	HG02071_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	634.0	1907.9	SERF1	6540.0	trunc5	15130	none	True	SMN2	1	2	HG02071	complete	True	False	KHV	2- 1+
+HG02071_pat_hprc_r2_v1.0.1|w4|c1	HG02071_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1247.4	1907.9	SERF1	6553.0	full	15120	GTF2H2	True	SMN1	2	2	HG02071	complete	True	False	KHV	2- 1+
+HG02074_mat_hprc_r2_v1.0.1|w3|c0	HG02074_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	237.1	1524.6	SERF1	6551.0	full	15130	GTF2H2	True	SMN2	1	2	HG02074	complete	True	False	KHV	2- 1+
+HG02074_mat_hprc_r2_v1.0.1|w3|c1	HG02074_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	850.7	1524.6	SERF1	6560.0	full	15118	GTF2H2	True	SMN1	2	2	HG02074	complete	True	False	KHV	2- 1+
+HG02074_pat_hprc_r2_v1.0.1|w3|c0	HG02074_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	654.8	1948.1	SERF1	6539.0	trunc5	15130	none	True	SMN2	1	2	HG02074	gapped	True	False	KHV	2- 1+
+HG02074_pat_hprc_r2_v1.0.1|w3|c1	HG02074_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1268.2	1948.1	SERF1	6551.0	full	15121	GTF2H2	True	SMN1	2	2	HG02074	gapped	True	False	KHV	2- 1+
+HG02080_mat_hprc_r2_v1.0.1|w6|c0	HG02080_mat_hprc_r2_v1.0.1	6	2-	SMN2	-	613.1	1741.8	SERF1	6551.0	trunc5	15128	none	True	SMN2	1	2	HG02080	complete	True	False	KHV	2- 1+
+HG02080_mat_hprc_r2_v1.0.1|w6|c1	HG02080_mat_hprc_r2_v1.0.1	6	1+	SMN1	+	1206.1	1741.8	SERF1	6552.0	trunc5	15122	none	True	SMN1	2	2	HG02080	complete	True	False	KHV	2- 1+
+HG02080_pat_hprc_r2_v1.0.1|w3|c0	HG02080_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	633.9	1925.8	SERF1	6553.0	trunc5	15131	none	True	SMN2	1	2	HG02080	complete	True	False	KHV	2- 1+
+HG02080_pat_hprc_r2_v1.0.1|w3|c1	HG02080_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1247.3	1925.8	SERF1	6553.0	full	15122	GTF2H2	True	SMN1	2	2	HG02080	complete	True	False	KHV	2- 1+
+HG02083_mat_hprc_r2_v1.0.1|w3|c0	HG02083_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	652.1	1919.0	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG02083	complete	True	False	KHV	2- 1+
+HG02083_mat_hprc_r2_v1.0.1|w3|c1	HG02083_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1281.2	1919.0	SERF1	6560.0	full	15116	GTF2H2	True	SMN1	2	2	HG02083	complete	True	False	KHV	2- 1+
+HG02083_pat_hprc_r2_v1.0.1|w4|c0	HG02083_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	602.6	1909.1	SERF1	6558.0	trunc5	15116	none	True	SMN1	1	2	HG02083	complete	True	False	KHV	1- 2+
+HG02083_pat_hprc_r2_v1.0.1|w4|c1	HG02083_pat_hprc_r2_v1.0.1	4	2+	SMN2	+	1217.3	1909.1	SERF1	6554.0	full	15129	GTF2H2	True	SMN2	2	2	HG02083	complete	True	False	KHV	1- 2+
+HG02109_mat_hprc_r2_v1.0.1|w4|c0	HG02109_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	635.1	1904.3	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG02109	complete	True	False	ACB	2- 1+
+HG02109_mat_hprc_r2_v1.0.1|w4|c1	HG02109_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1248.5	1904.3	SERF1	6558.0	full	15129	GTF2H2	True	SMN1	2	2	HG02109	complete	True	False	ACB	2- 1+
+HG02109_pat_hprc_r2_v1.0.1|w3|c0	HG02109_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	242.8	1286.8	SERF1	3821.0	full	15116	GTF2H2	True	SMN1	1	2	HG02109	complete	True	False	ACB	1- 1+
+HG02109_pat_hprc_r2_v1.0.1|w3|c1	HG02109_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	874.9	1286.8	SERF1	6564.0	full	15120	GTF2H2	True	SMN1	2	2	HG02109	complete	True	False	ACB	1- 1+
+HG02129_mat_hprc_r2_v1.0.1|w2|c0	HG02129_mat_hprc_r2_v1.0.1	2	2-	SMN2	-	653.7	1989.2	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG02129	complete	True	False	KHV	2- 1+
+HG02129_mat_hprc_r2_v1.0.1|w2|c1	HG02129_mat_hprc_r2_v1.0.1	2	1+	SMN1	+	1328.7	1989.2	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	HG02129	complete	True	False	KHV	2- 1+
+HG02129_pat_hprc_r2_v1.0.1|w5|c0	HG02129_pat_hprc_r2_v1.0.1	5	2-	SMN2	-	652.3	1903.8	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG02129	complete	True	False	KHV	2- 1+
+HG02129_pat_hprc_r2_v1.0.1|w5|c1	HG02129_pat_hprc_r2_v1.0.1	5	1+	SMN1	+	1266.0	1903.8	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	HG02129	complete	True	False	KHV	2- 1+
+HG02132_mat_hprc_r2_v1.0.1|w4|c0	HG02132_mat_hprc_r2_v1.0.1	4	2+	SMN2	+	645.4	1930.9	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG02132	complete	True	False	KHV	2+ 1+
+HG02132_mat_hprc_r2_v1.0.1|w4|c1	HG02132_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1275.0	1930.9	SERF1	6557.0	full	15114	GTF2H2	True	SMN1	2	2	HG02132	complete	True	False	KHV	2+ 1+
+HG02132_pat_hprc_r2_v1.0.1|w4|c0	HG02132_pat_hprc_r2_v1.0.1	4	2+	SMN2	+	635.6	2447.7	SERF1	6544.0	full	15125	GTF2H2	True	SMN2	1	3	HG02132	complete	True	False	KHV	2+ 2- 2+
+HG02132_pat_hprc_r2_v1.0.1|w4|c1	HG02132_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	1164.8	2447.7	SERF1	6556.0	trunc5	15130	none	True	SMN2	2	3	HG02132	complete	True	False	KHV	2+ 2- 2+
+HG02132_pat_hprc_r2_v1.0.1|w4|c2	HG02132_pat_hprc_r2_v1.0.1	4	2+	SMN2	+	1737.8	2447.7	SERF1	6555.0	full	15116	GTF2H2	True	mixed	3	3	HG02132	complete	True	False	KHV	2+ 2- 2+
+HG02135_mat_hprc_r2_v1.0.1|w3|c0	HG02135_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	652.8	1923.0	SERF1	6551.0	trunc5	15131	none	True	SMN2	1	2	HG02135	complete	True	False	KHV	2- 1+
+HG02135_mat_hprc_r2_v1.0.1|w3|c1	HG02135_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1267.1	1923.0	SERF1	6560.0	full	15110	GTF2H2	True	SMN1	2	2	HG02135	complete	True	False	KHV	2- 1+
+HG02135_pat_hprc_r2_v1.0.1|w4|c0	HG02135_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	602.2	1876.1	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG02135	complete	True	False	KHV	2- 1+
+HG02135_pat_hprc_r2_v1.0.1|w4|c1	HG02135_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1215.6	1876.1	SERF1	6551.0	full	15123	GTF2H2	True	SMN1	2	2	HG02135	complete	True	False	KHV	2- 1+
+HG02145_mat_hprc_r2_v1.0.1|w5|c0	HG02145_mat_hprc_r2_v1.0.1	5	1-	SMN1	-	1092.0	2351.6	SERF1	6552.0	trunc5	15127	none	True	SMN1	1	2	HG02145	complete	True	False	ACB	1- 1+
+HG02145_mat_hprc_r2_v1.0.1|w5|c1	HG02145_mat_hprc_r2_v1.0.1	5	1+	SMN1	+	1741.5	2351.6	SERF1	6554.0	full	15127	GTF2H2	True	SMN1	2	2	HG02145	complete	True	False	ACB	1- 1+
+HG02145_pat_hprc_r2_v1.0.1|w3|c0	HG02145_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	243.1	1880.9	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	HG02145	complete	True	False	ACB	1- 1+
+HG02145_pat_hprc_r2_v1.0.1|w3|c1	HG02145_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	895.9	1880.9	SERF1	6566.0	full	15120	GTF2H2	True	SMN1	2	2	HG02145	complete	True	False	ACB	1- 1+
+HG02148_mat_hprc_r2_v1.0.1|w2|c0	HG02148_mat_hprc_r2_v1.0.1	2	2-	SMN2	-	620.8	1611.0	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG02148	complete	True	False	PEL	2- 1-
+HG02148_mat_hprc_r2_v1.0.1|w2|c1	HG02148_mat_hprc_r2_v1.0.1	2	1-	SMN1	-	1117.2	1611.0	SERF1	6556.0	full	15118	GTF2H2	True	SMN1	2	2	HG02148	complete	True	False	PEL	2- 1-
+HG02148_pat_hprc_r2_v1.0.1|w4|c0	HG02148_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	602.8	1872.0	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG02148	complete	True	False	PEL	2- 1+
+HG02148_pat_hprc_r2_v1.0.1|w4|c1	HG02148_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1216.2	1872.0	SERF1	6558.0	full	15117	GTF2H2	True	SMN1	2	2	HG02148	complete	True	False	PEL	2- 1+
+HG02155_hap1_hprc_r2_v1.0.1|w4|c0	HG02155_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	641.2	1700.9	SERF1	6557.0	full	15117	GTF2H2	True	SMN1	1	1	HG02155	complete	True	False	CDX	1+
+HG02155_hap2_hprc_r2_v1.0.1|w3|c0	HG02155_hap2_hprc_r2_v1.0.1	3	h21-	hyb_2_1	-	243.2	1494.6	SERF1	6551.0	full	15130	GTF2H2	True	SMN2	1	2	HG02155	complete	True	False	CDX	h21- 1+
+HG02155_hap2_hprc_r2_v1.0.1|w3|c1	HG02155_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	856.8	1494.6	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	2	2	HG02155	complete	True	False	CDX	h21- 1+
+HG02165_hap1_hprc_r2_v1.0.1|w4|c0	HG02165_hap1_hprc_r2_v1.0.1	4	2+	SMN2	+	637.6	1917.7	SERF1	6555.0	trunc5	15116	none	True	SMN2	1	2	HG02165	complete	True	False	CDX	2+ 1+
+HG02165_hap1_hprc_r2_v1.0.1|w4|c1	HG02165_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1261.9	1917.7	SERF1	6558.0	full	15115	GTF2H2	True	SMN1	2	2	HG02165	complete	True	False	CDX	2+ 1+
+HG02165_hap2_hprc_r2_v1.0.1|w4|c0	HG02165_hap2_hprc_r2_v1.0.1	4	2+	SMN2	+	640.1	2014.8	SERF1	6547.0	trunc5	15130	none	True	SMN2	1	2	HG02165	complete	True	False	CDX	2+ 1+
+HG02165_hap2_hprc_r2_v1.0.1|w4|c1	HG02165_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1286.8	2014.8	SERF1	6564.0	full	15115	GTF2H2	True	SMN1	2	2	HG02165	complete	True	False	CDX	2+ 1+
+HG02178_hap1_hprc_r2_v1.0.1|w3|c0	HG02178_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	633.3	1959.3	SERF1	6557.0	trunc5	15129	none	True	SMN2	1	2	HG02178	complete	True	False	CDX	2- 1+
+HG02178_hap1_hprc_r2_v1.0.1|w3|c1	HG02178_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1267.4	1959.3	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	2	2	HG02178	complete	True	False	CDX	2- 1+
+HG02178_hap2_hprc_r2_v1.0.1|w4|c0	HG02178_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	650.6	1991.3	SERF1	6574.0	trunc5	15117	none	True	SMN2	1	2	HG02178	complete	True	False	CDX	2- 1+
+HG02178_hap2_hprc_r2_v1.0.1|w4|c1	HG02178_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1263.4	1991.3	SERF1	6555.0	full	15116	GTF2H2	True	SMN1	2	2	HG02178	complete	True	False	CDX	2- 1+
+HG02257_mat_hprc_r2_v1.1.0|w2|c0	HG02257_mat_hprc_r2_v1.1.0	2	1+	SMN1	+	596.7	2121.2	SERF1	6556.0	full	15120	GTF2H2	True	SMN1	1	2	HG02257	complete	True	False	ACB	1+ 2+
+HG02257_mat_hprc_r2_v1.1.0|w2|c1	HG02257_mat_hprc_r2_v1.1.0	2	2+	SMN2	+	1092.6	2121.2	SERF1	6554.0	trunc5	15130	none	True	SMN2	2	2	HG02257	complete	True	False	ACB	1+ 2+
+HG02257_pat_hprc_r2_v1.1.0|w5|c0	HG02257_pat_hprc_r2_v1.1.0	5	2-	SMN2	-	654.4	1946.5	SERF1	6556.0	trunc5	15129	none	True	SMN2	1	2	HG02257	complete	True	False	ACB	2- 1-
+HG02257_pat_hprc_r2_v1.1.0|w5|c1	HG02257_pat_hprc_r2_v1.1.0	5	1-	SMN1	-	1401.3	1946.5	SERF1	6560.0	full	15122	GTF2H2	True	SMN1	2	2	HG02257	complete	True	False	ACB	2- 1-
+HG02258_mat_hprc_r2_v1.0.1|w3|c0	HG02258_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	237.7	2006.4	SERF1	6553.0	full	15128	GTF2H2	True	SMN2	1	2	HG02258	complete	True	False	ACB	2- 1+
+HG02258_mat_hprc_r2_v1.0.1|w3|c1	HG02258_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	913.6	2006.4	SERF1	6555.0	full	15119	GTF2H2	True	SMN1	2	2	HG02258	complete	True	False	ACB	2- 1+
+HG02258_pat_hprc_r2_v1.0.1|w3|c0	HG02258_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	242.9	1893.0	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	HG02258	complete	True	False	ACB	1- 1+
+HG02258_pat_hprc_r2_v1.0.1|w3|c1	HG02258_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	895.8	1893.0	SERF1	6560.0	full	15120	GTF2H2	True	SMN1	2	2	HG02258	complete	True	False	ACB	1- 1+
+HG02273_hap1_hprc_r2_v1.0.1|w0|c0	HG02273_hap1_hprc_r2_v1.0.1	0	1+	SMN1	+	499.4	1173.3	SERF1	6556.0	full	15116	GTF2H2	True		1	1	HG02273	split	False	False	PEL	2- | 1+
+HG02273_hap1_hprc_r2_v1.0.1|w5|c0	HG02273_hap1_hprc_r2_v1.0.1	5	2-	SMN2	-	602.9	807.2	SERF1	6553.0	trunc5	15130	none	True		1	1	HG02273	split	False	False	PEL	2- | 1+
+HG02273_hap2_hprc_r2_v1.0.1|w5|c0	HG02273_hap2_hprc_r2_v1.0.1	5	1-	SMN1	-	633.8	1031.7	SERF1	6553.0	trunc5	15129	none	True		1	1	HG02273	split	False	False	PEL	1- | 1+
+HG02273_hap2_hprc_r2_v1.0.1|w6|c0	HG02273_hap2_hprc_r2_v1.0.1	6	1+	SMN1	+	130.6	791.1	SERF1	6553.0	full	15111	GTF2H2	True		1	1	HG02273	split	False	False	PEL	1- | 1+
+HG02280_mat_hprc_r2_v1.0.1|w4|c0	HG02280_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	584.7	1636.6	SERF1	6546.0	trunc5	15127	none	True	SMN1	1	2	HG02280	complete	True	False	ACB	1- 1+
+HG02280_mat_hprc_r2_v1.0.1|w4|c1	HG02280_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1218.6	1636.6	SERF1	6554.0	full	15125	GTF2H2	True	SMN1	2	2	HG02280	complete	True	False	ACB	1- 1+
+HG02280_pat_hprc_r2_v1.0.1|w4|c0	HG02280_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	633.9	2053.8	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG02280	complete	True	False	ACB	2- 1+
+HG02280_pat_hprc_r2_v1.0.1|w4|c1	HG02280_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1247.2	2053.8	SERF1	6551.0	full	15116	GTF2H2	True	SMN1	2	2	HG02280	complete	True	False	ACB	2- 1+
+HG02293_mat_hprc_r2_v1.0.1|w3|c0	HG02293_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	634.4	1957.8	SERF1	6555.0	trunc5	15129	none	True	SMN2	1	2	HG02293	complete	True	False	PEL	2- 1+
+HG02293_mat_hprc_r2_v1.0.1|w3|c1	HG02293_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1247.9	1957.8	SERF1	6555.0	full	15121	GTF2H2	True	SMN1	2	2	HG02293	complete	True	False	PEL	2- 1+
+HG02293_pat_hprc_r2_v1.0.1|w4|c0	HG02293_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	654.4	1978.1	SERF1	6547.0	trunc5	15129	none	True	SMN2	1	2	HG02293	complete	True	False	PEL	2- 1+
+HG02293_pat_hprc_r2_v1.0.1|w4|c1	HG02293_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1268.2	1978.1	SERF1	6547.0	full	15115	GTF2H2	True	SMN1	2	2	HG02293	complete	True	False	PEL	2- 1+
+HG02300_mat_hprc_r2_v1.0.1|w3|c0	HG02300_mat_hprc_r2_v1.0.1	3	h12-	hyb_1_2	-	652.1	1921.2	SERF1	6549.0	trunc5	15130	none	True	SMN2	1	2	HG02300	complete	True	False	PEL	h12- 1+
+HG02300_mat_hprc_r2_v1.0.1|w3|c1	HG02300_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1265.4	1921.2	SERF1	6557.0	full	15115	GTF2H2	True	SMN1	2	2	HG02300	complete	True	False	PEL	h12- 1+
+HG02300_pat_hprc_r2_v1.0.1|w3|c0	HG02300_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	633.8	1925.6	SERF1	6551.0	trunc5	15129	none	True	SMN2	1	2	HG02300	complete	True	False	PEL	2- 1+
+HG02300_pat_hprc_r2_v1.0.1|w3|c1	HG02300_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1247.2	1925.6	SERF1	6551.0	full	15111	GTF2H2	True	SMN1	2	2	HG02300	complete	True	False	PEL	2- 1+
+HG02391_hap1_hprc_r2_v1.0.1|w2|c0	HG02391_hap1_hprc_r2_v1.0.1	2	2-	SMN2	-	602.7	2100.9	SERF1	6559.0	trunc5	15130	none	True	SMN2	1	2	HG02391	complete	True	False	CDX	2- 1-
+HG02391_hap1_hprc_r2_v1.0.1|w2|c1	HG02391_hap1_hprc_r2_v1.0.1	2	1-	SMN1	-	1098.3	2100.9	SERF1	6566.0	full	15159	GTF2H2	True	SMN1	2	2	HG02391	complete	True	False	CDX	2- 1-
+HG02391_hap2_hprc_r2_v1.0.1|w4|c0	HG02391_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	652.3	1888.2	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG02391	complete	True	False	CDX	2- 1+
+HG02391_hap2_hprc_r2_v1.0.1|w4|c1	HG02391_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1286.5	1888.2	SERF1	6561.0	full	15115	GTF2H2	True	SMN1	2	2	HG02391	complete	True	False	CDX	2- 1+
+HG02392_hap1_hprc_r2_v1.0.1|w4|c0	HG02392_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	756.1	1940.0	SERF1	6551.0	full	15129	GTF2H2	True	SMN2	1	2	HG02392	complete	True	False	CDX	2- 1+
+HG02392_hap1_hprc_r2_v1.0.1|w4|c1	HG02392_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1350.2	1940.0	SERF1	6558.0	trunc5	15117	none	True	SMN1	2	2	HG02392	complete	True	False	CDX	2- 1+
+HG02392_hap2_hprc_r2_v1.0.1|w4|c0	HG02392_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	632.5	1888.5	SERF1	6555.0	trunc5	15129	none	True	SMN2	1	2	HG02392	complete	True	False	CDX	2- 1+
+HG02392_hap2_hprc_r2_v1.0.1|w4|c1	HG02392_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1246.0	1888.5	SERF1	6548.0	full	15121	GTF2H2	True	SMN1	2	2	HG02392	complete	True	False	CDX	2- 1+
+HG02451_mat_hprc_r2_v1.0.1|w4|c0	HG02451_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	587.6	1899.2	SERF1	6557.0	trunc5	15123	none	True	SMN2	1	2	HG02451	complete	True	False	ACB	2- 1+
+HG02451_mat_hprc_r2_v1.0.1|w4|c1	HG02451_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1220.6	1899.2	SERF1	6553.0	full	15125	GTF2H2	True	SMN1	2	2	HG02451	complete	True	False	ACB	2- 1+
+HG02451_pat_hprc_r2_v1.0.1|w3|c0	HG02451_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	682.0	1869.6	SERF1	6563.0	full	15119	GTF2H2	True	SMN1	1	1	HG02451	complete	True	False	ACB	1+
+HG02486_mat_hprc_r2_v1.0.1|w4|c0	HG02486_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1898.6	SERF1	3817.0	full	15116	GTF2H2	True	SMN1	1	2	HG02486	complete	True	False	ACB	1- 1+
+HG02486_mat_hprc_r2_v1.0.1|w4|c1	HG02486_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	895.6	1898.6	SERF1	6562.0	full	15120	GTF2H2	True	SMN1	2	2	HG02486	complete	True	False	ACB	1- 1+
+HG02486_pat_hprc_r2_v1.0.1|w4|c0	HG02486_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	237.4	1566.8	SERF1	6553.0	full	15128	GTF2H2	True	SMN2	1	2	HG02486	complete	True	False	ACB	2- 1+
+HG02486_pat_hprc_r2_v1.0.1|w4|c1	HG02486_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	870.2	1566.8	SERF1	6553.0	full	15125	GTF2H2	True	SMN1	2	2	HG02486	complete	True	False	ACB	2- 1+
+HG02514_mat_hprc_r2_v1.0.1|w4|c0	HG02514_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1157.7	2128.3	SERF1	6544.0	full	15123	GTF2H2	True	SMN1	1	1	HG02514	gapped	True	False	KHV	1+
+HG02514_pat_hprc_r2_v1.0.1|w2|c0	HG02514_pat_hprc_r2_v1.0.1	2	2-	SMN2	-	584.7	2100.9	SERF1	6552.0	trunc5	15129	none	True	SMN2	1	2	HG02514	complete	True	False	KHV	2- 1-
+HG02514_pat_hprc_r2_v1.0.1|w2|c1	HG02514_pat_hprc_r2_v1.0.1	2	1-	SMN1	-	1080.7	2100.9	SERF1	6559.0	full	15124	GTF2H2	True	SMN1	2	2	HG02514	complete	True	False	KHV	2- 1-
+HG02523_mat_hprc_r2_v1.0.1|w3|c0	HG02523_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	652.2	1883.3	SERF1	6551.0	trunc5	15128	none	True	SMN2	1	2	HG02523	complete	True	False	KHV	2- 1+
+HG02523_mat_hprc_r2_v1.0.1|w3|c1	HG02523_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1245.5	1883.3	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	2	2	HG02523	complete	True	False	KHV	2- 1+
+HG02523_pat_hprc_r2_v1.0.1|w6|c0	HG02523_pat_hprc_r2_v1.0.1	6	2-	SMN2	-	652.7	1916.6	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG02523	complete	True	False	KHV	2- 1+
+HG02523_pat_hprc_r2_v1.0.1|w6|c1	HG02523_pat_hprc_r2_v1.0.1	6	1+	SMN1	+	1266.3	1916.6	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	2	2	HG02523	complete	True	False	KHV	2- 1+
+HG02559_mat_hprc_r2_v1.0.1|w4|c0	HG02559_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	653.6	2004.9	SERF1	6556.0	trunc5	15129	none	True	SMN2	1	2	HG02559	complete	True	False	ACB	2- 1-
+HG02559_mat_hprc_r2_v1.0.1|w4|c1	HG02559_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	1439.2	2004.9	SERF1	6549.0	full	15120	GTF2H2	True	SMN1	2	2	HG02559	complete	True	False	ACB	2- 1-
+HG02559_pat_hprc_r2_v1.0.1|w5|c0	HG02559_pat_hprc_r2_v1.0.1	5	1-	SMN1	-	243.1	1414.7	SERF1	6561.0	full	15117	GTF2H2	True	SMN1	1	2	HG02559	complete	True	False	ACB	1- h21+
+HG02559_pat_hprc_r2_v1.0.1|w5|c1	HG02559_pat_hprc_r2_v1.0.1	5	h21+	hyb_2_1	+	877.8	1414.7	SERF1	6569.0	trunc5	15117	none	True	SMN2	2	2	HG02559	complete	True	False	ACB	1- h21+
+HG02572_mat_hprc_r2_v1.0.1|w4|c0	HG02572_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	703.2	2064.6	SERF1	6547.0	trunc5	15129	none	True	SMN2	1	2	HG02572	gapped	True	False	GWD	2- 1+
+HG02572_mat_hprc_r2_v1.0.1|w4|c1	HG02572_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1372.8	2064.6	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	HG02572	gapped	True	False	GWD	2- 1+
+HG02572_pat_hprc_r2_v1.0.1|w4|c0	HG02572_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	242.7	1888.0	SERF1	3824.0	full	15118	GTF2H2	True	SMN1	1	2	HG02572	complete	True	False	GWD	1- 1+
+HG02572_pat_hprc_r2_v1.0.1|w4|c1	HG02572_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	875.3	1888.0	SERF1	6561.0	full	15119	GTF2H2	True	SMN1	2	2	HG02572	complete	True	False	GWD	1- 1+
+HG02583_hap1_hprc_r2_v1.0.1|w4|c0	HG02583_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	607.7	2229.2	SERF1	6546.0	trunc5	15125	none	True	SMN2	1	2	HG02583	complete	True	False	GWD	2- 1+
+HG02583_hap1_hprc_r2_v1.0.1|w4|c1	HG02583_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1220.8	2229.2	SERF1	6538.0	full	15118	GTF2H2	True	SMN1	2	2	HG02583	complete	True	False	GWD	2- 1+
+HG02583_hap2_hprc_r2_v1.0.1|w2|c0	HG02583_hap2_hprc_r2_v1.0.1	2	2-	SMN2	-	703.3	2019.1	SERF1	6547.0	trunc5	15129	none	True	SMN2	1	2	HG02583	gapped	True	False	GWD	2- 1+
+HG02583_hap2_hprc_r2_v1.0.1|w2|c1	HG02583_hap2_hprc_r2_v1.0.1	2	1+	SMN1	+	1296.3	2019.1	SERF1	6557.0	full	15116	GTF2H2	True	SMN1	2	2	HG02583	gapped	True	False	GWD	2- 1+
+HG02602_mat_hprc_r2_v1.0.1|w3|c0	HG02602_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	544.8	1638.8	SERF1	6556.0	full	15145	GTF2H2	True	SMN1	1	1	HG02602	complete	True	False	PJL	1-
+HG02602_pat_hprc_r2_v1.0.1|w4|c0	HG02602_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	642.9	1364.5	SERF1	6554.0	full	15117	GTF2H2	True	SMN1	1	1	HG02602	complete	True	False	PJL	1+
+HG02615_mat_hprc_r2_v1.0.1|w3|c0	HG02615_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	242.9	1414.8	SERF1	6570.0	full	15117	GTF2H2	True	SMN1	1	2	HG02615	complete	True	False	GWD	1- h21+
+HG02615_mat_hprc_r2_v1.0.1|w3|c1	HG02615_mat_hprc_r2_v1.0.1	3	h21+	hyb_2_1	+	877.7	1414.8	SERF1	6566.0	trunc5	15117	none	True	SMN2	2	2	HG02615	complete	True	False	GWD	1- h21+
+HG02615_pat_hprc_r2_v1.0.1|w5|c0	HG02615_pat_hprc_r2_v1.0.1	5	2+	SMN2	+	1014.8	2442.2	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG02615	complete	True	False	GWD	2+ 1-
+HG02615_pat_hprc_r2_v1.0.1|w5|c1	HG02615_pat_hprc_r2_v1.0.1	5	1-	SMN1	-	1768.4	2442.2	SERF1	6553.0	full	15129	GTF2H2	True	SMN1	2	2	HG02615	complete	True	False	GWD	2+ 1-
+HG02622_mat_hprc_r2_v1.0.1|w3|c0	HG02622_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	243.1	1821.7	SERF1	3819.0	full	15116	GTF2H2	True	SMN1	1	2	HG02622	complete	True	False	GWD	1- 1+
+HG02622_mat_hprc_r2_v1.0.1|w3|c1	HG02622_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	854.8	1821.7	SERF1	6566.0	full	15119	GTF2H2	True	SMN1	2	2	HG02622	complete	True	False	GWD	1- 1+
+HG02622_pat_hprc_r2_v1.0.1|w3|c0	HG02622_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	243.1	2249.2	SERF1	3819.0	full	15116	GTF2H2	True	SMN1	1	2	HG02622	complete	True	False	GWD	1- 1+
+HG02622_pat_hprc_r2_v1.0.1|w3|c1	HG02622_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	895.5	2249.2	SERF1	6566.0	full	15119	GTF2H2	True	SMN1	2	2	HG02622	complete	True	False	GWD	1- 1+
+HG02630_mat_hprc_r2_v1.0.1|w3|c0	HG02630_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	242.8	1878.1	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	HG02630	complete	True	False	GWD	1- 1+
+HG02630_mat_hprc_r2_v1.0.1|w3|c1	HG02630_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	875.0	1878.1	SERF1	6562.0	full	15120	GTF2H2	True	SMN1	2	2	HG02630	complete	True	False	GWD	1- 1+
+HG02630_pat_hprc_r2_v1.0.1|w3|c0	HG02630_pat_hprc_r2_v1.0.1	3	2+	SMN2	+	1014.6	2351.7	SERF1	6554.0	trunc5	15129	none	True	SMN2	1	2	HG02630	complete	True	False	GWD	2+ 1-
+HG02630_pat_hprc_r2_v1.0.1|w3|c1	HG02630_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	1732.0	2351.7	SERF1	6553.0	full	15129	GTF2H2	True	SMN1	2	2	HG02630	complete	True	False	GWD	2+ 1-
+HG02647_mat_hprc_r2_v1.0.1|w3|c0	HG02647_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	242.8	1898.7	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	HG02647	complete	True	False	GWD	1- 1+
+HG02647_mat_hprc_r2_v1.0.1|w3|c1	HG02647_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	895.6	1898.7	SERF1	6564.0	full	15120	GTF2H2	True	SMN1	2	2	HG02647	complete	True	False	GWD	1- 1+
+HG02647_pat_hprc_r2_v1.0.1|w4|c0	HG02647_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	243.1	1414.9	SERF1	6559.0	full	15117	GTF2H2	True	SMN1	1	2	HG02647	complete	True	False	GWD	1- h21+
+HG02647_pat_hprc_r2_v1.0.1|w4|c1	HG02647_pat_hprc_r2_v1.0.1	4	h21+	hyb_2_1	+	878.0	1414.9	SERF1	6573.0	trunc5	15117	none	True	SMN2	2	2	HG02647	complete	True	False	GWD	1- h21+
+HG02668_mat_hprc_r2_v1.0.1|w4|c0	HG02668_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	2157.8	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	3	HG02668	gapped	True	False	GWD	1- 2- 1-
+HG02668_mat_hprc_r2_v1.0.1|w4|c1	HG02668_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	864.1	2157.8	SERF1	6562.0	trunc5	15129	none	True	SMN2	2	3	HG02668	gapped	True	False	GWD	1- 2- 1-
+HG02668_mat_hprc_r2_v1.0.1|w4|c2	HG02668_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	1612.7	2157.8	SERF1	6560.0	full	15121	GTF2H2	True	SMN1	3	3	HG02668	gapped	True	False	GWD	1- 2- 1-
+HG02668_pat_hprc_r2_v1.0.1|w5|c0	HG02668_pat_hprc_r2_v1.0.1	5	2-	SMN2	-	237.5	1665.4	SERF1	6551.0	full	15128	GTF2H2	True	SMN2	1	2	HG02668	complete	True	False	GWD	2- 1+
+HG02668_pat_hprc_r2_v1.0.1|w5|c1	HG02668_pat_hprc_r2_v1.0.1	5	1+	SMN1	+	932.7	1665.4	SERF1	6551.0	full	15119	GTF2H2	True	SMN1	2	2	HG02668	complete	True	False	GWD	2- 1+
+HG02698_mat_hprc_r2_v1.0.1|w5|c0	HG02698_mat_hprc_r2_v1.0.1	5	1-	SMN1	-	715.1	2037.7	SERF1	6557.0	trunc5	15130	none	True	SMN2	1	2	HG02698	complete	True	False	PJL	1- 2+
+HG02698_mat_hprc_r2_v1.0.1|w5|c1	HG02698_mat_hprc_r2_v1.0.1	5	2+	SMN2	+	1327.8	2037.7	SERF1	6547.0	full	15130	GTF2H2	True	SMN2	2	2	HG02698	complete	True	False	PJL	1- 2+
+HG02698_pat_hprc_r2_v1.0.1|w3|c0	HG02698_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	243.2	2018.6	SERF1	6553.0	full	15123	GTF2H2	True	SMN1	1	3	HG02698	complete	True	False	PJL	1- h12+ 1+
+HG02698_pat_hprc_r2_v1.0.1|w3|c1	HG02698_pat_hprc_r2_v1.0.1	3	h12+	hyb_1_2	+	856.6	2018.6	SERF1	6559.0	trunc5	15130	none	True	SMN2	2	3	HG02698	complete	True	False	PJL	1- h12+ 1+
+HG02698_pat_hprc_r2_v1.0.1|w3|c2	HG02698_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1482.9	2018.6	SERF1	6562.0	trunc5	15117	none	True	SMN1	3	3	HG02698	complete	True	False	PJL	1- h12+ 1+
+HG02717_mat_hprc_r2_v1.0.1|w3|c0	HG02717_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	178.6	1117.3	SERF1	6553.0	trunc5	15116	GTF2H2	True	SMN1	1	2	HG02717	complete	True	False	GWD	1- 1+
+HG02717_mat_hprc_r2_v1.0.1|w3|c1	HG02717_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	456.8	1117.3	SERF1	6553.0	full	15116	GTF2H2	True	SMN1	2	2	HG02717	complete	True	False	GWD	1- 1+
+HG02717_pat_hprc_r2_v1.0.1|w4|c0	HG02717_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1844.5	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	HG02717	complete	True	False	GWD	1- 1+
+HG02717_pat_hprc_r2_v1.0.1|w4|c1	HG02717_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	895.6	1844.5	SERF1	6566.0	full	15120	GTF2H2	True	SMN1	2	2	HG02717	complete	True	False	GWD	1- 1+
+HG02723_mat_hprc_r2_v1.0.1|w3|c0	HG02723_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	243.1	1396.8	SERF1	6561.0	full	15117	GTF2H2	True	SMN1	1	2	HG02723	complete	True	False	GWD	1- h21+
+HG02723_mat_hprc_r2_v1.0.1|w3|c1	HG02723_mat_hprc_r2_v1.0.1	3	h21+	hyb_2_1	+	877.9	1396.8	SERF1	6570.0	trunc5	15116	none	True	SMN2	2	2	HG02723	complete	True	False	GWD	1- h21+
+HG02723_pat_hprc_r2_v1.0.1|w3|c0	HG02723_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	237.4	1570.2	SERF1	6551.0	full	15120	GTF2H2	True	SMN2	1	2	HG02723	complete	True	False	GWD	2- 1+
+HG02723_pat_hprc_r2_v1.0.1|w3|c1	HG02723_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	891.6	1570.2	SERF1	6561.0	full	15117	GTF2H2	True	SMN1	2	2	HG02723	complete	True	False	GWD	2- 1+
+HG02735_mat_hprc_r2_v1.0.1|w3|c0	HG02735_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	1017.4	2534.1	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG02735	complete	True	False	PJL	2- 1-
+HG02735_mat_hprc_r2_v1.0.1|w3|c1	HG02735_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	1513.4	2534.1	SERF1	6556.0	full	15138	GTF2H2	True	SMN1	2	2	HG02735	complete	True	False	PJL	2- 1-
+HG02735_pat_hprc_r2_v1.0.1|w4|c0	HG02735_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	243.2	1321.9	SERF1	6555.0	full	15122	GTF2H2	True	SMN1	1	1	HG02735	complete	True	False	PJL	1-
+HG02738_mat_hprc_r2_v1.0.1|w3|c0	HG02738_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	551.1	1844.5	SERF1	6544.0	trunc5	15125	none	True	SMN2	1	2	HG02738	complete	True	False	PJL	2- 1+
+HG02738_mat_hprc_r2_v1.0.1|w3|c1	HG02738_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1165.9	1844.5	SERF1	6551.0	full	15121	GTF2H2	True	SMN1	2	2	HG02738	complete	True	False	PJL	2- 1+
+HG02738_pat_hprc_r2_v1.0.1|w2|c0	HG02738_pat_hprc_r2_v1.0.1	2	1+	SMN1	+	595.9	2120.3	SERF1	6556.0	full	15120	GTF2H2	True	SMN1	1	2	HG02738	complete	True	False	PJL	1+ 2+
+HG02738_pat_hprc_r2_v1.0.1|w2|c1	HG02738_pat_hprc_r2_v1.0.1	2	2+	SMN2	+	1091.7	2120.3	SERF1	6553.0	trunc5	15129	none	True	SMN2	2	2	HG02738	complete	True	False	PJL	1+ 2+
+HG02809_mat_hprc_r2_v1.0.1|w4|c0	HG02809_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	242.9	1520.5	SERF1	6551.0	full	15120	GTF2H2	True	SMN1	1	2	HG02809	complete	True	False	GWD	1- 2+
+HG02809_mat_hprc_r2_v1.0.1|w4|c1	HG02809_mat_hprc_r2_v1.0.1	4	2+	SMN2	+	897.1	1520.5	SERF1	6555.0	full	15128	GTF2H2	True	SMN2	2	2	HG02809	complete	True	False	GWD	1- 2+
+HG02809_pat_hprc_r2_v1.0.1|w4|c0	HG02809_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	237.4	1584.3	SERF1	6553.0	full	15111	GTF2H2	True	SMN2	1	2	HG02809	complete	True	False	GWD	2- 1+
+HG02809_pat_hprc_r2_v1.0.1|w4|c1	HG02809_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	912.2	1584.3	SERF1	6537.0	full	15115	GTF2H2	True	SMN1	2	2	HG02809	complete	True	False	GWD	2- 1+
+HG02818_mat_hprc_r2_v1.0.1|w6|c0	HG02818_mat_hprc_r2_v1.0.1	6	1-	SMN1	-	242.8	1956.5	SERF1	6565.0	full	15119	GTF2H2	True	SMN1	1	2	HG02818	complete	True	False	GWD	1- 1+
+HG02818_mat_hprc_r2_v1.0.1|w6|c1	HG02818_mat_hprc_r2_v1.0.1	6	1+	SMN1	+	898.4	1956.5	SERF1	6562.0	full	15110	GTF2H2	True	SMN2	2	2	HG02818	complete	True	False	GWD	1- 1+
+HG02818_pat_hprc_r2_v1.0.1|w2|c0	HG02818_pat_hprc_r2_v1.0.1	2	1-	SMN1	-	634.0	1903.2	SERF1	6554.0	trunc5	15129	none	True	SMN1	1	2	HG02818	complete	True	False	GWD	1- 2+
+HG02818_pat_hprc_r2_v1.0.1|w2|c1	HG02818_pat_hprc_r2_v1.0.1	2	2+	SMN2	+	1247.4	1903.2	SERF1	6551.0	full	15129	GTF2H2	True	SMN2	2	2	HG02818	complete	True	False	GWD	1- 2+
+HG02841_mat_hprc_r2_v1.0.1|w5|c0	HG02841_mat_hprc_r2_v1.0.1	5	2-	SMN2	-	633.5	1902.6	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG02841	complete	True	False	GWD	2- 1+
+HG02841_mat_hprc_r2_v1.0.1|w5|c1	HG02841_mat_hprc_r2_v1.0.1	5	1+	SMN1	+	1246.8	1902.6	SERF1	6559.0	full	15129	GTF2H2	True	SMN1	2	2	HG02841	complete	True	False	GWD	2- 1+
+HG02841_pat_hprc_r2_v1.0.1|w3|c0	HG02841_pat_hprc_r2_v1.0.1	3	2+	SMN2	+	1014.6	2476.6	SERF1	6553.0	trunc5	15118	none	True	SMN2	1	2	HG02841	complete	True	False	GWD	2+ 1-
+HG02841_pat_hprc_r2_v1.0.1|w3|c1	HG02841_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	1893.0	2476.6	SERF1	6553.0	full	15128	GTF2H2	True	SMN1	2	2	HG02841	complete	True	False	GWD	2+ 1-
+HG02886_mat_hprc_r2_v1.0.1|w3|c0	HG02886_mat_hprc_r2_v1.0.1	3	2+	SMN2	+	661.9	2447.3	SERF1	6550.0	trunc5	15130	none	True	SMN2	1	2	HG02886	complete	True	False	GWD	2+ 1+
+HG02886_mat_hprc_r2_v1.0.1|w3|c1	HG02886_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1470.8	2447.3	SERF1	6548.0	full	15118	GTF2H2	True	SMN1	2	2	HG02886	complete	True	False	GWD	2+ 1+
+HG02886_pat_hprc_r2_v1.0.1|w3|c0	HG02886_pat_hprc_r2_v1.0.1	3	2+	SMN2	+	1013.8	2387.0	SERF1	6555.0	trunc5	15129	none	True	SMN2	1	2	HG02886	complete	True	False	GWD	2+ 1-
+HG02886_pat_hprc_r2_v1.0.1|w3|c1	HG02886_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	1767.3	2387.0	SERF1	6553.0	full	15129	GTF2H2	True	SMN1	2	2	HG02886	complete	True	False	GWD	2+ 1-
+HG02922_hap1_hprc_r2_v1.0.1|w3|c0	HG02922_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	242.4	1880.2	SERF1	3815.0	full	15118	GTF2H2	True	SMN1	1	2	HG02922	complete	True	False	ESN	1- 1+
+HG02922_hap1_hprc_r2_v1.0.1|w3|c1	HG02922_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	895.2	1880.2	SERF1	6555.0	full	15120	GTF2H2	True	SMN1	2	2	HG02922	complete	True	False	ESN	1- 1+
+HG02922_hap2_hprc_r2_v1.0.1|w5|c0	HG02922_hap2_hprc_r2_v1.0.1	5	2-	SMN2	-	588.0	1897.2	SERF1	6557.0	trunc5	15123	none	True	SMN2	1	2	HG02922	complete	True	False	ESN	2- 1+
+HG02922_hap2_hprc_r2_v1.0.1|w5|c1	HG02922_hap2_hprc_r2_v1.0.1	5	1+	SMN1	+	1200.7	1897.2	SERF1	6553.0	full	15125	GTF2H2	True	SMN1	2	2	HG02922	complete	True	False	ESN	2- 1+
+HG02965_hap1_hprc_r2_v1.0.1|w4|c0	HG02965_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	243.1	753.1	SERF1	6559.0	full	15117	GTF2H2	True	SMN1	1	1	HG02965	complete	True	False	ESN	1-
+HG02965_hap2_hprc_r2_v1.0.1|w4|c0	HG02965_hap2_hprc_r2_v1.0.1	4	h21+	hyb_2_1	+	707.9	1851.1	SERF1	6564.0	full	15122	GTF2H2	True	SMN2	1	2	HG02965	complete	True	False	ESN	h21+ 1-
+HG02965_hap2_hprc_r2_v1.0.1|w4|c1	HG02965_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	1338.3	1851.1	SERF1	6555.0	full	14227	GTF2H2	True	mixed	2	2	HG02965	complete	True	False	ESN	h21+ 1-
+HG02976_hap1_hprc_r2_v1.0.1|w3|c0	HG02976_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	242.8	2221.5	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	HG02976	complete	True	False	ESN	1- 1+
+HG02976_hap1_hprc_r2_v1.0.1|w3|c1	HG02976_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	895.6	2221.5	SERF1	6564.0	full	15120	GTF2H2	True	SMN1	2	2	HG02976	complete	True	False	ESN	1- 1+
+HG02976_hap2_hprc_r2_v1.0.1|w4|c0	HG02976_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	634.4	1903.5	SERF1	6554.0	trunc5	15129	none	True	SMN1	1	2	HG02976	complete	True	False	ESN	1- 2+
+HG02976_hap2_hprc_r2_v1.0.1|w4|c1	HG02976_hap2_hprc_r2_v1.0.1	4	2+	SMN2	+	1247.8	1903.5	SERF1	6551.0	full	15129	GTF2H2	True	SMN2	2	2	HG02976	complete	True	False	ESN	1- 2+
+HG02984_mat_hprc_r2_v1.0.1|w3|c0	HG02984_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	242.8	1286.7	SERF1	3819.0	full	15115	GTF2H2	True	SMN1	1	2	HG02984	complete	True	False	GWD	1- 1+
+HG02984_mat_hprc_r2_v1.0.1|w3|c1	HG02984_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	874.8	1286.7	SERF1	6566.0	full	15119	GTF2H2	True	SMN1	2	2	HG02984	complete	True	False	GWD	1- 1+
+HG02984_pat_hprc_r2_v1.0.1|w3|c0	HG02984_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	432.9	1702.2	SERF1	6557.0	trunc5	15131	none	True	SMN2	1	2	HG02984	complete	True	False	GWD	2- 1+
+HG02984_pat_hprc_r2_v1.0.1|w3|c1	HG02984_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1046.3	1702.2	SERF1	6558.0	full	15130	GTF2H2	True	SMN1	2	2	HG02984	complete	True	False	GWD	2- 1+
+HG03017_mat_hprc_r2_v1.0.1|w3|c0	HG03017_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	552.0	2279.3	SERF1	6555.0	trunc5	15125	none	True	SMN2	1	2	HG03017	complete	True	False	PJL	2- 1+
+HG03017_mat_hprc_r2_v1.0.1|w3|c1	HG03017_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1165.6	2279.3	SERF1	6555.0	full	15116	GTF2H2	True	SMN1	2	2	HG03017	complete	True	False	PJL	2- 1+
+HG03017_pat_hprc_r2_v1.0.1|w3|c0	HG03017_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	633.1	1899.8	SERF1	6550.0	trunc5	15116	none	True	SMN1	1	2	HG03017	complete	True	False	PJL	1- 1+
+HG03017_pat_hprc_r2_v1.0.1|w3|c1	HG03017_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1226.0	1899.8	SERF1	6560.0	full	15116	GTF2H2	True	SMN1	2	2	HG03017	complete	True	False	PJL	1- 1+
+HG03041_mat_hprc_r2_v1.0.1|w3|c0	HG03041_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	621.1	1222.8	SERF1	6558.0	full	15128	GTF2H2	True	SMN1	1	1	HG03041	complete	True	False	GWD	1+
+HG03041_pat_hprc_r2_v1.0.1|w2|c0	HG03041_pat_hprc_r2_v1.0.1	2	2-	SMN2	-	237.6	1969.3	SERF1	6552.0	full	15128	GTF2H2	True	SMN2	1	2	HG03041	complete	True	False	GWD	2- 1+
+HG03041_pat_hprc_r2_v1.0.1|w2|c1	HG03041_pat_hprc_r2_v1.0.1	2	1+	SMN1	+	913.6	1969.3	SERF1	6555.0	full	15119	GTF2H2	True	SMN1	2	2	HG03041	complete	True	False	GWD	2- 1+
+HG03050_mat_hprc_r2_v1.0.1|w3|c0	HG03050_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	659.5	1702.0	SERF1	6554.0	full	15119	GTF2H2	True	SMN1	1	2	HG03050	complete	True	False	GWD	1+ h21+
+HG03050_mat_hprc_r2_v1.0.1|w3|c1	HG03050_mat_hprc_r2_v1.0.1	3	h21+	hyb_2_1	+	1176.6	1702.0	SERF1	6559.0	trunc5	15127	none	True	SMN2	2	2	HG03050	complete	True	False	GWD	1+ h21+
+HG03050_pat_hprc_r2_v1.0.1|w3|c0	HG03050_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	811.1	2087.8	SERF1	6555.0	trunc5	15131	none	True	SMN2	1	2	HG03050	complete	True	False	GWD	2- 1-
+HG03050_pat_hprc_r2_v1.0.1|w3|c1	HG03050_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	1540.0	2087.8	SERF1	6553.0	full	15120	GTF2H2	True	SMN1	2	2	HG03050	complete	True	False	GWD	2- 1-
+HG03098_mat_hprc_r2_v1.0.1|w4|c0	HG03098_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1880.6	SERF1	3816.0	full	15116	GTF2H2	True	SMN1	1	2	HG03098	complete	True	False	MSL	1- 1+
+HG03098_mat_hprc_r2_v1.0.1|w4|c1	HG03098_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	895.7	1880.6	SERF1	6564.0	full	15120	GTF2H2	True	SMN1	2	2	HG03098	complete	True	False	MSL	1- 1+
+HG03098_pat_hprc_r2_v1.0.1|w4|c0	HG03098_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	242.9	1413.0	SERF1	6564.0	full	15116	GTF2H2	True	SMN1	1	2	HG03098	complete	True	False	MSL	1- h21-
+HG03098_pat_hprc_r2_v1.0.1|w4|c1	HG03098_pat_hprc_r2_v1.0.1	4	h21-	hyb_2_1	-	866.9	1413.0	SERF1	6566.0	trunc5	15117	none	True	SMN2	2	2	HG03098	complete	True	False	MSL	1- h21-
+HG03130_hap1_hprc_r2_v1.0.1|w3|c0	HG03130_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	242.8	1879.1	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	HG03130	complete	True	False	ESN	1- 1+
+HG03130_hap1_hprc_r2_v1.0.1|w3|c1	HG03130_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	875.3	1879.1	SERF1	6570.0	full	15119	GTF2H2	True	SMN1	2	2	HG03130	complete	True	False	ESN	1- 1+
+HG03130_hap2_hprc_r2_v1.0.1|w4|c0	HG03130_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	242.7	1898.4	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	HG03130	complete	True	False	ESN	1- 1+
+HG03130_hap2_hprc_r2_v1.0.1|w4|c1	HG03130_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	895.5	1898.4	SERF1	6564.0	full	15119	GTF2H2	True	SMN1	2	2	HG03130	complete	True	False	ESN	1- 1+
+HG03139_hap1_hprc_r2_v1.0.1|w3|c0	HG03139_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	243.0	1898.7	SERF1	6559.0	full	15113	GTF2H2	True	SMN1	1	2	HG03139	complete	True	False	ESN	1- 1+
+HG03139_hap1_hprc_r2_v1.0.1|w3|c1	HG03139_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	895.7	1898.7	SERF1	3815.0	full	15122	GTF2H2	True	SMN1	2	2	HG03139	complete	True	False	ESN	1- 1+
+HG03139_hap2_hprc_r2_v1.0.1|w3|c0	HG03139_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	636.5	1315.1	SERF1	6551.0	full	15123	GTF2H2	True	SMN1	1	1	HG03139	complete	True	False	ESN	1+
+HG03195_hap1_hprc_r2_v1.0.1|w3|c0	HG03195_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	663.5	1614.1	SERF1	6546.0	full	15125	GTF2H2	True	SMN1	1	1	HG03195	complete	True	False	ESN	1+
+HG03195_hap2_hprc_r2_v1.0.1|w4|c0	HG03195_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1898.6	SERF1	3812.0	full	15116	GTF2H2	True	SMN1	1	2	HG03195	complete	True	False	ESN	1- 1+
+HG03195_hap2_hprc_r2_v1.0.1|w4|c1	HG03195_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	895.6	1898.6	SERF1	6564.0	full	15120	GTF2H2	True	SMN1	2	2	HG03195	complete	True	False	ESN	1- 1+
+HG03209_hap1_hprc_r2_v1.0.1|w4|c0	HG03209_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1898.7	SERF1	3818.0	full	15116	GTF2H2	True	SMN1	1	2	HG03209	complete	True	False	MSL	1- 1+
+HG03209_hap1_hprc_r2_v1.0.1|w4|c1	HG03209_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	895.7	1898.7	SERF1	6562.0	full	15120	GTF2H2	True	SMN1	2	2	HG03209	complete	True	False	MSL	1- 1+
+HG03209_hap2_hprc_r2_v1.0.1|w3|c0	HG03209_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	703.2	2124.1	SERF1	6547.0	trunc5	15129	none	True	SMN2	1	2	HG03209	complete	True	False	MSL	2- 1+
+HG03209_hap2_hprc_r2_v1.0.1|w3|c1	HG03209_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	1296.4	2124.1	SERF1	6558.0	full	15116	GTF2H2	True	SMN2	2	2	HG03209	complete	True	False	MSL	2- 1+
+HG03225_hap1_hprc_r2_v1.0.1|w4|c0	HG03225_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	237.7	2002.8	SERF1	6553.0	full	15128	GTF2H2	True	SMN2	1	2	HG03225	complete	True	False	MSL	2- 1+
+HG03225_hap1_hprc_r2_v1.0.1|w4|c1	HG03225_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	913.5	2002.8	SERF1	6555.0	full	15119	GTF2H2	True	SMN1	2	2	HG03225	complete	True	False	MSL	2- 1+
+HG03225_hap2_hprc_r2_v1.0.1|w3|c0	HG03225_hap2_hprc_r2_v1.0.1	3	1-	SMN1	-	1072.8	2176.9	SERF1	6551.0	full	15117	GTF2H2	True	SMN1	1	2	HG03225	complete	True	False	MSL	1- 2-
+HG03225_hap2_hprc_r2_v1.0.1|w3|c1	HG03225_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	1601.9	2176.9	SERF1	6581.0	trunc5	15125	none	True	SMN2	2	2	HG03225	complete	True	False	MSL	1- 2-
+HG03239_mat_hprc_r2_v1.0.1|w4|c0	HG03239_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	546.4	2171.3	SERF1	6544.0	trunc5	15123	none	True	SMN2	1	2	HG03239	complete	True	False	PJL	2- 1+
+HG03239_mat_hprc_r2_v1.0.1|w4|c1	HG03239_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1179.6	2171.3	SERF1	6544.0	full	15124	GTF2H2	True	SMN1	2	2	HG03239	complete	True	False	PJL	2- 1+
+HG03239_pat_hprc_r2_v1.0.1|w4|c0	HG03239_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	694.6	1999.9	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG03239	complete	True	False	PJL	2- 1+
+HG03239_pat_hprc_r2_v1.0.1|w4|c1	HG03239_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1308.0	1999.9	SERF1	6558.0	full	15114	GTF2H2	True	SMN1	2	2	HG03239	complete	True	False	PJL	2- 1+
+HG03270_hap1_hprc_r2_v1.0.1|w7|c0	HG03270_hap1_hprc_r2_v1.0.1	7	2-	SMN2	-	270.2	1264.8	SERF1	6547.0	trunc5	15129	none	True		1	2	HG03270	partial	False	False	ESN	2- 1+
+HG03270_hap1_hprc_r2_v1.0.1|w7|c1	HG03270_hap1_hprc_r2_v1.0.1	7	1+	SMN1	+	863.5	1264.8	SERF1	6562.0	full	15116	GTF2H2	True		2	2	HG03270	partial	False	False	ESN	2- 1+
+HG03270_hap2_hprc_r2_v1.0.1|w4|c0	HG03270_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1878.2	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	HG03270	complete	True	False	ESN	1- 1+
+HG03270_hap2_hprc_r2_v1.0.1|w4|c1	HG03270_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	875.2	1878.2	SERF1	6562.0	full	15120	GTF2H2	True	SMN1	2	2	HG03270	complete	True	False	ESN	1- 1+
+HG03369_hap1_hprc_r2_v1.0.1|w5|c0	HG03369_hap1_hprc_r2_v1.0.1	5	2-	SMN2	-	634.3	1849.4	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG03369	complete	True	False	ESN	2- 1+
+HG03369_hap1_hprc_r2_v1.0.1|w5|c1	HG03369_hap1_hprc_r2_v1.0.1	5	1+	SMN1	+	1247.6	1849.4	SERF1	6561.0	full	15129	GTF2H2	True	SMN1	2	2	HG03369	complete	True	False	ESN	2- 1+
+HG03369_hap2_hprc_r2_v1.0.1|w4|c0	HG03369_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1898.6	SERF1	3817.0	full	15116	GTF2H2	True	SMN1	1	2	HG03369	complete	True	False	ESN	1- 1+
+HG03369_hap2_hprc_r2_v1.0.1|w4|c1	HG03369_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	895.6	1898.6	SERF1	6570.0	full	15119	GTF2H2	True	SMN1	2	2	HG03369	complete	True	False	ESN	1- 1+
+HG03453_mat_hprc_r2_v1.0.1|w0|c0	HG03453_mat_hprc_r2_v1.0.1	0	1+	SMN1	+	660.1	1702.5	SERF1	6560.0	full	15119	GTF2H2	True	SMN1	1	2	HG03453	complete	True	False	MSL	1+ h21+
+HG03453_mat_hprc_r2_v1.0.1|w0|c1	HG03453_mat_hprc_r2_v1.0.1	0	h21+	hyb_2_1	+	1177.2	1702.5	SERF1	6560.0	trunc5	15127	none	True	SMN2	2	2	HG03453	complete	True	False	MSL	1+ h21+
+HG03453_pat_hprc_r2_v1.0.1|w0|c0	HG03453_pat_hprc_r2_v1.0.1	0	1-	SMN1	-	242.9	1823.3	SERF1	3801.0	full	15116	GTF2H2	True	SMN1	1	2	HG03453	complete	True	False	MSL	1- 1+
+HG03453_pat_hprc_r2_v1.0.1|w0|c1	HG03453_pat_hprc_r2_v1.0.1	0	1+	SMN1	+	874.4	1823.3	SERF1	6564.0	full	15120	GTF2H2	True	SMN1	2	2	HG03453	complete	True	False	MSL	1- 1+
+HG03470_hap1_hprc_r2_v1.0.1|w4|c0	HG03470_hap1_hprc_r2_v1.0.1	4	2+	SMN2	+	662.0	2841.7	SERF1	6550.0	trunc5	15129	none	True	SMN2	1	2	HG03470	complete	True	False	MSL	2+ 1+
+HG03470_hap1_hprc_r2_v1.0.1|w4|c1	HG03470_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1306.5	2841.7	SERF1	6545.0	full	15118	GTF2H2	True	mixed	2	2	HG03470	complete	True	False	MSL	2+ 1+
+HG03470_hap2_hprc_r2_v1.0.1|w3|c0	HG03470_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	237.5	1531.9	SERF1	6553.0	full	15122	GTF2H2	True	SMN2	1	2	HG03470	complete	True	False	MSL	2- 1+
+HG03470_hap2_hprc_r2_v1.0.1|w3|c1	HG03470_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	871.3	1531.9	SERF1	6561.0	full	15117	GTF2H2	True	SMN1	2	2	HG03470	complete	True	False	MSL	2- 1+
+HG03471_hap1_hprc_r2_v1.0.1|w3|c0	HG03471_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	242.8	1939.4	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	HG03471	complete	True	False	MSL	1- 1+
+HG03471_hap1_hprc_r2_v1.0.1|w3|c1	HG03471_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	936.5	1939.4	SERF1	6564.0	full	15120	GTF2H2	True	SMN1	2	2	HG03471	complete	True	False	MSL	1- 1+
+HG03471_hap2_hprc_r2_v1.0.1|w3|c0	HG03471_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	703.2	2251.2	SERF1	6547.0	trunc5	15129	none	True	SMN2	1	2	HG03471	complete	True	False	MSL	2- 1+
+HG03471_hap2_hprc_r2_v1.0.1|w3|c1	HG03471_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	1296.4	2251.2	SERF1	6558.0	full	15116	GTF2H2	True	SMN2	2	2	HG03471	complete	True	False	MSL	2- 1+
+HG03486_mat_hprc_r2_v1.0.1|w4|c0	HG03486_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	588.0	1920.9	SERF1	6557.0	trunc5	15123	none	True	SMN2	1	2	HG03486	complete	True	False	MSL	2- 1+
+HG03486_mat_hprc_r2_v1.0.1|w4|c1	HG03486_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1242.3	1920.9	SERF1	6555.0	full	15124	GTF2H2	True	SMN1	2	2	HG03486	complete	True	False	MSL	2- 1+
+HG03486_pat_hprc_r2_v1.0.1|w4|c0	HG03486_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1943.1	SERF1	3823.0	full	15116	GTF2H2	True	SMN1	1	2	HG03486	complete	True	False	MSL	1- 1+
+HG03486_pat_hprc_r2_v1.0.1|w4|c1	HG03486_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	895.1	1943.1	SERF1	6562.0	full	15119	GTF2H2	True	SMN1	2	2	HG03486	complete	True	False	MSL	1- 1+
+HG03516_mat_hprc_r2_v1.1.0|w4|c0	HG03516_mat_hprc_r2_v1.1.0	4	1+	SMN1	+	636.4	1628.2	SERF1	6546.0	full	15118	GTF2H2	True	SMN1	1	1	HG03516	complete	True	False	ESN	1+
+HG03516_pat_hprc_r2_v1.1.0|w4|c0	HG03516_pat_hprc_r2_v1.1.0	4	1-	SMN1	-	243.0	1928.7	SERF1	6559.0	full	15112	GTF2H2	True	SMN1	1	2	HG03516	complete	True	False	ESN	1- h21+
+HG03516_pat_hprc_r2_v1.1.0|w4|c1	HG03516_pat_hprc_r2_v1.1.0	4	h21+	hyb_2_1	+	919.1	1928.7	SERF1	6562.0	full	15117	GTF2H2	True	SMN2	2	2	HG03516	complete	True	False	ESN	1- h21+
+HG03521_hap1_hprc_r2_v1.0.1|w3|c0	HG03521_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	242.9	771.0	SERF1	6557.0	full	15115	GTF2H2	True	SMN1	1	1	HG03521	complete	True	False	ESN	1-
+HG03521_hap2_hprc_r2_v1.0.1|w4|c0	HG03521_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	633.9	1846.8	SERF1	6555.0	trunc5	15120	none	True	SMN1	1	2	HG03521	complete	True	False	ESN	1- 2+
+HG03521_hap2_hprc_r2_v1.0.1|w4|c1	HG03521_hap2_hprc_r2_v1.0.1	4	2+	SMN2	+	1227.0	1846.8	SERF1	6558.0	full	15120	GTF2H2	True	SMN2	2	2	HG03521	complete	True	False	ESN	1- 2+
+HG03540_mat_hprc_r2_v1.0.1|w4|c0	HG03540_mat_hprc_r2_v1.0.1	4	h21-	hyb_2_1	-	580.2	1863.7	SERF1	6562.0	full	15118	GTF2H2	True	SMN2	1	2	HG03540	complete	True	False	GWD	h21- 1+
+HG03540_mat_hprc_r2_v1.0.1|w4|c1	HG03540_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1212.2	1863.7	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	2	2	HG03540	complete	True	False	GWD	h21- 1+
+HG03540_pat_hprc_r2_v1.0.1|w3|c0	HG03540_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	178.6	1153.3	SERF1	6555.0	trunc5	15116	GTF2H2	True	SMN1	1	2	HG03540	complete	True	False	GWD	1- 1+
+HG03540_pat_hprc_r2_v1.0.1|w3|c1	HG03540_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	456.8	1153.3	SERF1	6555.0	full	15116	GTF2H2	True	SMN1	2	2	HG03540	complete	True	False	GWD	1- 1+
+HG03579_mat_hprc_r2_v1.0.1|w3|c0	HG03579_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	627.8	1702.1	SERF1	6553.0	trunc5	15127	none	True	SMN2	1	2	HG03579	complete	True	False	MSL	1- 1+
+HG03579_mat_hprc_r2_v1.0.1|w3|c1	HG03579_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1284.4	1702.1	SERF1	6539.0	full	15119	GTF2H2	True	mixed	2	2	HG03579	complete	True	False	MSL	1- 1+
+HG03579_pat_hprc_r2_v1.0.1|w4|c0	HG03579_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	663.5	1655.0	SERF1	6546.0	full	15125	GTF2H2	True	SMN1	1	1	HG03579	complete	True	False	MSL	1+
+HG03583_hap1_hprc_r2_v1.0.1|w3|c0	HG03583_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	662.6	1654.2	SERF1	6546.0	full	15125	GTF2H2	True	SMN1	1	1	HG03583	complete	True	False	MSL	1+
+HG03583_hap2_hprc_r2_v1.0.1|w5|c0	HG03583_hap2_hprc_r2_v1.0.1	5	2-	SMN2	-	237.4	772.4	SERF1	6551.0	full	15128	GTF2H2	True	SMN2	1	1	HG03583	complete	True	False	MSL	2-
+HG03654_mat_hprc_r2_v1.0.1|w3|c0	HG03654_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	633.8	1975.3	SERF1	6560.0	trunc5	15131	none	True	SMN2	1	2	HG03654	complete	True	False	PJL	2- 1+
+HG03654_mat_hprc_r2_v1.0.1|w3|c1	HG03654_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1247.4	1975.3	SERF1	6551.0	full	15116	GTF2H2	True	SMN1	2	2	HG03654	complete	True	False	PJL	2- 1+
+HG03654_pat_hprc_r2_v1.0.1|w4|c0	HG03654_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	633.3	1883.1	SERF1	6558.0	trunc5	15116	none	True	SMN1	1	2	HG03654	complete	True	False	PJL	1- 2+
+HG03654_pat_hprc_r2_v1.0.1|w4|c1	HG03654_pat_hprc_r2_v1.0.1	4	2+	SMN2	+	1227.2	1883.1	SERF1	6551.0	full	15129	GTF2H2	True	SMN2	2	2	HG03654	complete	True	False	PJL	1- 2+
+HG03669_mat_hprc_r2_v1.0.1|w4|c0	HG03669_mat_hprc_r2_v1.0.1	4	2+	SMN2	+	703.8	1982.1	SERF1	6553.0	trunc5	15131	none	True	SMN2	1	2	HG03669	complete	True	False	PJL	2+ 1+
+HG03669_mat_hprc_r2_v1.0.1|w4|c1	HG03669_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1308.4	1982.1	SERF1	6558.0	full	15113	GTF2H2	True	SMN1	2	2	HG03669	complete	True	False	PJL	2+ 1+
+HG03669_pat_hprc_r2_v1.0.1|w4|c0	HG03669_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	237.1	1509.0	SERF1	6556.0	full	15130	GTF2H2	True	SMN2	1	2	HG03669	complete	True	False	PJL	2- 1+
+HG03669_pat_hprc_r2_v1.0.1|w4|c1	HG03669_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	871.3	1509.0	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG03669	complete	True	False	PJL	2- 1+
+HG03688_mat_hprc_r2_v1.0.1|w3|c0	HG03688_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	1012.6	2922.2	SERF1	6554.0	trunc5	15131	none	True	SMN2	1	3	HG03688	gapped	True	False	STU	2- 1- 1+
+HG03688_mat_hprc_r2_v1.0.1|w3|c1	HG03688_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	1508.4	2922.2	SERF1	6556.0	full	15131	GTF2H2	True	SMN1	2	3	HG03688	gapped	True	False	STU	2- 1- 1+
+HG03688_mat_hprc_r2_v1.0.1|w3|c2	HG03688_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	2122.2	2922.2	SERF1	6560.0	full	15114	GTF2H2	True	SMN1	3	3	HG03688	gapped	True	False	STU	2- 1- 1+
+HG03688_pat_hprc_r2_v1.0.1|w4|c0	HG03688_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	653.4	1922.7	SERF1	6557.0	trunc5	15129	none	True	SMN2	1	2	HG03688	complete	True	False	STU	2- 1+
+HG03688_pat_hprc_r2_v1.0.1|w4|c1	HG03688_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1266.9	1922.7	SERF1	6558.0	full	15114	GTF2H2	True	SMN1	2	2	HG03688	complete	True	False	STU	2- 1+
+HG03704_mat_hprc_r2_v1.0.1|w3|c0	HG03704_mat_hprc_r2_v1.0.1	3	1-	SMN1	-	633.4	1848.8	SERF1	6551.0	trunc5	15130	none	True	mixed	1	2	HG03704	complete	True	False	PJL	1- 1+
+HG03704_mat_hprc_r2_v1.0.1|w3|c1	HG03704_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1247.0	1848.8	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG03704	complete	True	False	PJL	1- 1+
+HG03704_pat_hprc_r2_v1.0.1|w4|c0	HG03704_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	694.7	2000.0	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG03704	complete	True	False	PJL	2- 1+
+HG03704_pat_hprc_r2_v1.0.1|w4|c1	HG03704_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1308.2	2000.0	SERF1	6558.0	full	15114	GTF2H2	True	SMN1	2	2	HG03704	complete	True	False	PJL	2- 1+
+HG03710_mat_hprc_r2_v1.0.1|w6|c0	HG03710_mat_hprc_r2_v1.0.1	6	h21-	hyb_2_1	-	633.9	2213.7	SERF1	6555.0	trunc5	15132	none	True	SMN2	1	2	HG03710	complete	True	False	PJL	h21- 1+
+HG03710_mat_hprc_r2_v1.0.1|w6|c1	HG03710_mat_hprc_r2_v1.0.1	6	1+	SMN1	+	1287.9	2213.7	SERF1	6567.0	full	15131	GTF2H2	True	SMN2	2	2	HG03710	complete	True	False	PJL	h21- 1+
+HG03710_pat_hprc_r2_v1.0.1|w2|c0	HG03710_pat_hprc_r2_v1.0.1	2	2-	SMN2	-	552.0	2057.7	SERF1	6554.0	trunc5	15125	none	True	SMN2	1	2	HG03710	complete	True	False	PJL	2- 1+
+HG03710_pat_hprc_r2_v1.0.1|w2|c1	HG03710_pat_hprc_r2_v1.0.1	2	1+	SMN1	+	1185.2	2057.7	SERF1	6587.0	full	15124	GTF2H2	True	SMN1	2	2	HG03710	complete	True	False	PJL	2- 1+
+HG03742_hap1_hprc_r2_v1.0.1|w3|c0	HG03742_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	243.2	1506.2	SERF1	6561.0	full	15130	GTF2H2	True	SMN2	1	2	HG03742	complete	True	False	ITU	2- 1+
+HG03742_hap1_hprc_r2_v1.0.1|w3|c1	HG03742_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	877.2	1506.2	SERF1	6542.0	full	15116	GTF2H2	True	SMN1	2	2	HG03742	complete	True	False	ITU	2- 1+
+HG03742_hap2_hprc_r2_v1.0.1|w4|c0	HG03742_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	339.7	986.7	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	1	1	HG03742	gapped	True	False	ITU	1-
+HG03784_hap2_hprc_r2_v1.0.1|w3|c0	HG03784_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	191.5	413.0	SERF1	6554.0	full	15113	GTF2H2	True		1	1	HG03784	split	False	False	ITU	2- | 1+
+HG03784_hap2_hprc_r2_v1.0.1|w8|c0	HG03784_hap2_hprc_r2_v1.0.1	8	2-	SMN2	-	694.2	886.4	SERF1	6556.0	trunc5	15130	none	True		1	1	HG03784	split	False	False	ITU	2- | 1+
+HG03804_mat_hprc_r2_v1.0.1|w6|c0	HG03804_mat_hprc_r2_v1.0.1	6	2-	SMN2	-	573.1	2493.9	SERF1	6552.0	trunc5	15125	none	True	SMN2	1	2	HG03804	complete	True	False	BEB	2- 1+
+HG03804_mat_hprc_r2_v1.0.1|w6|c1	HG03804_mat_hprc_r2_v1.0.1	6	1+	SMN1	+	1203.3	2493.9	SERF1	6554.0	full	15123	GTF2H2	True	SMN1	2	2	HG03804	complete	True	False	BEB	2- 1+
+HG03804_pat_hprc_r2_v1.0.1|w3|c0	HG03804_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	693.7	1963.1	SERF1	6553.0	trunc5	15131	none	True	SMN2	1	2	HG03804	complete	True	False	BEB	2- 1+
+HG03804_pat_hprc_r2_v1.0.1|w3|c1	HG03804_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1307.3	1963.1	SERF1	6558.0	full	15114	GTF2H2	True	SMN1	2	2	HG03804	complete	True	False	BEB	2- 1+
+HG03816_mat_hprc_r2_v1.0.1|w3|c0	HG03816_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	653.7	1959.2	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG03816	complete	True	False	BEB	2- 1+
+HG03816_mat_hprc_r2_v1.0.1|w3|c1	HG03816_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1267.4	1959.2	SERF1	6559.0	full	15118	GTF2H2	True	SMN1	2	2	HG03816	complete	True	False	BEB	2- 1+
+HG03816_pat_hprc_r2_v1.0.1|w4|c0	HG03816_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	633.6	2013.9	SERF1	6557.0	trunc5	15129	none	True	SMN2	1	2	HG03816	complete	True	False	BEB	2- 1+
+HG03816_pat_hprc_r2_v1.0.1|w4|c1	HG03816_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1267.5	2013.9	SERF1	6551.0	full	15121	GTF2H2	True	SMN1	2	2	HG03816	complete	True	False	BEB	2- 1+
+HG03831_mat_hprc_r2_v1.0.1|w4|c0	HG03831_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	243.2	1356.7	SERF1	6542.0	full	15123	GTF2H2	True	SMN1	1	1	HG03831	complete	True	False	BEB	1-
+HG03831_pat_hprc_r2_v1.0.1|w4|c0	HG03831_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	639.5	2229.5	SERF1	6567.0	trunc5	15130	none	True	SMN2	1	2	HG03831	complete	True	False	BEB	2- 1-
+HG03831_pat_hprc_r2_v1.0.1|w4|c1	HG03831_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	1135.6	2229.5	SERF1	6559.0	full	15156	GTF2H2	True	SMN1	2	2	HG03831	complete	True	False	BEB	2- 1-
+HG03834_mat_hprc_r2_v1.0.1|w3|c0	HG03834_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	654.1	1918.7	SERF1	6551.0	trunc5	15129	none	True	SMN2	1	2	HG03834	complete	True	False	BEB	2- 1+
+HG03834_mat_hprc_r2_v1.0.1|w3|c1	HG03834_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1226.9	1918.7	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	HG03834	complete	True	False	BEB	2- 1+
+HG03834_pat_hprc_r2_v1.0.1|w2|c0	HG03834_pat_hprc_r2_v1.0.1	2	2-	SMN2	-	1017.0	2533.5	SERF1	6554.0	trunc5	15130	none	True	SMN2	1	2	HG03834	complete	True	False	BEB	2- 1-
+HG03834_pat_hprc_r2_v1.0.1|w2|c1	HG03834_pat_hprc_r2_v1.0.1	2	1-	SMN1	-	1512.8	2533.5	SERF1	6556.0	full	15131	GTF2H2	True	SMN1	2	2	HG03834	complete	True	False	BEB	2- 1-
+HG03874_hap1_hprc_r2_v1.0.1|w3|c0	HG03874_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	642.1	1315.9	SERF1	6557.0	full	15129	GTF2H2	True	SMN2	1	1	HG03874	complete	True	False	ITU	1+
+HG03874_hap2_hprc_r2_v1.0.1|w4|c0	HG03874_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	642.1	1315.9	SERF1	6558.0	full	15130	GTF2H2	True	SMN2	1	1	HG03874	complete	True	False	ITU	1+
+HG03927_mat_hprc_r2_v1.0.1|w4|c0	HG03927_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	627.8	1932.5	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG03927	complete	True	False	BEB	2- 1+
+HG03927_mat_hprc_r2_v1.0.1|w4|c1	HG03927_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1222.6	1932.5	SERF1	6560.0	full	15116	GTF2H2	True	SMN1	2	2	HG03927	complete	True	False	BEB	2- 1+
+HG03927_pat_hprc_r2_v1.0.1|w5|c0	HG03927_pat_hprc_r2_v1.0.1	5	1+	SMN1	+	642.1	1352.0	SERF1	6557.0	full	15129	GTF2H2	True	SMN2	1	1	HG03927	complete	True	False	BEB	1+
+HG03942_mat_hprc_r2_v1.0.1|w4|c0	HG03942_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	642.0	1315.8	SERF1	6557.0	full	15129	GTF2H2	True	SMN2	1	1	HG03942	complete	True	False	BEB	1+
+HG03942_pat_hprc_r2_v1.0.1|w3|c0	HG03942_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	633.6	2000.1	SERF1	6559.0	trunc5	15129	none	True	SMN2	1	2	HG03942	complete	True	False	BEB	2- 1+
+HG03942_pat_hprc_r2_v1.0.1|w3|c1	HG03942_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	1267.5	2000.1	SERF1	6551.0	full	15122	GTF2H2	True	SMN1	2	2	HG03942	complete	True	False	BEB	2- 1+
+HG04115_mat_hprc_r2_v1.0.1|w5|c0	HG04115_mat_hprc_r2_v1.0.1	5	2-	SMN2	-	674.2	1997.7	SERF1	6551.0	trunc5	15131	none	True	SMN2	1	2	HG04115	complete	True	False	STU	2- 1+
+HG04115_mat_hprc_r2_v1.0.1|w5|c1	HG04115_mat_hprc_r2_v1.0.1	5	1+	SMN1	+	1287.8	1997.7	SERF1	6551.0	full	15114	GTF2H2	True	SMN1	2	2	HG04115	complete	True	False	STU	2- 1+
+HG04115_pat_hprc_r2_v1.0.1|w0|c0	HG04115_pat_hprc_r2_v1.0.1	0	1+	SMN1	+	655.8	1605.1	SERF1	6573.0	full	15126	GTF2H2	True	SMN1	1	1	HG04115	complete	True	False	STU	1+
+HG04157_mat_hprc_r2_v1.0.1|w3|c0	HG04157_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	573.9	2268.0	SERF1	6544.0	trunc5	15125	none	True	SMN2	1	2	HG04157	complete	True	False	BEB	2- 1+
+HG04157_mat_hprc_r2_v1.0.1|w3|c1	HG04157_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1238.1	2268.0	SERF1	6545.0	full	15117	GTF2H2	True	SMN1	2	2	HG04157	complete	True	False	BEB	2- 1+
+HG04157_pat_hprc_r2_v1.0.1|w4|c0	HG04157_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	634.0	1864.7	SERF1	6551.0	trunc5	15116	none	True	SMN1	1	2	HG04157	complete	True	False	BEB	1- 1+
+HG04157_pat_hprc_r2_v1.0.1|w4|c1	HG04157_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1226.9	1864.7	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	HG04157	complete	True	False	BEB	1- 1+
+HG04160_mat_hprc_r2_v1.0.1|w4|c0	HG04160_mat_hprc_r2_v1.0.1	4	h21-	hyb_2_1	-	633.2	1900.1	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG04160	complete	True	False	BEB	h21- 1+
+HG04160_mat_hprc_r2_v1.0.1|w4|c1	HG04160_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1226.2	1900.1	SERF1	6557.0	full	15122	GTF2H2	True	SMN1	2	2	HG04160	complete	True	False	BEB	h21- 1+
+HG04160_pat_hprc_r2_v1.0.1|w4|c0	HG04160_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	552.1	2039.2	SERF1	6550.0	trunc5	15125	none	True	SMN2	1	2	HG04160	complete	True	False	BEB	2- 1+
+HG04160_pat_hprc_r2_v1.0.1|w4|c1	HG04160_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1185.4	2039.2	SERF1	6586.0	full	15126	GTF2H2	True	SMN1	2	2	HG04160	complete	True	False	BEB	2- 1+
+HG04184_mat_hprc_r2_v1.0.1|w2|c0	HG04184_mat_hprc_r2_v1.0.1	2	2-	SMN2	-	602.8	2101.3	SERF1	6552.0	trunc5	15129	none	True	SMN2	1	2	HG04184	complete	True	False	BEB	2- 1-
+HG04184_mat_hprc_r2_v1.0.1|w2|c1	HG04184_mat_hprc_r2_v1.0.1	2	1-	SMN1	-	1098.6	2101.3	SERF1	6568.0	full	15151	GTF2H2	True	SMN1	2	2	HG04184	complete	True	False	BEB	2- 1-
+HG04184_pat_hprc_r2_v1.0.1|w3|c0	HG04184_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	541.6	1443.5	SERF1	6556.0	full	15130	GTF2H2	True	SMN2	1	1	HG04184	complete	True	False	BEB	1-
+HG04187_mat_hprc_r2_v1.0.1|w4|c0	HG04187_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	642.6	1262.4	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	1	1	HG04187	complete	True	False	BEB	1+
+HG04187_pat_hprc_r2_v1.0.1|w3|c0	HG04187_pat_hprc_r2_v1.0.1	3	2-	SMN2	-	1017.0	2533.1	SERF1	6554.0	trunc5	15130	none	True	SMN2	1	2	HG04187	complete	True	False	BEB	2- 1-
+HG04187_pat_hprc_r2_v1.0.1|w3|c1	HG04187_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	1512.6	2533.1	SERF1	6557.0	full	15131	GTF2H2	True	SMN1	2	2	HG04187	complete	True	False	BEB	2- 1-
+HG04199_mat_hprc_r2_v1.0.1|w4|c0	HG04199_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	573.4	2445.1	SERF1	6544.0	trunc5	15125	none	True	SMN2	1	2	HG04199	complete	True	False	STU	2- 1+
+HG04199_mat_hprc_r2_v1.0.1|w4|c1	HG04199_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1417.3	2445.1	SERF1	6544.0	full	15117	GTF2H2	True	SMN1	2	2	HG04199	complete	True	False	STU	2- 1+
+HG04199_pat_hprc_r2_v1.0.1|w4|c0	HG04199_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	633.6	2189.1	SERF1	6551.0	trunc5	15129	none	True	SMN2	1	2	HG04199	complete	True	False	STU	2- 1+
+HG04199_pat_hprc_r2_v1.0.1|w4|c1	HG04199_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1226.8	2189.1	SERF1	6561.0	full	15116	GTF2H2	True	SMN1	2	2	HG04199	complete	True	False	STU	2- 1+
+HG04204_mat_hprc_r2_v1.0.1|w4|c0	HG04204_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	633.4	1918.4	SERF1	6553.0	trunc5	15130	none	True	mixed	1	2	HG04204	gapped	True	False	STU	1- 1+
+HG04204_mat_hprc_r2_v1.0.1|w4|c1	HG04204_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1262.6	1918.4	SERF1	6560.0	full	15117	GTF2H2	True	SMN1	2	2	HG04204	gapped	True	False	STU	1- 1+
+HG04204_pat_hprc_r2_v1.0.1|w4|c0	HG04204_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	633.4	1868.7	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	HG04204	complete	True	False	STU	2- 1+
+HG04204_pat_hprc_r2_v1.0.1|w4|c1	HG04204_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1226.3	1868.7	SERF1	6553.0	full	15123	GTF2H2	True	SMN1	2	2	HG04204	complete	True	False	STU	2- 1+
+HG04228_mat_hprc_r2_v1.0.1|w3|c0	HG04228_mat_hprc_r2_v1.0.1	3	2-	SMN2	-	673.5	1996.8	SERF1	6547.0	trunc5	15130	none	True	SMN2	1	2	HG04228	complete	True	False	STU	2- 1+
+HG04228_mat_hprc_r2_v1.0.1|w3|c1	HG04228_mat_hprc_r2_v1.0.1	3	1+	SMN1	+	1287.0	1996.8	SERF1	6558.0	full	15114	GTF2H2	True	SMN1	2	2	HG04228	complete	True	False	STU	2- 1+
+HG04228_pat_hprc_r2_v1.0.1|w4|c0	HG04228_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	633.4	1847.2	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	HG04228	complete	True	False	STU	2- 1+
+HG04228_pat_hprc_r2_v1.0.1|w4|c1	HG04228_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1227.4	1847.2	SERF1	6545.0	full	15112	GTF2H2	True	SMN1	2	2	HG04228	complete	True	False	STU	2- 1+
+HG06807_mat_v1.0.genbank|w3|c0	HG06807_mat_v1.0.genbank	3	2-	SMN2	-	653.7	2171.3	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG06807	complete	True	False	ASL	2- 1+
+HG06807_mat_v1.0.genbank|w3|c1	HG06807_mat_v1.0.genbank	3	1+	SMN1	+	1545.3	2171.3	SERF1	6553.0	full	15122	GTF2H2	True	SMN1	2	2	HG06807	complete	True	False	ASL	2- 1+
+HG06807_pat_v1.0.genbank|w5|c0	HG06807_pat_v1.0.genbank	5	1+	SMN1	+	595.1	1245.4	SERF1	6552.0	full	15131	GTF2H2	True	SMN1	1	1	HG06807	complete	True	False	ASL	1+
+NA18505_hap1_hprc_r2_v1.0.1|w4|c0	NA18505_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	242.9	1394.1	SERF1	6564.0	full	15116	GTF2H2	True	SMN1	1	2	NA18505	complete	True	False	YRI	1- h21-
+NA18505_hap1_hprc_r2_v1.0.1|w4|c1	NA18505_hap1_hprc_r2_v1.0.1	4	h21-	hyb_2_1	-	848.0	1394.1	SERF1	6571.0	trunc5	15119	none	True	SMN2	2	2	NA18505	complete	True	False	YRI	1- h21-
+NA18505_hap2_hprc_r2_v1.0.1|w3|c0	NA18505_hap2_hprc_r2_v1.0.1	3	h21+	hyb_2_1	+	900.4	2583.2	SERF1	6567.0	full	15121	GTF2H2	True	SMN2	1	2	NA18505	complete	True	False	YRI	h21+ 1-
+NA18505_hap2_hprc_r2_v1.0.1|w3|c1	NA18505_hap2_hprc_r2_v1.0.1	3	1-	SMN1	-	1481.4	2583.2	SERF1	6547.0	trunc5	15124	none	True	SMN1	2	2	NA18505	complete	True	False	YRI	h21+ 1-
+NA18508_hap1_hprc_r2_v1.0.1|w4|c0	NA18508_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	654.6	2193.5	SERF1	6560.0	trunc5	15128	none	True	SMN2	1	2	NA18508	complete	True	False	YRI	2- 1+
+NA18508_hap1_hprc_r2_v1.0.1|w4|c1	NA18508_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1247.8	2193.5	SERF1	6565.0	full	15129	GTF2H2	True	SMN1	2	2	NA18508	complete	True	False	YRI	2- 1+
+NA18508_hap2_hprc_r2_v1.0.1|w3|c0	NA18508_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	642.0	1297.8	SERF1	6561.0	full	15129	GTF2H2	True	SMN1	1	1	NA18508	complete	True	False	YRI	1+
+NA18522_hap1_hprc_r2_v1.0.1|w3|c0	NA18522_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	237.5	1903.6	SERF1	6551.0	full	15129	GTF2H2	True	SMN2	1	2	NA18522	complete	True	False	YRI	2- 1+
+NA18522_hap1_hprc_r2_v1.0.1|w3|c1	NA18522_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	850.9	1903.6	SERF1	6554.0	trunc5	15129	none	True	SMN1	2	2	NA18522	complete	True	False	YRI	2- 1+
+NA18522_hap2_hprc_r2_v1.0.1|w4|c0	NA18522_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1919.3	SERF1	6563.0	full	15118	GTF2H2	True	SMN1	1	2	NA18522	complete	True	False	YRI	1- 1+
+NA18522_hap2_hprc_r2_v1.0.1|w4|c1	NA18522_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	898.4	1919.3	SERF1	4185.0	full	15105	GTF2H2	True	SMN2	2	2	NA18522	complete	True	False	YRI	1- 1+
+NA18565_hap1_hprc_r2_v1.0.1|w3|c0	NA18565_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	652.1	1975.0	SERF1	6558.0	trunc5	15131	none	True	SMN2	1	2	NA18565	complete	True	False	CHB	1- 1+
+NA18565_hap1_hprc_r2_v1.0.1|w3|c1	NA18565_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1265.2	1975.0	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	NA18565	complete	True	False	CHB	1- 1+
+NA18565_hap2_hprc_r2_v1.0.1|w3|c0	NA18565_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	611.1	1943.1	SERF1	6552.0	trunc5	15130	none	True	SMN2	1	2	NA18565	gapped	True	False	CHB	2- 1+
+NA18565_hap2_hprc_r2_v1.0.1|w3|c1	NA18565_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	1224.8	1943.1	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	NA18565	gapped	True	False	CHB	2- 1+
+NA18570_hap1_hprc_r2_v1.0.1|w4|c0	NA18570_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	650.5	1902.0	SERF1	6555.0	trunc5	15116	none	True	SMN2	1	2	NA18570	complete	True	False	CHB	2- 1+
+NA18570_hap1_hprc_r2_v1.0.1|w4|c1	NA18570_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1264.2	1902.0	SERF1	6555.0	full	15116	GTF2H2	True	SMN1	2	2	NA18570	complete	True	False	CHB	2- 1+
+NA18570_hap2_hprc_r2_v1.0.1|w4|c0	NA18570_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	633.1	1907.0	SERF1	6539.0	trunc5	15129	none	True	SMN2	1	2	NA18570	complete	True	False	CHB	2- 1+
+NA18570_hap2_hprc_r2_v1.0.1|w4|c1	NA18570_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1246.5	1907.0	SERF1	6551.0	full	15121	GTF2H2	True	SMN1	2	2	NA18570	complete	True	False	CHB	2- 1+
+NA18608_hap1_hprc_r2_v1.0.1|w3|c0	NA18608_hap1_hprc_r2_v1.0.1	3	2+	SMN2	+	595.6	2155.2	SERF1	6546.0	trunc5	15125	none	True	SMN2	1	2	NA18608	complete	True	False	CHB	2+ 1+
+NA18608_hap1_hprc_r2_v1.0.1|w3|c1	NA18608_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1184.7	2155.2	SERF1	6579.0	full	15124	GTF2H2	True	SMN1	2	2	NA18608	complete	True	False	CHB	2+ 1+
+NA18608_hap2_hprc_r2_v1.0.1|w3|c0	NA18608_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	633.2	1903.6	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	NA18608	complete	True	False	CHB	2- 1+
+NA18608_hap2_hprc_r2_v1.0.1|w3|c1	NA18608_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	1247.0	1903.6	SERF1	6553.0	full	15122	GTF2H2	True	SMN1	2	2	NA18608	complete	True	False	CHB	2- 1+
+NA18620_hap1_hprc_r2_v1.0.1|w4|c0	NA18620_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	651.0	1894.6	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	NA18620	complete	True	False	CHB	2- 1+
+NA18620_hap1_hprc_r2_v1.0.1|w4|c1	NA18620_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1264.5	1894.6	SERF1	6560.0	full	15116	GTF2H2	True	SMN1	2	2	NA18620	complete	True	False	CHB	2- 1+
+NA18620_hap2_hprc_r2_v1.0.1|w4|c0	NA18620_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	612.9	1916.1	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	NA18620	complete	True	False	CHB	2- 1+
+NA18620_hap2_hprc_r2_v1.0.1|w4|c1	NA18620_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1206.2	1916.1	SERF1	6555.0	full	15116	GTF2H2	True	SMN1	2	2	NA18620	complete	True	False	CHB	2- 1+
+NA18747_hap1_hprc_r2_v1.0.1|w2|c0	NA18747_hap1_hprc_r2_v1.0.1	2	1+	SMN1	+	336.7	997.2	SERF1	6551.0	full	15121	GTF2H2	True		1	1	NA18747	split	False	False	CHB	2- | 1+
+NA18747_hap1_hprc_r2_v1.0.1|w6|c0	NA18747_hap1_hprc_r2_v1.0.1	6	2-	SMN2	-	633.9	839.6	SERF1	6553.0	trunc5	15129	none	True		1	1	NA18747	split	False	False	CHB	2- | 1+
+NA18747_hap2_hprc_r2_v1.0.1|w2|c0	NA18747_hap2_hprc_r2_v1.0.1	2	1+	SMN1	+	414.8	1088.6	SERF1	6560.0	full	15117	GTF2H2	True		1	1	NA18747	split	False	False	CHB	2- | 1+
+NA18747_hap2_hprc_r2_v1.0.1|w7|c0	NA18747_hap2_hprc_r2_v1.0.1	7	2-	SMN2	-	652.5	1023.0	SERF1	6551.0	trunc5	15130	none	True		1	1	NA18747	split	False	False	CHB	2- | 1+
+NA18879_hap1_hprc_r2_v1.0.1|w3|c0	NA18879_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	243.0	1488.0	SERF1	3833.0	full	15116	GTF2H2	True	SMN1	1	2	NA18879	complete	True	False	YRI	1- 1+
+NA18879_hap1_hprc_r2_v1.0.1|w3|c1	NA18879_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	916.3	1488.0	SERF1	6564.0	trunc5	15120	none	True	SMN1	2	2	NA18879	complete	True	False	YRI	1- 1+
+NA18879_hap2_hprc_r2_v1.0.1|w4|c0	NA18879_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	237.4	1570.2	SERF1	6551.0	full	15139	GTF2H2	True	SMN2	1	2	NA18879	complete	True	False	YRI	2- h12+
+NA18879_hap2_hprc_r2_v1.0.1|w4|c1	NA18879_hap2_hprc_r2_v1.0.1	4	h12+	hyb_1_2	+	891.3	1570.2	SERF1	6551.0	full	15119	GTF2H2	True	SMN1	2	2	NA18879	complete	True	False	YRI	2- h12+
+NA18906_mat_hprc_r2_v1.0.1|w2|c0	NA18906_mat_hprc_r2_v1.0.1	2	1+	SMN1	+	642.2	1356.8	SERF1	6546.0	full	15125	GTF2H2	True	SMN1	1	1	NA18906	complete	True	False	YRI	1+
+NA18906_pat_hprc_r2_v1.0.1|w4|c0	NA18906_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	633.9	1882.8	SERF1	6552.0	trunc5	15130	none	True	SMN2	1	2	NA18906	complete	True	False	YRI	2- 1+
+NA18906_pat_hprc_r2_v1.0.1|w4|c1	NA18906_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	1226.9	1882.8	SERF1	6556.0	full	15130	GTF2H2	True	SMN1	2	2	NA18906	complete	True	False	YRI	2- 1+
+NA18940_hap1_hprc_r2_v1.0.1|w6|c0	NA18940_hap1_hprc_r2_v1.0.1	6	2-	SMN2	-	651.8	2013.7	SERF1	6553.0	trunc5	15117	none	True	SMN2	1	2	NA18940	gapped	True	False	JPT	2- 1+
+NA18940_hap1_hprc_r2_v1.0.1|w6|c1	NA18940_hap1_hprc_r2_v1.0.1	6	1+	SMN1	+	1285.6	2013.7	SERF1	6555.0	full	15115	GTF2H2	True	SMN1	2	2	NA18940	gapped	True	False	JPT	2- 1+
+NA18940_hap2_hprc_r2_v1.0.1|w4|c0	NA18940_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	602.8	1914.1	SERF1	6555.0	trunc5	15130	none	True	SMN2	1	2	NA18940	gapped	True	False	JPT	2- 1+
+NA18940_hap2_hprc_r2_v1.0.1|w4|c1	NA18940_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1216.3	1914.1	SERF1	6559.0	full	15128	GTF2H2	True	SMN2	2	2	NA18940	gapped	True	False	JPT	2- 1+
+NA18943_hap1_hprc_r2_v1.0.1|w4|c0	NA18943_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	652.7	1903.9	SERF1	6551.0	trunc5	15133	none	True	SMN2	1	2	NA18943	complete	True	False	JPT	2- 1+
+NA18943_hap1_hprc_r2_v1.0.1|w4|c1	NA18943_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1266.1	1903.9	SERF1	6557.0	full	15116	GTF2H2	True	SMN1	2	2	NA18943	complete	True	False	JPT	2- 1+
+NA18943_hap2_hprc_r2_v1.0.1|w3|c0	NA18943_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	237.5	1754.6	SERF1	6539.0	full	15129	GTF2H2	True	SMN2	1	2	NA18943	complete	True	False	JPT	2- 1-
+NA18943_hap2_hprc_r2_v1.0.1|w3|c1	NA18943_hap2_hprc_r2_v1.0.1	3	1-	SMN1	-	733.5	1754.6	SERF1	6560.0	full	15131	GTF2H2	True	SMN1	2	2	NA18943	complete	True	False	JPT	2- 1-
+NA18944_hap1_hprc_r2_v1.0.1|w3|c0	NA18944_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	640.2	1332.0	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	1	1	NA18944	complete	True	False	JPT	1+
+NA18944_hap2_hprc_r2_v1.0.1|w3|c0	NA18944_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	236.3	1487.8	SERF1	6558.0	full	15129	GTF2H2	True	SMN2	1	2	NA18944	complete	True	False	JPT	2- 1+
+NA18944_hap2_hprc_r2_v1.0.1|w3|c1	NA18944_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	849.8	1487.8	SERF1	6557.0	full	15116	GTF2H2	True	SMN1	2	2	NA18944	complete	True	False	JPT	2- 1+
+NA18945_hap1_hprc_r2_v1.0.1|w3|c0	NA18945_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	634.0	1946.0	SERF1	6548.0	trunc5	15130	none	True	SMN2	1	2	NA18945	complete	True	False	JPT	2- 1+
+NA18945_hap1_hprc_r2_v1.0.1|w3|c1	NA18945_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1267.5	1946.0	SERF1	6551.0	full	15123	GTF2H2	True	SMN1	2	2	NA18945	complete	True	False	JPT	2- 1+
+NA18945_hap2_hprc_r2_v1.0.1|w4|c0	NA18945_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	237.5	1560.7	SERF1	6550.0	full	15129	GTF2H2	True	SMN2	1	2	NA18945	complete	True	False	JPT	2- h12+
+NA18945_hap2_hprc_r2_v1.0.1|w4|c1	NA18945_hap2_hprc_r2_v1.0.1	4	h12+	hyb_1_2	+	850.9	1560.7	SERF1	6548.0	full	15119	GTF2H2	True	SMN1	2	2	NA18945	complete	True	False	JPT	2- h12+
+NA18948_hap1_hprc_r2_v1.0.1|w3|c0	NA18948_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	237.5	1754.7	SERF1	6539.0	full	15127	GTF2H2	True	SMN2	1	2	NA18948	complete	True	False	JPT	2- 1-
+NA18948_hap1_hprc_r2_v1.0.1|w3|c1	NA18948_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	733.7	1754.7	SERF1	6562.0	full	15155	GTF2H2	True	SMN1	2	2	NA18948	complete	True	False	JPT	2- 1-
+NA18948_hap2_hprc_r2_v1.0.1|w5|c0	NA18948_hap2_hprc_r2_v1.0.1	5	2-	SMN2	-	612.7	2512.3	SERF1	6557.0	trunc5	15130	none	True	SMN2	1	3	NA18948	complete	True	False	JPT	2- 2- 1+
+NA18948_hap2_hprc_r2_v1.0.1|w5|c1	NA18948_hap2_hprc_r2_v1.0.1	5	2-	SMN2	-	1217.9	2512.3	SERF1	6557.0	trunc5	15130	none	True	SMN2	2	3	NA18948	complete	True	False	JPT	2- 2- 1+
+NA18948_hap2_hprc_r2_v1.0.1|w5|c2	NA18948_hap2_hprc_r2_v1.0.1	5	1+	SMN1	+	1851.7	2512.3	SERF1	6550.0	full	15122	GTF2H2	True	SMN1	3	3	NA18948	complete	True	False	JPT	2- 2- 1+
+NA18952_hap1_hprc_r2_v1.0.1|w4|c0	NA18952_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	662.9	1354.8	SERF1	6557.0	full	15116	GTF2H2	True	SMN1	1	1	NA18952	complete	True	False	JPT	1+
+NA18952_hap2_hprc_r2_v1.0.1|w3|c0	NA18952_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	650.7	1974.6	SERF1	6551.0	trunc5	15131	none	True	SMN2	1	2	NA18952	complete	True	False	JPT	2- 1+
+NA18952_hap2_hprc_r2_v1.0.1|w3|c1	NA18952_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	1264.7	1974.6	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	NA18952	complete	True	False	JPT	2- 1+
+NA18959_hap1_hprc_r2_v1.0.1|w3|c1	NA18959_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	656.4	1943.7	SERF1	6551.0	trunc5	37888	none	True	unread	1	2	NA18959	gapped	True	False	JPT	t- 2- 1+
+NA18959_hap1_hprc_r2_v1.0.1|w3|c2	NA18959_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1269.9	1943.7	SERF1	6554.0	full	15116	GTF2H2	True	SMN1	2	2	NA18959	gapped	True	False	JPT	t- 2- 1+
+NA18959_hap2_hprc_r2_v1.0.1|w4|c0	NA18959_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	632.4	1883.6	SERF1	6564.0	trunc5	15129	none	True	SMN2	1	2	NA18959	complete	True	False	JPT	2- 1+
+NA18959_hap2_hprc_r2_v1.0.1|w4|c1	NA18959_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1245.9	1883.6	SERF1	6557.0	full	15116	GTF2H2	True	SMN1	2	2	NA18959	complete	True	False	JPT	2- 1+
+NA18960_hap1_hprc_r2_v1.0.1|w3|c0	NA18960_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	601.9	2955.4	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	3	NA18960	complete	True	False	JPT	2- 2- 1-
+NA18960_hap1_hprc_r2_v1.0.1|w3|c1	NA18960_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	1456.6	2955.4	SERF1	6553.0	trunc5	15129	none	True	SMN2	2	3	NA18960	complete	True	False	JPT	2- 2- 1-
+NA18960_hap1_hprc_r2_v1.0.1|w3|c2	NA18960_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	1952.4	2955.4	SERF1	6556.0	full	15139	GTF2H2	True	SMN1	3	3	NA18960	complete	True	False	JPT	2- 2- 1-
+NA18960_hap2_hprc_r2_v1.0.1|w3|c0	NA18960_hap2_hprc_r2_v1.0.1	3	1-	SMN1	-	541.6	1562.5	SERF1	6560.0	full	15130	GTF2H2	True	SMN2	1	1	NA18960	complete	True	False	JPT	1-
+NA18967_hap1_hprc_r2_v1.0.1|w3|c0	NA18967_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	639.6	1913.5	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	NA18967	complete	True	False	JPT	2- 1+
+NA18967_hap1_hprc_r2_v1.0.1|w3|c1	NA18967_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1253.0	1913.5	SERF1	6546.0	full	15122	GTF2H2	True	SMN1	2	2	NA18967	complete	True	False	JPT	2- 1+
+NA18967_hap2_hprc_r2_v1.0.1|w2|c0	NA18967_hap2_hprc_r2_v1.0.1	2	1-	SMN1	-	541.5	1562.5	SERF1	6556.0	full	15130	GTF2H2	True	SMN2	1	1	NA18967	complete	True	False	JPT	1-
+NA18970_hap1_hprc_r2_v1.0.1|w4|c0	NA18970_hap1_hprc_r2_v1.0.1	4	2+	SMN2	+	638.3	1992.2	SERF1	6555.0	trunc5	15116	none	True	SMN2	1	2	NA18970	complete	True	False	JPT	2+ 1+
+NA18970_hap1_hprc_r2_v1.0.1|w4|c1	NA18970_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1264.3	1992.2	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	NA18970	complete	True	False	JPT	2+ 1+
+NA18970_hap2_hprc_r2_v1.0.1|w6|c0	NA18970_hap2_hprc_r2_v1.0.1	6	2-	SMN2	-	633.9	1903.9	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	NA18970	complete	True	False	JPT	2- 1+
+NA18970_hap2_hprc_r2_v1.0.1|w6|c1	NA18970_hap2_hprc_r2_v1.0.1	6	1+	SMN1	+	1247.3	1903.9	SERF1	6553.0	full	15122	GTF2H2	True	mixed	2	2	NA18970	complete	True	False	JPT	2- 1+
+NA18971_hap1_hprc_r2_v1.0.1|w3|c0	NA18971_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	652.0	1884.9	SERF1	6551.0	trunc5	15116	none	True	SMN2	1	2	NA18971	complete	True	False	JPT	2- 1+
+NA18971_hap1_hprc_r2_v1.0.1|w3|c1	NA18971_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1265.1	1884.9	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	NA18971	complete	True	False	JPT	2- 1+
+NA18971_hap2_hprc_r2_v1.0.1|w3|c0	NA18971_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	642.2	1248.6	SERF1	6549.0	full	15121	GTF2H2	True	SMN1	1	1	NA18971	complete	True	False	JPT	1+
+NA18974_hap1_hprc_r2_v1.0.1|w0|c0	NA18974_hap1_hprc_r2_v1.0.1	0	1+	SMN1	+	344.0	1066.4	SERF1	6556.0	full	15116	GTF2H2	True		1	1	NA18974	partial	False	False	JPT	1+
+NA18974_hap2_hprc_r2_v1.0.1|w0|c1	NA18974_hap2_hprc_r2_v1.0.1	0	1+	SMN1	+	611.7	1339.6	SERF1	6561.0	full	15116	GTF2H2	True		1	1	NA18974	split	False	False	JPT	2- | t- 1+
+NA18974_hap2_hprc_r2_v1.0.1|w7|c0	NA18974_hap2_hprc_r2_v1.0.1	7	2-	SMN2	-	692.8	979.5	SERF1	6551.0	trunc5	15131	none	True		1	1	NA18974	split	False	False	JPT	2- | t- 1+
+NA18976_hap1_hprc_r2_v1.0.1|w3|c0	NA18976_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	633.0	1899.1	SERF1	6539.0	trunc5	15130	none	True	SMN2	1	2	NA18976	complete	True	False	JPT	2- 1+
+NA18976_hap1_hprc_r2_v1.0.1|w3|c1	NA18976_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1246.4	1899.1	SERF1	6551.0	full	15115	GTF2H2	True	unread	2	2	NA18976	complete	True	False	JPT	2- 1+
+NA18976_hap2_hprc_r2_v1.0.1|w3|c0	NA18976_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	620.7	1330.6	SERF1	6553.0	full	15117	GTF2H2	True	SMN1	1	1	NA18976	complete	True	False	JPT	1+
+NA18982_hap1_hprc_r2_v1.0.1|w4|c0	NA18982_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	652.7	1958.2	SERF1	6556.0	trunc5	15130	none	True	SMN2	1	2	NA18982	complete	True	False	JPT	2- 1+
+NA18982_hap1_hprc_r2_v1.0.1|w4|c1	NA18982_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1266.3	1958.2	SERF1	6556.0	full	15117	GTF2H2	True	SMN1	2	2	NA18982	complete	True	False	JPT	2- 1+
+NA18982_hap2_hprc_r2_v1.0.1|w4|c0	NA18982_hap2_hprc_r2_v1.0.1	4	2+	SMN2	+	662.7	1909.3	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	NA18982	complete	True	False	JPT	2+ 1+
+NA18982_hap2_hprc_r2_v1.0.1|w4|c1	NA18982_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1266.9	1909.3	SERF1	6554.0	full	15120	GTF2H2	True	SMN1	2	2	NA18982	complete	True	False	JPT	2+ 1+
+NA18983_hap1_hprc_r2_v1.0.1|w2|c0	NA18983_hap1_hprc_r2_v1.0.1	2	2-	SMN2	-	633.0	1906.9	SERF1	6539.0	trunc5	15130	none	True	SMN2	1	2	NA18983	complete	True	False	JPT	2- 1+
+NA18983_hap1_hprc_r2_v1.0.1|w2|c1	NA18983_hap1_hprc_r2_v1.0.1	2	1+	SMN1	+	1246.4	1906.9	SERF1	6553.0	full	15121	GTF2H2	True	SMN1	2	2	NA18983	complete	True	False	JPT	2- 1+
+NA18983_hap2_hprc_r2_v1.0.1|w2|c0	NA18983_hap2_hprc_r2_v1.0.1	2	2-	SMN2	-	632.5	1865.7	SERF1	6550.0	trunc5	15129	none	True	SMN2	1	2	NA18983	complete	True	False	JPT	2- 1+
+NA18983_hap2_hprc_r2_v1.0.1|w2|c1	NA18983_hap2_hprc_r2_v1.0.1	2	1+	SMN1	+	1245.9	1865.7	SERF1	6545.0	full	15117	GTF2H2	True	SMN1	2	2	NA18983	complete	True	False	JPT	2- 1+
+NA19036_hap1_hprc_r2_v1.0.1|w4|c0	NA19036_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	744.7	1978.8	SERF1	6559.0	full	15129	GTF2H2	True	SMN1	1	2	NA19036	complete	True	False	LWK	1+ 1-
+NA19036_hap1_hprc_r2_v1.0.1|w4|c1	NA19036_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	1377.2	1978.8	SERF1	6557.0	full	15121	GTF2H2	True	SMN1	2	2	NA19036	complete	True	False	LWK	1+ 1-
+NA19036_hap2_hprc_r2_v1.0.1|w4|c0	NA19036_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1916.5	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	NA19036	complete	True	False	LWK	1- 1+
+NA19036_hap2_hprc_r2_v1.0.1|w4|c1	NA19036_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	913.6	1916.5	SERF1	6566.0	full	15120	GTF2H2	True	SMN1	2	2	NA19036	complete	True	False	LWK	1- 1+
+NA19043_hap1_hprc_r2_v1.0.1|w3|c0	NA19043_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	627.8	1722.5	SERF1	6554.0	trunc5	15127	none	True	SMN2	1	2	NA19043	complete	True	False	LWK	1- 1+
+NA19043_hap1_hprc_r2_v1.0.1|w3|c1	NA19043_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1304.9	1722.5	SERF1	6552.0	full	15119	GTF2H2	True	mixed	2	2	NA19043	complete	True	False	LWK	1- 1+
+NA19043_hap2_hprc_r2_v1.0.1|w6|c0	NA19043_hap2_hprc_r2_v1.0.1	6	1-	SMN1	-	242.8	1917.4	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	NA19043	gapped	True	False	LWK	1- 1+
+NA19043_hap2_hprc_r2_v1.0.1|w6|c1	NA19043_hap2_hprc_r2_v1.0.1	6	1+	SMN1	+	914.3	1917.4	SERF1	6558.0	full	15121	GTF2H2	True	SMN1	2	2	NA19043	gapped	True	False	LWK	1- 1+
+NA19087_hap1_hprc_r2_v1.0.1|w4|c0	NA19087_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	602.7	1887.6	SERF1	6554.0	trunc5	15130	none	True	SMN2	1	2	NA19087	complete	True	False	JPT	2- 1+
+NA19087_hap1_hprc_r2_v1.0.1|w4|c1	NA19087_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1213.7	1887.6	SERF1	6559.0	full	15117	GTF2H2	True	SMN1	2	2	NA19087	complete	True	False	JPT	2- 1+
+NA19087_hap2_hprc_r2_v1.0.1|w3|c0	NA19087_hap2_hprc_r2_v1.0.1	3	2+	SMN2	+	616.6	2197.3	SERF1	6548.0	trunc5	15123	none	True	SMN2	1	2	NA19087	complete	True	False	JPT	2+ 1+
+NA19087_hap2_hprc_r2_v1.0.1|w3|c1	NA19087_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	1205.6	2197.3	SERF1	6552.0	full	15125	GTF2H2	True	SMN1	2	2	NA19087	complete	True	False	JPT	2+ 1+
+NA19159_hap1_hprc_r2_v1.0.1|w3|c0	NA19159_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	655.3	2026.8	SERF1	6555.0	trunc5	15126	none	True	SMN2	1	2	NA19159	complete	True	False	YRI	2- 1-
+NA19159_hap1_hprc_r2_v1.0.1|w3|c1	NA19159_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	1461.2	2026.8	SERF1	6548.0	full	15119	GTF2H2	True	SMN1	2	2	NA19159	complete	True	False	YRI	2- 1-
+NA19159_hap2_hprc_r2_v1.0.1|w4|c0	NA19159_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	703.7	1988.7	SERF1	6547.0	trunc5	15129	none	True	SMN2	1	2	NA19159	complete	True	False	YRI	2- 1+
+NA19159_hap2_hprc_r2_v1.0.1|w4|c1	NA19159_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1296.8	1988.7	SERF1	6558.0	full	15116	GTF2H2	True	SMN2	2	2	NA19159	complete	True	False	YRI	2- 1+
+NA19185_hap1_hprc_r2_v1.0.1|w4|c0	NA19185_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	242.8	1878.2	SERF1	3811.0	full	15116	GTF2H2	True	SMN1	1	2	NA19185	complete	True	False	YRI	1- 1+
+NA19185_hap1_hprc_r2_v1.0.1|w4|c1	NA19185_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	875.2	1878.2	SERF1	6562.0	full	15120	GTF2H2	True	SMN1	2	2	NA19185	complete	True	False	YRI	1- 1+
+NA19185_hap2_hprc_r2_v1.0.1|w4|c0	NA19185_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	607.7	2296.7	SERF1	6544.0	trunc5	15125	none	True	SMN2	1	2	NA19185	complete	True	False	YRI	2- 1+
+NA19185_hap2_hprc_r2_v1.0.1|w4|c1	NA19185_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1220.7	2296.7	SERF1	6553.0	full	15128	GTF2H2	True	SMN1	2	2	NA19185	complete	True	False	YRI	2- 1+
+NA19240_mat_hprc_r2_v1.0.1|w4|c0	NA19240_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	243.1	1559.6	SERF1	3819.0	full	15116	GTF2H2	True	SMN1	1	2	NA19240	complete	True	False	YRI	1- 1+
+NA19240_mat_hprc_r2_v1.0.1|w4|c1	NA19240_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	875.2	1559.6	SERF1	6564.0	full	15119	GTF2H2	True	SMN1	2	2	NA19240	complete	True	False	YRI	1- 1+
+NA19240_pat_hprc_r2_v1.0.1|w3|c0	NA19240_pat_hprc_r2_v1.0.1	3	1-	SMN1	-	242.8	1916.7	SERF1	3819.0	full	15116	GTF2H2	True	SMN1	1	2	NA19240	complete	True	False	YRI	1- 1+
+NA19240_pat_hprc_r2_v1.0.1|w3|c1	NA19240_pat_hprc_r2_v1.0.1	3	1+	SMN1	+	895.6	1916.7	SERF1	6564.0	full	15120	GTF2H2	True	SMN1	2	2	NA19240	complete	True	False	YRI	1- 1+
+NA19338_hap1_hprc_r2_v1.0.1|w3|c0	NA19338_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	243.2	1875.6	SERF1	6565.0	full	15122	GTF2H2	True	SMN1	1	2	NA19338	complete	True	False	LWK	1- 1+
+NA19338_hap1_hprc_r2_v1.0.1|w3|c1	NA19338_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	878.5	1875.6	SERF1	6564.0	full	15115	GTF2H2	True	SMN1	2	2	NA19338	complete	True	False	LWK	1- 1+
+NA19338_hap2_hprc_r2_v1.0.1|w4|c0	NA19338_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	654.4	2005.4	SERF1	6556.0	trunc5	15129	none	True	SMN2	1	2	NA19338	complete	True	False	LWK	2- 1-
+NA19338_hap2_hprc_r2_v1.0.1|w4|c1	NA19338_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	1439.9	2005.4	SERF1	6549.0	full	15120	GTF2H2	True	SMN1	2	2	NA19338	complete	True	False	LWK	2- 1-
+NA19391_hap1_hprc_r2_v1.0.1|w4|c0	NA19391_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	607.6	2211.3	SERF1	6546.0	trunc5	15125	none	True	SMN2	1	2	NA19391	complete	True	False	LWK	2- 1+
+NA19391_hap1_hprc_r2_v1.0.1|w4|c1	NA19391_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1220.7	2211.3	SERF1	6552.0	full	15116	GTF2H2	True	SMN1	2	2	NA19391	complete	True	False	LWK	2- 1+
+NA19391_hap2_hprc_r2_v1.0.1|w4|c0	NA19391_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	652.7	2542.3	SERF1	6560.0	trunc5	15129	none	True	SMN2	1	2	NA19391	complete	True	False	LWK	2- 1-
+NA19391_hap2_hprc_r2_v1.0.1|w4|c1	NA19391_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	1440.7	2542.3	SERF1	6567.0	full	15117	GTF2H2	True	SMN1	2	2	NA19391	complete	True	False	LWK	2- 1-
+NA19443_hap1_hprc_r2_v1.0.1|w3|c0	NA19443_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	587.7	1959.5	SERF1	6557.0	trunc5	15123	none	True		1	2	NA19443	split	False	False	LWK	2- 1+ | 2+
+NA19443_hap1_hprc_r2_v1.0.1|w3|c1	NA19443_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1262.6	1959.5	SERF1	6559.0	full	15124	GTF2H2	True		2	2	NA19443	split	False	False	LWK	2- 1+ | 2+
+NA19443_hap1_hprc_r2_v1.0.1|w6|c0	NA19443_hap1_hprc_r2_v1.0.1	6	2+	SMN2	+	345.8	399.0	SERF1	6557.0	trunc5	15123	none	True		1	1	NA19443	split	False	False	LWK	2- 1+ | 2+
+NA19443_hap2_hprc_r2_v1.0.1|w7|c0	NA19443_hap2_hprc_r2_v1.0.1	7	1+	SMN1	+	333.9	1030.8	SERF1	6559.0	full	15124	GTF2H2	True		1	1	NA19443	partial	False	False	LWK	1+
+NA19468_hap1_hprc_r2_v1.0.1|w4|c0	NA19468_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	653.7	2163.5	SERF1	6542.0	trunc5	15130	none	True	SMN2	1	2	NA19468	complete	True	False	LWK	2- 1-
+NA19468_hap1_hprc_r2_v1.0.1|w4|c1	NA19468_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	1525.6	2163.5	SERF1	6553.0	full	15118	GTF2H2	True	SMN1	2	2	NA19468	complete	True	False	LWK	2- 1-
+NA19468_hap2_hprc_r2_v1.0.1|w4|c0	NA19468_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	772.1	1373.7	SERF1	6553.0	full	15118	GTF2H2	True	SMN1	1	1	NA19468	complete	True	False	LWK	1-
+NA19682_hap1_hprc_r2_v1.0.1|w4|c0	NA19682_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	652.2	1921.7	SERF1	6557.0	trunc5	15123	none	True	SMN2	1	2	NA19682	complete	True	False	MXL	2- 1+
+NA19682_hap1_hprc_r2_v1.0.1|w4|c1	NA19682_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1265.9	1921.7	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	NA19682	complete	True	False	MXL	2- 1+
+NA19682_hap2_hprc_r2_v1.0.1|w4|c0	NA19682_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	602.1	1907.4	SERF1	6553.0	trunc5	15130	none	True	SMN2	1	2	NA19682	complete	True	False	MXL	2- 1+
+NA19682_hap2_hprc_r2_v1.0.1|w4|c1	NA19682_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1215.5	1907.4	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	NA19682	complete	True	False	MXL	2- 1+
+NA19700_hap1_hprc_r2_v1.0.1|w4|c0	NA19700_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	243.1	758.9	SERF1	6560.0	full	15117	GTF2H2	True	SMN1	1	1	NA19700	complete	True	False	ASW	1-
+NA19700_hap2_hprc_r2_v1.0.1|w3|c0	NA19700_hap2_hprc_r2_v1.0.1	3	1-	SMN1	-	242.8	1876.4	SERF1	3821.0	full	15116	GTF2H2	True	SMN1	1	2	NA19700	complete	True	False	ASW	1- 1+
+NA19700_hap2_hprc_r2_v1.0.1|w3|c1	NA19700_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	855.5	1876.4	SERF1	6561.0	full	15120	GTF2H2	True	SMN1	2	2	NA19700	complete	True	False	ASW	1- 1+
+NA19776_hap1_hprc_r2_v1.0.1|w4|c0	NA19776_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	654.4	1982.3	SERF1	6553.0	trunc5	15131	none	True	SMN2	1	2	NA19776	complete	True	False	MXL	2- 1+
+NA19776_hap1_hprc_r2_v1.0.1|w4|c1	NA19776_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1267.7	1982.3	SERF1	6551.0	full	15116	GTF2H2	True	SMN1	2	2	NA19776	complete	True	False	MXL	2- 1+
+NA19776_hap2_hprc_r2_v1.0.1|w5|c0	NA19776_hap2_hprc_r2_v1.0.1	5	2-	SMN2	-	552.1	2176.4	SERF1	6544.0	trunc5	15126	none	True	SMN2	1	2	NA19776	complete	True	False	MXL	2- 1+
+NA19776_hap2_hprc_r2_v1.0.1|w5|c1	NA19776_hap2_hprc_r2_v1.0.1	5	1+	SMN1	+	1186.2	2176.4	SERF1	6544.0	full	15125	GTF2H2	True	SMN1	2	2	NA19776	complete	True	False	MXL	2- 1+
+NA19835_hap1_hprc_r2_v1.0.1|w3|c0	NA19835_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	634.4	1957.3	SERF1	6551.0	trunc5	15131	none	True	SMN2	1	2	NA19835	complete	True	False	ASW	2- 1+
+NA19835_hap1_hprc_r2_v1.0.1|w3|c1	NA19835_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1247.4	1957.3	SERF1	6557.0	full	15129	GTF2H2	True	SMN1	2	2	NA19835	complete	True	False	ASW	2- 1+
+NA19835_hap2_hprc_r2_v1.0.1|w5|c0	NA19835_hap2_hprc_r2_v1.0.1	5	1-	SMN1	-	242.8	1878.0	SERF1	3815.0	full	15116	GTF2H2	True	SMN1	1	2	NA19835	complete	True	False	ASW	1- 1+
+NA19835_hap2_hprc_r2_v1.0.1|w5|c1	NA19835_hap2_hprc_r2_v1.0.1	5	1+	SMN1	+	875.1	1878.0	SERF1	6564.0	full	15120	GTF2H2	True	SMN1	2	2	NA19835	complete	True	False	ASW	1- 1+
+NA19909_hap1_hprc_r2_v1.0.1|w4|c0	NA19909_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	242.9	1910.4	SERF1	6558.0	full	15129	GTF2H2	True	SMN2	1	2	NA19909	complete	True	False	ASW	2- 1-
+NA19909_hap1_hprc_r2_v1.0.1|w4|c1	NA19909_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	1342.4	1910.4	SERF1	6560.0	full	15123	GTF2H2	True	SMN1	2	2	NA19909	complete	True	False	ASW	2- 1-
+NA19909_hap2_hprc_r2_v1.0.1|w3|c0	NA19909_hap2_hprc_r2_v1.0.1	3	1-	SMN1	-	242.9	1394.1	SERF1	6562.0	full	15116	GTF2H2	True	SMN1	1	2	NA19909	complete	True	False	ASW	1- h21-
+NA19909_hap2_hprc_r2_v1.0.1|w3|c1	NA19909_hap2_hprc_r2_v1.0.1	3	h21-	hyb_2_1	-	848.0	1394.1	SERF1	6571.0	trunc5	15117	none	True	SMN2	2	2	NA19909	complete	True	False	ASW	1- h21-
+NA20129_mat_hprc_r2_v1.0.1|w4|c0	NA20129_mat_hprc_r2_v1.0.1	4	2-	SMN2	-	693.9	2462.0	SERF1	6558.0	trunc5	15130	none	True	SMN2	1	2	NA20129	gapped	True	False	ASW	2- 1+
+NA20129_mat_hprc_r2_v1.0.1|w4|c1	NA20129_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1265.5	2462.0	SERF1	6557.0	full	15120	GTF2H2	True	SMN1	2	2	NA20129	gapped	True	False	ASW	2- 1+
+NA20129_pat_hprc_r2_v1.0.1|w4|c0	NA20129_pat_hprc_r2_v1.0.1	4	2-	SMN2	-	237.5	1904.6	SERF1	6554.0	full	15128	GTF2H2	True	SMN2	1	2	NA20129	complete	True	False	ASW	2- 1-
+NA20129_pat_hprc_r2_v1.0.1|w4|c1	NA20129_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	1336.7	1904.6	SERF1	6558.0	full	15123	GTF2H2	True	SMN1	2	2	NA20129	complete	True	False	ASW	2- 1-
+NA20282_hap1_hprc_r2_v1.0.1|w5|c0	NA20282_hap1_hprc_r2_v1.0.1	5	1-	SMN1	-	242.7	1908.2	SERF1	6559.0	full	15112	GTF2H2	True	SMN1	1	2	NA20282	complete	True	False	ASW	1- h21+
+NA20282_hap1_hprc_r2_v1.0.1|w5|c1	NA20282_hap1_hprc_r2_v1.0.1	5	h21+	hyb_2_1	+	898.5	1908.2	SERF1	6564.0	full	15118	GTF2H2	True	SMN2	2	2	NA20282	complete	True	False	ASW	1- h21+
+NA20282_hap2_hprc_r2_v1.0.1|w4|c0	NA20282_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	242.9	1360.5	SERF1	6564.0	full	15116	GTF2H2	True	SMN1	1	2	NA20282	complete	True	False	ASW	1- h21-
+NA20282_hap2_hprc_r2_v1.0.1|w4|c1	NA20282_hap2_hprc_r2_v1.0.1	4	h21-	hyb_2_1	-	868.5	1360.5	SERF1	6567.0	trunc5	15117	none	True	SMN2	2	2	NA20282	complete	True	False	ASW	1- h21-
+NA20346_hap1_hprc_r2_v1.0.1|w4|c0	NA20346_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	243.1	1552.0	SERF1	6556.0	full	15129	GTF2H2	True	SMN2	1	2	NA20346	complete	True	False	ASW	2- 1+
+NA20346_hap1_hprc_r2_v1.0.1|w4|c1	NA20346_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	900.1	1552.0	SERF1	6559.0	full	15120	GTF2H2	True	SMN1	2	2	NA20346	complete	True	False	ASW	2- 1+
+NA20346_hap2_hprc_r2_v1.0.1|w4|c0	NA20346_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	641.1	1369.0	SERF1	6551.0	full	15116	GTF2H2	True	SMN1	1	1	NA20346	complete	True	False	ASW	1+
+NA20503_hap1_hprc_r2_v1.0.1|w4|c0	NA20503_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	692.3	1997.5	SERF1	6554.0	trunc5	15129	none	True	SMN2	1	2	NA20503	complete	True	False	TSI	2- 1-
+NA20503_hap1_hprc_r2_v1.0.1|w4|c1	NA20503_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	1398.3	1997.5	SERF1	6560.0	full	15113	GTF2H2	True	SMN1	2	2	NA20503	complete	True	False	TSI	2- 1-
+NA20503_hap2_hprc_r2_v1.0.1|w3|c0	NA20503_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	602.8	2078.4	SERF1	6555.0	trunc5	15129	none	True	SMN2	1	2	NA20503	complete	True	False	TSI	2- 1-
+NA20503_hap2_hprc_r2_v1.0.1|w3|c1	NA20503_hap2_hprc_r2_v1.0.1	3	1-	SMN1	-	1098.4	2078.4	SERF1	6551.0	full	15161	GTF2H2	True	SMN1	2	2	NA20503	complete	True	False	TSI	2- 1-
+NA20752_hap1_hprc_r2_v1.0.1|w3|c0	NA20752_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	552.0	2058.7	SERF1	6549.0	trunc5	15125	none	True	SMN2	1	2	NA20752	complete	True	False	TSI	2- 1+
+NA20752_hap1_hprc_r2_v1.0.1|w3|c1	NA20752_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1185.2	2058.7	SERF1	6575.0	full	15121	GTF2H2	True	SMN1	2	2	NA20752	complete	True	False	TSI	2- 1+
+NA20752_hap2_hprc_r2_v1.0.1|w3|c0	NA20752_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	620.2	1610.1	SERF1	6553.0	trunc5	15121	none	True		1	2	NA20752	split	False	False	TSI	2- 1- | 2+
+NA20752_hap2_hprc_r2_v1.0.1|w3|c1	NA20752_hap2_hprc_r2_v1.0.1	3	1-	SMN1	-	1116.4	1610.1	SERF1	6556.0	full	15118	GTF2H2	True		2	2	NA20752	split	False	False	TSI	2- 1- | 2+
+NA20752_hap2_hprc_r2_v1.0.1|w6|c0	NA20752_hap2_hprc_r2_v1.0.1	6	2+	SMN2	+	40.2	294.5	SERF1	6553.0	full	15119	GTF2H2	True		1	1	NA20752	split	False	False	TSI	2- 1- | 2+
+NA20762_hap1_hprc_r2_v1.0.1|w4|c0	NA20762_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	236.9	1522.0	SERF1	6551.0	full	15116	GTF2H2	True	SMN2	1	2	NA20762	complete	True	False	TSI	2- 1+
+NA20762_hap1_hprc_r2_v1.0.1|w4|c1	NA20762_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	866.2	1522.0	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	2	2	NA20762	complete	True	False	TSI	2- 1+
+NA20762_hap2_hprc_r2_v1.0.1|w3|c0	NA20762_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	595.9	2120.3	SERF1	6555.0	full	15120	GTF2H2	True	SMN1	1	2	NA20762	complete	True	False	TSI	1+ 2+
+NA20762_hap2_hprc_r2_v1.0.1|w3|c1	NA20762_hap2_hprc_r2_v1.0.1	3	2+	SMN2	+	1091.7	2120.3	SERF1	6554.0	trunc5	15128	none	True	SMN2	2	2	NA20762	complete	True	False	TSI	1+ 2+
+NA20799_hap1_hprc_r2_v1.0.1|w3|c0	NA20799_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	552.1	2175.6	SERF1	6544.0	trunc5	15125	none	True	SMN2	1	2	NA20799	complete	True	False	TSI	2- 1+
+NA20799_hap1_hprc_r2_v1.0.1|w3|c1	NA20799_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1185.4	2175.6	SERF1	6550.0	full	15124	GTF2H2	True	SMN1	2	2	NA20799	complete	True	False	TSI	2- 1+
+NA20799_hap2_hprc_r2_v1.0.1|w2|c0	NA20799_hap2_hprc_r2_v1.0.1	2	1-	SMN1	-	539.9	1560.9	SERF1	6558.0	full	15157	GTF2H2	True	SMN1	1	1	NA20799	complete	True	False	TSI	1-
+NA20805_hap1_hprc_r2_v1.0.1|w4|c0	NA20805_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	702.2	1412.0	SERF1	6558.0	full	15114	GTF2H2	True	SMN1	1	1	NA20805	complete	True	False	TSI	1+
+NA20805_hap2_hprc_r2_v1.0.1|w3|c0	NA20805_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	600.6	2117.6	SERF1	6554.0	trunc5	15129	none	True	SMN2	1	2	NA20805	complete	True	False	TSI	2- 1-
+NA20805_hap2_hprc_r2_v1.0.1|w3|c1	NA20805_hap2_hprc_r2_v1.0.1	3	1-	SMN1	-	1096.5	2117.6	SERF1	6556.0	full	15159	GTF2H2	True	SMN1	2	2	NA20805	complete	True	False	TSI	2- 1-
+NA20806_hap1_hprc_r2_v1.0.1|w3|c0	NA20806_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	602.8	2119.1	SERF1	6551.0	trunc5	15128	none	True	SMN2	1	2	NA20806	complete	True	False	TSI	2- 1-
+NA20806_hap1_hprc_r2_v1.0.1|w3|c1	NA20806_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	1098.1	2119.1	SERF1	6560.0	full	15128	GTF2H2	True	SMN1	2	2	NA20806	complete	True	False	TSI	2- 1-
+NA20806_hap2_hprc_r2_v1.0.1|w3|c0	NA20806_hap2_hprc_r2_v1.0.1	3	2+	SMN2	+	535.1	2001.5	SERF1	6553.0	trunc5	15128	none	True	SMN2	1	2	NA20806	gapped	True	False	TSI	2+ 1-
+NA20806_hap2_hprc_r2_v1.0.1|w3|c1	NA20806_hap2_hprc_r2_v1.0.1	3	1-	SMN1	-	1021.5	2001.5	SERF1	6550.0	full	15138	GTF2H2	True	SMN1	2	2	NA20806	gapped	True	False	TSI	2+ 1-
+NA20809_hap1_hprc_r2_v1.0.1|w5|c0	NA20809_hap1_hprc_r2_v1.0.1	5	2-	SMN2	-	552.1	2154.2	SERF1	6544.0	trunc5	15126	none	True	SMN2	1	2	NA20809	complete	True	False	TSI	2- 1+
+NA20809_hap1_hprc_r2_v1.0.1|w5|c1	NA20809_hap1_hprc_r2_v1.0.1	5	1+	SMN1	+	1185.3	2154.2	SERF1	6552.0	full	15125	GTF2H2	True	SMN1	2	2	NA20809	complete	True	False	TSI	2- 1+
+NA20809_hap2_hprc_r2_v1.0.1|w3|c0	NA20809_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	237.6	1566.0	SERF1	6551.0	full	15119	GTF2H2	True	SMN2	1	2	NA20809	complete	True	False	TSI	2- 1+
+NA20809_hap2_hprc_r2_v1.0.1|w3|c1	NA20809_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	910.2	1566.0	SERF1	6563.0	full	15116	GTF2H2	True	SMN1	2	2	NA20809	complete	True	False	TSI	2- 1+
+NA20827_hap1_hprc_r2_v1.0.1|w3|c0	NA20827_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	600.2	2085.0	SERF1	6553.0	trunc5	15129	none	True	SMN2	1	2	NA20827	gapped	True	False	TSI	2- 1-
+NA20827_hap1_hprc_r2_v1.0.1|w3|c1	NA20827_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	1082.0	2085.0	SERF1	6556.0	full	15160	GTF2H2	True	SMN1	2	2	NA20827	gapped	True	False	TSI	2- 1-
+NA20827_hap2_hprc_r2_v1.0.1|w2|c0	NA20827_hap2_hprc_r2_v1.0.1	2	d2-	del7_8_SMN2like	-	650.0	1935.0	SERF1	6552.0	trunc5	13531	none	True		1	2	NA20827	complete	True	False	TSI	d2- 1+
+NA20827_hap2_hprc_r2_v1.0.1|w2|c1	NA20827_hap2_hprc_r2_v1.0.1	2	1+	SMN1	+	1261.2	1935.0	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	2	2	NA20827	complete	True	False	TSI	d2- 1+
+NA20850_hap1_hprc_r2_v1.0.1|w4|c0	NA20850_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	653.5	1925.5	SERF1	6558.0	trunc5	15131	none	True	SMN2	1	2	NA20850	complete	True	False	GIH	2- 1+
+NA20850_hap1_hprc_r2_v1.0.1|w4|c1	NA20850_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1287.7	1925.5	SERF1	6551.0	full	15113	GTF2H2	True	SMN1	2	2	NA20850	complete	True	False	GIH	2- 1+
+NA20850_hap2_hprc_r2_v1.0.1|w3|c0	NA20850_hap2_hprc_r2_v1.0.1	3	2-	SMN2	-	695.4	1910.6	SERF1	6550.0	trunc5	15130	none	True	SMN2	1	2	NA20850	complete	True	False	GIH	2- 1+
+NA20850_hap2_hprc_r2_v1.0.1|w3|c1	NA20850_hap2_hprc_r2_v1.0.1	3	1+	SMN1	+	1308.9	1910.6	SERF1	6558.0	full	15116	GTF2H2	True	SMN1	2	2	NA20850	complete	True	False	GIH	2- 1+
+NA20870_hap1_hprc_r2_v1.0.1|w3|c0	NA20870_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	642.0	1394.5	SERF1	6551.0	full	15116	GTF2H2	True	SMN1	1	1	NA20870	complete	True	False	GIH	1+
+NA20870_hap2_hprc_r2_v1.0.1|w4|c0	NA20870_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	692.7	2016.2	SERF1	6551.0	trunc5	15133	none	True	SMN2	1	2	NA20870	complete	True	False	GIH	2- 1+
+NA20870_hap2_hprc_r2_v1.0.1|w4|c1	NA20870_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1306.3	2016.2	SERF1	6551.0	full	15113	GTF2H2	True	SMN1	2	2	NA20870	complete	True	False	GIH	2- 1+
+NA20905_hap1_hprc_r2_v1.0.1|w3|c1	NA20905_hap1_hprc_r2_v1.0.1	3	1-	SMN1	-	1081.4	2102.3	SERF1	6558.0	full	15118	GTF2H2	True	SMN1	1	1	NA20905	complete	True	False	GIH	f- 1-
+NA20905_hap2_hprc_r2_v1.0.1|w5|c0	NA20905_hap2_hprc_r2_v1.0.1	5	2-	SMN2	-	620.8	2106.8	SERF1	6553.0	trunc5	15119	none	True	SMN2	1	3	NA20905	complete	True	False	GIH	2- 2- 1-
+NA20905_hap2_hprc_r2_v1.0.1|w5|c1	NA20905_hap2_hprc_r2_v1.0.1	5	2-	SMN2	-	1117.0	2106.8	SERF1	6566.0	full	15119	GTF2H2	True	SMN1	2	3	NA20905	complete	True	False	GIH	2- 2- 1-
+NA20905_hap2_hprc_r2_v1.0.1|w5|c2	NA20905_hap2_hprc_r2_v1.0.1	5	1-	SMN1	-	1613.2	2106.8	SERF1	6556.0	full	15118	GTF2H2	True	SMN1	3	3	NA20905	complete	True	False	GIH	2- 2- 1-
+NA21093_hap1_hprc_r2_v1.0.1|w3|c0	NA21093_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	595.9	2119.7	SERF1	6568.0	full	15120	GTF2H2	True	SMN1	1	2	NA21093	complete	True	False	GIH	1+ 2+
+NA21093_hap1_hprc_r2_v1.0.1|w3|c1	NA21093_hap1_hprc_r2_v1.0.1	3	2+	SMN2	+	1091.9	2119.7	SERF1	6554.0	trunc5	15129	none	True	SMN2	2	2	NA21093	complete	True	False	GIH	1+ 2+
+NA21093_hap2_hprc_r2_v1.0.1|w4|c0	NA21093_hap2_hprc_r2_v1.0.1	4	1-	SMN1	-	654.3	1975.5	SERF1	6551.0	trunc5	15116	none	True	SMN1	1	2	NA21093	complete	True	False	GIH	1- 1+
+NA21093_hap2_hprc_r2_v1.0.1|w4|c1	NA21093_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1247.6	1975.5	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	NA21093	complete	True	False	GIH	1- 1+
+NA21102_hap1_hprc_r2_v1.0.1|w4|c0	NA21102_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	643.3	1955.6	SERF1	6557.0	trunc5	15116	none	True	SMN1	1	2	NA21102	complete	True	False	GIH	1+ 2+
+NA21102_hap1_hprc_r2_v1.0.1|w4|c1	NA21102_hap1_hprc_r2_v1.0.1	4	2+	SMN2	+	1227.7	1955.6	SERF1	6553.0	full	15128	GTF2H2	True	SMN2	2	2	NA21102	complete	True	False	GIH	1+ 2+
+NA21102_hap2_hprc_r2_v1.0.1|w4|c0	NA21102_hap2_hprc_r2_v1.0.1	4	2+	SMN2	+	641.9	2771.7	SERF1	6555.0	trunc5	15128	none	True	SMN2	1	3	NA21102	complete	True	False	GIH	2+ 1+ 2+
+NA21102_hap2_hprc_r2_v1.0.1|w4|c1	NA21102_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1268.2	2771.7	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	2	3	NA21102	complete	True	False	GIH	2+ 1+ 2+
+NA21102_hap2_hprc_r2_v1.0.1|w4|c2	NA21102_hap2_hprc_r2_v1.0.1	4	2+	SMN2	+	1763.7	2771.7	SERF1	6555.0	trunc5	15129	none	True	SMN2	3	3	NA21102	complete	True	False	GIH	2+ 1+ 2+
+NA21106_hap1_hprc_r2_v1.0.1|w4|c0	NA21106_hap1_hprc_r2_v1.0.1	4	2-	SMN2	-	694.4	1963.7	SERF1	6551.0	trunc5	15129	none	True	SMN2	1	2	NA21106	complete	True	False	GIH	2- 1+
+NA21106_hap1_hprc_r2_v1.0.1|w4|c1	NA21106_hap1_hprc_r2_v1.0.1	4	1+	SMN1	+	1307.8	1963.7	SERF1	6558.0	full	15114	GTF2H2	True	SMN1	2	2	NA21106	complete	True	False	GIH	2- 1+
+NA21106_hap2_hprc_r2_v1.0.1|w4|c0	NA21106_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	653.9	2085.5	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	NA21106	gapped	True	False	GIH	2- 1+
+NA21106_hap2_hprc_r2_v1.0.1|w4|c1	NA21106_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1246.9	2085.5	SERF1	6559.0	full	15116	GTF2H2	True	SMN1	2	2	NA21106	gapped	True	False	GIH	2- 1+
+NA21110_hap1_hprc_r2_v1.0.1|w3|c0	NA21110_hap1_hprc_r2_v1.0.1	3	2-	SMN2	-	633.9	1923.6	SERF1	6555.0	trunc5	15130	none	True	SMN2	1	2	NA21110	complete	True	False	GIH	2- 1+
+NA21110_hap1_hprc_r2_v1.0.1|w3|c1	NA21110_hap1_hprc_r2_v1.0.1	3	1+	SMN1	+	1267.7	1923.6	SERF1	6556.0	full	15116	GTF2H2	True	SMN1	2	2	NA21110	complete	True	False	GIH	2- 1+
+NA21110_hap2_hprc_r2_v1.0.1|w4|c0	NA21110_hap2_hprc_r2_v1.0.1	4	2-	SMN2	-	632.4	1919.7	SERF1	6562.0	trunc5	15129	none	True	SMN2	1	2	NA21110	complete	True	False	GIH	2- 1+
+NA21110_hap2_hprc_r2_v1.0.1|w4|c1	NA21110_hap2_hprc_r2_v1.0.1	4	1+	SMN1	+	1245.9	1919.7	SERF1	6557.0	full	15116	GTF2H2	True	SMN1	2	2	NA21110	complete	True	False	GIH	2- 1+
+NA21144_hap1_hprc_r2_v1.0.1|w4|c0	NA21144_hap1_hprc_r2_v1.0.1	4	1-	SMN1	-	632.7	1807.2	SERF1	6558.0	trunc5	15116	none	True	SMN1	1	2	NA21144	complete	True	False	GIH	1- 2+
+NA21144_hap1_hprc_r2_v1.0.1|w4|c1	NA21144_hap1_hprc_r2_v1.0.1	4	2+	SMN2	+	1205.5	1807.2	SERF1	6551.0	full	15129	GTF2H2	True	SMN2	2	2	NA21144	complete	True	False	GIH	1- 2+
+NA21144_hap2_hprc_r2_v1.0.1|w5|c0	NA21144_hap2_hprc_r2_v1.0.1	5	1-	SMN1	-	243.0	1362.1	SERF1	6557.0	full	15117	GTF2H2	True	SMN1	1	1	NA21144	complete	True	False	GIH	1-
+NA21309_mat_hprc_r2_v1.0.1|w4|c0	NA21309_mat_hprc_r2_v1.0.1	4	2+	SMN2	+	663.8	2757.7	SERF1	6548.0	trunc5	15118	none	True	SMN2	1	3	NA21309	complete	True	False	MKK	2+ 1- 1+
+NA21309_mat_hprc_r2_v1.0.1|w4|c1	NA21309_mat_hprc_r2_v1.0.1	4	1-	SMN1	-	1152.1	2757.7	SERF1	6546.0	full	15125	GTF2H2	True	SMN1	2	3	NA21309	complete	True	False	MKK	2+ 1- 1+
+NA21309_mat_hprc_r2_v1.0.1|w4|c2	NA21309_mat_hprc_r2_v1.0.1	4	1+	SMN1	+	1826.3	2757.7	SERF1	6572.0	full	15117	GTF2H2	True	SMN1	3	3	NA21309	complete	True	False	MKK	2+ 1- 1+
+NA21309_pat_hprc_r2_v1.0.1|w4|c0	NA21309_pat_hprc_r2_v1.0.1	4	1-	SMN1	-	243.1	1557.9	SERF1	6536.0	full	15115	GTF2H2	True	SMN1	1	2	NA21309	complete	True	False	MKK	1- 1+
+NA21309_pat_hprc_r2_v1.0.1|w4|c1	NA21309_pat_hprc_r2_v1.0.1	4	1+	SMN1	+	837.5	1557.9	SERF1	6561.0	full	15119	GTF2H2	True	SMN1	2	2	NA21309	complete	True	False	MKK	1- 1+
+chm13v2.0_maskedY_rCRS.fa.PanSN|w4|c0	chm13v2.0_maskedY_rCRS.fa.PanSN	4	2-	SMN2	-	552.2	1774.8	SERF1	6544.0	trunc5	15125	none	True	SMN2	1	2	CHM13	complete	True	True		2- 1+
+chm13v2.0_maskedY_rCRS.fa.PanSN|w4|c1	chm13v2.0_maskedY_rCRS.fa.PanSN	4	1+	SMN1	+	1124.4	1774.8	SERF1	6552.0	full	15131	GTF2H2	True	SMN1	2	2	CHM13	complete	True	True		2- 1+
+hg002v1.1.mat_MT.PanSN|w4|c0	hg002v1.1.mat_MT.PanSN	4	2-	SMN2	-	653.8	2171.7	SERF1	6551.0	trunc5	15130	none	True	SMN2	1	2	HG002_Q100	complete	True	False		2- 1+
+hg002v1.1.mat_MT.PanSN|w4|c1	hg002v1.1.mat_MT.PanSN	4	1+	SMN1	+	1545.8	2171.7	SERF1	6551.0	full	15122	GTF2H2	True	SMN1	2	2	HG002_Q100	complete	True	False		2- 1+
+hg002v1.1.pat.PanSN|w4|c0	hg002v1.1.pat.PanSN	4	2-	SMN2	-	551.7	1845.1	SERF1	6544.0	trunc5	15126	none	True	SMN2	1	2	HG002_Q100	complete	True	False		2- 1+
+hg002v1.1.pat.PanSN|w4|c1	hg002v1.1.pat.PanSN	4	1+	SMN1	+	1166.5	1845.1	SERF1	6553.0	full	15121	GTF2H2	True	SMN1	2	2	HG002_Q100	complete	True	False		2- 1+

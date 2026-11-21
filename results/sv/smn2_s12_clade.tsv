@@ -1,0 +1,51 @@
+copy_id	src	superpop	arrangement	src_has_s1_2
+GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN|w3|c0	GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN		2+ 1+	True
+HG00128_hap2_hprc_r2_v1.0.1|w4|c0	HG00128_hap2_hprc_r2_v1.0.1	EUR	2- 1+	False
+HG00232_hap1_hprc_r2_v1.0.1|w0|c0	HG00232_hap1_hprc_r2_v1.0.1	EUR		False
+HG00232_hap1_hprc_r2_v1.0.1|w6|c0	HG00232_hap1_hprc_r2_v1.0.1	EUR		False
+HG00235_hap1_hprc_r2_v1.0.1|w3|c0	HG00235_hap1_hprc_r2_v1.0.1	EUR	2- 1-	True
+HG00235_hap2_hprc_r2_v1.0.1|w3|c1	HG00235_hap2_hprc_r2_v1.0.1	EUR	1+ 2+	True
+HG00253_hap2_hprc_r2_v1.0.1|w5|c0	HG00253_hap2_hprc_r2_v1.0.1	EUR	2- 1-	True
+HG005_mat_hprc_r2_v1.0.1|w2|c0	HG005_mat_hprc_r2_v1.0.1	other	2- 1-	True
+HG00609_pat_hprc_r2_v1.0.1|w3|c0	HG00609_pat_hprc_r2_v1.0.1	EAS	2+ 1-	True
+HG00642_pat_hprc_r2_v1.0.1|w3|c1	HG00642_pat_hprc_r2_v1.0.1	AMR	1- 2-	True
+HG01123_pat_hprc_r2_v1.0.1|w4|c0	HG01123_pat_hprc_r2_v1.0.1	AMR	2- 1-	True
+HG01167_hap2_hprc_r2_v1.0.1|w3|c0	HG01167_hap2_hprc_r2_v1.0.1	AMR	2+ 1+	True
+HG01252_mat_hprc_r2_v1.0.1|w3|c0	HG01252_mat_hprc_r2_v1.0.1	AMR	2- 1-	True
+HG01261_mat_hprc_r2_v1.0.1|w2|c0	HG01261_mat_hprc_r2_v1.0.1	AMR		False
+HG01261_mat_hprc_r2_v1.0.1|w5|c0	HG01261_mat_hprc_r2_v1.0.1	AMR		False
+HG01261_pat_hprc_r2_v1.0.1|w2|c0	HG01261_pat_hprc_r2_v1.0.1	AMR	2- 1-	True
+HG01358_pat_hprc_r2_v1.0.1|w2|c0	HG01358_pat_hprc_r2_v1.0.1	AMR	2- 1-	True
+HG01530_hap2_hprc_r2_v1.0.1|w2|c0	HG01530_hap2_hprc_r2_v1.0.1	EUR	2+ 1+	True
+HG01784_hap2_hprc_r2_v1.0.1|w2|c0	HG01784_hap2_hprc_r2_v1.0.1	EUR	2- 1-	True
+HG01786_hap1_hprc_r2_v1.0.1|w4|c0	HG01786_hap1_hprc_r2_v1.0.1	EUR	2- 1-	True
+HG01786_hap2_hprc_r2_v1.0.1|w4|c0	HG01786_hap2_hprc_r2_v1.0.1	EUR	2- 1- 1+	True
+HG01952_pat_hprc_r2_v1.0.1|w6|c0	HG01952_pat_hprc_r2_v1.0.1	AMR	2- 1-	True
+HG01981_mat_hprc_r2_v1.0.1|w3|c1	HG01981_mat_hprc_r2_v1.0.1	AMR	1+ 2+	True
+HG02148_mat_hprc_r2_v1.0.1|w2|c0	HG02148_mat_hprc_r2_v1.0.1	AMR	2- 1-	True
+HG02257_mat_hprc_r2_v1.1.0|w2|c1	HG02257_mat_hprc_r2_v1.1.0	AFR	1+ 2+	True
+HG02391_hap1_hprc_r2_v1.0.1|w2|c0	HG02391_hap1_hprc_r2_v1.0.1	EAS	2- 1-	True
+HG02514_pat_hprc_r2_v1.0.1|w2|c0	HG02514_pat_hprc_r2_v1.0.1	EAS	2- 1-	True
+HG02735_mat_hprc_r2_v1.0.1|w3|c0	HG02735_mat_hprc_r2_v1.0.1	SAS	2- 1-	True
+HG02738_pat_hprc_r2_v1.0.1|w2|c1	HG02738_pat_hprc_r2_v1.0.1	SAS	1+ 2+	True
+HG03688_mat_hprc_r2_v1.0.1|w3|c0	HG03688_mat_hprc_r2_v1.0.1	SAS	2- 1- 1+	True
+HG03831_pat_hprc_r2_v1.0.1|w4|c0	HG03831_pat_hprc_r2_v1.0.1	SAS	2- 1-	True
+HG03834_pat_hprc_r2_v1.0.1|w2|c0	HG03834_pat_hprc_r2_v1.0.1	SAS	2- 1-	True
+HG04184_mat_hprc_r2_v1.0.1|w2|c0	HG04184_mat_hprc_r2_v1.0.1	SAS	2- 1-	True
+HG04187_pat_hprc_r2_v1.0.1|w3|c0	HG04187_pat_hprc_r2_v1.0.1	SAS	2- 1-	True
+NA18943_hap2_hprc_r2_v1.0.1|w3|c0	NA18943_hap2_hprc_r2_v1.0.1	EAS	2- 1-	True
+NA18948_hap1_hprc_r2_v1.0.1|w3|c0	NA18948_hap1_hprc_r2_v1.0.1	EAS	2- 1-	True
+NA18960_hap1_hprc_r2_v1.0.1|w3|c0	NA18960_hap1_hprc_r2_v1.0.1	EAS	2- 2- 1-	True
+NA18960_hap1_hprc_r2_v1.0.1|w3|c1	NA18960_hap1_hprc_r2_v1.0.1	EAS	2- 2- 1-	True
+NA20503_hap2_hprc_r2_v1.0.1|w3|c0	NA20503_hap2_hprc_r2_v1.0.1	EUR	2- 1-	True
+NA20752_hap2_hprc_r2_v1.0.1|w3|c0	NA20752_hap2_hprc_r2_v1.0.1	EUR		False
+NA20752_hap2_hprc_r2_v1.0.1|w6|c0	NA20752_hap2_hprc_r2_v1.0.1	EUR		False
+NA20762_hap2_hprc_r2_v1.0.1|w3|c1	NA20762_hap2_hprc_r2_v1.0.1	EUR	1+ 2+	True
+NA20805_hap2_hprc_r2_v1.0.1|w3|c0	NA20805_hap2_hprc_r2_v1.0.1	EUR	2- 1-	True
+NA20806_hap1_hprc_r2_v1.0.1|w3|c0	NA20806_hap1_hprc_r2_v1.0.1	EUR	2- 1-	True
+NA20806_hap2_hprc_r2_v1.0.1|w3|c0	NA20806_hap2_hprc_r2_v1.0.1	EUR	2+ 1-	True
+NA20827_hap1_hprc_r2_v1.0.1|w3|c0	NA20827_hap1_hprc_r2_v1.0.1	EUR	2- 1-	True
+NA20905_hap2_hprc_r2_v1.0.1|w5|c0	NA20905_hap2_hprc_r2_v1.0.1	SAS	2- 2- 1-	True
+NA20905_hap2_hprc_r2_v1.0.1|w5|c1	NA20905_hap2_hprc_r2_v1.0.1	SAS	2- 2- 1-	True
+NA21093_hap1_hprc_r2_v1.0.1|w3|c1	NA21093_hap1_hprc_r2_v1.0.1	SAS	1+ 2+	True
+NA21102_hap2_hprc_r2_v1.0.1|w4|c2	NA21102_hap2_hprc_r2_v1.0.1	SAS	2+ 1+ 2+	False

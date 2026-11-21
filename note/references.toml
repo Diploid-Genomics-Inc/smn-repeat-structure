@@ -1,0 +1,627 @@
+# written by note/make_references.py from note/sources/*.json (PubMed esummary); do not edit
+
+[[ref]]
+key = "lefebvre1995"
+kind = "article"
+authors = ["Lefebvre S", "Bürglen L", "Reboullet S", "Clermont O", "Burlet P", "Viollet L", "Benichou B", "Cruaud C", "Millasseau P", "Zeviani M"]
+title = "Identification and characterization of a spinal muscular atrophy-determining gene"
+journal = "Cell"
+year = 1995
+volume = "80"
+issue = "1"
+pages = "155--165"
+doi = "10.1016/0092-8674(95)90460-3"
+pmid = "7813012"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "roy1995"
+kind = "article"
+authors = ["Roy N", "Mahadevan MS", "McLean M", "Shutler G", "Yaraghi Z", "Farahani R", "Baird S", "Besner-Johnston A", "Lefebvre C", "Kang X"]
+title = "The gene for neuronal apoptosis inhibitory protein is partially deleted in individuals with spinal muscular atrophy"
+journal = "Cell"
+year = 1995
+volume = "80"
+issue = "1"
+pages = "167--178"
+doi = "10.1016/0092-8674(95)90461-1"
+pmid = "7813013"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "burglen1997"
+kind = "article"
+authors = ["Bürglen L", "Seroz T", "Miniou P", "Lefebvre S", "Burlet P", "Munnich A", "Pequignot EV", "Egly JM", "Melki J"]
+title = "The gene encoding p44, a subunit of the transcription factor TFIIH, is involved in large-scale deletions associated with Werdnig-Hoffmann disease"
+journal = "Am J Hum Genet"
+year = 1997
+volume = "60"
+issue = "1"
+pages = "72--79"
+pmid = "8981949"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "brzustowicz1990"
+kind = "article"
+authors = ["Brzustowicz LM", "Lehner T", "Castilla LH", "Penchaszadeh GK", "Wilhelmsen KC", "Daniels R", "Davies KE", "Leppert M", "Ziter F", "Wood D"]
+title = "Genetic mapping of chronic childhood-onset spinal muscular atrophy to chromosome 5q11.2-13.3"
+journal = "Nature"
+year = 1990
+volume = "344"
+issue = "6266"
+pages = "540--541"
+doi = "10.1038/344540a0"
+pmid = "2320125"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "melki1990"
+kind = "article"
+authors = ["Melki J", "Abdelhak S", "Sheth P", "Bachelot MF", "Burlet P", "Marcadet A", "Aicardi J", "Barois A", "Carriere JP", "Fardeau M"]
+title = "Gene for chronic proximal spinal muscular atrophies maps to chromosome 5q"
+journal = "Nature"
+year = 1990
+volume = "344"
+issue = "6268"
+pages = "767--768"
+doi = "10.1038/344767a0"
+pmid = "1970420"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "gilliam1990"
+kind = "article"
+authors = ["Gilliam TC", "Brzustowicz LM", "Castilla LH", "Lehner T", "Penchaszadeh GK", "Daniels RJ", "Byth BC", "Knowles J", "Hislop JE", "Shapira Y"]
+title = "Genetic homogeneity between acute and chronic forms of spinal muscular atrophy"
+journal = "Nature"
+year = 1990
+volume = "345"
+issue = "6278"
+pages = "823--825"
+doi = "10.1038/345823a0"
+pmid = "1972783"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "lorson1999"
+kind = "article"
+authors = ["Lorson CL", "Hahnen E", "Androphy EJ", "Wirth B"]
+title = "A single nucleotide in the SMN gene regulates splicing and is responsible for spinal muscular atrophy"
+journal = "Proc Natl Acad Sci U S A"
+year = 1999
+volume = "96"
+issue = "11"
+pages = "6307--6311"
+doi = "10.1073/pnas.96.11.6307"
+pmid = "10339583"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "monani1999"
+kind = "article"
+authors = ["Monani UR", "Lorson CL", "Parsons DW", "Prior TW", "Androphy EJ", "Burghes AH", "McPherson JD"]
+title = "A single nucleotide difference that alters splicing patterns distinguishes the SMA gene SMN1 from the copy gene SMN2"
+journal = "Hum Mol Genet"
+year = 1999
+volume = "8"
+issue = "7"
+pages = "1177--1183"
+doi = "10.1093/hmg/8.7.1177"
+pmid = "10369862"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "mercuri2022"
+kind = "article"
+authors = ["Mercuri E", "Sumner CJ", "Muntoni F", "Darras BT", "Finkel RS"]
+title = "Spinal muscular atrophy"
+journal = "Nat Rev Dis Primers"
+year = 2022
+volume = "8"
+issue = "1"
+pages = "52"
+doi = "10.1038/s41572-022-00380-8"
+pmid = "35927425"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "finkel2017"
+kind = "article"
+authors = ["Finkel RS", "Mercuri E", "Darras BT", "Connolly AM", "Kuntz NL", "Kirschner J", "Chiriboga CA", "Saito K", "Servais L", "Tizzano E", "Topaloglu H", "Tulinius M", "Montes J", "Glanzman AM", "Bishop K", "Zhong ZJ", "Gheuens S", "Bennett CF", "Schneider E", "Farwell W", "De Vivo DC"]
+title = "Nusinersen versus Sham Control in Infantile-Onset Spinal Muscular Atrophy"
+journal = "N Engl J Med"
+year = 2017
+volume = "377"
+issue = "18"
+pages = "1723--1732"
+doi = "10.1056/NEJMoa1702752"
+pmid = "29091570"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "mendell2017"
+kind = "article"
+authors = ["Mendell JR", "Al-Zaidy S", "Shell R", "Arnold WD", "Rodino-Klapac LR", "Prior TW", "Lowes L", "Alfano L", "Berry K", "Church K", "Kissel JT", "Nagendran S", "L'Italien J", "Sproule DM", "Wells C", "Cardenas JA", "Heitzer MD", "Kaspar A", "Corcoran S", "Braun L", "Likhite S", "Miranda C", "Meyer K", "Foust KD", "Burghes AHM", "Kaspar BK"]
+title = "Single-Dose Gene-Replacement Therapy for Spinal Muscular Atrophy"
+journal = "N Engl J Med"
+year = 2017
+volume = "377"
+issue = "18"
+pages = "1713--1722"
+doi = "10.1056/NEJMoa1706198"
+pmid = "29091557"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "prior2008"
+kind = "article"
+authors = ["Prior TW"]
+title = "Carrier screening for spinal muscular atrophy"
+journal = "Genet Med"
+year = 2008
+volume = "10"
+issue = "11"
+pages = "840--842"
+doi = "10.1097/GIM.0b013e318188d069"
+pmid = "18941424"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "hendrickson2009"
+kind = "article"
+authors = ["Hendrickson BC", "Donohoe C", "Akmaev VR", "Sugarman EA", "Labrousse P", "Boguslavskiy L", "Flynn K", "Rohlfs EM", "Walker A", "Allitto B", "Sears C", "Scholl T"]
+title = "Differences in SMN1 allele frequencies among ethnic groups within North America"
+journal = "J Med Genet"
+year = 2009
+volume = "46"
+issue = "9"
+pages = "641--644"
+doi = "10.1136/jmg.2009.066969"
+pmid = "19625283"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "sugarman2012"
+kind = "article"
+authors = ["Sugarman EA", "Nagan N", "Zhu H", "Akmaev VR", "Zhou Z", "Rohlfs EM", "Flynn K", "Hendrickson BC", "Scholl T", "Sirko-Osadsa DA", "Allitto BA"]
+title = "Pan-ethnic carrier screening and prenatal diagnosis for spinal muscular atrophy: clinical laboratory analysis of >72,400 specimens"
+journal = "Eur J Hum Genet"
+year = 2012
+volume = "20"
+issue = "1"
+pages = "27--32"
+doi = "10.1038/ejhg.2011.134"
+pmid = "21811307"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "feng2017"
+kind = "article"
+authors = ["Feng Y", "Ge X", "Meng L", "Scull J", "Li J", "Tian X", "Zhang T", "Jin W", "Cheng H", "Wang X", "Tokita M", "Liu P", "Mei H", "Wang Y", "Li F", "Schmitt ES", "Zhang WV", "Muzny D", "Wen S", "Chen Z", "Yang Y", "Beaudet AL", "Liu X", "Eng CM", "Xia F", "Wong LJ", "Zhang J"]
+title = "The next generation of population-based spinal muscular atrophy carrier screening: comprehensive pan-ethnic SMN1 copy-number and sequence variant analysis by massively parallel sequencing"
+journal = "Genet Med"
+year = 2017
+volume = "19"
+issue = "8"
+pages = "936--944"
+doi = "10.1038/gim.2016.215"
+pmid = "28125085"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "luo2014"
+kind = "article"
+authors = ["Luo M", "Liu L", "Peter I", "Zhu J", "Scott SA", "Zhao G", "Eversley C", "Kornreich R", "Desnick RJ", "Edelmann L"]
+title = "An Ashkenazi Jewish SMN1 haplotype specific to duplication alleles improves pan-ethnic carrier screening for spinal muscular atrophy"
+journal = "Genet Med"
+year = 2014
+volume = "16"
+issue = "2"
+pages = "149--156"
+doi = "10.1038/gim.2013.84"
+pmid = "23788250"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "chen2020"
+kind = "article"
+authors = ["Chen X", "Sanchis-Juan A", "French CE", "Connell AJ", "Delon I", "Kingsbury Z", "Chawla A", "Halpern AL", "Taft RJ", "Bentley DR", "Butchbach MER", "Raymond FL", "Eberle MA"]
+title = "Spinal muscular atrophy diagnosis and carrier screening from genome sequencing data"
+journal = "Genet Med"
+year = 2020
+volume = "22"
+issue = "5"
+pages = "945--953"
+doi = "10.1038/s41436-020-0754-0"
+pmid = "32066871"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "chen2023"
+kind = "article"
+authors = ["Chen X", "Harting J", "Farrow E", "Thiffault I", "Kasperaviciute D", "Hoischen A", "Gilissen C", "Pastinen T", "Eberle MA"]
+title = "Comprehensive SMN1 and SMN2 profiling for spinal muscular atrophy analysis using long-read PacBio HiFi sequencing"
+journal = "Am J Hum Genet"
+year = 2023
+volume = "110"
+issue = "2"
+pages = "240--250"
+doi = "10.1016/j.ajhg.2023.01.001"
+pmid = "36669496"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "milligan2021"
+kind = "article"
+authors = ["Milligan JN", "Larson JL", "Filipovic-Sadic S", "Laosinchai-Wolf W", "Huang YW", "Ko TM", "Abbott KM", "Lemmink HH", "Toivonen M", "Schleutker J", "Gentile C", "Van Deerlin VM", "Zhu H", "Latham GJ"]
+title = "Multisite Evaluation and Validation of a Sensitive Diagnostic and Screening System for Spinal Muscular Atrophy that Reports SMN1 and SMN2 Copy Number, along with Disease Modifier and Gene Duplication Variants"
+journal = "J Mol Diagn"
+year = 2021
+volume = "23"
+issue = "6"
+pages = "753--764"
+doi = "10.1016/j.jmoldx.2021.03.004"
+pmid = "33798739"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "mikhalchuk2025"
+kind = "article"
+authors = ["Mikhalchuk K", "Polyakov A", "Zabnenkova VV", "Ismagilova O", "Shchagina O"]
+title = "Exploring the Prevalence of SMN1 Duplication and Deletion in Russia and Its Impact on Carrier Screening"
+journal = "Int J Mol Sci"
+year = 2025
+volume = "26"
+issue = "5"
+doi = "10.3390/ijms26051984"
+pmid = "40076610"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "campbell1997"
+kind = "article"
+authors = ["Campbell L", "Potter A", "Ignatius J", "Dubowitz V", "Davies K"]
+title = "Genomic variation and gene conversion in spinal muscular atrophy: implications for disease process and clinical phenotype"
+journal = "Am J Hum Genet"
+year = 1997
+volume = "61"
+issue = "1"
+pages = "40--50"
+doi = "10.1086/513886"
+pmid = "9245983"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "vandersteege1996"
+kind = "article"
+authors = ["van der Steege G", "Grootscholten PM", "Cobben JM", "Zappata S", "Scheffer H", "den Dunnen JT", "van Ommen GJ", "Brahe C", "Buys CH"]
+title = "Apparent gene conversions involving the SMN gene in the region of the spinal muscular atrophy locus on chromosome 5"
+journal = "Am J Hum Genet"
+year = 1996
+volume = "59"
+issue = "4"
+pages = "834--838"
+pmid = "8808598"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "wadman2020"
+kind = "article"
+authors = ["Wadman RI", "Jansen MD", "Stam M", "Wijngaarde CA", "Curial CAD", "Medic J", "Sodaar P", "Schouten J", "Vijzelaar R", "Lemmink HH", "van den Berg LH", "Groen EJN", "van der Pol WL"]
+title = "Intragenic and structural variation in the SMN locus and clinical variability in spinal muscular atrophy"
+journal = "Brain Commun"
+year = 2020
+volume = "2"
+issue = "2"
+pages = "fcaa075"
+doi = "10.1093/braincomms/fcaa075"
+pmid = "32954327"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "vorster2020"
+kind = "article"
+authors = ["Vorster E", "Essop FB", "Rodda JL", "Krause A"]
+title = "Spinal Muscular Atrophy in the Black South African Population: A Matter of Rearrangement?"
+journal = "Front Genet"
+year = 2020
+volume = "11"
+pages = "54"
+doi = "10.3389/fgene.2020.00054"
+pmid = "32117462"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "zwartkruis2025"
+kind = "article"
+authors = ["Zwartkruis MM", "Elferink MG", "Gommers D", "Signoria I", "Blasco-Pérez L", "Costa-Roger M", "van der Sel J", "Renkens IJ", "Green JW", "Kortooms JV", "Vermeulen C", "Straver R", "van Deutekom HWM", "Veldink JH", "Asselman F", "Tizzano EF", "Wadman RI", "van der Pol WL", "van Haaften GW", "Groen EJN"]
+title = "Long-read sequencing identifies copy-specific markers of SMN gene conversion in spinal muscular atrophy"
+journal = "Genome Med"
+year = 2025
+volume = "17"
+issue = "1"
+pages = "26"
+doi = "10.1186/s13073-025-01448-2"
+pmid = "40119448"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "berzal2026"
+kind = "article"
+authors = ["Berzal-Serrano A", "González-Alvaredo S", "Lesende I", "Carretero-Vilarroig L", "Jaijo T", "Onsurbe I", "Aragon-Gawinska K", "Ñungo-Garzón NC", "Pitarch-Castellano I", "Vázquez-Costa JF", "Aller E", "Millán JM", "García-García G"]
+title = "Multimodal characterisation of the SMN locus in SMA: copy number quantification and hybrid gene identification"
+journal = "NPJ Genom Med"
+year = 2026
+volume = "11"
+issue = "1"
+doi = "10.1038/s41525-026-00579-8"
+pmid = "42162012"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "suzuki2026"
+kind = "article"
+authors = ["Suzuki Y", "Owa C", "Kobayashi H", "Nakabayashi R", "McNulty B", "Violich I", "Paten B", "Miga KH", "Morishita S"]
+title = "Accessing medically relevant complex regions with a pangenome graph of 20 near-complete Japanese haplotypes"
+journal = "Nat Commun"
+year = 2026
+volume = "17"
+issue = "1"
+doi = "10.1038/s41467-026-73461-x"
+pmid = "42203797"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "logsdon2025"
+kind = "article"
+authors = ["Logsdon GA", "Ebert P", "Audano PA", "Loftus M", "Porubsky D", "Ebler J", "Yilmaz F", "Hallast P", "Prodanov T", "Yoo D", "Paisie CA", "Harvey WT", "Zhao X", "Martino GV", "Henglin M", "Munson KM", "Rabbani K", "Chin CS", "Gu B", "Ashraf H", "Scholz S", "Austine-Orimoloye O", "Balachandran P", "Bonder MJ", "Cheng H", "Chong Z", "Crabtree J", "Gerstein M", "Guethlein LA", "Hasenfeld P", "Hickey G", "Hoekzema K", "Hunt SE", "Jensen M", "Jiang Y", "Koren S", "Kwon Y", "Li C", "Li H", "Li J", "Norman PJ", "Oshima KK", "Paten B", "Phillippy AM", "Pollock NR", "Rausch T", "Rautiainen M", "Song Y", "Söylev A", "Sulovari A", "Surapaneni L", "Tsapalou V", "Zhou W", "Zhou Y", "Zhu Q", "Zody MC", "Mills RE", "Devine SE", "Shi X", "Talkowski ME", "Chaisson MJP", "Dilthey AT", "Konkel MK", "Korbel JO", "Lee C", "Beck CR", "Eichler EE", "Marschall T"]
+title = "Complex genetic variation in nearly complete human genomes"
+journal = "Nature"
+year = 2025
+volume = "644"
+issue = "8076"
+pages = "430--441"
+doi = "10.1038/s41586-025-09140-6"
+pmid = "40702183"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "liao2023"
+kind = "article"
+authors = ["Liao WW", "Asri M", "Ebler J", "Doerr D", "Haukness M", "Hickey G", "Lu S", "Lucas JK", "Monlong J", "Abel HJ", "Buonaiuto S", "Chang XH", "Cheng H", "Chu J", "Colonna V", "Eizenga JM", "Feng X", "Fischer C", "Fulton RS", "Garg S", "Groza C", "Guarracino A", "Harvey WT", "Heumos S", "Howe K", "Jain M", "Lu TY", "Markello C", "Martin FJ", "Mitchell MW", "Munson KM", "Mwaniki MN", "Novak AM", "Olsen HE", "Pesout T", "Porubsky D", "Prins P", "Sibbesen JA", "Sirén J", "Tomlinson C", "Villani F", "Vollger MR", "Antonacci-Fulton LL", "Baid G", "Baker CA", "Belyaeva A", "Billis K", "Carroll A", "Chang PC", "Cody S", "Cook DE", "Cook-Deegan RM", "Cornejo OE", "Diekhans M", "Ebert P", "Fairley S", "Fedrigo O", "Felsenfeld AL", "Formenti G", "Frankish A", "Gao Y", "Garrison NA", "Giron CG", "Green RE", "Haggerty L", "Hoekzema K", "Hourlier T", "Ji HP", "Kenny EE", "Koenig BA", "Kolesnikov A", "Korbel JO", "Kordosky J", "Koren S", "Lee H", "Lewis AP", "Magalhães H", "Marco-Sola S", "Marijon P", "McCartney A", "McDaniel J", "Mountcastle J", "Nattestad M", "Nurk S", "Olson ND", "Popejoy AB", "Puiu D", "Rautiainen M", "Regier AA", "Rhie A", "Sacco S", "Sanders AD", "Schneider VA", "Schultz BI", "Shafin K", "Smith MW", "Sofia HJ", "Abou Tayoun AN", "Thibaud-Nissen F", "Tricomi FF", "Wagner J", "Walenz B", "Wood JMD", "Zimin AV", "Bourque G", "Chaisson MJP", "Flicek P", "Phillippy AM", "Zook JM", "Eichler EE", "Haussler D", "Wang T", "Jarvis ED", "Miga KH", "Garrison E", "Marschall T", "Hall IM", "Li H", "Paten B"]
+title = "A draft human pangenome reference"
+journal = "Nature"
+year = 2023
+volume = "617"
+issue = "7960"
+pages = "312--324"
+doi = "10.1038/s41586-023-05896-x"
+pmid = "37165242"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "hickey2024"
+kind = "article"
+authors = ["Hickey G", "Monlong J", "Ebler J", "Novak AM", "Eizenga JM", "Gao Y", "Marschall T", "Li H", "Paten B"]
+title = "Pangenome graph construction from genome alignments with Minigraph-Cactus"
+journal = "Nat Biotechnol"
+year = 2024
+volume = "42"
+issue = "4"
+pages = "663--673"
+doi = "10.1038/s41587-023-01793-w"
+pmid = "37165083"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "chin2023"
+kind = "article"
+authors = ["Chin CS", "Behera S", "Khalak A", "Sedlazeck FJ", "Sudmant PH", "Wagner J", "Zook JM"]
+title = "Multiscale analysis of pangenomes enables improved representation of genomic diversity for repetitive and clinically relevant genes"
+journal = "Nat Methods"
+year = 2023
+volume = "20"
+issue = "8"
+pages = "1213--1221"
+doi = "10.1038/s41592-023-01914-y"
+pmid = "37365340"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "yoo2025"
+kind = "article"
+authors = ["Yoo D", "Rhie A", "Hebbar P", "Antonacci F", "Logsdon GA", "Solar SJ", "Antipov D", "Pickett BD", "Safonova Y", "Montinaro F", "Luo Y", "Malukiewicz J", "Storer JM", "Lin J", "Sequeira AN", "Mangan RJ", "Hickey G", "Monfort Anez G", "Balachandran P", "Bankevich A", "Beck CR", "Biddanda A", "Borchers M", "Bouffard GG", "Brannan E", "Brooks SY", "Carbone L", "Carrel L", "Chan AP", "Crawford J", "Diekhans M", "Engelbrecht E", "Feschotte C", "Formenti G", "Garcia GH", "de Gennaro L", "Gilbert D", "Green RE", "Guarracino A", "Gupta I", "Haddad D", "Han J", "Harris RS", "Hartley GA", "Harvey WT", "Hiller M", "Hoekzema K", "Houck ML", "Jeong H", "Kamali K", "Kellis M", "Kille B", "Lee C", "Lee Y", "Lees W", "Lewis AP", "Li Q", "Loftus M", "Loh YHE", "Loucks H", "Ma J", "Mao Y", "Martinez JFI", "Masterson P", "McCoy RC", "McGrath B", "McKinney S", "Meyer BS", "Miga KH", "Mohanty SK", "Munson KM", "Pal K", "Pennell M", "Pevzner PA", "Porubsky D", "Potapova T", "Ringeling FR", "Rocha JL", "Ryder OA", "Sacco S", "Saha S", "Sasaki T", "Schatz MC", "Schork NJ", "Shanks C", "Smeds L", "Son DR", "Steiner C", "Sweeten AP", "Tassia MG", "Thibaud-Nissen F", "Torres-González E", "Trivedi M", "Wei W", "Wertz J", "Yang M", "Zhang P", "Zhang S", "Zhang Y", "Zhang Z", "Zhao SA", "Zhu Y", "Jarvis ED", "Gerton JL", "Rivas-González I", "Paten B", "Szpiech ZA", "Huber CD", "Lenz TL", "Konkel MK", "Yi SV", "Canzar S", "Watson CT", "Sudmant PH", "Molloy E", "Garrison E", "Lowe CB", "Ventura M", "O'Neill RJ", "Koren S", "Makova KD", "Phillippy AM", "Eichler EE"]
+title = "Complete sequencing of ape genomes"
+journal = "Nature"
+year = 2025
+volume = "641"
+issue = "8062"
+pages = "401--418"
+doi = "10.1038/s41586-025-08816-3"
+pmid = "40205052"
+checked = "PubMed esummary, note/sources/pubmed_esummary_2.json"
+
+[[ref]]
+key = "rochette2001"
+kind = "article"
+authors = ["Rochette CF", "Gilbert N", "Simard LR"]
+title = "SMN gene duplication and the emergence of the SMN2 gene occurred in distinct hominids: SMN2 is unique to Homo sapiens"
+journal = "Hum Genet"
+year = 2001
+volume = "108"
+issue = "3"
+pages = "255--266"
+doi = "10.1007/s004390100473"
+pmid = "11354640"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "katoh2013"
+kind = "article"
+authors = ["Katoh K", "Standley DM"]
+title = "MAFFT multiple sequence alignment software version 7: improvements in performance and usability"
+journal = "Mol Biol Evol"
+year = 2013
+volume = "30"
+issue = "4"
+pages = "772--780"
+doi = "10.1093/molbev/mst010"
+pmid = "23329690"
+checked = "PubMed esummary, note/sources/pubmed_esummary_tools.json"
+
+[[ref]]
+key = "minh2020"
+kind = "article"
+authors = ["Minh BQ", "Schmidt HA", "Chernomor O", "Schrempf D", "Woodhams MD", "von Haeseler A", "Lanfear R"]
+title = "IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era"
+journal = "Mol Biol Evol"
+year = 2020
+volume = "37"
+issue = "5"
+pages = "1530--1534"
+doi = "10.1093/molbev/msaa015"
+pmid = "32011700"
+checked = "PubMed esummary, note/sources/pubmed_esummary_tools.json"
+
+[[ref]]
+key = "hoang2018"
+kind = "article"
+authors = ["Hoang DT", "Chernomor O", "von Haeseler A", "Minh BQ", "Vinh LS"]
+title = "UFBoot2: Improving the Ultrafast Bootstrap Approximation"
+journal = "Mol Biol Evol"
+year = 2018
+volume = "35"
+issue = "2"
+pages = "518--522"
+doi = "10.1093/molbev/msx281"
+pmid = "29077904"
+checked = "PubMed esummary, note/sources/pubmed_esummary_1.json"
+
+[[ref]]
+key = "virtanen2020"
+kind = "article"
+authors = ["Virtanen P", "Gommers R", "Oliphant TE", "Haberland M", "Reddy T", "Cournapeau D", "Burovski E", "Peterson P", "Weckesser W", "Bright J", "van der Walt SJ", "Brett M", "Wilson J", "Millman KJ", "Mayorov N", "Nelson ARJ", "Jones E", "Kern R", "Larson E", "Carey CJ", "Polat İ", "Feng Y", "Moore EW", "VanderPlas J", "Laxalde D", "Perktold J", "Cimrman R", "Henriksen I", "Quintero EA", "Harris CR", "Archibald AM", "Ribeiro AH", "Pedregosa F", "van Mulbregt P"]
+title = "SciPy 1.0: fundamental algorithms for scientific computing in Python"
+journal = "Nat Methods"
+year = 2020
+volume = "17"
+issue = "3"
+pages = "261--272"
+doi = "10.1038/s41592-019-0686-2"
+pmid = "32015543"
+checked = "PubMed esummary, note/sources/pubmed_esummary_tools.json"
+
+[[ref]]
+key = "mantel1967"
+kind = "article"
+authors = ["Mantel N"]
+title = "The detection of disease clustering and a generalized regression approach"
+journal = "Cancer Res"
+year = 1967
+volume = "27"
+issue = "2"
+pages = "209--220"
+pmid = "6018555"
+checked = "PubMed esummary, note/sources/pubmed_esummary_tools.json"
+
+[[ref]]
+key = "bolognini2024"
+kind = "article"
+authors = ["Bolognini D", "Halgren A", "Lou RN", "Raveane A", "Rocha JL", "Guarracino A", "Soranzo N", "Chin CS", "Garrison E", "Sudmant PH"]
+title = "Recurrent evolution and selection shape structural diversity at the amylase locus"
+journal = "Nature"
+year = 2024
+volume = "634"
+issue = "8034"
+pages = "617--625"
+doi = "10.1038/s41586-024-07911-1"
+pmid = "39232174"
+checked = "PubMed esummary, note/sources/pubmed_esummary_disc.json"
+
+[[ref]]
+key = "yilmaz2024"
+kind = "article"
+authors = ["Yilmaz F", "Karageorgiou C", "Kim K", "Pajic P", "Scheer K", "Beck CR", "Torregrossa AM", "Lee C", "Gokcumen O"]
+title = "Reconstruction of the human amylase locus reveals ancient duplications seeding modern-day variation"
+journal = "Science"
+year = 2024
+volume = "386"
+issue = "6724"
+pages = "eadn0609"
+doi = "10.1126/science.adn0609"
+pmid = "39418342"
+checked = "PubMed esummary, note/sources/pubmed_esummary_disc.json"
+
+[[ref]]
+key = "rozen2003"
+kind = "article"
+authors = ["Rozen S", "Skaletsky H", "Marszalek JD", "Minx PJ", "Cordum HS", "Waterston RH", "Wilson RK", "Page DC"]
+title = "Abundant gene conversion between arms of palindromes in human and ape Y chromosomes"
+journal = "Nature"
+year = 2003
+volume = "423"
+issue = "6942"
+pages = "873--876"
+doi = "10.1038/nature01723"
+pmid = "12815433"
+checked = "PubMed esummary, note/sources/pubmed_esummary_disc.json"
+
+[[ref]]
+key = "bonito2021"
+kind = "article"
+authors = ["Bonito M", "D'Atanasio E", "Ravasini F", "Cariati S", "Finocchio A", "Novelletto A", "Trombetta B", "Cruciani F"]
+title = "New insights into the evolution of human Y chromosome palindromes through mutation and gene conversion"
+journal = "Hum Mol Genet"
+year = 2021
+volume = "30"
+issue = "23"
+pages = "2272--2285"
+doi = "10.1093/hmg/ddab189"
+pmid = "34244762"
+checked = "PubMed esummary, note/sources/pubmed_esummary_disc.json"
+
+[[ref]]
+key = "harris2020"
+kind = "article"
+authors = ["Harris CR", "Millman KJ", "van der Walt SJ", "Gommers R", "Virtanen P", "Cournapeau D", "Wieser E", "Taylor J", "Berg S", "Smith NJ", "Kern R", "Picus M", "Hoyer S", "van Kerkwijk MH", "Brett M", "Haldane A", "Del Río JF", "Wiebe M", "Peterson P", "Gérard-Marchant P", "Sheppard K", "Reddy T", "Weckesser W", "Abbasi H", "Gohlke C", "Oliphant TE"]
+title = "Array programming with NumPy"
+journal = "Nature"
+year = 2020
+volume = "585"
+issue = "7825"
+pages = "357--362"
+doi = "10.1038/s41586-020-2649-2"
+pmid = "32939066"
+checked = "PubMed esummary, note/sources/pubmed_esummary_numpy.json"
+
+[[ref]]
+key = "lucas2026"
+kind = "article"
+authors = ["Lucas JK", "Hebbar P", "Liao W", "Macias-Velasco JF", "Novak AM", "Asri M", "Balacco JR", "Blair AP", "Ebler J", "Gardner JM", "Geleta M", "Groza C", "Guarracino A", "Heringer P", "Hickey G", "Lu S", "Marin MG", "Markovic C", "Mastoras M", "Mayoud C", "McNulty B", "Menendez JM", "Minkina A", "Mohanty SK", "Monlong J", "Munson KM", "Oshima KK", "Porubsky D", "Ranallo-Benavidez TR", "Seligmann WE", "Shemirani R", "Violich I", "Yoo D", "Zhuo X", "Albracht D", "Alexandrov IA", "Allen J", "Alsheikh-Ali AA", "Andrews C", "Antipov D", "Antonacci-Fulton L", "Arguello A", "Ayllon M", "Belter EA", "Bender HD", "Bolognini D", "Bonini KE", "Buonaiuto S", "Cao S", "Cartney AMM", "Chang P", "Chang X", "Cheema J", "Ciofi C", "Clawson H", "Cody S", "Colonna V", "Conwell HC", "Diekhans M", "Diroma MA", "Dong Z", "Dubocanin D", "Eizenga JM", "Eskandar P", "Ferro E", "Ford SM", "Ford WW", "Frankish A", "Freeberg MA", "Fu Q", "Gao S", "Gao Y", "Garcia GH", "Garcia OA", "Garza JE", "Ghorbani M", "Graves-Lindsay TA", "Gu B", "Haggerty L", "Hansen NF", "Hao Y", "Hillaker TL", "Hossain SN", "Huang N", "Hunt SE", "Hunt T", "Jafarzadeh N", "Jain N", "Jehangir M", "Jiang J", "Kim J", "Koo B", "Kremitzki M", "Li D", "Li R", "Lin J", "Liu T", "Lorig-Roach R", "Loucks H", "Loveland JE", "Lu J", "Ma W", "Marsico FL", "Medico JA", "Mokrab Y", "Moosa S", "Moreno-Ochando A", "Morishita S", "Mudge JM", "Mwaniki N", "Nassir N", "Natali C", "Negi S", "Ni L", "Okamoto F", "Owa C", "Paez S", "Peano C", "Pickett BD", "Pignata L", "Prodanov T", "Radhakrishnan A", "Raney BJ", "Raveane A", "Rechtsteiner A", "Ren L", "Rhie A", "Ryabov F", "Sacco S", "Salehi F", "Sehgal A", "Shabani M", "Shahatit S", "Shivakumar VS", "Sinha S", "Smeds L", "Solar SJ", "Sollitto M", "Soranzo N", "Suner M", "Suzuki Y", "Soylev A", "Tierney JA", "Tomlinson C", "Tricomi FF", "Ungaro MT", "Varki R", "Walenz BP", "Wang C", "Wang LE", "Wenger AM", "Whelan CV", "Xin Z", "Xu Z", "Zhang W", "Zhou Y", "Zunino G", "Altemose N", "Barthel FP", "Boucher C", "Bourque G", "Carroll A", "Cechova M", "Chaisson MJ", "Cheng H", "Cook-Deegan R", "Doerr D", "Durbin R", "Fiston-Lavier A", "Formenti G", "Fullerton SM", "Fulton RS", "Garg S", "Garrison NA", "Green RE", "Greider CW", "Gymrek M", "Haeussler M", "Hashmi MA", "Haussler D", "Ioannidis AG", "Koren S", "Langley CH", "Langmead B", "Lawson HA", "Logsdon GA", "Makova KD", "Martin FJ", "Mitchell MW", "Ossorio PN", "Pisanti N", "Prins P", "Rautiainen M", "Schatz MC", "Scheinfeldt LB", "Shafin K", "Siren J", "Stergachis AB", "Abou Tayoun A", "Uddin M", "Villani F", "Vollger MR", "Ye K", "Eichler EE", "Garrison E", "Hall IM", "Jarvis ED", "Kenny EE", "Li H", "LoTempio J", "Marschall T", "Miga KH", "Phillippy AM", "Wang T", "Paten B"]
+title = "HPRC2: A human pangenome reference with near-complete coverage of common genetic variation"
+journal = "bioRxiv (preprint)"
+year = 2026
+doi = "10.64898/2026.07.21.739710"
+checked = "Europe PMC record PPR1283532, note/sources/europepmc_hprc2_lucas2026.json"
+
+[[ref]]
+key = "anderson2001"
+kind = "article"
+authors = ["Anderson MJ"]
+title = "A new method for non-parametric multivariate analysis of variance"
+journal = "Austral Ecology"
+year = 2001
+volume = "26"
+pages = "32--46"
+doi = "10.1111/j.1442-9993.2001.01070.pp.x"
+checked = "entered by hand from the researcher, 2026-11-14; no PubMed record"
+
+[[ref]]
+key = "matplotlib"
+kind = "software"
+authors = ["The Matplotlib Development Team"]
+title = "Matplotlib: visualization with Python"
+year = 2025
+url = "https://matplotlib.org"
+cited = "2026-11-14"

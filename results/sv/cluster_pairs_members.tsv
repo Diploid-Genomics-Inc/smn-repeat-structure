@@ -1,0 +1,1505 @@
+k	struct_cluster	seq_cluster	src	arrangement	superpop	SMN1_lineages
+8	2	5	HG00235_hap2_hprc_r2_v1.0.1	1+ 2+	EUR	A
+8	2	5	HG01981_mat_hprc_r2_v1.0.1	1+ 2+	AMR	A
+8	2	5	HG02257_mat_hprc_r2_v1.1.0	1+ 2+	AFR	A
+8	2	5	HG02738_pat_hprc_r2_v1.0.1	1+ 2+	SAS	A
+8	2	5	NA18505_hap2_hprc_r2_v1.0.1	h21+ 1-	AFR	A
+8	2	5	NA20762_hap2_hprc_r2_v1.0.1	1+ 2+	EUR	A
+8	2	5	NA21093_hap1_hprc_r2_v1.0.1	1+ 2+	SAS	A
+8	2	5	NA21102_hap2_hprc_r2_v1.0.1	2+ 1+ 2+	SAS	A
+8	3	4	HG00290_hap2_hprc_r2_v1.0.1	1+	EUR	A
+8	3	4	HG00642_mat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+8	3	4	HG01940_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	3	4	HG01978_pat_hprc_r2_v1.1.0	2- 1+	AMR	A
+8	3	4	HG03710_mat_hprc_r2_v1.0.1	h21- 1+	SAS	A
+8	3	5	HG02615_pat_hprc_r2_v1.0.1	2+ 1-	AFR	A
+8	3	5	HG02630_pat_hprc_r2_v1.0.1	2+ 1-	AFR	A
+8	3	5	HG02841_pat_hprc_r2_v1.0.1	2+ 1-	AFR	A
+8	3	5	HG02886_pat_hprc_r2_v1.0.1	2+ 1-	AFR	A
+8	3	5	NA19036_hap1_hprc_r2_v1.0.1	1+ 1-	AFR	AB
+8	4	1	HG00128_hap2_hprc_r2_v1.0.1	2- 1+	EUR	B
+8	4	1	HG01167_hap1_hprc_r2_v1.0.1	1- 1+	AMR	BB
+8	4	1	HG01960_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02109_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02258_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02486_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02559_pat_hprc_r2_v1.0.1	1- h21+	AFR	B
+8	4	1	HG02572_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02615_mat_hprc_r2_v1.0.1	1- h21+	AFR	B
+8	4	1	HG02622_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02622_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02630_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02647_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02647_pat_hprc_r2_v1.0.1	1- h21+	AFR	B
+8	4	1	HG02717_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02723_mat_hprc_r2_v1.0.1	1- h21+	AFR	B
+8	4	1	HG02809_pat_hprc_r2_v1.0.1	2- 1+	AFR	B
+8	4	1	HG02818_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02922_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02976_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG02984_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03098_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03130_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03130_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03139_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03195_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03209_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03270_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03369_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03453_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03471_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03486_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	HG03516_pat_hprc_r2_v1.1.0	1- h21+	AFR	B
+8	4	1	HG03540_mat_hprc_r2_v1.0.1	h21- 1+	AFR	B
+8	4	1	NA18522_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	NA18879_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	NA19036_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	NA19043_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	NA19185_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	NA19185_hap2_hprc_r2_v1.0.1	2- 1+	AFR	B
+8	4	1	NA19240_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	NA19240_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	NA19338_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	NA19391_hap1_hprc_r2_v1.0.1	2- 1+	AFR	B
+8	4	1	NA19700_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	NA19835_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	1	NA20282_hap1_hprc_r2_v1.0.1	1- h21+	AFR	B
+8	4	1	NA21309_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+8	4	5	GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN	2+ 1+	reference	A
+8	4	5	HG00099_hap1_hprc_r2_v1.0.1	1+	EUR	A
+8	4	5	HG00126_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	HG00126_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	HG00133_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	HG00133_hap2_hprc_r2_v1.0.1	d2- 1+	EUR	A
+8	4	5	HG00140_hap1_hprc_r2_v1.0.1	1- 2+	EUR	A
+8	4	5	HG00140_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	HG00146_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	HG00146_hap2_hprc_r2_v1.0.1	1+	EUR	A
+8	4	5	HG00272_hap1_hprc_r2_v1.0.1	d2- 1+	EUR	A
+8	4	5	HG00272_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	HG00290_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	HG00320_hap1_hprc_r2_v1.0.1	1+	EUR	A
+8	4	5	HG00320_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	HG00321_hap1_hprc_r2_v1.0.1	1-	EUR	A
+8	4	5	HG00321_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	HG00323_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	HG00323_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	HG00344_hap2_hprc_r2_v1.0.1	1- 2+	EUR	A
+8	4	5	HG00350_hap1_hprc_r2_v1.0.1	1+	EUR	A
+8	4	5	HG00350_hap2_hprc_r2_v1.0.1	1+	EUR	A
+8	4	5	HG00408_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG00408_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG00438_mat_hprc_r2_v1.0.1	1+ 2+	EAS	A
+8	4	5	HG00438_pat_hprc_r2_v1.0.1	1+	EAS	A
+8	4	5	HG00544_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG00544_pat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+8	4	5	HG00558_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG00597_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG00597_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG005_pat_hprc_r2_v1.0.1	2- 1+	other	A
+8	4	5	HG00621_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+8	4	5	HG00621_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG00639_mat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+8	4	5	HG00639_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG00658_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG00658_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG00673_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG00673_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG00706_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG00706_pat_hprc_r2_v1.0.1	h21- 1+	EAS	A
+8	4	5	HG00733_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+8	4	5	HG00735_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG00735_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG00738_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG00738_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG00741_mat_hprc_r2_v1.0.1	1- 2-	AMR	A
+8	4	5	HG00741_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01071_mat_hprc_r2_v1.0.1	1- 2+	AMR	A
+8	4	5	HG01074_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+8	4	5	HG01099_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01099_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01106_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01106_pat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	5	HG01150_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01167_hap2_hprc_r2_v1.0.1	2+ 1+	AMR	A
+8	4	5	HG01175_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+8	4	5	HG01192_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+8	4	5	HG01243_pat_hprc_r2_v1.0.1	1- 2- 1+	AMR	AA
+8	4	5	HG01255_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01255_pat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	5	HG01258_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01346_mat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	5	HG01346_pat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	5	HG01358_mat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	5	HG01361_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01361_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01433_mat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+8	4	5	HG01496_mat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	5	HG01496_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01530_hap1_hprc_r2_v1.0.1	1- 2+	EUR	A
+8	4	5	HG01530_hap2_hprc_r2_v1.0.1	2+ 1+	EUR	A
+8	4	5	HG01884_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG01891_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG01928_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01943_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01952_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01969_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01969_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01975_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG01981_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG02004_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG02015_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02015_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02027_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02027_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02040_hap1_hprc_r2_v1.0.1	1+	EAS	A
+8	4	5	HG02040_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02055_pat_hprc_r2_v1.0.1	1- 1+	AFR	AB
+8	4	5	HG02056_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+8	4	5	HG02056_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02071_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02071_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02074_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02074_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02080_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02080_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02083_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02083_pat_hprc_r2_v1.0.1	1- 2+	EAS	A
+8	4	5	HG02109_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG02129_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02129_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02132_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+8	4	5	HG02135_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02135_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02148_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG02155_hap2_hprc_r2_v1.0.1	h21- 1+	EAS	A
+8	4	5	HG02165_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+8	4	5	HG02165_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+8	4	5	HG02178_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02178_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02258_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG02280_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG02293_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG02293_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG02300_mat_hprc_r2_v1.0.1	h12- 1+	AMR	A
+8	4	5	HG02300_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	HG02391_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02392_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02392_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02451_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG02486_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG02523_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02523_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	HG02572_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG02583_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG02602_pat_hprc_r2_v1.0.1	1+	SAS	A
+8	4	5	HG02668_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG02698_mat_hprc_r2_v1.0.1	1- 2+	SAS	A
+8	4	5	HG02698_pat_hprc_r2_v1.0.1	1- h12+ 1+	SAS	AA
+8	4	5	HG02723_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG02735_pat_hprc_r2_v1.0.1	1-	SAS	A
+8	4	5	HG02738_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG02809_mat_hprc_r2_v1.0.1	1- 2+	AFR	A
+8	4	5	HG02818_pat_hprc_r2_v1.0.1	1- 2+	AFR	A
+8	4	5	HG02841_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG02922_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG02976_hap2_hprc_r2_v1.0.1	1- 2+	AFR	A
+8	4	5	HG02984_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG03017_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03017_pat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+8	4	5	HG03041_mat_hprc_r2_v1.0.1	1+	AFR	A
+8	4	5	HG03041_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG03139_hap2_hprc_r2_v1.0.1	1+	AFR	A
+8	4	5	HG03225_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG03239_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03369_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG03470_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG03486_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	HG03521_hap2_hprc_r2_v1.0.1	1- 2+	AFR	A
+8	4	5	HG03654_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03654_pat_hprc_r2_v1.0.1	1- 2+	SAS	A
+8	4	5	HG03669_mat_hprc_r2_v1.0.1	2+ 1+	SAS	A
+8	4	5	HG03669_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03688_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03704_mat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+8	4	5	HG03704_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03742_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03804_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03816_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03816_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03831_mat_hprc_r2_v1.0.1	1-	SAS	A
+8	4	5	HG03834_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03874_hap1_hprc_r2_v1.0.1	1+	SAS	A
+8	4	5	HG03874_hap2_hprc_r2_v1.0.1	1+	SAS	A
+8	4	5	HG03927_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG03927_pat_hprc_r2_v1.0.1	1+	SAS	A
+8	4	5	HG03942_mat_hprc_r2_v1.0.1	1+	SAS	A
+8	4	5	HG03942_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG04115_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG04157_pat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+8	4	5	HG04160_mat_hprc_r2_v1.0.1	h21- 1+	SAS	A
+8	4	5	HG04187_mat_hprc_r2_v1.0.1	1+	SAS	A
+8	4	5	HG04199_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG04204_mat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+8	4	5	HG04204_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG04228_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG04228_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	HG06807_mat_v1.0.genbank	2- 1+	other	A
+8	4	5	NA18508_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	NA18508_hap2_hprc_r2_v1.0.1	1+	AFR	A
+8	4	5	NA18522_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	NA18565_hap1_hprc_r2_v1.0.1	1- 1+	EAS	AA
+8	4	5	NA18565_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18570_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18570_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18608_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18620_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18620_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18906_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	NA18940_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18940_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18943_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18944_hap1_hprc_r2_v1.0.1	1+	EAS	A
+8	4	5	NA18944_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18945_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18948_hap2_hprc_r2_v1.0.1	2- 2- 1+	EAS	A
+8	4	5	NA18952_hap1_hprc_r2_v1.0.1	1+	EAS	A
+8	4	5	NA18952_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18959_hap1_hprc_r2_v1.0.1	t- 2- 1+	EAS	A
+8	4	5	NA18959_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18967_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18970_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+8	4	5	NA18970_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18971_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18971_hap2_hprc_r2_v1.0.1	1+	EAS	A
+8	4	5	NA18976_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18976_hap2_hprc_r2_v1.0.1	1+	EAS	A
+8	4	5	NA18982_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18982_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+8	4	5	NA18983_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA18983_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA19087_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+8	4	5	NA19682_hap1_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	NA19682_hap2_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	NA19776_hap1_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	5	NA19835_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	NA20129_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	NA20346_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	5	NA20346_hap2_hprc_r2_v1.0.1	1+	AFR	A
+8	4	5	NA20762_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	NA20805_hap1_hprc_r2_v1.0.1	1+	EUR	A
+8	4	5	NA20809_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	5	NA20827_hap2_hprc_r2_v1.0.1	d2- 1+	EUR	A
+8	4	5	NA20850_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	NA20850_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	NA20870_hap1_hprc_r2_v1.0.1	1+	SAS	A
+8	4	5	NA20870_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	NA21093_hap2_hprc_r2_v1.0.1	1- 1+	SAS	AA
+8	4	5	NA21102_hap1_hprc_r2_v1.0.1	1+ 2+	SAS	A
+8	4	5	NA21106_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	NA21106_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	NA21110_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	NA21110_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	5	NA21144_hap1_hprc_r2_v1.0.1	1- 2+	SAS	A
+8	4	5	hg002v1.1.mat_MT.PanSN	2- 1+	other	A
+8	4	5	hg002v1.1.pat.PanSN	2- 1+	other	A
+8	4	6	HG01074_mat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	6	HG01960_pat_hprc_r2_v1.0.1	1- 1+	AFR	AA
+8	4	6	HG02145_mat_hprc_r2_v1.0.1	1- 1+	AFR	AA
+8	4	6	HG02280_mat_hprc_r2_v1.0.1	1- 1+	AFR	AA
+8	4	6	HG02583_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	6	HG03195_hap1_hprc_r2_v1.0.1	1+	AFR	A
+8	4	6	HG03209_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	6	HG03471_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	6	HG03516_mat_hprc_r2_v1.1.0	1+	AFR	A
+8	4	6	HG03579_pat_hprc_r2_v1.0.1	1+	AFR	A
+8	4	6	HG03583_hap1_hprc_r2_v1.0.1	1+	AFR	A
+8	4	6	NA18906_mat_hprc_r2_v1.0.1	1+	AFR	A
+8	4	6	NA19159_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+8	4	6	NA21309_mat_hprc_r2_v1.0.1	2+ 1- 1+	AFR	AA
+8	4	7	HG00097_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	7	HG00099_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	7	HG00128_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	7	HG00253_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	7	HG00344_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	7	HG00558_pat_hprc_r2_v1.0.1	1+	EAS	A
+8	4	7	HG01071_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	7	HG01081_mat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	7	HG01081_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	7	HG01150_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	7	HG01175_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	7	HG01192_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	7	HG01252_pat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	7	HG01433_pat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+8	4	7	HG01784_hap1_hprc_r2_v1.0.1	1+	EUR	A
+8	4	7	HG01928_mat_hprc_r2_v1.0.1	1-	AMR	A
+8	4	7	HG01934_pat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	7	HG01940_pat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	7	HG01943_pat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	7	HG01975_mat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	7	HG01978_mat_hprc_r2_v1.1.0	2- 1+	AMR	A
+8	4	7	HG02004_pat_hprc_r2_v1.0.1	1+	AMR	A
+8	4	7	HG02155_hap1_hprc_r2_v1.0.1	1+	EAS	A
+8	4	7	HG03239_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	7	HG03710_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	7	HG03804_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	7	HG04115_pat_hprc_r2_v1.0.1	1+	SAS	A
+8	4	7	HG04157_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	7	HG04199_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+8	4	7	HG06807_pat_v1.0.genbank	1+	other	A
+8	4	7	NA18608_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+8	4	7	NA19087_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+8	4	7	NA19776_hap2_hprc_r2_v1.0.1	2- 1+	AMR	A
+8	4	7	NA20752_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	7	NA20799_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	7	NA20809_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+8	4	7	NA21144_hap2_hprc_r2_v1.0.1	1-	SAS	A
+8	4	7	chm13v2.0_maskedY_rCRS.fa.PanSN	2- 1+	reference	A
+8	5	5	HG00097_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+8	5	5	HG00642_pat_hprc_r2_v1.0.1	1- 2-	AMR	A
+8	5	5	HG01123_mat_hprc_r2_v1.0.1	1- 1-	AMR	AA
+8	5	5	HG01258_mat_hprc_r2_v1.0.1	2- 1-	AMR	A
+8	5	5	HG01784_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+8	5	5	HG01884_pat_hprc_r2_v1.0.1	h21- 1-	AFR	A
+8	5	5	HG02148_mat_hprc_r2_v1.0.1	2- 1-	AMR	A
+8	5	5	HG02257_pat_hprc_r2_v1.1.0	2- 1-	AFR	A
+8	5	5	HG02559_mat_hprc_r2_v1.0.1	2- 1-	AFR	A
+8	5	5	HG02668_mat_hprc_r2_v1.0.1	1- 2- 1-	AFR	AB
+8	5	5	HG03050_pat_hprc_r2_v1.0.1	2- 1-	AFR	A
+8	5	5	NA19159_hap1_hprc_r2_v1.0.1	2- 1-	AFR	A
+8	5	5	NA19338_hap2_hprc_r2_v1.0.1	2- 1-	AFR	A
+8	5	5	NA19468_hap1_hprc_r2_v1.0.1	2- 1-	AFR	A
+8	5	5	NA19468_hap2_hprc_r2_v1.0.1	1-	AFR	A
+8	5	5	NA19909_hap1_hprc_r2_v1.0.1	2- 1-	AFR	A
+8	5	5	NA20129_pat_hprc_r2_v1.0.1	2- 1-	AFR	A
+8	5	5	NA20503_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+8	5	5	NA20905_hap2_hprc_r2_v1.0.1	2- 2- 1-	SAS	A
+8	6	5	HG00235_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+8	6	5	HG00253_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+8	6	5	HG005_mat_hprc_r2_v1.0.1	2- 1-	other	A
+8	6	5	HG00609_mat_hprc_r2_v1.0.1	1-	EAS	A
+8	6	5	HG00609_pat_hprc_r2_v1.0.1	2+ 1-	EAS	A
+8	6	5	HG01123_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+8	6	5	HG01252_mat_hprc_r2_v1.0.1	2- 1-	AMR	A
+8	6	5	HG01261_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+8	6	5	HG01358_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+8	6	5	HG01786_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+8	6	5	HG01786_hap2_hprc_r2_v1.0.1	2- 1- 1+	EUR	AA
+8	6	5	HG01952_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+8	6	5	HG02391_hap1_hprc_r2_v1.0.1	2- 1-	EAS	A
+8	6	5	HG02514_pat_hprc_r2_v1.0.1	2- 1-	EAS	A
+8	6	5	HG02602_mat_hprc_r2_v1.0.1	1-	SAS	A
+8	6	5	HG02735_mat_hprc_r2_v1.0.1	2- 1-	SAS	A
+8	6	5	HG03688_mat_hprc_r2_v1.0.1	2- 1- 1+	SAS	AA
+8	6	5	HG03831_pat_hprc_r2_v1.0.1	2- 1-	SAS	A
+8	6	5	HG03834_pat_hprc_r2_v1.0.1	2- 1-	SAS	A
+8	6	5	HG04184_mat_hprc_r2_v1.0.1	2- 1-	SAS	A
+8	6	5	HG04184_pat_hprc_r2_v1.0.1	1-	SAS	A
+8	6	5	HG04187_pat_hprc_r2_v1.0.1	2- 1-	SAS	A
+8	6	5	NA18943_hap2_hprc_r2_v1.0.1	2- 1-	EAS	A
+8	6	5	NA18948_hap1_hprc_r2_v1.0.1	2- 1-	EAS	A
+8	6	5	NA18960_hap1_hprc_r2_v1.0.1	2- 2- 1-	EAS	A
+8	6	5	NA18960_hap2_hprc_r2_v1.0.1	1-	EAS	A
+8	6	5	NA18967_hap2_hprc_r2_v1.0.1	1-	EAS	A
+8	6	5	NA20503_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+8	6	5	NA20799_hap2_hprc_r2_v1.0.1	1-	EUR	A
+8	6	5	NA20805_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+8	6	5	NA20806_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+8	6	5	NA20806_hap2_hprc_r2_v1.0.1	2+ 1-	EUR	A
+8	6	5	NA20827_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+8	6	5	NA20905_hap1_hprc_r2_v1.0.1	f- 1-	SAS	A
+12	2	7	HG00235_hap2_hprc_r2_v1.0.1	1+ 2+	EUR	A
+12	2	7	HG01981_mat_hprc_r2_v1.0.1	1+ 2+	AMR	A
+12	2	7	HG02257_mat_hprc_r2_v1.1.0	1+ 2+	AFR	A
+12	2	7	HG02738_pat_hprc_r2_v1.0.1	1+ 2+	SAS	A
+12	2	7	NA20762_hap2_hprc_r2_v1.0.1	1+ 2+	EUR	A
+12	2	7	NA21093_hap1_hprc_r2_v1.0.1	1+ 2+	SAS	A
+12	2	7	NA21102_hap2_hprc_r2_v1.0.1	2+ 1+ 2+	SAS	A
+12	6	6	HG00741_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	6	HG01243_pat_hprc_r2_v1.0.1	1- 2- 1+	AMR	AA
+12	6	6	HG02451_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	6	HG02922_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	6	HG03486_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN	2+ 1+	reference	A
+12	6	7	HG00126_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	7	HG00126_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	7	HG00133_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	7	HG00133_hap2_hprc_r2_v1.0.1	d2- 1+	EUR	A
+12	6	7	HG00140_hap1_hprc_r2_v1.0.1	1- 2+	EUR	A
+12	6	7	HG00140_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	7	HG00146_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	7	HG00272_hap1_hprc_r2_v1.0.1	d2- 1+	EUR	A
+12	6	7	HG00272_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	7	HG00290_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	7	HG00323_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	7	HG00323_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	7	HG00408_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG00408_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG00438_mat_hprc_r2_v1.0.1	1+ 2+	EAS	A
+12	6	7	HG00544_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG00544_pat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+12	6	7	HG00597_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG00597_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG005_pat_hprc_r2_v1.0.1	2- 1+	other	A
+12	6	7	HG00621_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+12	6	7	HG00621_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG00639_mat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+12	6	7	HG00658_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG00673_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG00673_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG00733_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+12	6	7	HG00735_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG00735_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG00738_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG00738_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01071_mat_hprc_r2_v1.0.1	1- 2+	AMR	A
+12	6	7	HG01074_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+12	6	7	HG01099_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01106_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01150_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01167_hap2_hprc_r2_v1.0.1	2+ 1+	AMR	A
+12	6	7	HG01175_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+12	6	7	HG01192_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+12	6	7	HG01255_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01258_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01433_mat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+12	6	7	HG01496_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01530_hap1_hprc_r2_v1.0.1	1- 2+	EUR	A
+12	6	7	HG01530_hap2_hprc_r2_v1.0.1	2+ 1+	EUR	A
+12	6	7	HG01891_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	HG01928_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01943_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01952_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01969_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01969_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01975_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG01981_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG02004_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG02015_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02015_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02027_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02027_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02040_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02056_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+12	6	7	HG02056_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02071_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02071_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02074_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02080_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02080_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02083_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02083_pat_hprc_r2_v1.0.1	1- 2+	EAS	A
+12	6	7	HG02109_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	HG02129_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02129_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02132_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+12	6	7	HG02135_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02135_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02148_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG02165_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+12	6	7	HG02165_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+12	6	7	HG02178_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02178_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02280_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	HG02293_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG02293_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG02300_mat_hprc_r2_v1.0.1	h12- 1+	AMR	A
+12	6	7	HG02300_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	HG02391_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02392_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02392_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02523_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02523_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	HG02572_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	HG02583_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	HG02698_mat_hprc_r2_v1.0.1	1- 2+	SAS	A
+12	6	7	HG02738_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG02818_pat_hprc_r2_v1.0.1	1- 2+	AFR	A
+12	6	7	HG02841_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	HG02976_hap2_hprc_r2_v1.0.1	1- 2+	AFR	A
+12	6	7	HG03017_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG03017_pat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+12	6	7	HG03239_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG03369_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	HG03521_hap2_hprc_r2_v1.0.1	1- 2+	AFR	A
+12	6	7	HG03654_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG03654_pat_hprc_r2_v1.0.1	1- 2+	SAS	A
+12	6	7	HG03669_mat_hprc_r2_v1.0.1	2+ 1+	SAS	A
+12	6	7	HG03688_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG03704_mat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+12	6	7	HG03704_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG03804_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG03816_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG03816_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG03834_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG03927_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG03942_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG04115_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG04157_pat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+12	6	7	HG04160_mat_hprc_r2_v1.0.1	h21- 1+	SAS	A
+12	6	7	HG04199_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG04204_mat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+12	6	7	HG04204_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG04228_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG04228_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	HG06807_mat_v1.0.genbank	2- 1+	other	A
+12	6	7	NA18508_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	NA18565_hap1_hprc_r2_v1.0.1	1- 1+	EAS	AA
+12	6	7	NA18565_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18570_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18570_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18608_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18620_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18620_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18906_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	NA18940_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18940_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18943_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18945_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18948_hap2_hprc_r2_v1.0.1	2- 2- 1+	EAS	A
+12	6	7	NA18952_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18959_hap1_hprc_r2_v1.0.1	t- 2- 1+	EAS	A
+12	6	7	NA18959_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18967_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18970_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+12	6	7	NA18970_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18971_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18976_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18982_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18982_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+12	6	7	NA18983_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA18983_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA19087_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	6	7	NA19682_hap1_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	NA19682_hap2_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	NA19776_hap1_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	7	NA19835_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	NA20129_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	7	NA20827_hap2_hprc_r2_v1.0.1	d2- 1+	EUR	A
+12	6	7	NA20850_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	NA20850_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	NA20870_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	NA21093_hap2_hprc_r2_v1.0.1	1- 1+	SAS	AA
+12	6	7	NA21102_hap1_hprc_r2_v1.0.1	1+ 2+	SAS	A
+12	6	7	NA21106_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	NA21106_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	NA21110_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	NA21110_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	7	NA21144_hap1_hprc_r2_v1.0.1	1- 2+	SAS	A
+12	6	7	hg002v1.1.mat_MT.PanSN	2- 1+	other	A
+12	6	7	hg002v1.1.pat.PanSN	2- 1+	other	A
+12	6	10	HG01960_pat_hprc_r2_v1.0.1	1- 1+	AFR	AA
+12	6	10	HG02145_mat_hprc_r2_v1.0.1	1- 1+	AFR	AA
+12	6	10	HG02280_mat_hprc_r2_v1.0.1	1- 1+	AFR	AA
+12	6	10	HG02583_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	6	10	NA21309_mat_hprc_r2_v1.0.1	2+ 1- 1+	AFR	AA
+12	6	11	HG00097_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	11	HG00099_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	11	HG00128_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	11	HG00253_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	11	HG00344_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	11	HG01071_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	11	HG01081_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	11	HG01150_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	11	HG01175_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	11	HG01192_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	11	HG01433_pat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+12	6	11	HG01978_mat_hprc_r2_v1.1.0	2- 1+	AMR	A
+12	6	11	HG03239_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	11	HG03710_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	11	HG03804_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	11	HG04157_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	11	HG04199_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	6	11	NA18608_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+12	6	11	NA19087_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+12	6	11	NA19776_hap2_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	6	11	NA20752_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	11	NA20799_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	11	NA20809_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	6	11	chm13v2.0_maskedY_rCRS.fa.PanSN	2- 1+	reference	A
+12	7	1	HG01167_hap1_hprc_r2_v1.0.1	1- 1+	AMR	BB
+12	7	1	HG01960_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02109_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02258_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02486_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02572_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02622_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02622_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02630_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02647_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02717_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02818_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02922_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02976_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG02984_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG03098_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG03130_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG03130_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG03139_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG03195_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG03209_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG03270_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG03369_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG03453_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG03471_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	HG03486_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	NA18522_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	NA18879_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	NA19036_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	NA19043_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	NA19185_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	NA19240_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	NA19240_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	NA19338_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	NA19700_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	NA19835_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	1	NA21309_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+12	7	2	HG02559_pat_hprc_r2_v1.0.1	1- h21+	AFR	B
+12	7	2	HG02615_mat_hprc_r2_v1.0.1	1- h21+	AFR	B
+12	7	2	HG02647_pat_hprc_r2_v1.0.1	1- h21+	AFR	B
+12	7	2	HG02723_mat_hprc_r2_v1.0.1	1- h21+	AFR	B
+12	7	2	HG02809_pat_hprc_r2_v1.0.1	2- 1+	AFR	B
+12	7	2	HG03516_pat_hprc_r2_v1.1.0	1- h21+	AFR	B
+12	7	2	NA20282_hap1_hprc_r2_v1.0.1	1- h21+	AFR	B
+12	7	7	HG00099_hap1_hprc_r2_v1.0.1	1+	EUR	A
+12	7	7	HG00146_hap2_hprc_r2_v1.0.1	1+	EUR	A
+12	7	7	HG00320_hap1_hprc_r2_v1.0.1	1+	EUR	A
+12	7	7	HG00320_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	7	7	HG00321_hap1_hprc_r2_v1.0.1	1-	EUR	A
+12	7	7	HG00321_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	7	7	HG00344_hap2_hprc_r2_v1.0.1	1- 2+	EUR	A
+12	7	7	HG00350_hap1_hprc_r2_v1.0.1	1+	EUR	A
+12	7	7	HG00350_hap2_hprc_r2_v1.0.1	1+	EUR	A
+12	7	7	HG00438_pat_hprc_r2_v1.0.1	1+	EAS	A
+12	7	7	HG00558_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	7	7	HG00639_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	7	7	HG00658_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	7	7	HG00706_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	7	7	HG00706_pat_hprc_r2_v1.0.1	h21- 1+	EAS	A
+12	7	7	HG00741_mat_hprc_r2_v1.0.1	1- 2-	AMR	A
+12	7	7	HG01099_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	7	7	HG01106_pat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	7	HG01255_pat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	7	HG01346_mat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	7	HG01346_pat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	7	HG01358_mat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	7	HG01361_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	7	7	HG01361_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+12	7	7	HG01496_mat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	7	HG01884_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	7	7	HG02040_hap1_hprc_r2_v1.0.1	1+	EAS	A
+12	7	7	HG02055_pat_hprc_r2_v1.0.1	1- 1+	AFR	AB
+12	7	7	HG02074_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	7	7	HG02155_hap2_hprc_r2_v1.0.1	h21- 1+	EAS	A
+12	7	7	HG02258_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	7	7	HG02602_pat_hprc_r2_v1.0.1	1+	SAS	A
+12	7	7	HG02668_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	7	7	HG02698_pat_hprc_r2_v1.0.1	1- h12+ 1+	SAS	AA
+12	7	7	HG02723_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	7	7	HG02735_pat_hprc_r2_v1.0.1	1-	SAS	A
+12	7	7	HG02809_mat_hprc_r2_v1.0.1	1- 2+	AFR	A
+12	7	7	HG02984_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	7	7	HG03041_mat_hprc_r2_v1.0.1	1+	AFR	A
+12	7	7	HG03041_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	7	7	HG03225_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	7	7	HG03470_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	7	7	HG03669_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	7	7	HG03742_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+12	7	7	HG03831_mat_hprc_r2_v1.0.1	1-	SAS	A
+12	7	7	HG03874_hap1_hprc_r2_v1.0.1	1+	SAS	A
+12	7	7	HG03874_hap2_hprc_r2_v1.0.1	1+	SAS	A
+12	7	7	HG03927_pat_hprc_r2_v1.0.1	1+	SAS	A
+12	7	7	HG03942_mat_hprc_r2_v1.0.1	1+	SAS	A
+12	7	7	HG04187_mat_hprc_r2_v1.0.1	1+	SAS	A
+12	7	7	NA18508_hap2_hprc_r2_v1.0.1	1+	AFR	A
+12	7	7	NA18522_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	7	7	NA18944_hap1_hprc_r2_v1.0.1	1+	EAS	A
+12	7	7	NA18944_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+12	7	7	NA18952_hap1_hprc_r2_v1.0.1	1+	EAS	A
+12	7	7	NA18971_hap2_hprc_r2_v1.0.1	1+	EAS	A
+12	7	7	NA18976_hap2_hprc_r2_v1.0.1	1+	EAS	A
+12	7	7	NA20346_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+12	7	7	NA20346_hap2_hprc_r2_v1.0.1	1+	AFR	A
+12	7	7	NA20762_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	7	7	NA20805_hap1_hprc_r2_v1.0.1	1+	EUR	A
+12	7	7	NA20809_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+12	7	7	NA20870_hap1_hprc_r2_v1.0.1	1+	SAS	A
+12	7	10	HG01074_mat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	10	HG03195_hap1_hprc_r2_v1.0.1	1+	AFR	A
+12	7	10	HG03516_mat_hprc_r2_v1.1.0	1+	AFR	A
+12	7	10	HG03579_pat_hprc_r2_v1.0.1	1+	AFR	A
+12	7	10	HG03583_hap1_hprc_r2_v1.0.1	1+	AFR	A
+12	7	10	NA18906_mat_hprc_r2_v1.0.1	1+	AFR	A
+12	7	11	HG00558_pat_hprc_r2_v1.0.1	1+	EAS	A
+12	7	11	HG01081_mat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	11	HG01252_pat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	11	HG01784_hap1_hprc_r2_v1.0.1	1+	EUR	A
+12	7	11	HG01928_mat_hprc_r2_v1.0.1	1-	AMR	A
+12	7	11	HG01934_pat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	11	HG01940_pat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	11	HG01943_pat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	11	HG01975_mat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	11	HG02004_pat_hprc_r2_v1.0.1	1+	AMR	A
+12	7	11	HG02155_hap1_hprc_r2_v1.0.1	1+	EAS	A
+12	7	11	HG04115_pat_hprc_r2_v1.0.1	1+	SAS	A
+12	7	11	HG06807_pat_v1.0.genbank	1+	other	A
+12	7	11	NA21144_hap2_hprc_r2_v1.0.1	1-	SAS	A
+12	8	7	HG00097_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+12	8	7	HG00642_pat_hprc_r2_v1.0.1	1- 2-	AMR	A
+12	8	7	HG01123_mat_hprc_r2_v1.0.1	1- 1-	AMR	AA
+12	8	7	HG01258_mat_hprc_r2_v1.0.1	2- 1-	AMR	A
+12	8	7	HG01784_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+12	8	7	HG02148_mat_hprc_r2_v1.0.1	2- 1-	AMR	A
+12	8	7	HG02257_pat_hprc_r2_v1.1.0	2- 1-	AFR	A
+12	8	7	HG02559_mat_hprc_r2_v1.0.1	2- 1-	AFR	A
+12	8	7	HG02668_mat_hprc_r2_v1.0.1	1- 2- 1-	AFR	AB
+12	8	7	HG03050_pat_hprc_r2_v1.0.1	2- 1-	AFR	A
+12	8	7	NA19159_hap1_hprc_r2_v1.0.1	2- 1-	AFR	A
+12	8	7	NA19338_hap2_hprc_r2_v1.0.1	2- 1-	AFR	A
+12	8	7	NA19468_hap1_hprc_r2_v1.0.1	2- 1-	AFR	A
+12	8	7	NA19468_hap2_hprc_r2_v1.0.1	1-	AFR	A
+12	8	7	NA19909_hap1_hprc_r2_v1.0.1	2- 1-	AFR	A
+12	8	7	NA20129_pat_hprc_r2_v1.0.1	2- 1-	AFR	A
+12	8	7	NA20503_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+12	8	7	NA20905_hap2_hprc_r2_v1.0.1	2- 2- 1-	SAS	A
+12	9	7	HG00235_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+12	9	7	HG00253_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+12	9	7	HG005_mat_hprc_r2_v1.0.1	2- 1-	other	A
+12	9	7	HG00609_mat_hprc_r2_v1.0.1	1-	EAS	A
+12	9	7	HG00609_pat_hprc_r2_v1.0.1	2+ 1-	EAS	A
+12	9	7	HG01123_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+12	9	7	HG01252_mat_hprc_r2_v1.0.1	2- 1-	AMR	A
+12	9	7	HG01261_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+12	9	7	HG01358_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+12	9	7	HG01786_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+12	9	7	HG01786_hap2_hprc_r2_v1.0.1	2- 1- 1+	EUR	AA
+12	9	7	HG01952_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+12	9	7	HG02391_hap1_hprc_r2_v1.0.1	2- 1-	EAS	A
+12	9	7	HG02514_pat_hprc_r2_v1.0.1	2- 1-	EAS	A
+12	9	7	HG02602_mat_hprc_r2_v1.0.1	1-	SAS	A
+12	9	7	HG02735_mat_hprc_r2_v1.0.1	2- 1-	SAS	A
+12	9	7	HG03688_mat_hprc_r2_v1.0.1	2- 1- 1+	SAS	AA
+12	9	7	HG03831_pat_hprc_r2_v1.0.1	2- 1-	SAS	A
+12	9	7	HG03834_pat_hprc_r2_v1.0.1	2- 1-	SAS	A
+12	9	7	HG04184_mat_hprc_r2_v1.0.1	2- 1-	SAS	A
+12	9	7	HG04184_pat_hprc_r2_v1.0.1	1-	SAS	A
+12	9	7	HG04187_pat_hprc_r2_v1.0.1	2- 1-	SAS	A
+12	9	7	NA18943_hap2_hprc_r2_v1.0.1	2- 1-	EAS	A
+12	9	7	NA18948_hap1_hprc_r2_v1.0.1	2- 1-	EAS	A
+12	9	7	NA18960_hap1_hprc_r2_v1.0.1	2- 2- 1-	EAS	A
+12	9	7	NA18960_hap2_hprc_r2_v1.0.1	1-	EAS	A
+12	9	7	NA18967_hap2_hprc_r2_v1.0.1	1-	EAS	A
+12	9	7	NA20503_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+12	9	7	NA20799_hap2_hprc_r2_v1.0.1	1-	EUR	A
+12	9	7	NA20805_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+12	9	7	NA20806_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+12	9	7	NA20806_hap2_hprc_r2_v1.0.1	2+ 1-	EUR	A
+12	9	7	NA20827_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+12	9	7	NA20905_hap1_hprc_r2_v1.0.1	f- 1-	SAS	A
+16	2	7	HG00235_hap2_hprc_r2_v1.0.1	1+ 2+	EUR	A
+16	2	7	HG01981_mat_hprc_r2_v1.0.1	1+ 2+	AMR	A
+16	2	7	HG02257_mat_hprc_r2_v1.1.0	1+ 2+	AFR	A
+16	2	7	HG02738_pat_hprc_r2_v1.0.1	1+ 2+	SAS	A
+16	2	7	NA20762_hap2_hprc_r2_v1.0.1	1+ 2+	EUR	A
+16	2	7	NA21093_hap1_hprc_r2_v1.0.1	1+ 2+	SAS	A
+16	8	6	HG00741_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	6	HG01243_pat_hprc_r2_v1.0.1	1- 2- 1+	AMR	AA
+16	8	6	HG02451_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	6	HG02922_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	6	HG03486_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	HG00126_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	8	HG00126_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	8	HG00133_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	8	HG00133_hap2_hprc_r2_v1.0.1	d2- 1+	EUR	A
+16	8	8	HG00140_hap1_hprc_r2_v1.0.1	1- 2+	EUR	A
+16	8	8	HG00140_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	8	HG00146_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	8	HG00272_hap1_hprc_r2_v1.0.1	d2- 1+	EUR	A
+16	8	8	HG00272_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	8	HG00290_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	8	HG00323_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	8	HG00323_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	8	HG00408_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG00408_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG00438_mat_hprc_r2_v1.0.1	1+ 2+	EAS	A
+16	8	8	HG00544_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG00544_pat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+16	8	8	HG00597_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG00597_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG005_pat_hprc_r2_v1.0.1	2- 1+	other	A
+16	8	8	HG00621_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+16	8	8	HG00621_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG00639_mat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+16	8	8	HG00658_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG00673_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG00673_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG00733_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+16	8	8	HG00735_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG00735_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG00738_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG00738_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01071_mat_hprc_r2_v1.0.1	1- 2+	AMR	A
+16	8	8	HG01074_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+16	8	8	HG01099_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01106_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01150_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01175_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+16	8	8	HG01192_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+16	8	8	HG01255_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01258_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01433_mat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+16	8	8	HG01496_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01530_hap1_hprc_r2_v1.0.1	1- 2+	EUR	A
+16	8	8	HG01891_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	HG01928_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01943_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01952_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01969_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01969_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01975_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG01981_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG02004_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG02015_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02015_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02027_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02027_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02040_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02056_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+16	8	8	HG02056_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02071_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02071_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02074_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02080_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02080_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02083_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02083_pat_hprc_r2_v1.0.1	1- 2+	EAS	A
+16	8	8	HG02109_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	HG02129_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02129_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02132_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+16	8	8	HG02135_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02135_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02148_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG02165_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+16	8	8	HG02165_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+16	8	8	HG02178_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02178_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02280_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	HG02293_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG02293_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG02300_mat_hprc_r2_v1.0.1	h12- 1+	AMR	A
+16	8	8	HG02300_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	HG02391_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02392_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02392_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02523_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02523_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	HG02572_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	HG02583_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	HG02698_mat_hprc_r2_v1.0.1	1- 2+	SAS	A
+16	8	8	HG02738_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG02818_pat_hprc_r2_v1.0.1	1- 2+	AFR	A
+16	8	8	HG02841_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	HG02976_hap2_hprc_r2_v1.0.1	1- 2+	AFR	A
+16	8	8	HG03017_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG03017_pat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+16	8	8	HG03239_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG03369_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	HG03521_hap2_hprc_r2_v1.0.1	1- 2+	AFR	A
+16	8	8	HG03654_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG03654_pat_hprc_r2_v1.0.1	1- 2+	SAS	A
+16	8	8	HG03669_mat_hprc_r2_v1.0.1	2+ 1+	SAS	A
+16	8	8	HG03688_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG03704_mat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+16	8	8	HG03704_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG03804_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG03816_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG03816_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG03834_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG03927_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG03942_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG04115_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG04157_pat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+16	8	8	HG04160_mat_hprc_r2_v1.0.1	h21- 1+	SAS	A
+16	8	8	HG04199_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG04204_mat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+16	8	8	HG04204_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG04228_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG04228_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	HG06807_mat_v1.0.genbank	2- 1+	other	A
+16	8	8	NA18508_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	NA18565_hap1_hprc_r2_v1.0.1	1- 1+	EAS	AA
+16	8	8	NA18565_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18570_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18570_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18608_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18620_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18620_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18906_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	NA18940_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18940_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18943_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18945_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18948_hap2_hprc_r2_v1.0.1	2- 2- 1+	EAS	A
+16	8	8	NA18952_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18959_hap1_hprc_r2_v1.0.1	t- 2- 1+	EAS	A
+16	8	8	NA18959_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18967_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18970_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+16	8	8	NA18970_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18971_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18976_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18982_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18982_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+16	8	8	NA18983_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA18983_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA19087_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	8	8	NA19682_hap1_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	NA19682_hap2_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	NA19776_hap1_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	8	NA19835_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	NA20129_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	8	8	NA20827_hap2_hprc_r2_v1.0.1	d2- 1+	EUR	A
+16	8	8	NA20850_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	NA20850_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	NA20870_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	NA21093_hap2_hprc_r2_v1.0.1	1- 1+	SAS	AA
+16	8	8	NA21102_hap1_hprc_r2_v1.0.1	1+ 2+	SAS	A
+16	8	8	NA21106_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	NA21106_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	NA21110_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	NA21110_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	8	NA21144_hap1_hprc_r2_v1.0.1	1- 2+	SAS	A
+16	8	8	hg002v1.1.mat_MT.PanSN	2- 1+	other	A
+16	8	8	hg002v1.1.pat.PanSN	2- 1+	other	A
+16	8	15	HG00097_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	15	HG00099_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	15	HG00128_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	15	HG00253_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	15	HG00344_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	15	HG01071_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	15	HG01081_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	15	HG01150_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	15	HG01175_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	15	HG01192_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	15	HG01433_pat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+16	8	15	HG01978_mat_hprc_r2_v1.1.0	2- 1+	AMR	A
+16	8	15	HG03239_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	15	HG03710_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	15	HG03804_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	15	HG04157_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	15	HG04199_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	8	15	NA18608_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+16	8	15	NA19087_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+16	8	15	NA19776_hap2_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	8	15	NA20752_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	15	NA20799_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	15	NA20809_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	8	15	chm13v2.0_maskedY_rCRS.fa.PanSN	2- 1+	reference	A
+16	9	1	HG01167_hap1_hprc_r2_v1.0.1	1- 1+	AMR	BB
+16	9	1	HG01960_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02109_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02258_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02486_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02572_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02622_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02622_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02630_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02647_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02717_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02818_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02922_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02976_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG02984_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG03098_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG03130_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG03130_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG03139_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG03195_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG03209_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG03270_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG03369_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG03453_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG03471_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	HG03486_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	NA18522_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	NA18879_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	NA19036_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	NA19043_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	NA19185_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	NA19240_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	NA19240_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	NA19338_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	NA19700_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	NA19835_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	1	NA21309_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+16	9	2	HG02559_pat_hprc_r2_v1.0.1	1- h21+	AFR	B
+16	9	2	HG02615_mat_hprc_r2_v1.0.1	1- h21+	AFR	B
+16	9	2	HG02647_pat_hprc_r2_v1.0.1	1- h21+	AFR	B
+16	9	2	HG02723_mat_hprc_r2_v1.0.1	1- h21+	AFR	B
+16	9	2	HG02809_pat_hprc_r2_v1.0.1	2- 1+	AFR	B
+16	9	2	HG03516_pat_hprc_r2_v1.1.0	1- h21+	AFR	B
+16	9	2	NA20282_hap1_hprc_r2_v1.0.1	1- h21+	AFR	B
+16	9	8	HG00099_hap1_hprc_r2_v1.0.1	1+	EUR	A
+16	9	8	HG00146_hap2_hprc_r2_v1.0.1	1+	EUR	A
+16	9	8	HG00320_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	9	8	HG00321_hap1_hprc_r2_v1.0.1	1-	EUR	A
+16	9	8	HG00321_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	9	8	HG00344_hap2_hprc_r2_v1.0.1	1- 2+	EUR	A
+16	9	8	HG00350_hap1_hprc_r2_v1.0.1	1+	EUR	A
+16	9	8	HG00350_hap2_hprc_r2_v1.0.1	1+	EUR	A
+16	9	8	HG00438_pat_hprc_r2_v1.0.1	1+	EAS	A
+16	9	8	HG00558_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	9	8	HG00639_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	9	8	HG00658_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	9	8	HG00706_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	9	8	HG00706_pat_hprc_r2_v1.0.1	h21- 1+	EAS	A
+16	9	8	HG00741_mat_hprc_r2_v1.0.1	1- 2-	AMR	A
+16	9	8	HG01099_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	9	8	HG01106_pat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	8	HG01255_pat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	8	HG01346_mat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	8	HG01346_pat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	8	HG01358_mat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	8	HG01361_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	9	8	HG01361_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+16	9	8	HG01496_mat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	8	HG01884_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	9	8	HG02040_hap1_hprc_r2_v1.0.1	1+	EAS	A
+16	9	8	HG02074_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	9	8	HG02155_hap2_hprc_r2_v1.0.1	h21- 1+	EAS	A
+16	9	8	HG02258_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	9	8	HG02602_pat_hprc_r2_v1.0.1	1+	SAS	A
+16	9	8	HG02668_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	9	8	HG02698_pat_hprc_r2_v1.0.1	1- h12+ 1+	SAS	AA
+16	9	8	HG02723_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	9	8	HG02735_pat_hprc_r2_v1.0.1	1-	SAS	A
+16	9	8	HG02809_mat_hprc_r2_v1.0.1	1- 2+	AFR	A
+16	9	8	HG02984_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	9	8	HG03041_mat_hprc_r2_v1.0.1	1+	AFR	A
+16	9	8	HG03041_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	9	8	HG03225_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	9	8	HG03470_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	9	8	HG03669_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	9	8	HG03742_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+16	9	8	HG03831_mat_hprc_r2_v1.0.1	1-	SAS	A
+16	9	8	HG03874_hap1_hprc_r2_v1.0.1	1+	SAS	A
+16	9	8	HG03874_hap2_hprc_r2_v1.0.1	1+	SAS	A
+16	9	8	HG03927_pat_hprc_r2_v1.0.1	1+	SAS	A
+16	9	8	HG03942_mat_hprc_r2_v1.0.1	1+	SAS	A
+16	9	8	HG04187_mat_hprc_r2_v1.0.1	1+	SAS	A
+16	9	8	NA18508_hap2_hprc_r2_v1.0.1	1+	AFR	A
+16	9	8	NA18522_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	9	8	NA18944_hap1_hprc_r2_v1.0.1	1+	EAS	A
+16	9	8	NA18944_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+16	9	8	NA18952_hap1_hprc_r2_v1.0.1	1+	EAS	A
+16	9	8	NA18971_hap2_hprc_r2_v1.0.1	1+	EAS	A
+16	9	8	NA18976_hap2_hprc_r2_v1.0.1	1+	EAS	A
+16	9	8	NA20346_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+16	9	8	NA20346_hap2_hprc_r2_v1.0.1	1+	AFR	A
+16	9	8	NA20762_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	9	8	NA20805_hap1_hprc_r2_v1.0.1	1+	EUR	A
+16	9	8	NA20809_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+16	9	8	NA20870_hap1_hprc_r2_v1.0.1	1+	SAS	A
+16	9	12	HG01074_mat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	12	HG03195_hap1_hprc_r2_v1.0.1	1+	AFR	A
+16	9	12	HG03579_pat_hprc_r2_v1.0.1	1+	AFR	A
+16	9	12	HG03583_hap1_hprc_r2_v1.0.1	1+	AFR	A
+16	9	12	NA18906_mat_hprc_r2_v1.0.1	1+	AFR	A
+16	9	15	HG00558_pat_hprc_r2_v1.0.1	1+	EAS	A
+16	9	15	HG01081_mat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	15	HG01252_pat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	15	HG01784_hap1_hprc_r2_v1.0.1	1+	EUR	A
+16	9	15	HG01928_mat_hprc_r2_v1.0.1	1-	AMR	A
+16	9	15	HG01934_pat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	15	HG01940_pat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	15	HG01943_pat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	15	HG01975_mat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	15	HG02004_pat_hprc_r2_v1.0.1	1+	AMR	A
+16	9	15	HG02155_hap1_hprc_r2_v1.0.1	1+	EAS	A
+16	9	15	HG04115_pat_hprc_r2_v1.0.1	1+	SAS	A
+16	9	15	HG06807_pat_v1.0.genbank	1+	other	A
+16	9	15	NA21144_hap2_hprc_r2_v1.0.1	1-	SAS	A
+16	11	8	HG00097_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+16	11	8	HG01123_mat_hprc_r2_v1.0.1	1- 1-	AMR	AA
+16	11	8	HG01258_mat_hprc_r2_v1.0.1	2- 1-	AMR	A
+16	11	8	HG02257_pat_hprc_r2_v1.1.0	2- 1-	AFR	A
+16	11	8	HG02559_mat_hprc_r2_v1.0.1	2- 1-	AFR	A
+16	11	8	HG03050_pat_hprc_r2_v1.0.1	2- 1-	AFR	A
+16	11	8	NA19159_hap1_hprc_r2_v1.0.1	2- 1-	AFR	A
+16	11	8	NA19338_hap2_hprc_r2_v1.0.1	2- 1-	AFR	A
+16	11	8	NA19468_hap1_hprc_r2_v1.0.1	2- 1-	AFR	A
+16	11	8	NA20503_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+16	12	7	HG01786_hap2_hprc_r2_v1.0.1	2- 1- 1+	EUR	AA
+16	12	7	HG02735_mat_hprc_r2_v1.0.1	2- 1-	SAS	A
+16	12	7	HG03688_mat_hprc_r2_v1.0.1	2- 1- 1+	SAS	AA
+16	12	7	HG03834_pat_hprc_r2_v1.0.1	2- 1-	SAS	A
+16	12	7	NA18960_hap1_hprc_r2_v1.0.1	2- 2- 1-	EAS	A
+16	13	7	HG00235_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+16	13	7	HG00253_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+16	13	7	HG005_mat_hprc_r2_v1.0.1	2- 1-	other	A
+16	13	7	HG00609_mat_hprc_r2_v1.0.1	1-	EAS	A
+16	13	7	HG00609_pat_hprc_r2_v1.0.1	2+ 1-	EAS	A
+16	13	7	HG01123_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+16	13	7	HG01252_mat_hprc_r2_v1.0.1	2- 1-	AMR	A
+16	13	7	HG01261_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+16	13	7	HG01358_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+16	13	7	HG01786_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+16	13	7	HG01952_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+16	13	7	HG02391_hap1_hprc_r2_v1.0.1	2- 1-	EAS	A
+16	13	7	HG02514_pat_hprc_r2_v1.0.1	2- 1-	EAS	A
+16	13	7	HG02602_mat_hprc_r2_v1.0.1	1-	SAS	A
+16	13	7	HG03831_pat_hprc_r2_v1.0.1	2- 1-	SAS	A
+16	13	7	HG04184_mat_hprc_r2_v1.0.1	2- 1-	SAS	A
+16	13	7	HG04184_pat_hprc_r2_v1.0.1	1-	SAS	A
+16	13	7	HG04187_pat_hprc_r2_v1.0.1	2- 1-	SAS	A
+16	13	7	NA18943_hap2_hprc_r2_v1.0.1	2- 1-	EAS	A
+16	13	7	NA18948_hap1_hprc_r2_v1.0.1	2- 1-	EAS	A
+16	13	7	NA18960_hap2_hprc_r2_v1.0.1	1-	EAS	A
+16	13	7	NA18967_hap2_hprc_r2_v1.0.1	1-	EAS	A
+16	13	7	NA20503_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+16	13	7	NA20799_hap2_hprc_r2_v1.0.1	1-	EUR	A
+16	13	7	NA20805_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+16	13	7	NA20806_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+16	13	7	NA20806_hap2_hprc_r2_v1.0.1	2+ 1-	EUR	A
+16	13	7	NA20827_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+16	13	7	NA20905_hap1_hprc_r2_v1.0.1	f- 1-	SAS	A
+24	2	10	HG00235_hap2_hprc_r2_v1.0.1	1+ 2+	EUR	A
+24	2	10	HG01981_mat_hprc_r2_v1.0.1	1+ 2+	AMR	A
+24	2	10	HG02257_mat_hprc_r2_v1.1.0	1+ 2+	AFR	A
+24	2	10	HG02738_pat_hprc_r2_v1.0.1	1+ 2+	SAS	A
+24	2	10	NA20762_hap2_hprc_r2_v1.0.1	1+ 2+	EUR	A
+24	2	10	NA21093_hap1_hprc_r2_v1.0.1	1+ 2+	SAS	A
+24	10	14	HG00126_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	14	HG00126_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	14	HG00133_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	14	HG00133_hap2_hprc_r2_v1.0.1	d2- 1+	EUR	A
+24	10	14	HG00140_hap1_hprc_r2_v1.0.1	1- 2+	EUR	A
+24	10	14	HG00140_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	14	HG00146_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	14	HG00272_hap1_hprc_r2_v1.0.1	d2- 1+	EUR	A
+24	10	14	HG00272_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	14	HG00290_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	14	HG00323_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	14	HG00323_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	14	HG00408_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG00408_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG00438_mat_hprc_r2_v1.0.1	1+ 2+	EAS	A
+24	10	14	HG00544_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG00544_pat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+24	10	14	HG00597_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG00597_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG005_pat_hprc_r2_v1.0.1	2- 1+	other	A
+24	10	14	HG00621_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+24	10	14	HG00621_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG00639_mat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+24	10	14	HG00658_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG00673_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG00673_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG00733_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+24	10	14	HG00735_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG00735_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG00738_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG00738_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01071_mat_hprc_r2_v1.0.1	1- 2+	AMR	A
+24	10	14	HG01074_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+24	10	14	HG01099_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01106_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01150_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01175_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+24	10	14	HG01192_pat_hprc_r2_v1.0.1	d2- 1+	AMR	A
+24	10	14	HG01255_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01258_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01433_mat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+24	10	14	HG01496_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01530_hap1_hprc_r2_v1.0.1	1- 2+	EUR	A
+24	10	14	HG01891_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	10	14	HG01928_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01943_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01952_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01969_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01969_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01975_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG01981_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG02004_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG02015_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02015_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02027_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02027_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02040_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02056_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+24	10	14	HG02056_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02071_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02071_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02074_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02080_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02080_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02083_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02083_pat_hprc_r2_v1.0.1	1- 2+	EAS	A
+24	10	14	HG02109_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	10	14	HG02129_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02129_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02132_mat_hprc_r2_v1.0.1	2+ 1+	EAS	A
+24	10	14	HG02135_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02135_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02148_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG02165_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+24	10	14	HG02165_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+24	10	14	HG02178_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02178_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02280_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	10	14	HG02293_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG02293_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG02300_mat_hprc_r2_v1.0.1	h12- 1+	AMR	A
+24	10	14	HG02300_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	HG02391_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02392_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02392_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02523_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02523_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	HG02572_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	10	14	HG02583_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	10	14	HG02698_mat_hprc_r2_v1.0.1	1- 2+	SAS	A
+24	10	14	HG02738_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG02818_pat_hprc_r2_v1.0.1	1- 2+	AFR	A
+24	10	14	HG02841_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	10	14	HG02976_hap2_hprc_r2_v1.0.1	1- 2+	AFR	A
+24	10	14	HG03017_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG03017_pat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+24	10	14	HG03239_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG03369_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	10	14	HG03521_hap2_hprc_r2_v1.0.1	1- 2+	AFR	A
+24	10	14	HG03654_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG03654_pat_hprc_r2_v1.0.1	1- 2+	SAS	A
+24	10	14	HG03669_mat_hprc_r2_v1.0.1	2+ 1+	SAS	A
+24	10	14	HG03688_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG03704_mat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+24	10	14	HG03704_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG03804_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG03816_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG03816_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG03834_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG03927_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG03942_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG04115_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG04157_pat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+24	10	14	HG04160_mat_hprc_r2_v1.0.1	h21- 1+	SAS	A
+24	10	14	HG04199_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG04204_mat_hprc_r2_v1.0.1	1- 1+	SAS	AA
+24	10	14	HG04204_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG04228_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG04228_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	HG06807_mat_v1.0.genbank	2- 1+	other	A
+24	10	14	NA18508_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	10	14	NA18565_hap1_hprc_r2_v1.0.1	1- 1+	EAS	AA
+24	10	14	NA18565_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18570_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18570_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18608_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18620_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18620_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18906_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	10	14	NA18940_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18940_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18943_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18945_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18952_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18959_hap1_hprc_r2_v1.0.1	t- 2- 1+	EAS	A
+24	10	14	NA18959_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18967_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18970_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+24	10	14	NA18970_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18971_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18976_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18982_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18982_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+24	10	14	NA18983_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA18983_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA19087_hap1_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	10	14	NA19682_hap1_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	NA19682_hap2_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	NA19776_hap1_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	14	NA19835_hap1_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	10	14	NA20129_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	10	14	NA20827_hap2_hprc_r2_v1.0.1	d2- 1+	EUR	A
+24	10	14	NA20850_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	NA20850_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	NA20870_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	NA21093_hap2_hprc_r2_v1.0.1	1- 1+	SAS	AA
+24	10	14	NA21102_hap1_hprc_r2_v1.0.1	1+ 2+	SAS	A
+24	10	14	NA21106_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	NA21106_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	NA21110_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	NA21110_hap2_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	14	NA21144_hap1_hprc_r2_v1.0.1	1- 2+	SAS	A
+24	10	14	hg002v1.1.mat_MT.PanSN	2- 1+	other	A
+24	10	14	hg002v1.1.pat.PanSN	2- 1+	other	A
+24	10	23	HG00097_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	23	HG00099_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	23	HG00128_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	23	HG00253_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	23	HG00344_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	23	HG01071_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	23	HG01081_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	23	HG01150_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	23	HG01175_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	23	HG01192_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	23	HG01433_pat_hprc_r2_v1.0.1	2+ 1+	AMR	A
+24	10	23	HG01978_mat_hprc_r2_v1.1.0	2- 1+	AMR	A
+24	10	23	HG03239_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	23	HG03710_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	23	HG03804_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	23	HG04157_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	23	HG04199_mat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	10	23	NA18608_hap1_hprc_r2_v1.0.1	2+ 1+	EAS	A
+24	10	23	NA19087_hap2_hprc_r2_v1.0.1	2+ 1+	EAS	A
+24	10	23	NA19776_hap2_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	10	23	NA20752_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	23	NA20799_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	23	NA20809_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	10	23	chm13v2.0_maskedY_rCRS.fa.PanSN	2- 1+	reference	A
+24	12	2	HG01167_hap1_hprc_r2_v1.0.1	1- 1+	AMR	BB
+24	12	2	HG01960_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG02258_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG02486_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG02572_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG02622_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG02622_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG02630_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG02647_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG02717_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG02818_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG02922_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG02976_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG03098_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG03130_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG03130_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG03139_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG03195_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG03209_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG03270_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG03369_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG03453_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG03471_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	HG03486_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	NA18522_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	NA19036_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	NA19043_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	NA19185_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	NA19240_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	NA19338_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	NA19700_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	2	NA19835_hap2_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	12	23	HG01081_mat_hprc_r2_v1.0.1	1+	AMR	A
+24	12	23	HG01252_pat_hprc_r2_v1.0.1	1+	AMR	A
+24	12	23	HG01784_hap1_hprc_r2_v1.0.1	1+	EUR	A
+24	12	23	HG01928_mat_hprc_r2_v1.0.1	1-	AMR	A
+24	12	23	HG01934_pat_hprc_r2_v1.0.1	1+	AMR	A
+24	12	23	HG01940_pat_hprc_r2_v1.0.1	1+	AMR	A
+24	12	23	HG01943_pat_hprc_r2_v1.0.1	1+	AMR	A
+24	12	23	HG01975_mat_hprc_r2_v1.0.1	1+	AMR	A
+24	12	23	HG02004_pat_hprc_r2_v1.0.1	1+	AMR	A
+24	12	23	HG02155_hap1_hprc_r2_v1.0.1	1+	EAS	A
+24	12	23	HG04115_pat_hprc_r2_v1.0.1	1+	SAS	A
+24	13	2	HG02109_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	13	2	HG02984_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	13	2	NA18879_hap1_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	13	2	NA19240_mat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	13	2	NA21309_pat_hprc_r2_v1.0.1	1- 1+	AFR	BB
+24	13	4	HG02559_pat_hprc_r2_v1.0.1	1- h21+	AFR	B
+24	13	4	HG02615_mat_hprc_r2_v1.0.1	1- h21+	AFR	B
+24	13	4	HG02647_pat_hprc_r2_v1.0.1	1- h21+	AFR	B
+24	13	4	HG02723_mat_hprc_r2_v1.0.1	1- h21+	AFR	B
+24	13	4	HG02809_pat_hprc_r2_v1.0.1	2- 1+	AFR	B
+24	13	14	HG00099_hap1_hprc_r2_v1.0.1	1+	EUR	A
+24	13	14	HG00146_hap2_hprc_r2_v1.0.1	1+	EUR	A
+24	13	14	HG00320_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	13	14	HG00321_hap1_hprc_r2_v1.0.1	1-	EUR	A
+24	13	14	HG00321_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	13	14	HG00350_hap1_hprc_r2_v1.0.1	1+	EUR	A
+24	13	14	HG00350_hap2_hprc_r2_v1.0.1	1+	EUR	A
+24	13	14	HG00438_pat_hprc_r2_v1.0.1	1+	EAS	A
+24	13	14	HG00558_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	13	14	HG00639_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	13	14	HG00658_pat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	13	14	HG00706_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	13	14	HG00706_pat_hprc_r2_v1.0.1	h21- 1+	EAS	A
+24	13	14	HG01099_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	13	14	HG01106_pat_hprc_r2_v1.0.1	1+	AMR	A
+24	13	14	HG01255_pat_hprc_r2_v1.0.1	1+	AMR	A
+24	13	14	HG01346_mat_hprc_r2_v1.0.1	1+	AMR	A
+24	13	14	HG01346_pat_hprc_r2_v1.0.1	1+	AMR	A
+24	13	14	HG01358_mat_hprc_r2_v1.0.1	1+	AMR	A
+24	13	14	HG01361_mat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	13	14	HG01361_pat_hprc_r2_v1.0.1	2- 1+	AMR	A
+24	13	14	HG01496_mat_hprc_r2_v1.0.1	1+	AMR	A
+24	13	14	HG01884_mat_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	13	14	HG02040_hap1_hprc_r2_v1.0.1	1+	EAS	A
+24	13	14	HG02074_mat_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	13	14	HG02155_hap2_hprc_r2_v1.0.1	h21- 1+	EAS	A
+24	13	14	HG02602_pat_hprc_r2_v1.0.1	1+	SAS	A
+24	13	14	HG02668_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	13	14	HG02723_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	13	14	HG02735_pat_hprc_r2_v1.0.1	1-	SAS	A
+24	13	14	HG02809_mat_hprc_r2_v1.0.1	1- 2+	AFR	A
+24	13	14	HG02984_pat_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	13	14	HG03041_mat_hprc_r2_v1.0.1	1+	AFR	A
+24	13	14	HG03470_hap2_hprc_r2_v1.0.1	2- 1+	AFR	A
+24	13	14	HG03669_pat_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	13	14	HG03742_hap1_hprc_r2_v1.0.1	2- 1+	SAS	A
+24	13	14	HG03831_mat_hprc_r2_v1.0.1	1-	SAS	A
+24	13	14	HG03874_hap1_hprc_r2_v1.0.1	1+	SAS	A
+24	13	14	HG03874_hap2_hprc_r2_v1.0.1	1+	SAS	A
+24	13	14	HG03927_pat_hprc_r2_v1.0.1	1+	SAS	A
+24	13	14	HG03942_mat_hprc_r2_v1.0.1	1+	SAS	A
+24	13	14	HG04187_mat_hprc_r2_v1.0.1	1+	SAS	A
+24	13	14	NA18508_hap2_hprc_r2_v1.0.1	1+	AFR	A
+24	13	14	NA18944_hap1_hprc_r2_v1.0.1	1+	EAS	A
+24	13	14	NA18944_hap2_hprc_r2_v1.0.1	2- 1+	EAS	A
+24	13	14	NA18952_hap1_hprc_r2_v1.0.1	1+	EAS	A
+24	13	14	NA18971_hap2_hprc_r2_v1.0.1	1+	EAS	A
+24	13	14	NA18976_hap2_hprc_r2_v1.0.1	1+	EAS	A
+24	13	14	NA20346_hap2_hprc_r2_v1.0.1	1+	AFR	A
+24	13	14	NA20762_hap1_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	13	14	NA20805_hap1_hprc_r2_v1.0.1	1+	EUR	A
+24	13	14	NA20809_hap2_hprc_r2_v1.0.1	2- 1+	EUR	A
+24	13	14	NA20870_hap1_hprc_r2_v1.0.1	1+	SAS	A
+24	17	14	HG00097_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+24	17	14	HG01123_mat_hprc_r2_v1.0.1	1- 1-	AMR	AA
+24	17	14	HG01258_mat_hprc_r2_v1.0.1	2- 1-	AMR	A
+24	17	14	HG02257_pat_hprc_r2_v1.1.0	2- 1-	AFR	A
+24	17	14	HG02559_mat_hprc_r2_v1.0.1	2- 1-	AFR	A
+24	17	14	HG03050_pat_hprc_r2_v1.0.1	2- 1-	AFR	A
+24	17	14	NA19159_hap1_hprc_r2_v1.0.1	2- 1-	AFR	A
+24	17	14	NA19338_hap2_hprc_r2_v1.0.1	2- 1-	AFR	A
+24	17	14	NA19468_hap1_hprc_r2_v1.0.1	2- 1-	AFR	A
+24	17	14	NA20503_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+24	21	10	HG00235_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+24	21	10	HG005_mat_hprc_r2_v1.0.1	2- 1-	other	A
+24	21	10	HG00609_mat_hprc_r2_v1.0.1	1-	EAS	A
+24	21	10	HG00609_pat_hprc_r2_v1.0.1	2+ 1-	EAS	A
+24	21	10	HG01252_mat_hprc_r2_v1.0.1	2- 1-	AMR	A
+24	21	10	HG01261_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+24	21	10	HG01358_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+24	21	10	HG01952_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+24	21	10	HG02391_hap1_hprc_r2_v1.0.1	2- 1-	EAS	A
+24	21	10	HG02514_pat_hprc_r2_v1.0.1	2- 1-	EAS	A
+24	21	10	HG04184_mat_hprc_r2_v1.0.1	2- 1-	SAS	A
+24	21	10	HG04184_pat_hprc_r2_v1.0.1	1-	SAS	A
+24	21	10	NA18943_hap2_hprc_r2_v1.0.1	2- 1-	EAS	A
+24	21	10	NA18948_hap1_hprc_r2_v1.0.1	2- 1-	EAS	A
+24	21	10	NA18960_hap2_hprc_r2_v1.0.1	1-	EAS	A
+24	21	10	NA18967_hap2_hprc_r2_v1.0.1	1-	EAS	A
+24	21	10	NA20503_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+24	21	10	NA20799_hap2_hprc_r2_v1.0.1	1-	EUR	A
+24	21	10	NA20805_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+24	21	10	NA20806_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+24	21	10	NA20806_hap2_hprc_r2_v1.0.1	2+ 1-	EUR	A
+24	21	10	NA20827_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+24	21	10	NA20905_hap1_hprc_r2_v1.0.1	f- 1-	SAS	A
+24	21	11	HG00253_hap2_hprc_r2_v1.0.1	2- 1-	EUR	A
+24	21	11	HG01123_pat_hprc_r2_v1.0.1	2- 1-	AMR	A
+24	21	11	HG01786_hap1_hprc_r2_v1.0.1	2- 1-	EUR	A
+24	21	11	HG02602_mat_hprc_r2_v1.0.1	1-	SAS	A
+24	21	11	HG03831_pat_hprc_r2_v1.0.1	2- 1-	SAS	A
+24	21	11	HG04187_pat_hprc_r2_v1.0.1	2- 1-	SAS	A

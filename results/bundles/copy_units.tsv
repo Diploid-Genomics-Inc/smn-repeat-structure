@@ -1,0 +1,884 @@
+copy_id	src	token	mid_fwd	unit_family	unit_strand	unit_span
+HG03784_hap1_hprc_r2_v1.0.1|w9|c0	HG03784_hap1_hprc_r2_v1.0.1	t+	12919			0
+NA18974_hap2_hprc_r2_v1.0.1|w0|c0	NA18974_hap2_hprc_r2_v1.0.1	t-	5684			0
+NA18974_hap2_hprc_r2_v1.0.1|w0|c1	NA18974_hap2_hprc_r2_v1.0.1	1+	611661			0
+HG00329_hap2_hprc_r2_v1.0.1|w9|c0	HG00329_hap2_hprc_r2_v1.0.1	t+	3932			0
+HG00733_mat_hprc_r2_v1.0.1|w7|c0	HG00733_mat_hprc_r2_v1.0.1	2+	19162			0
+HG00329_hap2_hprc_r2_v1.0.1|w8|c0	HG00329_hap2_hprc_r2_v1.0.1	2+	20305			0
+HG01261_mat_hprc_r2_v1.0.1|w5|c0	HG01261_mat_hprc_r2_v1.0.1	2+	40595			0
+HG01934_mat_hprc_r2_v1.0.1|w7|c0	HG01934_mat_hprc_r2_v1.0.1	1+	128269			0
+HG02273_hap2_hprc_r2_v1.0.1|w6|c0	HG02273_hap2_hprc_r2_v1.0.1	1+	130635			0
+HG02717_mat_hprc_r2_v1.0.1|w3|c0	HG02717_mat_hprc_r2_v1.0.1	1-	178572	K	+	150691
+HG02717_mat_hprc_r2_v1.0.1|w3|c1	HG02717_mat_hprc_r2_v1.0.1	1+	456800	K	-	217332
+HG03540_pat_hprc_r2_v1.0.1|w3|c0	HG03540_pat_hprc_r2_v1.0.1	1-	178572	K	+	150690
+HG03540_pat_hprc_r2_v1.0.1|w3|c1	HG03540_pat_hprc_r2_v1.0.1	1+	456786	K	-	217329
+HG01993_pat_hprc_r2_v1.0.1|w0|c0	HG01993_pat_hprc_r2_v1.0.1	1+	185522			0
+HG00423_pat_hprc_r2_v1.0.1|w2|c0	HG00423_pat_hprc_r2_v1.0.1	1+	191528			0
+HG03784_hap2_hprc_r2_v1.0.1|w3|c0	HG03784_hap2_hprc_r2_v1.0.1	1+	191530			0
+HG00423_mat_hprc_r2_v1.0.1|w2|c0	HG00423_mat_hprc_r2_v1.0.1	1+	202537			0
+HG01109_pat_hprc_r2_v1.0.1|w2|c0	HG01109_pat_hprc_r2_v1.0.1	1+	204585			0
+HG01993_mat_hprc_r2_v1.0.1|w5|c0	HG01993_mat_hprc_r2_v1.0.1	1+	205966			0
+HG03784_hap1_hprc_r2_v1.0.1|w10|c0	HG03784_hap1_hprc_r2_v1.0.1	t+	212997			0
+HG00232_hap1_hprc_r2_v1.0.1|w0|c0	HG00232_hap1_hprc_r2_v1.0.1	2-	229889			0
+HG00232_hap1_hprc_r2_v1.0.1|w0|c1	HG00232_hap1_hprc_r2_v1.0.1	1-	725941			0
+NA18944_hap2_hprc_r2_v1.0.1|w3|c0	NA18944_hap2_hprc_r2_v1.0.1	2-	236262	A	+	409172
+NA18944_hap2_hprc_r2_v1.0.1|w3|c1	NA18944_hap2_hprc_r2_v1.0.1	1+	849844	A	-	415278
+HG01099_pat_hprc_r2_v1.0.1|w4|c0	HG01099_pat_hprc_r2_v1.0.1	2-	236835	A	+	427169
+HG01099_pat_hprc_r2_v1.0.1|w4|c1	HG01099_pat_hprc_r2_v1.0.1	1+	889024	A	-	435728
+HG01361_mat_hprc_r2_v1.0.1|w3|c0	HG01361_mat_hprc_r2_v1.0.1	2-	236871	A	+	430030
+HG01361_mat_hprc_r2_v1.0.1|w3|c1	HG01361_mat_hprc_r2_v1.0.1	1+	909412	A	-	439066
+NA20762_hap1_hprc_r2_v1.0.1|w4|c0	NA20762_hap1_hprc_r2_v1.0.1	2-	236877	A	+	406738
+NA20762_hap1_hprc_r2_v1.0.1|w4|c1	NA20762_hap1_hprc_r2_v1.0.1	1+	866151	A	-	433247
+HG00320_hap2_hprc_r2_v1.0.1|w4|c0	HG00320_hap2_hprc_r2_v1.0.1	2-	236892	A	+	429621
+HG00320_hap2_hprc_r2_v1.0.1|w4|c1	HG00320_hap2_hprc_r2_v1.0.1	1+	909165	A	-	439050
+HG00639_pat_hprc_r2_v1.0.1|w3|c0	HG00639_pat_hprc_r2_v1.0.1	2-	236905	A	+	447594
+HG00639_pat_hprc_r2_v1.0.1|w3|c1	HG00639_pat_hprc_r2_v1.0.1	1+	909513	A	-	421481
+HG00321_hap2_hprc_r2_v1.0.1|w4|c0	HG00321_hap2_hprc_r2_v1.0.1	2-	236919	A	+	430060
+HG00321_hap2_hprc_r2_v1.0.1|w4|c1	HG00321_hap2_hprc_r2_v1.0.1	1+	909478	A	-	439021
+HG01361_pat_hprc_r2_v1.0.1|w3|c0	HG01361_pat_hprc_r2_v1.0.1	2-	236923	A	+	427221
+HG01361_pat_hprc_r2_v1.0.1|w3|c1	HG01361_pat_hprc_r2_v1.0.1	1+	889023	A	-	435673
+HG02074_mat_hprc_r2_v1.0.1|w3|c0	HG02074_mat_hprc_r2_v1.0.1	2-	237053	A	+	408737
+HG02074_mat_hprc_r2_v1.0.1|w3|c1	HG02074_mat_hprc_r2_v1.0.1	1+	850673	A	-	415209
+HG03669_pat_hprc_r2_v1.0.1|w4|c0	HG03669_pat_hprc_r2_v1.0.1	2-	237149	A	+	409038
+HG03669_pat_hprc_r2_v1.0.1|w4|c1	HG03669_pat_hprc_r2_v1.0.1	1+	871260	A	-	435725
+HG00558_mat_hprc_r2_v1.0.1|w4|c0	HG00558_mat_hprc_r2_v1.0.1	2-	237149	A	+	409197
+HG00558_mat_hprc_r2_v1.0.1|w4|c1	HG00558_mat_hprc_r2_v1.0.1	1+	850732	A	-	415267
+HG00658_pat_hprc_r2_v1.0.1|w4|c0	HG00658_pat_hprc_r2_v1.0.1	2-	237158	A	+	427715
+HG00658_pat_hprc_r2_v1.0.1|w4|c1	HG00658_pat_hprc_r2_v1.0.1	1+	850364	A	-	433366
+HG00706_mat_hprc_r2_v1.0.1|w4|c0	HG00706_mat_hprc_r2_v1.0.1	2-	237181	A	+	409218
+HG00706_mat_hprc_r2_v1.0.1|w4|c1	HG00706_mat_hprc_r2_v1.0.1	1+	850809	A	-	415626
+HG02723_pat_hprc_r2_v1.0.1|w3|c0	HG02723_pat_hprc_r2_v1.0.1	2-	237352	A	+	468618
+HG02723_pat_hprc_r2_v1.0.1|w3|c1	HG02723_pat_hprc_r2_v1.0.1	1+	891619	A	-	433759
+HG03583_hap2_hprc_r2_v1.0.1|w5|c0	HG03583_hap2_hprc_r2_v1.0.1	2-	237368			0
+HG02486_pat_hprc_r2_v1.0.1|w4|c0	HG02486_pat_hprc_r2_v1.0.1	2-	237407	A	+	444971
+HG02486_pat_hprc_r2_v1.0.1|w4|c1	HG02486_pat_hprc_r2_v1.0.1	1+	870195	A	-	429412
+NA18879_hap2_hprc_r2_v1.0.1|w4|c0	NA18879_hap2_hprc_r2_v1.0.1	2-	237430	A	+	468924
+NA18879_hap2_hprc_r2_v1.0.1|w4|c1	NA18879_hap2_hprc_r2_v1.0.1	h12+	891280	A	-	433055
+HG02809_pat_hprc_r2_v1.0.1|w4|c0	HG02809_pat_hprc_r2_v1.0.1	2-	237438	A	+	487360
+HG02809_pat_hprc_r2_v1.0.1|w4|c1	HG02809_pat_hprc_r2_v1.0.1	1+	912167	A	-	478044
+HG01884_mat_hprc_r2_v1.0.1|w3|c0	HG01884_mat_hprc_r2_v1.0.1	2-	237453	A	+	468608
+HG01884_mat_hprc_r2_v1.0.1|w3|c1	HG01884_mat_hprc_r2_v1.0.1	1+	891769	A	-	433770
+HG03470_hap2_hprc_r2_v1.0.1|w3|c0	HG03470_hap2_hprc_r2_v1.0.1	2-	237468	A	+	448169
+HG03470_hap2_hprc_r2_v1.0.1|w3|c1	HG03470_hap2_hprc_r2_v1.0.1	1+	871340	A	-	433837
+HG02668_pat_hprc_r2_v1.0.1|w5|c0	HG02668_pat_hprc_r2_v1.0.1	2-	237474	A	+	509494
+HG02668_pat_hprc_r2_v1.0.1|w5|c1	HG02668_pat_hprc_r2_v1.0.1	1+	932744	A	-	433759
+HG005_mat_hprc_r2_v1.0.1|w2|c0	HG005_mat_hprc_r2_v1.0.1	2-	237474	A	+	403027
+HG005_mat_hprc_r2_v1.0.1|w2|c1	HG005_mat_hprc_r2_v1.0.1	1-	733442	A	+	409045
+NA18943_hap2_hprc_r2_v1.0.1|w3|c0	NA18943_hap2_hprc_r2_v1.0.1	2-	237480	A	+	388124
+NA18943_hap2_hprc_r2_v1.0.1|w3|c1	NA18943_hap2_hprc_r2_v1.0.1	1-	733550	A	+	394579
+NA18948_hap1_hprc_r2_v1.0.1|w3|c0	NA18948_hap1_hprc_r2_v1.0.1	2-	237483	A	+	403257
+NA18948_hap1_hprc_r2_v1.0.1|w3|c1	NA18948_hap1_hprc_r2_v1.0.1	1-	733685	A	+	409024
+NA18522_hap1_hprc_r2_v1.0.1|w3|c0	NA18522_hap1_hprc_r2_v1.0.1	2-	237494	A	+	345573
+NA18522_hap1_hprc_r2_v1.0.1|w3|c1	NA18522_hap1_hprc_r2_v1.0.1	1+	850890	A	-	346042
+NA20129_pat_hprc_r2_v1.0.1|w4|c0	NA20129_pat_hprc_r2_v1.0.1	2-	237500	A	+	423679
+NA20129_pat_hprc_r2_v1.0.1|w4|c1	NA20129_pat_hprc_r2_v1.0.1	1-	1336672	A	+	482936
+NA18945_hap2_hprc_r2_v1.0.1|w4|c0	NA18945_hap2_hprc_r2_v1.0.1	2-	237510	A	+	409168
+NA18945_hap2_hprc_r2_v1.0.1|w4|c1	NA18945_hap2_hprc_r2_v1.0.1	h12+	850880	A	-	415241
+NA20809_hap2_hprc_r2_v1.0.1|w3|c0	NA20809_hap2_hprc_r2_v1.0.1	2-	237568	A	+	447662
+NA20809_hap2_hprc_r2_v1.0.1|w3|c1	NA20809_hap2_hprc_r2_v1.0.1	1+	910164	A	-	435694
+HG03041_pat_hprc_r2_v1.0.1|w2|c0	HG03041_pat_hprc_r2_v1.0.1	2-	237625	A	+	449319
+HG03041_pat_hprc_r2_v1.0.1|w2|c1	HG03041_pat_hprc_r2_v1.0.1	1+	913625	A	-	437808
+HG03225_hap1_hprc_r2_v1.0.1|w4|c0	HG03225_hap1_hprc_r2_v1.0.1	2-	237653	A	+	449364
+HG03225_hap1_hprc_r2_v1.0.1|w4|c1	HG03225_hap1_hprc_r2_v1.0.1	1+	913546	A	-	437754
+HG02258_mat_hprc_r2_v1.0.1|w3|c0	HG02258_mat_hprc_r2_v1.0.1	2-	237657	A	+	449353
+HG02258_mat_hprc_r2_v1.0.1|w3|c1	HG02258_mat_hprc_r2_v1.0.1	1+	913589	A	-	437775
+HG02922_hap1_hprc_r2_v1.0.1|w3|c0	HG02922_hap1_hprc_r2_v1.0.1	1-	242439	A	+	432155
+HG02922_hap1_hprc_r2_v1.0.1|w3|c1	HG02922_hap1_hprc_r2_v1.0.1	1+	895220	A	-	430877
+HG00706_pat_hprc_r2_v1.0.1|w4|c0	HG00706_pat_hprc_r2_v1.0.1	h21-	242570	A	+	414941
+HG00706_pat_hprc_r2_v1.0.1|w4|c1	HG00706_pat_hprc_r2_v1.0.1	1+	856238	A	-	415237
+NA20282_hap1_hprc_r2_v1.0.1|w5|c0	NA20282_hap1_hprc_r2_v1.0.1	1-	242721	A	+	456194
+NA20282_hap1_hprc_r2_v1.0.1|w5|c1	NA20282_hap1_hprc_r2_v1.0.1	h21+	898523	A	-	410483
+HG03130_hap2_hprc_r2_v1.0.1|w4|c0	HG03130_hap2_hprc_r2_v1.0.1	1-	242732	A	+	432161
+HG03130_hap2_hprc_r2_v1.0.1|w4|c1	HG03130_hap2_hprc_r2_v1.0.1	1+	895538	A	-	430892
+HG02572_pat_hprc_r2_v1.0.1|w4|c0	HG02572_pat_hprc_r2_v1.0.1	1-	242749	A	+	412577
+HG02572_pat_hprc_r2_v1.0.1|w4|c1	HG02572_pat_hprc_r2_v1.0.1	1+	875271	A	-	430890
+HG03471_hap1_hprc_r2_v1.0.1|w3|c0	HG03471_hap1_hprc_r2_v1.0.1	1-	242761	A	+	473060
+HG03471_hap1_hprc_r2_v1.0.1|w3|c1	HG03471_hap1_hprc_r2_v1.0.1	1+	936537	A	-	430899
+HG02630_mat_hprc_r2_v1.0.1|w3|c0	HG02630_mat_hprc_r2_v1.0.1	1-	242762	A	+	432204
+HG02630_mat_hprc_r2_v1.0.1|w3|c1	HG02630_mat_hprc_r2_v1.0.1	1+	875006	A	-	410524
+HG02818_mat_hprc_r2_v1.0.1|w6|c0	HG02818_mat_hprc_r2_v1.0.1	1-	242776	A	+	436559
+HG02818_mat_hprc_r2_v1.0.1|w6|c1	HG02818_mat_hprc_r2_v1.0.1	1+	898387	A	-	430047
+NA19835_hap2_hprc_r2_v1.0.1|w5|c0	NA19835_hap2_hprc_r2_v1.0.1	1-	242772	A	+	432161
+NA19835_hap2_hprc_r2_v1.0.1|w5|c1	NA19835_hap2_hprc_r2_v1.0.1	1+	875063	A	-	410487
+NA18522_hap2_hprc_r2_v1.0.1|w4|c0	NA18522_hap2_hprc_r2_v1.0.1	1-	242780	A	+	436545
+NA18522_hap2_hprc_r2_v1.0.1|w4|c1	NA18522_hap2_hprc_r2_v1.0.1	1+	898378	A	-	430064
+NA19700_hap2_hprc_r2_v1.0.1|w3|c0	NA19700_hap2_hprc_r2_v1.0.1	1-	242775	A	+	392085
+NA19700_hap2_hprc_r2_v1.0.1|w3|c1	NA19700_hap2_hprc_r2_v1.0.1	1+	855488	A	-	430873
+HG02668_mat_hprc_r2_v1.0.1|w4|c0	HG02668_mat_hprc_r2_v1.0.1	1-	242777	A	+	464938
+HG02668_mat_hprc_r2_v1.0.1|w4|c1	HG02668_mat_hprc_r2_v1.0.1	2-	864149	A	+	380709
+HG02668_mat_hprc_r2_v1.0.1|w4|c2	HG02668_mat_hprc_r2_v1.0.1	1-	1612686	A	+	478296
+HG03369_hap2_hprc_r2_v1.0.1|w4|c0	HG03369_hap2_hprc_r2_v1.0.1	1-	242780	A	+	432165
+HG03369_hap2_hprc_r2_v1.0.1|w4|c1	HG03369_hap2_hprc_r2_v1.0.1	1+	895623	A	-	430882
+HG02717_pat_hprc_r2_v1.0.1|w4|c0	HG02717_pat_hprc_r2_v1.0.1	1-	242785	A	+	432154
+HG02717_pat_hprc_r2_v1.0.1|w4|c1	HG02717_pat_hprc_r2_v1.0.1	1+	895612	A	-	430895
+HG03486_pat_hprc_r2_v1.0.1|w4|c0	HG03486_pat_hprc_r2_v1.0.1	1-	242798	A	+	432195
+HG03486_pat_hprc_r2_v1.0.1|w4|c1	HG03486_pat_hprc_r2_v1.0.1	1+	895103	A	-	430904
+HG02984_mat_hprc_r2_v1.0.1|w3|c0	HG02984_mat_hprc_r2_v1.0.1	1-	242787	A	+	432158
+HG02984_mat_hprc_r2_v1.0.1|w3|c1	HG02984_mat_hprc_r2_v1.0.1	1+	874816	A	-	410455
+HG02647_mat_hprc_r2_v1.0.1|w3|c0	HG02647_mat_hprc_r2_v1.0.1	1-	242795	A	+	432174
+HG02647_mat_hprc_r2_v1.0.1|w3|c1	HG02647_mat_hprc_r2_v1.0.1	1+	895554	A	-	430904
+NA19185_hap1_hprc_r2_v1.0.1|w4|c0	NA19185_hap1_hprc_r2_v1.0.1	1-	242797	A	+	432165
+NA19185_hap1_hprc_r2_v1.0.1|w4|c1	NA19185_hap1_hprc_r2_v1.0.1	1+	875187	A	-	410477
+HG03130_hap1_hprc_r2_v1.0.1|w3|c0	HG03130_hap1_hprc_r2_v1.0.1	1-	242797	A	+	432178
+HG03130_hap1_hprc_r2_v1.0.1|w3|c1	HG03130_hap1_hprc_r2_v1.0.1	1+	875276	A	-	410486
+HG02976_hap1_hprc_r2_v1.0.1|w3|c0	HG02976_hap1_hprc_r2_v1.0.1	1-	242798	A	+	432142
+HG02976_hap1_hprc_r2_v1.0.1|w3|c1	HG02976_hap1_hprc_r2_v1.0.1	1+	895594	A	-	430925
+NA19043_hap2_hprc_r2_v1.0.1|w6|c0	NA19043_hap2_hprc_r2_v1.0.1	1-	242803	A	+	347120
+NA19043_hap2_hprc_r2_v1.0.1|w6|c1	NA19043_hap2_hprc_r2_v1.0.1	1+	914340	A	-	325450
+HG02486_mat_hprc_r2_v1.0.1|w4|c0	HG02486_mat_hprc_r2_v1.0.1	1-	242812	A	+	432184
+HG02486_mat_hprc_r2_v1.0.1|w4|c1	HG02486_mat_hprc_r2_v1.0.1	1+	895611	A	-	430912
+HG03209_hap1_hprc_r2_v1.0.1|w4|c0	HG03209_hap1_hprc_r2_v1.0.1	1-	242813	A	+	432185
+HG03209_hap1_hprc_r2_v1.0.1|w4|c1	HG03209_hap1_hprc_r2_v1.0.1	1+	895662	A	-	430910
+HG02109_pat_hprc_r2_v1.0.1|w3|c0	HG02109_pat_hprc_r2_v1.0.1	1-	242816	A	+	432183
+HG02109_pat_hprc_r2_v1.0.1|w3|c1	HG02109_pat_hprc_r2_v1.0.1	1+	874942	A	-	410450
+NA19036_hap2_hprc_r2_v1.0.1|w4|c0	NA19036_hap2_hprc_r2_v1.0.1	1-	242817	A	+	450135
+NA19036_hap2_hprc_r2_v1.0.1|w4|c1	NA19036_hap2_hprc_r2_v1.0.1	1+	913573	A	-	430910
+HG01167_hap1_hprc_r2_v1.0.1|w4|c0	HG01167_hap1_hprc_r2_v1.0.1	1-	242826	A	+	432172
+HG01167_hap1_hprc_r2_v1.0.1|w4|c1	HG01167_hap1_hprc_r2_v1.0.1	1+	895712	A	-	430896
+HG03270_hap2_hprc_r2_v1.0.1|w4|c0	HG03270_hap2_hprc_r2_v1.0.1	1-	242828	A	+	432167
+HG03270_hap2_hprc_r2_v1.0.1|w4|c1	HG03270_hap2_hprc_r2_v1.0.1	1+	875231	A	-	410462
+NA19240_pat_hprc_r2_v1.0.1|w3|c0	NA19240_pat_hprc_r2_v1.0.1	1-	242830	A	+	432169
+NA19240_pat_hprc_r2_v1.0.1|w3|c1	NA19240_pat_hprc_r2_v1.0.1	1+	895645	A	-	430886
+HG03098_mat_hprc_r2_v1.0.1|w4|c0	HG03098_mat_hprc_r2_v1.0.1	1-	242836	A	+	432196
+HG03098_mat_hprc_r2_v1.0.1|w4|c1	HG03098_mat_hprc_r2_v1.0.1	1+	895706	A	-	430888
+HG03195_hap2_hprc_r2_v1.0.1|w4|c0	HG03195_hap2_hprc_r2_v1.0.1	1-	242838	A	+	432145
+HG03195_hap2_hprc_r2_v1.0.1|w4|c1	HG03195_hap2_hprc_r2_v1.0.1	1+	895617	A	-	430896
+NA20282_hap2_hprc_r2_v1.0.1|w4|c0	NA20282_hap2_hprc_r2_v1.0.1	1-	242862	A	+	361158
+NA20282_hap2_hprc_r2_v1.0.1|w4|c1	NA20282_hap2_hprc_r2_v1.0.1	h21-	868462	A	+	337294
+NA18505_hap1_hprc_r2_v1.0.1|w4|c0	NA18505_hap1_hprc_r2_v1.0.1	1-	242868	A	+	340698
+NA18505_hap1_hprc_r2_v1.0.1|w4|c1	NA18505_hap1_hprc_r2_v1.0.1	h21-	848001	A	+	391368
+HG02055_pat_hprc_r2_v1.0.1|w4|c0	HG02055_pat_hprc_r2_v1.0.1	1-	242859	A	+	450687
+HG02055_pat_hprc_r2_v1.0.1|w4|c1	HG02055_pat_hprc_r2_v1.0.1	1+	875393	A	-	435079
+NA19909_hap2_hprc_r2_v1.0.1|w3|c0	NA19909_hap2_hprc_r2_v1.0.1	1-	242872	A	+	340700
+NA19909_hap2_hprc_r2_v1.0.1|w3|c1	NA19909_hap2_hprc_r2_v1.0.1	h21-	848020	A	+	391364
+HG03098_pat_hprc_r2_v1.0.1|w4|c0	HG03098_pat_hprc_r2_v1.0.1	1-	242885	A	+	361149
+HG03098_pat_hprc_r2_v1.0.1|w4|c1	HG03098_pat_hprc_r2_v1.0.1	h21-	866918	A	+	391391
+HG03453_pat_hprc_r2_v1.0.1|w0|c0	HG03453_pat_hprc_r2_v1.0.1	1-	242876	A	+	411720
+HG03453_pat_hprc_r2_v1.0.1|w0|c1	HG03453_pat_hprc_r2_v1.0.1	1+	874357	A	-	430072
+HG00741_mat_hprc_r2_v1.0.1|w4|c0	HG00741_mat_hprc_r2_v1.0.1	1-	242879	A	+	345081
+HG00741_mat_hprc_r2_v1.0.1|w4|c1	HG00741_mat_hprc_r2_v1.0.1	2-	866070	A	+	408227
+NA19909_hap1_hprc_r2_v1.0.1|w4|c0	NA19909_hap1_hprc_r2_v1.0.1	2-	242893	A	+	429687
+NA19909_hap1_hprc_r2_v1.0.1|w4|c1	NA19909_hap1_hprc_r2_v1.0.1	1-	1342406	A	+	482941
+HG02809_mat_hprc_r2_v1.0.1|w4|c0	HG02809_mat_hprc_r2_v1.0.1	1-	242897	A	+	472971
+HG02809_mat_hprc_r2_v1.0.1|w4|c1	HG02809_mat_hprc_r2_v1.0.1	2+	897131	A	-	471993
+HG02258_pat_hprc_r2_v1.0.1|w3|c0	HG02258_pat_hprc_r2_v1.0.1	1-	242920	A	+	432152
+HG02258_pat_hprc_r2_v1.0.1|w3|c1	HG02258_pat_hprc_r2_v1.0.1	1+	895839	A	-	430886
+HG02615_mat_hprc_r2_v1.0.1|w3|c0	HG02615_mat_hprc_r2_v1.0.1	1-	242940	A	+	346978
+HG02615_mat_hprc_r2_v1.0.1|w3|c1	HG02615_mat_hprc_r2_v1.0.1	h21+	877735	A	-	365689
+HG03521_hap1_hprc_r2_v1.0.1|w3|c0	HG03521_hap1_hprc_r2_v1.0.1	1-	242937			0
+HG01960_mat_hprc_r2_v1.0.1|w3|c0	HG01960_mat_hprc_r2_v1.0.1	1-	242958	A	+	435722
+HG01960_mat_hprc_r2_v1.0.1|w3|c1	HG01960_mat_hprc_r2_v1.0.1	1+	898993	A	-	430932
+HG03139_hap1_hprc_r2_v1.0.1|w3|c0	HG03139_hap1_hprc_r2_v1.0.1	1-	242952	A	+	436571
+HG03139_hap1_hprc_r2_v1.0.1|w3|c1	HG03139_hap1_hprc_r2_v1.0.1	1+	895745	A	-	426501
+NA21144_hap2_hprc_r2_v1.0.1|w5|c0	NA21144_hap2_hprc_r2_v1.0.1	1-	242961			0
+HG03516_pat_hprc_r2_v1.1.0|w4|c0	HG03516_pat_hprc_r2_v1.1.0	1-	243011	A	+	456158
+HG03516_pat_hprc_r2_v1.1.0|w4|c1	HG03516_pat_hprc_r2_v1.1.0	h21+	919078	A	-	430915
+NA18879_hap1_hprc_r2_v1.0.1|w3|c0	NA18879_hap1_hprc_r2_v1.0.1	1-	243019	A	+	362935
+NA18879_hap1_hprc_r2_v1.0.1|w3|c1	NA18879_hap1_hprc_r2_v1.0.1	1+	916264	A	-	387807
+HG02647_pat_hprc_r2_v1.0.1|w4|c0	HG02647_pat_hprc_r2_v1.0.1	1-	243063	A	+	346842
+HG02647_pat_hprc_r2_v1.0.1|w4|c1	HG02647_pat_hprc_r2_v1.0.1	h21+	878000	A	-	365720
+NA20346_hap1_hprc_r2_v1.0.1|w4|c0	NA20346_hap1_hprc_r2_v1.0.1	2-	243062	A	+	514013
+NA20346_hap1_hprc_r2_v1.0.1|w4|c1	NA20346_hap1_hprc_r2_v1.0.1	1+	900068	A	-	438463
+HG02965_hap1_hprc_r2_v1.0.1|w4|c0	HG02965_hap1_hprc_r2_v1.0.1	1-	243075			0
+NA21309_pat_hprc_r2_v1.0.1|w4|c0	NA21309_pat_hprc_r2_v1.0.1	1-	243079	A	+	453411
+NA21309_pat_hprc_r2_v1.0.1|w4|c1	NA21309_pat_hprc_r2_v1.0.1	1+	837472	A	-	431431
+HG02145_pat_hprc_r2_v1.0.1|w3|c0	HG02145_pat_hprc_r2_v1.0.1	1-	243087	A	+	432167
+HG02145_pat_hprc_r2_v1.0.1|w3|c1	HG02145_pat_hprc_r2_v1.0.1	1+	895917	A	-	430877
+HG02559_pat_hprc_r2_v1.0.1|w5|c0	HG02559_pat_hprc_r2_v1.0.1	1-	243102	A	+	346965
+HG02559_pat_hprc_r2_v1.0.1|w5|c1	HG02559_pat_hprc_r2_v1.0.1	h21+	877845	A	-	365718
+NA19700_hap1_hprc_r2_v1.0.1|w4|c0	NA19700_hap1_hprc_r2_v1.0.1	1-	243103			0
+HG02723_mat_hprc_r2_v1.0.1|w3|c0	HG02723_mat_hprc_r2_v1.0.1	1-	243133	A	+	346971
+HG02723_mat_hprc_r2_v1.0.1|w3|c1	HG02723_mat_hprc_r2_v1.0.1	h21+	877930	A	-	365733
+NA19240_mat_hprc_r2_v1.0.1|w4|c0	NA19240_mat_hprc_r2_v1.0.1	1-	243130	A	+	470568
+NA19240_mat_hprc_r2_v1.0.1|w4|c1	NA19240_mat_hprc_r2_v1.0.1	1+	875166	A	-	451945
+HG02622_mat_hprc_r2_v1.0.1|w3|c0	HG02622_mat_hprc_r2_v1.0.1	1-	243132	A	+	411723
+HG02622_mat_hprc_r2_v1.0.1|w3|c1	HG02622_mat_hprc_r2_v1.0.1	1+	854758	A	-	410455
+HG01928_mat_hprc_r2_v1.0.1|w4|c0	HG01928_mat_hprc_r2_v1.0.1	1-	243138			0
+HG02622_pat_hprc_r2_v1.0.1|w3|c0	HG02622_pat_hprc_r2_v1.0.1	1-	243132	A	+	432163
+HG02622_pat_hprc_r2_v1.0.1|w3|c1	HG02622_pat_hprc_r2_v1.0.1	1+	895540	A	-	430875
+NA19338_hap1_hprc_r2_v1.0.1|w3|c0	NA19338_hap1_hprc_r2_v1.0.1	1-	243153	A	+	435736
+NA19338_hap1_hprc_r2_v1.0.1|w3|c1	NA19338_hap1_hprc_r2_v1.0.1	1+	878491	A	-	410447
+HG03831_mat_hprc_r2_v1.0.1|w4|c0	HG03831_mat_hprc_r2_v1.0.1	1-	243151			0
+HG02735_pat_hprc_r2_v1.0.1|w4|c0	HG02735_pat_hprc_r2_v1.0.1	1-	243166			0
+HG02155_hap2_hprc_r2_v1.0.1|w3|c0	HG02155_hap2_hprc_r2_v1.0.1	h21-	243171	A	+	414936
+HG02155_hap2_hprc_r2_v1.0.1|w3|c1	HG02155_hap2_hprc_r2_v1.0.1	1+	856784	A	-	415233
+HG00321_hap1_hprc_r2_v1.0.1|w4|c0	HG00321_hap1_hprc_r2_v1.0.1	1-	243184			0
+HG03742_hap1_hprc_r2_v1.0.1|w3|c0	HG03742_hap1_hprc_r2_v1.0.1	2-	243197	A	+	472919
+HG03742_hap1_hprc_r2_v1.0.1|w3|c1	HG03742_hap1_hprc_r2_v1.0.1	1+	877169	A	-	457529
+HG02698_pat_hprc_r2_v1.0.1|w3|c0	HG02698_pat_hprc_r2_v1.0.1	1-	243211	A	+	345946
+HG02698_pat_hprc_r2_v1.0.1|w3|c1	HG02698_pat_hprc_r2_v1.0.1	h12+	856589	A	-	590838
+HG02698_pat_hprc_r2_v1.0.1|w3|c2	HG02698_pat_hprc_r2_v1.0.1	1+	1482869	A	-	613987
+NA20752_hap2_hprc_r2_v1.0.1|w6|c0	NA20752_hap2_hprc_r2_v1.0.1	2+	40242			0
+HG00329_hap1_hprc_r2_v1.0.1|w7|c0	HG00329_hap1_hprc_r2_v1.0.1	2+	378634			0
+HG03270_hap1_hprc_r2_v1.0.1|w7|c0	HG03270_hap1_hprc_r2_v1.0.1	2-	270229			0
+HG03270_hap1_hprc_r2_v1.0.1|w7|c1	HG03270_hap1_hprc_r2_v1.0.1	1+	863504			0
+NA19443_hap2_hprc_r2_v1.0.1|w7|c0	NA19443_hap2_hprc_r2_v1.0.1	1+	333872			0
+NA18747_hap1_hprc_r2_v1.0.1|w2|c0	NA18747_hap1_hprc_r2_v1.0.1	1+	336679			0
+HG00344_hap2_hprc_r2_v1.0.1|w4|c0	HG00344_hap2_hprc_r2_v1.0.1	1-	339625	A	+	345982
+HG00344_hap2_hprc_r2_v1.0.1|w4|c1	HG00344_hap2_hprc_r2_v1.0.1	2+	991711	A	-	384042
+HG03742_hap2_hprc_r2_v1.0.1|w4|c0	HG03742_hap2_hprc_r2_v1.0.1	1-	339690			0
+NA18974_hap1_hprc_r2_v1.0.1|w0|c0	NA18974_hap1_hprc_r2_v1.0.1	1+	344024			0
+NA19443_hap1_hprc_r2_v1.0.1|w6|c0	NA19443_hap1_hprc_r2_v1.0.1	2+	345757			0
+NA18747_hap2_hprc_r2_v1.0.1|w2|c0	NA18747_hap2_hprc_r2_v1.0.1	1+	414832			0
+HG00280_hap1_hprc_r2_v1.0.1|w6|c0	HG00280_hap1_hprc_r2_v1.0.1	2-	425009			0
+HG00280_hap1_hprc_r2_v1.0.1|w6|c1	HG00280_hap1_hprc_r2_v1.0.1	1+	1058276			0
+HG02984_pat_hprc_r2_v1.0.1|w3|c0	HG02984_pat_hprc_r2_v1.0.1	2-	432948	A	+	345663
+HG02984_pat_hprc_r2_v1.0.1|w3|c1	HG02984_pat_hprc_r2_v1.0.1	1+	1046331	A	-	345973
+HG00280_hap2_hprc_r2_v1.0.1|w2|c0	HG00280_hap2_hprc_r2_v1.0.1	1+	479800			0
+HG02273_hap1_hprc_r2_v1.0.1|w0|c0	HG02273_hap1_hprc_r2_v1.0.1	1+	499405			0
+NA20806_hap2_hprc_r2_v1.0.1|w3|c0	NA20806_hap2_hprc_r2_v1.0.1	2+	535118	A	-	210633
+NA20806_hap2_hprc_r2_v1.0.1|w3|c1	NA20806_hap2_hprc_r2_v1.0.1	1-	1021548	A	+	210924
+NA20799_hap2_hprc_r2_v1.0.1|w2|c0	NA20799_hap2_hprc_r2_v1.0.1	1-	539863			0
+NA18967_hap2_hprc_r2_v1.0.1|w2|c0	NA18967_hap2_hprc_r2_v1.0.1	1-	541527			0
+HG00609_mat_hprc_r2_v1.0.1|w3|c0	HG00609_mat_hprc_r2_v1.0.1	1-	541562			0
+NA18960_hap2_hprc_r2_v1.0.1|w3|c0	NA18960_hap2_hprc_r2_v1.0.1	1-	541569			0
+HG04184_pat_hprc_r2_v1.0.1|w3|c0	HG04184_pat_hprc_r2_v1.0.1	1-	541611			0
+HG02602_mat_hprc_r2_v1.0.1|w3|c0	HG02602_mat_hprc_r2_v1.0.1	1-	544810			0
+HG03239_mat_hprc_r2_v1.0.1|w4|c0	HG03239_mat_hprc_r2_v1.0.1	2-	546351	A	+	373766
+HG03239_mat_hprc_r2_v1.0.1|w4|c1	HG03239_mat_hprc_r2_v1.0.1	1+	1179569	A	-	314350
+HG00099_hap2_hprc_r2_v1.0.1|w4|c0	HG00099_hap2_hprc_r2_v1.0.1	2-	550451	A	+	312919
+HG00099_hap2_hprc_r2_v1.0.1|w4|c1	HG00099_hap2_hprc_r2_v1.0.1	1+	1183726	A	-	375290
+HG00323_hap2_hprc_r2_v1.0.1|w4|c0	HG00323_hap2_hprc_r2_v1.0.1	2-	551059	A	+	314217
+HG00323_hap2_hprc_r2_v1.0.1|w4|c1	HG00323_hap2_hprc_r2_v1.0.1	1+	1165896	A	-	355527
+HG02738_mat_hprc_r2_v1.0.1|w3|c0	HG02738_mat_hprc_r2_v1.0.1	2-	551059	A	+	314193
+HG02738_mat_hprc_r2_v1.0.1|w3|c1	HG02738_mat_hprc_r2_v1.0.1	1+	1165914	A	-	355536
+HG00253_hap1_hprc_r2_v1.0.1|w2|c0	HG00253_hap1_hprc_r2_v1.0.1	2-	551287	A	+	312937
+HG00253_hap1_hprc_r2_v1.0.1|w2|c1	HG00253_hap1_hprc_r2_v1.0.1	1+	1184725	A	-	375293
+HG00323_hap1_hprc_r2_v1.0.1|w3|c0	HG00323_hap1_hprc_r2_v1.0.1	2-	551654	A	+	314221
+HG00323_hap1_hprc_r2_v1.0.1|w3|c1	HG00323_hap1_hprc_r2_v1.0.1	1+	1166487	A	-	355525
+hg002v1.1.pat.PanSN|w4|c0	hg002v1.1.pat.PanSN	2-	551700	A	+	314207
+hg002v1.1.pat.PanSN|w4|c1	hg002v1.1.pat.PanSN	1+	1166523	A	-	355565
+HG01978_mat_hprc_r2_v1.1.0|w2|c0	HG01978_mat_hprc_r2_v1.1.0	2-	551941	A	+	312916
+HG01978_mat_hprc_r2_v1.1.0|w2|c1	HG01978_mat_hprc_r2_v1.1.0	1+	1185151	A	-	375250
+HG03017_mat_hprc_r2_v1.0.1|w3|c0	HG03017_mat_hprc_r2_v1.0.1	2-	551994	A	+	333309
+HG03017_mat_hprc_r2_v1.0.1|w3|c1	HG03017_mat_hprc_r2_v1.0.1	1+	1165553	A	-	335124
+HG03710_pat_hprc_r2_v1.0.1|w2|c0	HG03710_pat_hprc_r2_v1.0.1	2-	551998	A	+	312910
+HG03710_pat_hprc_r2_v1.0.1|w2|c1	HG03710_pat_hprc_r2_v1.0.1	1+	1185210	A	-	375233
+NA20752_hap1_hprc_r2_v1.0.1|w3|c0	NA20752_hap1_hprc_r2_v1.0.1	2-	552013	A	+	312938
+NA20752_hap1_hprc_r2_v1.0.1|w3|c1	NA20752_hap1_hprc_r2_v1.0.1	1+	1185247	A	-	375231
+HG01192_mat_hprc_r2_v1.0.1|w3|c0	HG01192_mat_hprc_r2_v1.0.1	2-	552043	A	+	229161
+HG01192_mat_hprc_r2_v1.0.1|w3|c1	HG01192_mat_hprc_r2_v1.0.1	1+	1278571	A	-	291530
+HG00344_hap1_hprc_r2_v1.0.1|w4|c0	HG00344_hap1_hprc_r2_v1.0.1	2-	552064	A	+	312941
+HG00344_hap1_hprc_r2_v1.0.1|w4|c1	HG00344_hap1_hprc_r2_v1.0.1	1+	1185274	A	-	375231
+HG01175_mat_hprc_r2_v1.0.1|w4|c0	HG01175_mat_hprc_r2_v1.0.1	2-	552073	A	+	312907
+HG01175_mat_hprc_r2_v1.0.1|w4|c1	HG01175_mat_hprc_r2_v1.0.1	1+	1185317	A	-	375271
+NA20809_hap1_hprc_r2_v1.0.1|w5|c0	NA20809_hap1_hprc_r2_v1.0.1	2-	552075	A	+	312905
+NA20809_hap1_hprc_r2_v1.0.1|w5|c1	NA20809_hap1_hprc_r2_v1.0.1	1+	1185345	A	-	375285
+HG00128_hap1_hprc_r2_v1.0.1|w3|c0	HG00128_hap1_hprc_r2_v1.0.1	2-	552079	A	+	312927
+HG00128_hap1_hprc_r2_v1.0.1|w3|c1	HG00128_hap1_hprc_r2_v1.0.1	1+	1185343	A	-	375287
+HG01081_pat_hprc_r2_v1.0.1|w3|c0	HG01081_pat_hprc_r2_v1.0.1	2-	552082	A	+	312933
+HG01081_pat_hprc_r2_v1.0.1|w3|c1	HG01081_pat_hprc_r2_v1.0.1	1+	1185286	A	-	374739
+HG04160_pat_hprc_r2_v1.0.1|w4|c0	HG04160_pat_hprc_r2_v1.0.1	2-	552085	A	+	312946
+HG04160_pat_hprc_r2_v1.0.1|w4|c1	HG04160_pat_hprc_r2_v1.0.1	1+	1185368	A	-	375248
+HG01150_pat_hprc_r2_v1.0.1|w3|c0	HG01150_pat_hprc_r2_v1.0.1	2-	552088	K	+	151828
+HG01150_pat_hprc_r2_v1.0.1|w3|c1	HG01150_pat_hprc_r2_v1.0.1	1+	945370	K	-	153617
+HG01071_pat_hprc_r2_v1.0.1|w4|c0	HG01071_pat_hprc_r2_v1.0.1	2-	552090	A	+	312916
+HG01071_pat_hprc_r2_v1.0.1|w4|c1	HG01071_pat_hprc_r2_v1.0.1	1+	1185366	A	-	375289
+NA19776_hap2_hprc_r2_v1.0.1|w5|c0	NA19776_hap2_hprc_r2_v1.0.1	2-	552123	A	+	312922
+NA19776_hap2_hprc_r2_v1.0.1|w5|c1	NA19776_hap2_hprc_r2_v1.0.1	1+	1186217	A	-	376096
+NA20799_hap1_hprc_r2_v1.0.1|w3|c0	NA20799_hap1_hprc_r2_v1.0.1	2-	552130	A	+	312900
+NA20799_hap1_hprc_r2_v1.0.1|w3|c1	NA20799_hap1_hprc_r2_v1.0.1	1+	1185405	A	-	375314
+chm13v2.0_maskedY_rCRS.fa.PanSN|w4|c0	chm13v2.0_maskedY_rCRS.fa.PanSN	2-	552250	A	+	313204
+chm13v2.0_maskedY_rCRS.fa.PanSN|w4|c1	chm13v2.0_maskedY_rCRS.fa.PanSN	1+	1124380	A	-	313868
+HG03804_mat_hprc_r2_v1.0.1|w6|c0	HG03804_mat_hprc_r2_v1.0.1	2-	573056	A	+	279400
+HG03804_mat_hprc_r2_v1.0.1|w6|c1	HG03804_mat_hprc_r2_v1.0.1	1+	1203336	A	-	359325
+HG04199_mat_hprc_r2_v1.0.1|w4|c0	HG04199_mat_hprc_r2_v1.0.1	2-	573351	A	+	274437
+HG04199_mat_hprc_r2_v1.0.1|w4|c1	HG04199_mat_hprc_r2_v1.0.1	1+	1417267	A	-	355581
+HG04157_mat_hprc_r2_v1.0.1|w3|c0	HG04157_mat_hprc_r2_v1.0.1	2-	573943	A	+	338839
+HG04157_mat_hprc_r2_v1.0.1|w3|c1	HG04157_mat_hprc_r2_v1.0.1	1+	1238068	A	-	399829
+HG03540_mat_hprc_r2_v1.0.1|w4|c0	HG03540_mat_hprc_r2_v1.0.1	h21-	580240	A	+	410451
+HG03540_mat_hprc_r2_v1.0.1|w4|c1	HG03540_mat_hprc_r2_v1.0.1	1+	1212195	A	-	432146
+HG01884_pat_hprc_r2_v1.0.1|w3|c0	HG01884_pat_hprc_r2_v1.0.1	h21-	582350	A	+	327232
+HG01884_pat_hprc_r2_v1.0.1|w3|c1	HG01884_pat_hprc_r2_v1.0.1	1-	1274402	A	+	422815
+HG01960_pat_hprc_r2_v1.0.1|w3|c0	HG01960_pat_hprc_r2_v1.0.1	1-	584517	A	+	407045
+HG01960_pat_hprc_r2_v1.0.1|w3|c1	HG01960_pat_hprc_r2_v1.0.1	1+	1238938	A	-	325156
+HG02280_mat_hprc_r2_v1.0.1|w4|c0	HG02280_mat_hprc_r2_v1.0.1	1-	584678	A	+	325208
+HG02280_mat_hprc_r2_v1.0.1|w4|c1	HG02280_mat_hprc_r2_v1.0.1	1+	1218619	A	-	386511
+HG02514_pat_hprc_r2_v1.0.1|w2|c0	HG02514_pat_hprc_r2_v1.0.1	2-	584734	A	+	339500
+HG02514_pat_hprc_r2_v1.0.1|w2|c1	HG02514_pat_hprc_r2_v1.0.1	1-	1080748	A	+	339723
+HG01978_pat_hprc_r2_v1.1.0|w4|c0	HG01978_pat_hprc_r2_v1.1.0	2-	586660	A	+	325511
+HG01978_pat_hprc_r2_v1.1.0|w4|c1	HG01978_pat_hprc_r2_v1.1.0	1+	1220651	A	-	386524
+HG00741_pat_hprc_r2_v1.0.1|w3|c0	HG00741_pat_hprc_r2_v1.0.1	2-	587298	A	+	366480
+HG00741_pat_hprc_r2_v1.0.1|w3|c1	HG00741_pat_hprc_r2_v1.0.1	1+	1241624	A	-	366117
+HG01940_mat_hprc_r2_v1.0.1|w4|c0	HG01940_mat_hprc_r2_v1.0.1	2-	587386	A	+	325515
+HG01940_mat_hprc_r2_v1.0.1|w4|c1	HG01940_mat_hprc_r2_v1.0.1	1+	1221502	A	-	386530
+HG02451_mat_hprc_r2_v1.0.1|w4|c0	HG02451_mat_hprc_r2_v1.0.1	2-	587557	A	+	344877
+HG02451_mat_hprc_r2_v1.0.1|w4|c1	HG02451_mat_hprc_r2_v1.0.1	1+	1220640	A	-	366463
+NA19443_hap1_hprc_r2_v1.0.1|w3|c0	NA19443_hap1_hprc_r2_v1.0.1	2-	587666			0
+NA19443_hap1_hprc_r2_v1.0.1|w3|c1	NA19443_hap1_hprc_r2_v1.0.1	1+	1262590			0
+HG03486_mat_hprc_r2_v1.0.1|w4|c0	HG03486_mat_hprc_r2_v1.0.1	2-	587998	A	+	366480
+HG03486_mat_hprc_r2_v1.0.1|w4|c1	HG03486_mat_hprc_r2_v1.0.1	1+	1242311	A	-	366122
+HG02922_hap2_hprc_r2_v1.0.1|w5|c0	HG02922_hap2_hprc_r2_v1.0.1	2-	588006	A	+	366480
+HG02922_hap2_hprc_r2_v1.0.1|w5|c1	HG02922_hap2_hprc_r2_v1.0.1	1+	1200661	A	-	324385
+HG00290_hap2_hprc_r2_v1.0.1|w2|c0	HG00290_hap2_hprc_r2_v1.0.1	1+	594548			0
+HG00320_hap1_hprc_r2_v1.0.1|w2|c0	HG00320_hap1_hprc_r2_v1.0.1	1+	594911			0
+HG01433_pat_hprc_r2_v1.0.1|w4|c0	HG01433_pat_hprc_r2_v1.0.1	2+	595023	A	-	278174
+HG01433_pat_hprc_r2_v1.0.1|w4|c1	HG01433_pat_hprc_r2_v1.0.1	1+	1185283	A	-	340468
+HG06807_pat_v1.0.genbank|w5|c0	HG06807_pat_v1.0.genbank	1+	595132			0
+HG00099_hap1_hprc_r2_v1.0.1|w3|c0	HG00099_hap1_hprc_r2_v1.0.1	1+	595272			0
+HG00642_mat_hprc_r2_v1.0.1|w4|c0	HG00642_mat_hprc_r2_v1.0.1	2+	595457	A	-	290808
+HG00642_mat_hprc_r2_v1.0.1|w4|c1	HG00642_mat_hprc_r2_v1.0.1	1+	1220998	A	-	351788
+NA18608_hap1_hprc_r2_v1.0.1|w3|c0	NA18608_hap1_hprc_r2_v1.0.1	2+	595647	A	-	328321
+NA18608_hap1_hprc_r2_v1.0.1|w3|c1	NA18608_hap1_hprc_r2_v1.0.1	1+	1184701	A	-	389600
+HG01358_mat_hprc_r2_v1.0.1|w3|c0	HG01358_mat_hprc_r2_v1.0.1	1+	595822			0
+HG01255_pat_hprc_r2_v1.0.1|w3|c0	HG01255_pat_hprc_r2_v1.0.1	1+	595827			0
+HG01346_mat_hprc_r2_v1.0.1|w2|c0	HG01346_mat_hprc_r2_v1.0.1	1+	595833			0
+HG01981_mat_hprc_r2_v1.0.1|w3|c0	HG01981_mat_hprc_r2_v1.0.1	1+	595852	A	-	339732
+HG01981_mat_hprc_r2_v1.0.1|w3|c1	HG01981_mat_hprc_r2_v1.0.1	2+	1091686	A	-	339316
+HG00232_hap2_hprc_r2_v1.0.1|w4|c0	HG00232_hap2_hprc_r2_v1.0.1	t+	591334			0
+NA20762_hap2_hprc_r2_v1.0.1|w3|c0	NA20762_hap2_hprc_r2_v1.0.1	1+	595872	A	-	339724
+NA20762_hap2_hprc_r2_v1.0.1|w3|c1	NA20762_hap2_hprc_r2_v1.0.1	2+	1091740	A	-	339360
+NA21093_hap1_hprc_r2_v1.0.1|w3|c0	NA21093_hap1_hprc_r2_v1.0.1	1+	595889	A	-	339757
+NA21093_hap1_hprc_r2_v1.0.1|w3|c1	NA21093_hap1_hprc_r2_v1.0.1	2+	1091942	A	-	339542
+HG02738_pat_hprc_r2_v1.0.1|w2|c0	HG02738_pat_hprc_r2_v1.0.1	1+	595894	A	-	339735
+HG02738_pat_hprc_r2_v1.0.1|w2|c1	HG02738_pat_hprc_r2_v1.0.1	2+	1091731	A	-	339339
+HG02257_mat_hprc_r2_v1.1.0|w2|c0	HG02257_mat_hprc_r2_v1.1.0	1+	596716	A	-	340518
+HG02257_mat_hprc_r2_v1.1.0|w2|c1	HG02257_mat_hprc_r2_v1.1.0	2+	1092640	A	-	339426
+NA20827_hap1_hprc_r2_v1.0.1|w3|c0	NA20827_hap1_hprc_r2_v1.0.1	2-	600193	A	+	324527
+NA20827_hap1_hprc_r2_v1.0.1|w3|c1	NA20827_hap1_hprc_r2_v1.0.1	1-	1082046	A	+	325530
+NA20805_hap2_hprc_r2_v1.0.1|w3|c0	NA20805_hap2_hprc_r2_v1.0.1	2-	600620	A	+	339309
+NA20805_hap2_hprc_r2_v1.0.1|w3|c1	NA20805_hap2_hprc_r2_v1.0.1	1-	1096470	A	+	339747
+NA20905_hap1_hprc_r2_v1.0.1|w3|c0	NA20905_hap1_hprc_r2_v1.0.1	f-	593438	A	+	322102
+NA20905_hap1_hprc_r2_v1.0.1|w3|c1	NA20905_hap1_hprc_r2_v1.0.1	1-	1081366	A	+	339702
+NA18960_hap1_hprc_r2_v1.0.1|w3|c0	NA18960_hap1_hprc_r2_v1.0.1	2-	601947	A	+	767407
+NA18960_hap1_hprc_r2_v1.0.1|w3|c1	NA18960_hap1_hprc_r2_v1.0.1	2-	1456607	A	+	767391
+NA18960_hap1_hprc_r2_v1.0.1|w3|c2	NA18960_hap1_hprc_r2_v1.0.1	1-	1952396	A	+	339712
+NA19682_hap2_hprc_r2_v1.0.1|w4|c0	NA19682_hap2_hprc_r2_v1.0.1	2-	602074	A	+	583309
+NA19682_hap2_hprc_r2_v1.0.1|w4|c1	NA19682_hap2_hprc_r2_v1.0.1	1+	1215512	A	-	773862
+HG01358_pat_hprc_r2_v1.0.1|w2|c0	HG01358_pat_hprc_r2_v1.0.1	2-	602089	A	+	339393
+HG01358_pat_hprc_r2_v1.0.1|w2|c1	HG01358_pat_hprc_r2_v1.0.1	1-	1098033	A	+	339801
+HG01252_mat_hprc_r2_v1.0.1|w3|c0	HG01252_mat_hprc_r2_v1.0.1	2-	602149	A	+	339651
+HG01252_mat_hprc_r2_v1.0.1|w3|c1	HG01252_mat_hprc_r2_v1.0.1	1-	1098361	A	+	339774
+HG00232_hap1_hprc_r2_v1.0.1|w6|c0	HG00232_hap1_hprc_r2_v1.0.1	2-	602154			0
+HG02135_pat_hprc_r2_v1.0.1|w4|c0	HG02135_pat_hprc_r2_v1.0.1	2-	602184	A	+	345612
+HG02135_pat_hprc_r2_v1.0.1|w4|c1	HG02135_pat_hprc_r2_v1.0.1	1+	1215595	A	-	346015
+HG00235_hap1_hprc_r2_v1.0.1|w3|c0	HG00235_hap1_hprc_r2_v1.0.1	2-	602223	A	+	339578
+HG00235_hap1_hprc_r2_v1.0.1|w3|c1	HG00235_hap1_hprc_r2_v1.0.1	1-	1098344	A	+	339775
+HG01952_pat_hprc_r2_v1.0.1|w6|c0	HG01952_pat_hprc_r2_v1.0.1	2-	602305	A	+	338886
+HG01952_pat_hprc_r2_v1.0.1|w6|c1	HG01952_pat_hprc_r2_v1.0.1	1-	1098239	A	+	340542
+HG01261_pat_hprc_r2_v1.0.1|w2|c0	HG01261_pat_hprc_r2_v1.0.1	2-	602533	A	+	342618
+HG01261_pat_hprc_r2_v1.0.1|w2|c1	HG01261_pat_hprc_r2_v1.0.1	1-	1116549	A	+	325902
+HG02083_pat_hprc_r2_v1.0.1|w4|c0	HG02083_pat_hprc_r2_v1.0.1	1-	602554	A	+	585036
+HG02083_pat_hprc_r2_v1.0.1|w4|c1	HG02083_pat_hprc_r2_v1.0.1	2+	1217258	A	-	773371
+NA19087_hap1_hprc_r2_v1.0.1|w4|c0	NA19087_hap1_hprc_r2_v1.0.1	2-	602731	A	+	583346
+NA19087_hap1_hprc_r2_v1.0.1|w4|c1	NA19087_hap1_hprc_r2_v1.0.1	1+	1213708	A	-	753402
+HG02391_hap1_hprc_r2_v1.0.1|w2|c0	HG02391_hap1_hprc_r2_v1.0.1	2-	602749	A	+	339048
+HG02391_hap1_hprc_r2_v1.0.1|w2|c1	HG02391_hap1_hprc_r2_v1.0.1	1-	1098327	A	+	339451
+NA20806_hap1_hprc_r2_v1.0.1|w3|c0	NA20806_hap1_hprc_r2_v1.0.1	2-	602755	A	+	338812
+NA20806_hap1_hprc_r2_v1.0.1|w3|c1	NA20806_hap1_hprc_r2_v1.0.1	1-	1098060	A	+	339732
+HG00128_hap2_hprc_r2_v1.0.1|w4|c0	HG00128_hap2_hprc_r2_v1.0.1	2-	602789	A	+	281471
+HG00128_hap2_hprc_r2_v1.0.1|w4|c1	HG00128_hap2_hprc_r2_v1.0.1	1+	1264114	A	-	261858
+HG00738_mat_hprc_r2_v1.0.1|w3|c0	HG00738_mat_hprc_r2_v1.0.1	2-	602796	A	+	601269
+HG00738_mat_hprc_r2_v1.0.1|w3|c1	HG00738_mat_hprc_r2_v1.0.1	1+	1257314	A	-	796998
+HG02148_pat_hprc_r2_v1.0.1|w4|c0	HG02148_pat_hprc_r2_v1.0.1	2-	602796	A	+	583314
+HG02148_pat_hprc_r2_v1.0.1|w4|c1	HG02148_pat_hprc_r2_v1.0.1	1+	1216182	A	-	737816
+HG04184_mat_hprc_r2_v1.0.1|w2|c0	HG04184_mat_hprc_r2_v1.0.1	2-	602801	A	+	339244
+HG04184_mat_hprc_r2_v1.0.1|w2|c1	HG04184_mat_hprc_r2_v1.0.1	1-	1098586	A	+	339451
+NA20503_hap2_hprc_r2_v1.0.1|w3|c0	NA20503_hap2_hprc_r2_v1.0.1	2-	602810	A	+	339042
+NA20503_hap2_hprc_r2_v1.0.1|w3|c1	NA20503_hap2_hprc_r2_v1.0.1	1-	1098375	A	+	339724
+NA18940_hap2_hprc_r2_v1.0.1|w4|c0	NA18940_hap2_hprc_r2_v1.0.1	2-	602838	A	+	345616
+NA18940_hap2_hprc_r2_v1.0.1|w4|c1	NA18940_hap2_hprc_r2_v1.0.1	1+	1216256	A	-	346037
+HG02040_hap2_hprc_r2_v1.0.1|w3|c0	HG02040_hap2_hprc_r2_v1.0.1	2-	602845	A	+	583290
+HG02040_hap2_hprc_r2_v1.0.1|w3|c1	HG02040_hap2_hprc_r2_v1.0.1	1+	1216367	A	-	719822
+HG01258_pat_hprc_r2_v1.0.1|w4|c0	HG01258_pat_hprc_r2_v1.0.1	2-	602863	A	+	583348
+HG01258_pat_hprc_r2_v1.0.1|w4|c1	HG01258_pat_hprc_r2_v1.0.1	1+	1216323	A	-	791867
+HG01928_pat_hprc_r2_v1.0.1|w4|c0	HG01928_pat_hprc_r2_v1.0.1	2-	602904	A	+	583353
+HG01928_pat_hprc_r2_v1.0.1|w4|c1	HG01928_pat_hprc_r2_v1.0.1	1+	1216339	A	-	791899
+HG01496_pat_hprc_r2_v1.0.1|w4|c0	HG01496_pat_hprc_r2_v1.0.1	2-	602905	A	+	578770
+HG01496_pat_hprc_r2_v1.0.1|w4|c1	HG01496_pat_hprc_r2_v1.0.1	1+	1211831	A	-	773860
+HG02273_hap1_hprc_r2_v1.0.1|w5|c0	HG02273_hap1_hprc_r2_v1.0.1	2-	602928			0
+HG01943_mat_hprc_r2_v1.0.1|w4|c0	HG01943_mat_hprc_r2_v1.0.1	2-	602931	A	+	583342
+HG01943_mat_hprc_r2_v1.0.1|w4|c1	HG01943_mat_hprc_r2_v1.0.1	1+	1216466	A	-	701657
+NA19391_hap1_hprc_r2_v1.0.1|w4|c0	NA19391_hap1_hprc_r2_v1.0.1	2-	607649	A	+	325183
+NA19391_hap1_hprc_r2_v1.0.1|w4|c1	NA19391_hap1_hprc_r2_v1.0.1	1+	1220681	A	-	366085
+NA19185_hap2_hprc_r2_v1.0.1|w4|c0	NA19185_hap2_hprc_r2_v1.0.1	2-	607651	A	+	325064
+NA19185_hap2_hprc_r2_v1.0.1|w4|c1	NA19185_hap2_hprc_r2_v1.0.1	1+	1220720	A	-	366127
+HG02583_hap1_hprc_r2_v1.0.1|w4|c0	HG02583_hap1_hprc_r2_v1.0.1	2-	607687	A	+	325204
+HG02583_hap1_hprc_r2_v1.0.1|w4|c1	HG02583_hap1_hprc_r2_v1.0.1	1+	1220766	A	-	365226
+NA18565_hap2_hprc_r2_v1.0.1|w3|c0	NA18565_hap2_hprc_r2_v1.0.1	2-	611138	A	+	345674
+NA18565_hap2_hprc_r2_v1.0.1|w3|c1	NA18565_hap2_hprc_r2_v1.0.1	1+	1224830	A	-	345964
+HG01975_pat_hprc_r2_v1.0.1|w4|c0	HG01975_pat_hprc_r2_v1.0.1	2-	611917	A	+	345662
+HG01975_pat_hprc_r2_v1.0.1|w4|c1	HG01975_pat_hprc_r2_v1.0.1	1+	1226282	A	-	346744
+NA18948_hap2_hprc_r2_v1.0.1|w5|c0	NA18948_hap2_hprc_r2_v1.0.1	2-	612665	A	+	595429
+NA18948_hap2_hprc_r2_v1.0.1|w5|c1	NA18948_hap2_hprc_r2_v1.0.1	2-	1217894	A	+	594952
+NA18948_hap2_hprc_r2_v1.0.1|w5|c2	NA18948_hap2_hprc_r2_v1.0.1	1+	1851727	A	-	345928
+NA18620_hap2_hprc_r2_v1.0.1|w4|c0	NA18620_hap2_hprc_r2_v1.0.1	2-	612891	A	+	345662
+NA18620_hap2_hprc_r2_v1.0.1|w4|c1	NA18620_hap2_hprc_r2_v1.0.1	1+	1206150	A	-	325546
+HG00423_mat_hprc_r2_v1.0.1|w6|c0	HG00423_mat_hprc_r2_v1.0.1	2-	613002			0
+HG02080_mat_hprc_r2_v1.0.1|w6|c0	HG02080_mat_hprc_r2_v1.0.1	2-	613120	A	+	556434
+HG02080_mat_hprc_r2_v1.0.1|w6|c1	HG02080_mat_hprc_r2_v1.0.1	1+	1206094	A	-	564873
+HG00329_hap2_hprc_r2_v1.0.1|w5|c0	HG00329_hap2_hprc_r2_v1.0.1	2-	613459			0
+HG00329_hap2_hprc_r2_v1.0.1|w5|c1	HG00329_hap2_hprc_r2_v1.0.1	1+	1186159			0
+HG01123_mat_hprc_r2_v1.0.1|w3|c0	HG01123_mat_hprc_r2_v1.0.1	1-	613523	A	+	515491
+HG01123_mat_hprc_r2_v1.0.1|w3|c1	HG01123_mat_hprc_r2_v1.0.1	1-	1319943	A	+	653876
+HG01433_mat_hprc_r2_v1.0.1|w3|c0	HG01433_mat_hprc_r2_v1.0.1	2+	615478	A	-	565467
+HG01433_mat_hprc_r2_v1.0.1|w3|c1	HG01433_mat_hprc_r2_v1.0.1	1+	1216234	A	-	755812
+NA19087_hap2_hprc_r2_v1.0.1|w3|c0	NA19087_hap2_hprc_r2_v1.0.1	2+	616573	A	-	299829
+NA19087_hap2_hprc_r2_v1.0.1|w3|c1	NA19087_hap2_hprc_r2_v1.0.1	1+	1205561	A	-	340466
+GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN|w3|c0	GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN	2+	617743	A	-	324559
+GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN|w3|c1	GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN	1+	1493162	A	-	325587
+HG01167_hap2_hprc_r2_v1.0.1|w3|c0	HG01167_hap2_hprc_r2_v1.0.1	2+	618150	A	-	576925
+HG01167_hap2_hprc_r2_v1.0.1|w3|c1	HG01167_hap2_hprc_r2_v1.0.1	1+	1472346	A	-	720745
+HG01530_hap2_hprc_r2_v1.0.1|w2|c0	HG01530_hap2_hprc_r2_v1.0.1	2+	618159	A	-	339275
+HG01530_hap2_hprc_r2_v1.0.1|w2|c1	HG01530_hap2_hprc_r2_v1.0.1	1+	1493654	A	-	339768
+HG00609_pat_hprc_r2_v1.0.1|w3|c0	HG00609_pat_hprc_r2_v1.0.1	2+	618785	A	-	340023
+HG00609_pat_hprc_r2_v1.0.1|w3|c1	HG00609_pat_hprc_r2_v1.0.1	1-	1099208	A	+	339768
+HG01081_mat_hprc_r2_v1.0.1|w3|c0	HG01081_mat_hprc_r2_v1.0.1	1+	620003			0
+NA20752_hap2_hprc_r2_v1.0.1|w3|c0	NA20752_hap2_hprc_r2_v1.0.1	2-	620213			0
+NA20752_hap2_hprc_r2_v1.0.1|w3|c1	NA20752_hap2_hprc_r2_v1.0.1	1-	1116443			0
+NA18976_hap2_hprc_r2_v1.0.1|w3|c0	NA18976_hap2_hprc_r2_v1.0.1	1+	620654			0
+NA20905_hap2_hprc_r2_v1.0.1|w5|c0	NA20905_hap2_hprc_r2_v1.0.1	2-	620816	A	+	339336
+NA20905_hap2_hprc_r2_v1.0.1|w5|c1	NA20905_hap2_hprc_r2_v1.0.1	2-	1116993	A	+	485628
+NA20905_hap2_hprc_r2_v1.0.1|w5|c2	NA20905_hap2_hprc_r2_v1.0.1	1-	1613171	A	+	485301
+HG02148_mat_hprc_r2_v1.0.1|w2|c0	HG02148_mat_hprc_r2_v1.0.1	2-	620827	A	+	339536
+HG02148_mat_hprc_r2_v1.0.1|w2|c1	HG02148_mat_hprc_r2_v1.0.1	1-	1117180	A	+	339109
+HG01784_hap2_hprc_r2_v1.0.1|w2|c0	HG01784_hap2_hprc_r2_v1.0.1	2-	620846	A	+	339194
+HG01784_hap2_hprc_r2_v1.0.1|w2|c1	HG01784_hap2_hprc_r2_v1.0.1	1-	1117016	A	+	338979
+HG03041_mat_hprc_r2_v1.0.1|w3|c0	HG03041_mat_hprc_r2_v1.0.1	1+	621111			0
+HG00438_mat_hprc_r2_v1.0.1|w3|c0	HG00438_mat_hprc_r2_v1.0.1	1+	621118	A	-	596043
+HG00438_mat_hprc_r2_v1.0.1|w3|c1	HG00438_mat_hprc_r2_v1.0.1	2+	1248193	A	-	781195
+HG03927_mat_hprc_r2_v1.0.1|w4|c0	HG03927_mat_hprc_r2_v1.0.1	2-	627791	A	+	609889
+HG03927_mat_hprc_r2_v1.0.1|w4|c1	HG03927_mat_hprc_r2_v1.0.1	1+	1222621	A	-	771362
+NA19043_hap1_hprc_r2_v1.0.1|w3|c0	NA19043_hap1_hprc_r2_v1.0.1	1-	627787	A	+	346851
+NA19043_hap1_hprc_r2_v1.0.1|w3|c1	NA19043_hap1_hprc_r2_v1.0.1	1+	1304872	A	-	408406
+HG01109_mat_hprc_r2_v1.0.1|w2|c0	HG01109_mat_hprc_r2_v1.0.1	1-	627798	A	+	346849
+HG01109_mat_hprc_r2_v1.0.1|w2|c1	HG01109_mat_hprc_r2_v1.0.1	1+	1284398	A	-	387933
+HG03579_mat_hprc_r2_v1.0.1|w3|c0	HG03579_mat_hprc_r2_v1.0.1	1-	627814	A	+	346858
+HG03579_mat_hprc_r2_v1.0.1|w3|c1	HG03579_mat_hprc_r2_v1.0.1	1+	1284433	A	-	387925
+HG00621_pat_hprc_r2_v1.0.1|w4|c0	HG00621_pat_hprc_r2_v1.0.1	2-	631357	A	+	344788
+HG00621_pat_hprc_r2_v1.0.1|w4|c1	HG00621_pat_hprc_r2_v1.0.1	1+	1243669	A	-	345697
+HG01255_mat_hprc_r2_v1.0.1|w4|c0	HG01255_mat_hprc_r2_v1.0.1	2-	631453	A	+	366063
+HG01255_mat_hprc_r2_v1.0.1|w4|c1	HG01255_mat_hprc_r2_v1.0.1	1+	1265320	A	-	345995
+HG00597_pat_hprc_r2_v1.0.1|w3|c0	HG00597_pat_hprc_r2_v1.0.1	2-	631830	A	+	556436
+HG00597_pat_hprc_r2_v1.0.1|w3|c1	HG00597_pat_hprc_r2_v1.0.1	1+	1224897	A	-	648999
+NA18959_hap2_hprc_r2_v1.0.1|w4|c0	NA18959_hap2_hprc_r2_v1.0.1	2-	632359	A	+	556410
+NA18959_hap2_hprc_r2_v1.0.1|w4|c1	NA18959_hap2_hprc_r2_v1.0.1	1+	1245865	A	-	687462
+NA21110_hap2_hprc_r2_v1.0.1|w4|c0	NA21110_hap2_hprc_r2_v1.0.1	2-	632422	A	+	556252
+NA21110_hap2_hprc_r2_v1.0.1|w4|c1	NA21110_hap2_hprc_r2_v1.0.1	1+	1245859	A	-	723520
+NA18983_hap2_hprc_r2_v1.0.1|w2|c0	NA18983_hap2_hprc_r2_v1.0.1	2-	632456	A	+	556400
+NA18983_hap2_hprc_r2_v1.0.1|w2|c1	NA18983_hap2_hprc_r2_v1.0.1	1+	1245911	A	-	669456
+HG02392_hap2_hprc_r2_v1.0.1|w4|c0	HG02392_hap2_hprc_r2_v1.0.1	2-	632535	A	+	345597
+HG02392_hap2_hprc_r2_v1.0.1|w4|c1	HG02392_hap2_hprc_r2_v1.0.1	1+	1245979	A	-	346013
+NA21144_hap1_hprc_r2_v1.0.1|w4|c0	NA21144_hap1_hprc_r2_v1.0.1	1-	632670	A	+	550073
+NA21144_hap1_hprc_r2_v1.0.1|w4|c1	NA21144_hap1_hprc_r2_v1.0.1	2+	1205495	A	-	644904
+NA18983_hap1_hprc_r2_v1.0.1|w2|c0	NA18983_hap1_hprc_r2_v1.0.1	2-	633010	A	+	345594
+NA18983_hap1_hprc_r2_v1.0.1|w2|c1	NA18983_hap1_hprc_r2_v1.0.1	1+	1246359	A	-	345996
+NA18976_hap1_hprc_r2_v1.0.1|w3|c0	NA18976_hap1_hprc_r2_v1.0.1	2-	633018	A	+	345655
+NA18976_hap1_hprc_r2_v1.0.1|w3|c1	NA18976_hap1_hprc_r2_v1.0.1	1+	1246449	A	-	338061
+NA18570_hap2_hprc_r2_v1.0.1|w4|c0	NA18570_hap2_hprc_r2_v1.0.1	2-	633087	A	+	345657
+NA18570_hap2_hprc_r2_v1.0.1|w4|c1	NA18570_hap2_hprc_r2_v1.0.1	1+	1246482	A	-	345957
+HG00544_mat_hprc_r2_v1.0.1|w4|c0	HG00544_mat_hprc_r2_v1.0.1	2-	633116	A	+	325235
+HG00544_mat_hprc_r2_v1.0.1|w4|c1	HG00544_mat_hprc_r2_v1.0.1	1+	1226058	A	-	345952
+HG03017_pat_hprc_r2_v1.0.1|w3|c0	HG03017_pat_hprc_r2_v1.0.1	1-	633143	A	+	548899
+HG03017_pat_hprc_r2_v1.0.1|w3|c1	HG03017_pat_hprc_r2_v1.0.1	1+	1225978	A	-	737797
+HG04160_mat_hprc_r2_v1.0.1|w4|c0	HG04160_mat_hprc_r2_v1.0.1	h21-	633192	A	+	556768
+HG04160_mat_hprc_r2_v1.0.1|w4|c1	HG04160_mat_hprc_r2_v1.0.1	1+	1226245	A	-	702557
+NA18608_hap2_hprc_r2_v1.0.1|w3|c0	NA18608_hap2_hprc_r2_v1.0.1	2-	633249	A	+	556824
+NA18608_hap2_hprc_r2_v1.0.1|w3|c1	NA18608_hap2_hprc_r2_v1.0.1	1+	1246964	A	-	706284
+HG03654_pat_hprc_r2_v1.0.1|w4|c0	HG03654_pat_hprc_r2_v1.0.1	1-	633269	A	+	550068
+HG03654_pat_hprc_r2_v1.0.1|w4|c1	HG03654_pat_hprc_r2_v1.0.1	2+	1227212	A	-	720284
+HG02178_hap1_hprc_r2_v1.0.1|w3|c0	HG02178_hap1_hprc_r2_v1.0.1	2-	633341	A	+	556423
+HG02178_hap1_hprc_r2_v1.0.1|w3|c1	HG02178_hap1_hprc_r2_v1.0.1	1+	1267425	A	-	761979
+HG00408_mat_hprc_r2_v1.0.1|w3|c0	HG00408_mat_hprc_r2_v1.0.1	2-	633344	A	+	556422
+HG00408_mat_hprc_r2_v1.0.1|w3|c1	HG00408_mat_hprc_r2_v1.0.1	1+	1229015	A	-	723636
+HG02015_mat_hprc_r2_v1.0.1|w6|c0	HG02015_mat_hprc_r2_v1.0.1	2-	633371	A	+	570169
+HG02015_mat_hprc_r2_v1.0.1|w6|c1	HG02015_mat_hprc_r2_v1.0.1	1+	1246838	A	-	719785
+HG04204_pat_hprc_r2_v1.0.1|w4|c0	HG04204_pat_hprc_r2_v1.0.1	2-	633379	A	+	345636
+HG04204_pat_hprc_r2_v1.0.1|w4|c1	HG04204_pat_hprc_r2_v1.0.1	1+	1226292	A	-	325556
+HG01969_pat_hprc_r2_v1.0.1|w4|c0	HG01969_pat_hprc_r2_v1.0.1	2-	633390	A	+	535959
+HG01969_pat_hprc_r2_v1.0.1|w4|c1	HG01969_pat_hprc_r2_v1.0.1	1+	1226309	A	-	723554
+HG04228_pat_hprc_r2_v1.0.1|w4|c0	HG04228_pat_hprc_r2_v1.0.1	2-	633388	A	+	535902
+HG04228_pat_hprc_r2_v1.0.1|w4|c1	HG04228_pat_hprc_r2_v1.0.1	1+	1227354	A	-	669878
+HG03704_mat_hprc_r2_v1.0.1|w3|c0	HG03704_mat_hprc_r2_v1.0.1	1-	633399	A	+	608578
+HG03704_mat_hprc_r2_v1.0.1|w3|c1	HG03704_mat_hprc_r2_v1.0.1	1+	1247025	A	-	683629
+HG04204_mat_hprc_r2_v1.0.1|w4|c0	HG04204_mat_hprc_r2_v1.0.1	1-	633436	A	+	560457
+HG04204_mat_hprc_r2_v1.0.1|w4|c1	HG04204_mat_hprc_r2_v1.0.1	1+	1262576	A	-	689904
+HG02841_mat_hprc_r2_v1.0.1|w5|c0	HG02841_mat_hprc_r2_v1.0.1	2-	633498	A	+	570927
+HG02841_mat_hprc_r2_v1.0.1|w5|c1	HG02841_mat_hprc_r2_v1.0.1	1+	1246794	A	-	719376
+HG04199_pat_hprc_r2_v1.0.1|w4|c0	HG04199_pat_hprc_r2_v1.0.1	2-	633572	A	+	325215
+HG04199_pat_hprc_r2_v1.0.1|w4|c1	HG04199_pat_hprc_r2_v1.0.1	1+	1226777	A	-	345950
+HG03816_pat_hprc_r2_v1.0.1|w4|c0	HG03816_pat_hprc_r2_v1.0.1	2-	633622	A	+	345653
+HG03816_pat_hprc_r2_v1.0.1|w4|c1	HG03816_pat_hprc_r2_v1.0.1	1+	1267457	A	-	366404
+HG03942_pat_hprc_r2_v1.0.1|w3|c0	HG03942_pat_hprc_r2_v1.0.1	2-	633639	A	+	345662
+HG03942_pat_hprc_r2_v1.0.1|w3|c1	HG03942_pat_hprc_r2_v1.0.1	1+	1267484	A	-	366417
+HG00290_hap1_hprc_r2_v1.0.1|w3|c0	HG00290_hap1_hprc_r2_v1.0.1	2-	633672	A	+	345648
+HG00290_hap1_hprc_r2_v1.0.1|w3|c1	HG00290_hap1_hprc_r2_v1.0.1	1+	1247098	A	-	346008
+NA18959_hap1_hprc_r2_v1.0.1|w3|c0	NA18959_hap1_hprc_r2_v1.0.1	t-	625271	A	+	593206
+NA18959_hap1_hprc_r2_v1.0.1|w3|c1	NA18959_hap1_hprc_r2_v1.0.1	2-	656442	A	+	593206
+NA18959_hap1_hprc_r2_v1.0.1|w3|c2	NA18959_hap1_hprc_r2_v1.0.1	1+	1269876	A	-	737804
+HG02027_pat_hprc_r2_v1.0.1|w3|c0	HG02027_pat_hprc_r2_v1.0.1	2-	633805	A	+	345989
+HG02027_pat_hprc_r2_v1.0.1|w3|c1	HG02027_pat_hprc_r2_v1.0.1	1+	1227097	A	-	325482
+HG03784_hap1_hprc_r2_v1.0.1|w8|c0	HG03784_hap1_hprc_r2_v1.0.1	t-	633615			0
+HG03784_hap1_hprc_r2_v1.0.1|w8|c1	HG03784_hap1_hprc_r2_v1.0.1	t-	658237			0
+HG01993_pat_hprc_r2_v1.0.1|w5|c0	HG01993_pat_hprc_r2_v1.0.1	2-	633811			0
+HG02273_hap2_hprc_r2_v1.0.1|w5|c0	HG02273_hap2_hprc_r2_v1.0.1	1-	633816			0
+HG02300_pat_hprc_r2_v1.0.1|w3|c0	HG02300_pat_hprc_r2_v1.0.1	2-	633822	A	+	345645
+HG02300_pat_hprc_r2_v1.0.1|w3|c1	HG02300_pat_hprc_r2_v1.0.1	1+	1247164	A	-	345928
+HG01993_mat_hprc_r2_v1.0.1|w4|c0	HG01993_mat_hprc_r2_v1.0.1	2-	633826			0
+HG03654_mat_hprc_r2_v1.0.1|w3|c0	HG03654_mat_hprc_r2_v1.0.1	2-	633829	A	+	345995
+HG03654_mat_hprc_r2_v1.0.1|w3|c1	HG03654_mat_hprc_r2_v1.0.1	1+	1247405	A	-	345675
+HG00097_hap1_hprc_r2_v1.0.1|w4|c0	HG00097_hap1_hprc_r2_v1.0.1	2-	633850	A	+	325182
+HG00097_hap1_hprc_r2_v1.0.1|w4|c1	HG00097_hap1_hprc_r2_v1.0.1	1+	1267807	A	-	386872
+HG01786_hap1_hprc_r2_v1.0.1|w4|c0	HG01786_hap1_hprc_r2_v1.0.1	2-	633851	A	+	339336
+HG01786_hap1_hprc_r2_v1.0.1|w4|c1	HG01786_hap1_hprc_r2_v1.0.1	1-	1129695	A	+	339406
+NA21110_hap1_hprc_r2_v1.0.1|w3|c0	NA21110_hap1_hprc_r2_v1.0.1	2-	633859	A	+	556445
+NA21110_hap1_hprc_r2_v1.0.1|w3|c1	NA21110_hap1_hprc_r2_v1.0.1	1+	1267749	A	-	725954
+HG02280_pat_hprc_r2_v1.0.1|w4|c0	HG02280_pat_hprc_r2_v1.0.1	2-	633861	A	+	345653
+HG02280_pat_hprc_r2_v1.0.1|w4|c1	HG02280_pat_hprc_r2_v1.0.1	1+	1247247	A	-	345930
+HG00146_hap1_hprc_r2_v1.0.1|w4|c0	HG00146_hap1_hprc_r2_v1.0.1	2-	633870	A	+	345679
+HG00146_hap1_hprc_r2_v1.0.1|w4|c1	HG00146_hap1_hprc_r2_v1.0.1	1+	1247255	A	-	345944
+HG03710_mat_hprc_r2_v1.0.1|w6|c0	HG03710_mat_hprc_r2_v1.0.1	h21-	633888	A	+	325175
+HG03710_mat_hprc_r2_v1.0.1|w6|c1	HG03710_mat_hprc_r2_v1.0.1	1+	1287856	A	-	407015
+HG03521_hap2_hprc_r2_v1.0.1|w4|c0	HG03521_hap2_hprc_r2_v1.0.1	1-	633887	A	+	535961
+HG03521_hap2_hprc_r2_v1.0.1|w4|c1	HG03521_hap2_hprc_r2_v1.0.1	2+	1227012	A	-	669481
+HG01109_pat_hprc_r2_v1.0.1|w7|c0	HG01109_pat_hprc_r2_v1.0.1	2-	633891			0
+HG01981_pat_hprc_r2_v1.0.1|w4|c0	HG01981_pat_hprc_r2_v1.0.1	2-	633900	A	+	345622
+HG01981_pat_hprc_r2_v1.0.1|w4|c1	HG01981_pat_hprc_r2_v1.0.1	1+	1247368	A	-	345988
+HG02080_pat_hprc_r2_v1.0.1|w3|c0	HG02080_pat_hprc_r2_v1.0.1	2-	633899	A	+	345659
+HG02080_pat_hprc_r2_v1.0.1|w3|c1	HG02080_pat_hprc_r2_v1.0.1	1+	1247312	A	-	345940
+NA18747_hap1_hprc_r2_v1.0.1|w6|c0	NA18747_hap1_hprc_r2_v1.0.1	2-	633906			0
+HG005_pat_hprc_r2_v1.0.1|w2|c0	HG005_pat_hprc_r2_v1.0.1	2-	633935	A	+	556520
+HG005_pat_hprc_r2_v1.0.1|w2|c1	HG005_pat_hprc_r2_v1.0.1	1+	1247304	A	-	706262
+NA18970_hap2_hprc_r2_v1.0.1|w6|c0	NA18970_hap2_hprc_r2_v1.0.1	2-	633938	A	+	556530
+NA18970_hap2_hprc_r2_v1.0.1|w6|c1	NA18970_hap2_hprc_r2_v1.0.1	1+	1247291	A	-	706233
+HG00738_pat_hprc_r2_v1.0.1|w5|c0	HG00738_pat_hprc_r2_v1.0.1	2-	633941	A	+	345674
+HG00738_pat_hprc_r2_v1.0.1|w5|c1	HG00738_pat_hprc_r2_v1.0.1	1+	1247356	A	-	345940
+NA18906_pat_hprc_r2_v1.0.1|w4|c0	NA18906_pat_hprc_r2_v1.0.1	2-	633949	A	+	556337
+NA18906_pat_hprc_r2_v1.0.1|w4|c1	NA18906_pat_hprc_r2_v1.0.1	1+	1226854	A	-	685085
+HG02818_pat_hprc_r2_v1.0.1|w2|c0	HG02818_pat_hprc_r2_v1.0.1	1-	633961	A	+	570957
+HG02818_pat_hprc_r2_v1.0.1|w2|c1	HG02818_pat_hprc_r2_v1.0.1	2+	1247382	A	-	719428
+HG04157_pat_hprc_r2_v1.0.1|w4|c0	HG04157_pat_hprc_r2_v1.0.1	1-	633974	A	+	570204
+HG04157_pat_hprc_r2_v1.0.1|w4|c1	HG04157_pat_hprc_r2_v1.0.1	1+	1226878	A	-	681322
+HG02071_pat_hprc_r2_v1.0.1|w4|c0	HG02071_pat_hprc_r2_v1.0.1	2-	633978	A	+	345662
+HG02071_pat_hprc_r2_v1.0.1|w4|c1	HG02071_pat_hprc_r2_v1.0.1	1+	1247428	A	-	345959
+NA18945_hap1_hprc_r2_v1.0.1|w3|c0	NA18945_hap1_hprc_r2_v1.0.1	2-	633996	A	+	366133
+NA18945_hap1_hprc_r2_v1.0.1|w3|c1	NA18945_hap1_hprc_r2_v1.0.1	1+	1267510	A	-	345616
+HG00658_mat_hprc_r2_v1.0.1|w3|c0	HG00658_mat_hprc_r2_v1.0.1	2-	633998	A	+	346014
+HG00658_mat_hprc_r2_v1.0.1|w3|c1	HG00658_mat_hprc_r2_v1.0.1	1+	1247900	A	-	345957
+HG01106_mat_hprc_r2_v1.0.1|w6|c0	HG01106_mat_hprc_r2_v1.0.1	2-	634026	A	+	345678
+HG01106_mat_hprc_r2_v1.0.1|w6|c1	HG01106_mat_hprc_r2_v1.0.1	1+	1247369	A	-	345943
+HG00735_pat_hprc_r2_v1.0.1|w4|c0	HG00735_pat_hprc_r2_v1.0.1	2-	634286	A	+	570522
+HG00735_pat_hprc_r2_v1.0.1|w4|c1	HG00735_pat_hprc_r2_v1.0.1	1+	1247705	A	-	683754
+HG03369_hap1_hprc_r2_v1.0.1|w5|c0	HG03369_hap1_hprc_r2_v1.0.1	2-	634288	A	+	556412
+HG03369_hap1_hprc_r2_v1.0.1|w5|c1	HG03369_hap1_hprc_r2_v1.0.1	1+	1247609	A	-	651421
+HG01969_mat_hprc_r2_v1.0.1|w6|c0	HG01969_mat_hprc_r2_v1.0.1	2-	634323	A	+	570533
+HG01969_mat_hprc_r2_v1.0.1|w6|c1	HG01969_mat_hprc_r2_v1.0.1	1+	1247055	A	-	737010
+HG02004_mat_hprc_r2_v1.0.1|w0|c0	HG02004_mat_hprc_r2_v1.0.1	2-	634328	A	+	570546
+HG02004_mat_hprc_r2_v1.0.1|w0|c1	HG02004_mat_hprc_r2_v1.0.1	1+	1247897	A	-	791932
+HG01891_mat_hprc_r2_v1.0.1|w2|c0	HG01891_mat_hprc_r2_v1.0.1	2-	634342	A	+	570929
+HG01891_mat_hprc_r2_v1.0.1|w2|c1	HG01891_mat_hprc_r2_v1.0.1	1+	1247728	A	-	719391
+NA19835_hap1_hprc_r2_v1.0.1|w3|c0	NA19835_hap1_hprc_r2_v1.0.1	2-	634377	A	+	570533
+NA19835_hap1_hprc_r2_v1.0.1|w3|c1	NA19835_hap1_hprc_r2_v1.0.1	1+	1247407	A	-	773908
+HG02293_mat_hprc_r2_v1.0.1|w3|c0	HG02293_mat_hprc_r2_v1.0.1	2-	634392	A	+	570535
+HG02293_mat_hprc_r2_v1.0.1|w3|c1	HG02293_mat_hprc_r2_v1.0.1	1+	1247937	A	-	773881
+HG02976_hap2_hprc_r2_v1.0.1|w4|c0	HG02976_hap2_hprc_r2_v1.0.1	1-	634424	A	+	570974
+HG02976_hap2_hprc_r2_v1.0.1|w4|c1	HG02976_hap2_hprc_r2_v1.0.1	2+	1247757	A	-	719406
+HG02109_mat_hprc_r2_v1.0.1|w4|c0	HG02109_mat_hprc_r2_v1.0.1	2-	635137	A	+	570921
+HG02109_mat_hprc_r2_v1.0.1|w4|c1	HG02109_mat_hprc_r2_v1.0.1	1+	1248502	A	-	719392
+HG02132_pat_hprc_r2_v1.0.1|w4|c0	HG02132_pat_hprc_r2_v1.0.1	2+	635635	A	-	466307
+HG02132_pat_hprc_r2_v1.0.1|w4|c1	HG02132_pat_hprc_r2_v1.0.1	2-	1164821	A	+	556273
+HG02132_pat_hprc_r2_v1.0.1|w4|c2	HG02132_pat_hprc_r2_v1.0.1	2+	1737760	A	-	753169
+HG03516_mat_hprc_r2_v1.1.0|w4|c0	HG03516_mat_hprc_r2_v1.1.0	1+	636418			0
+HG03139_hap2_hprc_r2_v1.0.1|w3|c0	HG03139_hap2_hprc_r2_v1.0.1	1+	636500			0
+HG02165_hap1_hprc_r2_v1.0.1|w4|c0	HG02165_hap1_hprc_r2_v1.0.1	2+	637618	A	-	588775
+HG02165_hap1_hprc_r2_v1.0.1|w4|c1	HG02165_hap1_hprc_r2_v1.0.1	1+	1261865	A	-	719818
+HG00235_hap2_hprc_r2_v1.0.1|w3|c0	HG00235_hap2_hprc_r2_v1.0.1	1+	637676	A	-	339744
+HG00235_hap2_hprc_r2_v1.0.1|w3|c1	HG00235_hap2_hprc_r2_v1.0.1	2+	1130295	A	-	336098
+HG00621_mat_hprc_r2_v1.0.1|w4|c0	HG00621_mat_hprc_r2_v1.0.1	2+	637873	A	-	590416
+HG00621_mat_hprc_r2_v1.0.1|w4|c1	HG00621_mat_hprc_r2_v1.0.1	1+	1263797	A	-	809926
+NA18970_hap1_hprc_r2_v1.0.1|w4|c0	NA18970_hap1_hprc_r2_v1.0.1	2+	638291	A	-	590483
+NA18970_hap1_hprc_r2_v1.0.1|w4|c1	NA18970_hap1_hprc_r2_v1.0.1	1+	1264284	A	-	791911
+HG01496_mat_hprc_r2_v1.0.1|w4|c0	HG01496_mat_hprc_r2_v1.0.1	1+	639155			0
+HG01258_mat_hprc_r2_v1.0.1|w5|c0	HG01258_mat_hprc_r2_v1.0.1	2-	639526	A	+	359950
+HG01258_mat_hprc_r2_v1.0.1|w5|c1	HG01258_mat_hprc_r2_v1.0.1	1-	1368274	A	+	408443
+HG03831_pat_hprc_r2_v1.0.1|w4|c0	HG03831_pat_hprc_r2_v1.0.1	2-	639537	A	+	339527
+HG03831_pat_hprc_r2_v1.0.1|w4|c1	HG03831_pat_hprc_r2_v1.0.1	1-	1135595	A	+	340380
+NA18967_hap1_hprc_r2_v1.0.1|w3|c0	NA18967_hap1_hprc_r2_v1.0.1	2-	639551	A	+	346019
+NA18967_hap1_hprc_r2_v1.0.1|w3|c1	NA18967_hap1_hprc_r2_v1.0.1	1+	1252988	A	-	345606
+HG02165_hap2_hprc_r2_v1.0.1|w4|c0	HG02165_hap2_hprc_r2_v1.0.1	2+	640108	A	-	590810
+HG02165_hap2_hprc_r2_v1.0.1|w4|c1	HG02165_hap2_hprc_r2_v1.0.1	1+	1286825	A	-	812416
+NA18944_hap1_hprc_r2_v1.0.1|w3|c0	NA18944_hap1_hprc_r2_v1.0.1	1+	640184			0
+HG01252_pat_hprc_r2_v1.0.1|w3|c0	HG01252_pat_hprc_r2_v1.0.1	1+	640765			0
+HG01784_hap1_hprc_r2_v1.0.1|w3|c0	HG01784_hap1_hprc_r2_v1.0.1	1+	641070			0
+NA20346_hap2_hprc_r2_v1.0.1|w4|c0	NA20346_hap2_hprc_r2_v1.0.1	1+	641110			0
+HG00558_pat_hprc_r2_v1.0.1|w4|c0	HG00558_pat_hprc_r2_v1.0.1	1+	641191			0
+HG02155_hap1_hprc_r2_v1.0.1|w4|c0	HG02155_hap1_hprc_r2_v1.0.1	1+	641210			0
+HG00350_hap1_hprc_r2_v1.0.1|w3|c0	HG00350_hap1_hprc_r2_v1.0.1	1+	641255			0
+HG00350_hap2_hprc_r2_v1.0.1|w3|c0	HG00350_hap2_hprc_r2_v1.0.1	1+	641279			0
+HG01943_pat_hprc_r2_v1.0.1|w4|c0	HG01943_pat_hprc_r2_v1.0.1	1+	641304			0
+HG01975_mat_hprc_r2_v1.0.1|w4|c0	HG01975_mat_hprc_r2_v1.0.1	1+	641311			0
+HG01934_pat_hprc_r2_v1.0.1|w4|c0	HG01934_pat_hprc_r2_v1.0.1	1+	641315			0
+HG01940_pat_hprc_r2_v1.0.1|w4|c0	HG01940_pat_hprc_r2_v1.0.1	1+	641319			0
+HG00544_pat_hprc_r2_v1.0.1|w3|c0	HG00544_pat_hprc_r2_v1.0.1	2+	641787	A	-	346094
+HG00544_pat_hprc_r2_v1.0.1|w3|c1	HG00544_pat_hprc_r2_v1.0.1	1+	1247554	A	-	346013
+NA21102_hap2_hprc_r2_v1.0.1|w4|c0	NA21102_hap2_hprc_r2_v1.0.1	2+	641896	A	-	610539
+NA21102_hap2_hprc_r2_v1.0.1|w4|c1	NA21102_hap2_hprc_r2_v1.0.1	1+	1268194	A	-	351476
+NA21102_hap2_hprc_r2_v1.0.1|w4|c2	NA21102_hap2_hprc_r2_v1.0.1	2+	1763684	A	-	558811
+HG03942_mat_hprc_r2_v1.0.1|w4|c0	HG03942_mat_hprc_r2_v1.0.1	1+	641971			0
+NA18508_hap2_hprc_r2_v1.0.1|w3|c0	NA18508_hap2_hprc_r2_v1.0.1	1+	641990			0
+NA20870_hap1_hprc_r2_v1.0.1|w3|c0	NA20870_hap1_hprc_r2_v1.0.1	1+	641994			0
+HG03874_hap1_hprc_r2_v1.0.1|w3|c0	HG03874_hap1_hprc_r2_v1.0.1	1+	642058			0
+HG03874_hap2_hprc_r2_v1.0.1|w4|c0	HG03874_hap2_hprc_r2_v1.0.1	1+	642063			0
+HG03927_pat_hprc_r2_v1.0.1|w5|c0	HG03927_pat_hprc_r2_v1.0.1	1+	642117			0
+NA18971_hap2_hprc_r2_v1.0.1|w3|c0	NA18971_hap2_hprc_r2_v1.0.1	1+	642160			0
+NA18906_mat_hprc_r2_v1.0.1|w2|c0	NA18906_mat_hprc_r2_v1.0.1	1+	642222			0
+HG02056_mat_hprc_r2_v1.0.1|w4|c0	HG02056_mat_hprc_r2_v1.0.1	2+	642253	A	-	346799
+HG02056_mat_hprc_r2_v1.0.1|w4|c1	HG02056_mat_hprc_r2_v1.0.1	1+	1246484	A	-	345937
+HG04187_mat_hprc_r2_v1.0.1|w4|c0	HG04187_mat_hprc_r2_v1.0.1	1+	642601			0
+HG02602_pat_hprc_r2_v1.0.1|w4|c0	HG02602_pat_hprc_r2_v1.0.1	1+	642945			0
+NA21102_hap1_hprc_r2_v1.0.1|w4|c0	NA21102_hap1_hprc_r2_v1.0.1	1+	643313	A	-	550024
+NA21102_hap1_hprc_r2_v1.0.1|w4|c1	NA21102_hap1_hprc_r2_v1.0.1	2+	1227745	A	-	792470
+HG02132_mat_hprc_r2_v1.0.1|w4|c0	HG02132_mat_hprc_r2_v1.0.1	2+	645405	A	-	590869
+HG02132_mat_hprc_r2_v1.0.1|w4|c1	HG02132_mat_hprc_r2_v1.0.1	1+	1274986	A	-	723218
+HG01261_mat_hprc_r2_v1.0.1|w2|c0	HG01261_mat_hprc_r2_v1.0.1	2-	647913			0
+HG01261_mat_hprc_r2_v1.0.1|w2|c1	HG01261_mat_hprc_r2_v1.0.1	1-	1166998			0
+NA18570_hap1_hprc_r2_v1.0.1|w4|c0	NA18570_hap1_hprc_r2_v1.0.1	2-	650485	A	+	590951
+NA18570_hap1_hprc_r2_v1.0.1|w4|c1	NA18570_hap1_hprc_r2_v1.0.1	1+	1264193	A	-	701405
+HG02178_hap2_hprc_r2_v1.0.1|w4|c0	HG02178_hap2_hprc_r2_v1.0.1	2-	650561	A	+	590989
+HG02178_hap2_hprc_r2_v1.0.1|w4|c1	HG02178_hap2_hprc_r2_v1.0.1	1+	1263369	A	-	790735
+NA18952_hap2_hprc_r2_v1.0.1|w3|c0	NA18952_hap2_hprc_r2_v1.0.1	2-	650711	A	+	345613
+NA18952_hap2_hprc_r2_v1.0.1|w3|c1	NA18952_hap2_hprc_r2_v1.0.1	1+	1264741	A	-	346816
+HG00597_mat_hprc_r2_v1.0.1|w4|c0	HG00597_mat_hprc_r2_v1.0.1	2-	652776	A	+	558776
+HG00597_mat_hprc_r2_v1.0.1|w4|c2	HG00597_mat_hprc_r2_v1.0.1	1+	1247893	A	-	759575
+NA18620_hap1_hprc_r2_v1.0.1|w4|c0	NA18620_hap1_hprc_r2_v1.0.1	2-	650950	A	+	589374
+NA18620_hap1_hprc_r2_v1.0.1|w4|c1	NA18620_hap1_hprc_r2_v1.0.1	1+	1264539	A	-	694041
+NA18940_hap1_hprc_r2_v1.0.1|w6|c0	NA18940_hap1_hprc_r2_v1.0.1	2-	651839	A	+	590552
+NA18940_hap1_hprc_r2_v1.0.1|w6|c1	NA18940_hap1_hprc_r2_v1.0.1	1+	1285624	A	-	812270
+NA18971_hap1_hprc_r2_v1.0.1|w3|c0	NA18971_hap1_hprc_r2_v1.0.1	2-	651958	A	+	590620
+NA18971_hap1_hprc_r2_v1.0.1|w3|c1	NA18971_hap1_hprc_r2_v1.0.1	1+	1265107	A	-	683784
+NA18565_hap1_hprc_r2_v1.0.1|w3|c0	NA18565_hap1_hprc_r2_v1.0.1	1-	652090	A	+	590369
+NA18565_hap1_hprc_r2_v1.0.1|w3|c1	NA18565_hap1_hprc_r2_v1.0.1	1+	1265179	A	-	773507
+HG02300_mat_hprc_r2_v1.0.1|w3|c0	HG02300_mat_hprc_r2_v1.0.1	h12-	652090	A	+	590593
+HG02300_mat_hprc_r2_v1.0.1|w3|c1	HG02300_mat_hprc_r2_v1.0.1	1+	1265421	A	-	719810
+HG02083_mat_hprc_r2_v1.0.1|w3|c0	HG02083_mat_hprc_r2_v1.0.1	2-	652100	A	+	590518
+HG02083_mat_hprc_r2_v1.0.1|w3|c1	HG02083_mat_hprc_r2_v1.0.1	1+	1281189	A	-	717364
+HG00408_pat_hprc_r2_v1.0.1|w3|c0	HG00408_pat_hprc_r2_v1.0.1	2-	652167	A	+	590563
+HG00408_pat_hprc_r2_v1.0.1|w3|c1	HG00408_pat_hprc_r2_v1.0.1	1+	1265856	A	-	737811
+HG01192_pat_hprc_r2_v1.0.1|w3|c0	HG01192_pat_hprc_r2_v1.0.1	d2-	649845	A	+	339269
+HG01192_pat_hprc_r2_v1.0.1|w3|c1	HG01192_pat_hprc_r2_v1.0.1	1+	1260982	A	-	345959
+NA19682_hap1_hprc_r2_v1.0.1|w4|c0	NA19682_hap1_hprc_r2_v1.0.1	2-	652219	A	+	576864
+NA19682_hap1_hprc_r2_v1.0.1|w4|c1	NA19682_hap1_hprc_r2_v1.0.1	1+	1265876	A	-	705494
+HG02523_mat_hprc_r2_v1.0.1|w3|c0	HG02523_mat_hprc_r2_v1.0.1	2-	652231	A	+	590653
+HG02523_mat_hprc_r2_v1.0.1|w3|c1	HG02523_mat_hprc_r2_v1.0.1	1+	1245455	A	-	681343
+HG01934_mat_hprc_r2_v1.0.1|w4|c0	HG01934_mat_hprc_r2_v1.0.1	d2-	649879			0
+HG00673_mat_hprc_r2_v1.0.1|w4|c0	HG00673_mat_hprc_r2_v1.0.1	2-	652250	A	+	345718
+HG00673_mat_hprc_r2_v1.0.1|w4|c1	HG00673_mat_hprc_r2_v1.0.1	1+	1265962	A	-	345958
+HG00133_hap2_hprc_r2_v1.0.1|w4|c0	HG00133_hap2_hprc_r2_v1.0.1	d2-	649893	A	+	570557
+HG00133_hap2_hprc_r2_v1.0.1|w4|c1	HG00133_hap2_hprc_r2_v1.0.1	1+	1261206	A	-	741543
+HG02129_pat_hprc_r2_v1.0.1|w5|c0	HG02129_pat_hprc_r2_v1.0.1	2-	652253	A	+	576915
+HG02129_pat_hprc_r2_v1.0.1|w5|c1	HG02129_pat_hprc_r2_v1.0.1	1+	1265998	A	-	687496
+HG00272_hap1_hprc_r2_v1.0.1|w3|c0	HG00272_hap1_hprc_r2_v1.0.1	d2-	649914	A	+	339328
+HG00272_hap1_hprc_r2_v1.0.1|w3|c1	HG00272_hap1_hprc_r2_v1.0.1	1+	1261191	A	-	345950
+HG02015_pat_hprc_r2_v1.0.1|w3|c0	HG02015_pat_hprc_r2_v1.0.1	2-	652284	A	+	590656
+HG02015_pat_hprc_r2_v1.0.1|w3|c1	HG02015_pat_hprc_r2_v1.0.1	1+	1265759	A	-	665749
+HG02391_hap2_hprc_r2_v1.0.1|w4|c0	HG02391_hap2_hprc_r2_v1.0.1	2-	652302	A	+	576940
+HG02391_hap2_hprc_r2_v1.0.1|w4|c1	HG02391_hap2_hprc_r2_v1.0.1	1+	1286458	A	-	671855
+HG01175_pat_hprc_r2_v1.0.1|w5|c0	HG01175_pat_hprc_r2_v1.0.1	d2-	649948	A	+	570537
+HG01175_pat_hprc_r2_v1.0.1|w5|c1	HG01175_pat_hprc_r2_v1.0.1	1+	1261173	A	-	759584
+HG02056_pat_hprc_r2_v1.0.1|w4|c0	HG02056_pat_hprc_r2_v1.0.1	2-	652318	A	+	576944
+HG02056_pat_hprc_r2_v1.0.1|w4|c1	HG02056_pat_hprc_r2_v1.0.1	1+	1266148	A	-	759585
+NA20827_hap2_hprc_r2_v1.0.1|w2|c0	NA20827_hap2_hprc_r2_v1.0.1	d2-	649984	A	+	570533
+NA20827_hap2_hprc_r2_v1.0.1|w2|c1	NA20827_hap2_hprc_r2_v1.0.1	1+	1261231	A	-	723492
+NA18747_hap2_hprc_r2_v1.0.1|w7|c0	NA18747_hap2_hprc_r2_v1.0.1	2-	652461			0
+NA19391_hap2_hprc_r2_v1.0.1|w4|c0	NA19391_hap2_hprc_r2_v1.0.1	2-	652692	A	+	407060
+NA19391_hap2_hprc_r2_v1.0.1|w4|c1	NA19391_hap2_hprc_r2_v1.0.1	1-	1440698	A	+	346979
+HG02523_pat_hprc_r2_v1.0.1|w6|c0	HG02523_pat_hprc_r2_v1.0.1	2-	652728	A	+	345664
+HG02523_pat_hprc_r2_v1.0.1|w6|c1	HG02523_pat_hprc_r2_v1.0.1	1+	1266267	A	-	345965
+NA18943_hap1_hprc_r2_v1.0.1|w4|c0	NA18943_hap1_hprc_r2_v1.0.1	2-	652735	A	+	590529
+NA18943_hap1_hprc_r2_v1.0.1|w4|c1	NA18943_hap1_hprc_r2_v1.0.1	1+	1266099	A	-	701791
+NA18982_hap1_hprc_r2_v1.0.1|w4|c0	NA18982_hap1_hprc_r2_v1.0.1	2-	652742	A	+	590675
+NA18982_hap1_hprc_r2_v1.0.1|w4|c1	NA18982_hap1_hprc_r2_v1.0.1	1+	1266321	A	-	755872
+HG00733_pat_hprc_r2_v1.0.1|w4|c0	HG00733_pat_hprc_r2_v1.0.1	d2-	650423	A	+	570543
+HG00733_pat_hprc_r2_v1.0.1|w4|c1	HG00733_pat_hprc_r2_v1.0.1	1+	1261693	A	-	759574
+HG02135_mat_hprc_r2_v1.0.1|w3|c0	HG02135_mat_hprc_r2_v1.0.1	2-	652784	A	+	591383
+HG02135_mat_hprc_r2_v1.0.1|w3|c1	HG02135_mat_hprc_r2_v1.0.1	1+	1267121	A	-	719744
+HG01074_pat_hprc_r2_v1.0.1|w5|c0	HG01074_pat_hprc_r2_v1.0.1	d2-	650455	A	+	570563
+HG01074_pat_hprc_r2_v1.0.1|w5|c1	HG01074_pat_hprc_r2_v1.0.1	1+	1261680	A	-	759577
+HG03688_pat_hprc_r2_v1.0.1|w4|c0	HG03688_pat_hprc_r2_v1.0.1	2-	653362	A	+	576845
+HG03688_pat_hprc_r2_v1.0.1|w4|c1	HG03688_pat_hprc_r2_v1.0.1	1+	1266937	A	-	705508
+NA20850_hap1_hprc_r2_v1.0.1|w4|c0	NA20850_hap1_hprc_r2_v1.0.1	2-	653547	A	+	577204
+NA20850_hap1_hprc_r2_v1.0.1|w4|c1	NA20850_hap1_hprc_r2_v1.0.1	1+	1287668	A	-	707635
+HG00126_hap2_hprc_r2_v1.0.1|w3|c0	HG00126_hap2_hprc_r2_v1.0.1	2-	653600	A	+	590413
+HG00126_hap2_hprc_r2_v1.0.1|w3|c1	HG00126_hap2_hprc_r2_v1.0.1	1+	1266930	A	-	719849
+HG02559_mat_hprc_r2_v1.0.1|w4|c0	HG02559_mat_hprc_r2_v1.0.1	2-	653623	A	+	401024
+HG02559_mat_hprc_r2_v1.0.1|w4|c1	HG02559_mat_hprc_r2_v1.0.1	1-	1439248	A	+	410910
+HG03816_mat_hprc_r2_v1.0.1|w3|c0	HG03816_mat_hprc_r2_v1.0.1	2-	653701	A	+	576873
+HG03816_mat_hprc_r2_v1.0.1|w3|c1	HG03816_mat_hprc_r2_v1.0.1	1+	1267356	A	-	741526
+HG01150_mat_hprc_r2_v1.0.1|w4|c0	HG01150_mat_hprc_r2_v1.0.1	2-	653716	A	+	556877
+HG01150_mat_hprc_r2_v1.0.1|w4|c1	HG01150_mat_hprc_r2_v1.0.1	1+	1246615	A	-	759166
+HG02129_mat_hprc_r2_v1.0.1|w2|c0	HG02129_mat_hprc_r2_v1.0.1	2-	653718	A	+	406952
+HG02129_mat_hprc_r2_v1.0.1|w2|c1	HG02129_mat_hprc_r2_v1.0.1	1+	1328728	A	-	345966
+NA19468_hap1_hprc_r2_v1.0.1|w4|c0	NA19468_hap1_hprc_r2_v1.0.1	2-	653724	A	+	343216
+NA19468_hap1_hprc_r2_v1.0.1|w4|c1	NA19468_hap1_hprc_r2_v1.0.1	1-	1525629	A	+	468879
+HG06807_mat_v1.0.genbank|w3|c0	HG06807_mat_v1.0.genbank	2-	653725	A	+	359827
+HG06807_mat_v1.0.genbank|w3|c1	HG06807_mat_v1.0.genbank	1+	1545341	A	-	360289
+HG00126_hap1_hprc_r2_v1.0.1|w3|c0	HG00126_hap1_hprc_r2_v1.0.1	2-	653767	A	+	359809
+HG00126_hap1_hprc_r2_v1.0.1|w3|c1	HG00126_hap1_hprc_r2_v1.0.1	1+	1545354	A	-	360251
+hg002v1.1.mat_MT.PanSN|w4|c0	hg002v1.1.mat_MT.PanSN	2-	653787	A	+	360129
+hg002v1.1.mat_MT.PanSN|w4|c1	hg002v1.1.mat_MT.PanSN	1+	1545757	A	-	360271
+HG02071_mat_hprc_r2_v1.0.1|w5|c0	HG02071_mat_hprc_r2_v1.0.1	2-	653928	A	+	611065
+HG02071_mat_hprc_r2_v1.0.1|w5|c1	HG02071_mat_hprc_r2_v1.0.1	1+	1288103	A	-	737928
+NA21106_hap2_hprc_r2_v1.0.1|w4|c0	NA21106_hap2_hprc_r2_v1.0.1	2-	653947	A	+	325240
+NA21106_hap2_hprc_r2_v1.0.1|w4|c1	NA21106_hap2_hprc_r2_v1.0.1	1+	1246889	A	-	345961
+HG03834_mat_hprc_r2_v1.0.1|w3|c0	HG03834_mat_hprc_r2_v1.0.1	2-	654093	A	+	556388
+HG03834_mat_hprc_r2_v1.0.1|w3|c1	HG03834_mat_hprc_r2_v1.0.1	1+	1226884	A	-	721110
+NA21093_hap2_hprc_r2_v1.0.1|w4|c0	NA21093_hap2_hprc_r2_v1.0.1	1-	654289	A	+	590646
+NA21093_hap2_hprc_r2_v1.0.1|w4|c1	NA21093_hap2_hprc_r2_v1.0.1	1+	1247633	A	-	771416
+NA19776_hap1_hprc_r2_v1.0.1|w4|c0	NA19776_hap1_hprc_r2_v1.0.1	2-	654365	A	+	345663
+NA19776_hap1_hprc_r2_v1.0.1|w4|c1	NA19776_hap1_hprc_r2_v1.0.1	1+	1267737	A	-	345934
+HG01952_mat_hprc_r2_v1.0.1|w4|c0	HG01952_mat_hprc_r2_v1.0.1	2-	654399	A	+	576876
+HG01952_mat_hprc_r2_v1.0.1|w4|c1	HG01952_mat_hprc_r2_v1.0.1	1+	1247768	A	-	721097
+NA19338_hap2_hprc_r2_v1.0.1|w4|c0	NA19338_hap2_hprc_r2_v1.0.1	2-	654403	A	+	400966
+NA19338_hap2_hprc_r2_v1.0.1|w4|c1	NA19338_hap2_hprc_r2_v1.0.1	1-	1439883	A	+	410906
+HG02257_pat_hprc_r2_v1.1.0|w5|c0	HG02257_pat_hprc_r2_v1.1.0	2-	654437	A	+	380449
+HG02257_pat_hprc_r2_v1.1.0|w5|c1	HG02257_pat_hprc_r2_v1.1.0	1-	1401341	A	+	390508
+HG02293_pat_hprc_r2_v1.0.1|w4|c0	HG02293_pat_hprc_r2_v1.0.1	2-	654441	A	+	577227
+HG02293_pat_hprc_r2_v1.0.1|w4|c1	HG02293_pat_hprc_r2_v1.0.1	1+	1268180	A	-	759198
+NA18508_hap1_hprc_r2_v1.0.1|w4|c0	NA18508_hap1_hprc_r2_v1.0.1	2-	654559	A	+	346032
+NA18508_hap1_hprc_r2_v1.0.1|w4|c1	NA18508_hap1_hprc_r2_v1.0.1	1+	1247836	A	-	325477
+HG00733_mat_hprc_r2_v1.0.1|w4|c0	HG00733_mat_hprc_r2_v1.0.1	2-	654635			0
+HG00733_mat_hprc_r2_v1.0.1|w4|c1	HG00733_mat_hprc_r2_v1.0.1	1+	1227382			0
+HG02074_pat_hprc_r2_v1.0.1|w3|c0	HG02074_pat_hprc_r2_v1.0.1	2-	654753	A	+	345616
+HG02074_pat_hprc_r2_v1.0.1|w3|c1	HG02074_pat_hprc_r2_v1.0.1	1+	1268171	A	-	345997
+NA19159_hap1_hprc_r2_v1.0.1|w3|c0	NA19159_hap1_hprc_r2_v1.0.1	2-	655312	A	+	421409
+NA19159_hap1_hprc_r2_v1.0.1|w3|c1	NA19159_hap1_hprc_r2_v1.0.1	1-	1461202	A	+	410895
+HG01099_mat_hprc_r2_v1.0.1|w6|c0	HG01099_mat_hprc_r2_v1.0.1	2-	655420	A	+	578871
+HG01099_mat_hprc_r2_v1.0.1|w6|c1	HG01099_mat_hprc_r2_v1.0.1	1+	1268953	A	-	723133
+HG00133_hap1_hprc_r2_v1.0.1|w5|c0	HG00133_hap1_hprc_r2_v1.0.1	2-	655421	A	+	578888
+HG00133_hap1_hprc_r2_v1.0.1|w5|c1	HG00133_hap1_hprc_r2_v1.0.1	1+	1289391	A	-	743551
+HG04115_pat_hprc_r2_v1.0.1|w0|c0	HG04115_pat_hprc_r2_v1.0.1	1+	655752			0
+HG03050_mat_hprc_r2_v1.0.1|w3|c0	HG03050_mat_hprc_r2_v1.0.1	1+	659544	A	-	348923
+HG03050_mat_hprc_r2_v1.0.1|w3|c1	HG03050_mat_hprc_r2_v1.0.1	h21+	1176592	A	-	370968
+HG03453_mat_hprc_r2_v1.0.1|w0|c0	HG03453_mat_hprc_r2_v1.0.1	1+	660139	A	-	348950
+HG03453_mat_hprc_r2_v1.0.1|w0|c1	HG03453_mat_hprc_r2_v1.0.1	h21+	1177197	A	-	370961
+HG02886_mat_hprc_r2_v1.0.1|w3|c0	HG02886_mat_hprc_r2_v1.0.1	2+	661884	A	-	351166
+HG02886_mat_hprc_r2_v1.0.1|w3|c1	HG02886_mat_hprc_r2_v1.0.1	1+	1470764	A	-	349634
+HG03470_hap1_hprc_r2_v1.0.1|w4|c0	HG03470_hap1_hprc_r2_v1.0.1	2+	661995	A	-	351199
+HG03470_hap1_hprc_r2_v1.0.1|w4|c1	HG03470_hap1_hprc_r2_v1.0.1	1+	1306539	A	-	349611
+HG01891_pat_hprc_r2_v1.0.1|w1|c0	HG01891_pat_hprc_r2_v1.0.1	2+	662155	A	-	351210
+HG01891_pat_hprc_r2_v1.0.1|w1|c1	HG01891_pat_hprc_r2_v1.0.1	1+	1452984	A	-	349604
+HG03583_hap1_hprc_r2_v1.0.1|w3|c0	HG03583_hap1_hprc_r2_v1.0.1	1+	662649			0
+NA18982_hap2_hprc_r2_v1.0.1|w4|c0	NA18982_hap2_hprc_r2_v1.0.1	2+	662654	A	-	367764
+NA18982_hap2_hprc_r2_v1.0.1|w4|c1	NA18982_hap2_hprc_r2_v1.0.1	1+	1266896	A	-	345997
+HG00639_mat_hprc_r2_v1.0.1|w4|c0	HG00639_mat_hprc_r2_v1.0.1	2+	662813	A	-	615830
+HG00639_mat_hprc_r2_v1.0.1|w4|c1	HG00639_mat_hprc_r2_v1.0.1	1+	1267149	A	-	744366
+NA18952_hap1_hprc_r2_v1.0.1|w4|c0	NA18952_hap1_hprc_r2_v1.0.1	1+	662902			0
+HG00438_pat_hprc_r2_v1.0.1|w3|c0	HG00438_pat_hprc_r2_v1.0.1	1+	663258			0
+HG01074_mat_hprc_r2_v1.0.1|w4|c0	HG01074_mat_hprc_r2_v1.0.1	1+	663453			0
+HG03195_hap1_hprc_r2_v1.0.1|w3|c0	HG03195_hap1_hprc_r2_v1.0.1	1+	663490			0
+HG03579_pat_hprc_r2_v1.0.1|w4|c0	HG03579_pat_hprc_r2_v1.0.1	1+	663493			0
+HG02040_hap1_hprc_r2_v1.0.1|w3|c0	HG02040_hap1_hprc_r2_v1.0.1	1+	663534			0
+NA21309_mat_hprc_r2_v1.0.1|w4|c0	NA21309_mat_hprc_r2_v1.0.1	2+	663777	A	-	372267
+NA21309_mat_hprc_r2_v1.0.1|w4|c1	NA21309_mat_hprc_r2_v1.0.1	1-	1152090	A	+	549133
+NA21309_mat_hprc_r2_v1.0.1|w4|c2	NA21309_mat_hprc_r2_v1.0.1	1+	1826339	A	-	446317
+HG04228_mat_hprc_r2_v1.0.1|w3|c0	HG04228_mat_hprc_r2_v1.0.1	2-	673474	A	+	597305
+HG04228_mat_hprc_r2_v1.0.1|w3|c1	HG04228_mat_hprc_r2_v1.0.1	1+	1286973	A	-	759537
+HG04115_mat_hprc_r2_v1.0.1|w5|c0	HG04115_mat_hprc_r2_v1.0.1	2-	674238	A	+	597326
+HG04115_mat_hprc_r2_v1.0.1|w5|c1	HG04115_mat_hprc_r2_v1.0.1	1+	1287819	A	-	759559
+HG02451_pat_hprc_r2_v1.0.1|w3|c0	HG02451_pat_hprc_r2_v1.0.1	1+	681960			0
+HG02004_pat_hprc_r2_v1.0.1|w2|c0	HG02004_pat_hprc_r2_v1.0.1	1+	682257			0
+HG01243_pat_hprc_r2_v1.0.1|w4|c0	HG01243_pat_hprc_r2_v1.0.1	1-	683777	A	+	468692
+HG01243_pat_hprc_r2_v1.0.1|w4|c1	HG01243_pat_hprc_r2_v1.0.1	2-	1284548	A	+	366484
+HG01243_pat_hprc_r2_v1.0.1|w4|c2	HG01243_pat_hprc_r2_v1.0.1	1+	1938870	A	-	449719
+NA20503_hap1_hprc_r2_v1.0.1|w4|c0	NA20503_hap1_hprc_r2_v1.0.1	2-	692266	A	+	654273
+NA20503_hap1_hprc_r2_v1.0.1|w4|c1	NA20503_hap1_hprc_r2_v1.0.1	1-	1398336	A	+	780383
+NA20870_hap2_hprc_r2_v1.0.1|w4|c0	NA20870_hap2_hprc_r2_v1.0.1	2-	692747	A	+	616135
+NA20870_hap2_hprc_r2_v1.0.1|w4|c1	NA20870_hap2_hprc_r2_v1.0.1	1+	1306273	A	-	759186
+NA18974_hap2_hprc_r2_v1.0.1|w7|c0	NA18974_hap2_hprc_r2_v1.0.1	2-	692824			0
+HG03804_pat_hprc_r2_v1.0.1|w3|c0	HG03804_pat_hprc_r2_v1.0.1	2-	693748	A	+	617724
+HG03804_pat_hprc_r2_v1.0.1|w3|c1	HG03804_pat_hprc_r2_v1.0.1	1+	1307267	A	-	705477
+NA20129_mat_hprc_r2_v1.0.1|w4|c0	NA20129_mat_hprc_r2_v1.0.1	2-	693896	A	+	326843
+NA20129_mat_hprc_r2_v1.0.1|w4|c1	NA20129_mat_hprc_r2_v1.0.1	1+	1265466	A	-	322926
+HG00097_hap2_hprc_r2_v1.0.1|w3|c0	HG00097_hap2_hprc_r2_v1.0.1	2-	693915	A	+	636303
+HG00097_hap2_hprc_r2_v1.0.1|w3|c1	HG00097_hap2_hprc_r2_v1.0.1	1-	1379601	A	+	708307
+HG03784_hap2_hprc_r2_v1.0.1|w8|c0	HG03784_hap2_hprc_r2_v1.0.1	2-	694216			0
+NA21106_hap1_hprc_r2_v1.0.1|w4|c0	NA21106_hap1_hprc_r2_v1.0.1	2-	694395	A	+	631399
+NA21106_hap1_hprc_r2_v1.0.1|w4|c1	NA21106_hap1_hprc_r2_v1.0.1	1+	1307836	A	-	719829
+HG00140_hap2_hprc_r2_v1.0.1|w3|c0	HG00140_hap2_hprc_r2_v1.0.1	2-	694598	A	+	617689
+HG00140_hap2_hprc_r2_v1.0.1|w3|c1	HG00140_hap2_hprc_r2_v1.0.1	1+	1328554	A	-	798073
+HG03239_pat_hprc_r2_v1.0.1|w4|c0	HG03239_pat_hprc_r2_v1.0.1	2-	694610	A	+	617694
+HG03239_pat_hprc_r2_v1.0.1|w4|c1	HG03239_pat_hprc_r2_v1.0.1	1+	1308042	A	-	741490
+HG00140_hap1_hprc_r2_v1.0.1|w2|c0	HG00140_hap1_hprc_r2_v1.0.1	1-	694637	A	+	597643
+HG00140_hap1_hprc_r2_v1.0.1|w2|c1	HG00140_hap1_hprc_r2_v1.0.1	2+	1286075	A	-	757551
+HG00735_mat_hprc_r2_v1.0.1|w4|c0	HG00735_mat_hprc_r2_v1.0.1	2-	694644	A	+	656771
+HG00735_mat_hprc_r2_v1.0.1|w4|c1	HG00735_mat_hprc_r2_v1.0.1	1+	1308186	A	-	696289
+HG03704_pat_hprc_r2_v1.0.1|w4|c0	HG03704_pat_hprc_r2_v1.0.1	2-	694655	A	+	617690
+HG03704_pat_hprc_r2_v1.0.1|w4|c1	HG03704_pat_hprc_r2_v1.0.1	1+	1308166	A	-	741499
+HG00272_hap2_hprc_r2_v1.0.1|w4|c0	HG00272_hap2_hprc_r2_v1.0.1	2-	694687	A	+	656747
+HG00272_hap2_hprc_r2_v1.0.1|w4|c1	HG00272_hap2_hprc_r2_v1.0.1	1+	1308168	A	-	606140
+HG01530_hap1_hprc_r2_v1.0.1|w4|c0	HG01530_hap1_hprc_r2_v1.0.1	1-	695021	A	+	618121
+HG01530_hap1_hprc_r2_v1.0.1|w4|c1	HG01530_hap1_hprc_r2_v1.0.1	2+	1307751	A	-	776383
+HG00673_pat_hprc_r2_v1.0.1|w6|c0	HG00673_pat_hprc_r2_v1.0.1	2-	695159	A	+	345655
+HG00673_pat_hprc_r2_v1.0.1|w6|c1	HG00673_pat_hprc_r2_v1.0.1	1+	1329404	A	-	366641
+NA20850_hap2_hprc_r2_v1.0.1|w3|c0	NA20850_hap2_hprc_r2_v1.0.1	2-	695380	A	+	617736
+NA20850_hap2_hprc_r2_v1.0.1|w3|c1	NA20850_hap2_hprc_r2_v1.0.1	1+	1308866	A	-	651397
+HG01346_pat_hprc_r2_v1.0.1|w4|c0	HG01346_pat_hprc_r2_v1.0.1	1+	701675			0
+HG01106_pat_hprc_r2_v1.0.1|w4|c0	HG01106_pat_hprc_r2_v1.0.1	1+	701759			0
+NA20805_hap1_hprc_r2_v1.0.1|w4|c0	NA20805_hap1_hprc_r2_v1.0.1	1+	702203			0
+HG02572_mat_hprc_r2_v1.0.1|w4|c0	HG02572_mat_hprc_r2_v1.0.1	2-	703201	A	+	569707
+HG02572_mat_hprc_r2_v1.0.1|w4|c1	HG02572_mat_hprc_r2_v1.0.1	1+	1372799	A	-	706788
+HG03471_hap2_hprc_r2_v1.0.1|w3|c0	HG03471_hap2_hprc_r2_v1.0.1	2-	703233	A	+	325210
+HG03471_hap2_hprc_r2_v1.0.1|w3|c1	HG03471_hap2_hprc_r2_v1.0.1	1+	1296356	A	-	345940
+HG03209_hap2_hprc_r2_v1.0.1|w3|c0	HG03209_hap2_hprc_r2_v1.0.1	2-	703238	A	+	325217
+HG03209_hap2_hprc_r2_v1.0.1|w3|c1	HG03209_hap2_hprc_r2_v1.0.1	1+	1296369	A	-	345933
+HG02583_hap2_hprc_r2_v1.0.1|w2|c0	HG02583_hap2_hprc_r2_v1.0.1	2-	703255	A	+	606022
+HG02583_hap2_hprc_r2_v1.0.1|w2|c1	HG02583_hap2_hprc_r2_v1.0.1	1+	1296319	A	-	772372
+NA19159_hap2_hprc_r2_v1.0.1|w4|c0	NA19159_hap2_hprc_r2_v1.0.1	2-	703659	A	+	606002
+NA19159_hap2_hprc_r2_v1.0.1|w4|c1	NA19159_hap2_hprc_r2_v1.0.1	1+	1296824	A	-	741503
+HG03669_mat_hprc_r2_v1.0.1|w4|c0	HG03669_mat_hprc_r2_v1.0.1	2+	703805	A	-	610866
+HG03669_mat_hprc_r2_v1.0.1|w4|c1	HG03669_mat_hprc_r2_v1.0.1	1+	1308368	A	-	758521
+HG02965_hap2_hprc_r2_v1.0.1|w4|c0	HG02965_hap2_hprc_r2_v1.0.1	h21+	707885	A	-	410453
+HG02965_hap2_hprc_r2_v1.0.1|w4|c1	HG02965_hap2_hprc_r2_v1.0.1	1-	1338348	A	+	426456
+HG01243_mat_hprc_r2_v1.0.1|w3|c0	HG01243_mat_hprc_r2_v1.0.1	2-	714128	A	+	386551
+HG01243_mat_hprc_r2_v1.0.1|w3|c1	HG01243_mat_hprc_r2_v1.0.1	1-	1603216	A	+	385242
+HG02698_mat_hprc_r2_v1.0.1|w5|c0	HG02698_mat_hprc_r2_v1.0.1	1-	715101	A	+	652286
+HG02698_mat_hprc_r2_v1.0.1|w5|c1	HG02698_mat_hprc_r2_v1.0.1	2+	1327767	A	-	772687
+HG01071_mat_hprc_r2_v1.0.1|w4|c0	HG01071_mat_hprc_r2_v1.0.1	1-	715122	A	+	652359
+HG01071_mat_hprc_r2_v1.0.1|w4|c1	HG01071_mat_hprc_r2_v1.0.1	2+	1327848	A	-	772626
+HG00146_hap2_hprc_r2_v1.0.1|w4|c0	HG00146_hap2_hprc_r2_v1.0.1	1+	721366			0
+NA19036_hap1_hprc_r2_v1.0.1|w4|c0	NA19036_hap1_hprc_r2_v1.0.1	1+	744741	A	-	407836
+NA19036_hap1_hprc_r2_v1.0.1|w4|c1	NA19036_hap1_hprc_r2_v1.0.1	1-	1377191	A	+	516038
+HG00642_pat_hprc_r2_v1.0.1|w3|c0	HG00642_pat_hprc_r2_v1.0.1	1-	752180	A	+	339788
+HG00642_pat_hprc_r2_v1.0.1|w3|c1	HG00642_pat_hprc_r2_v1.0.1	2-	1627637	A	+	338773
+HG02027_mat_hprc_r2_v1.0.1|w4|c0	HG02027_mat_hprc_r2_v1.0.1	2-	754477	A	+	346067
+HG02027_mat_hprc_r2_v1.0.1|w4|c1	HG02027_mat_hprc_r2_v1.0.1	1+	1367852	A	-	345544
+HG02392_hap1_hprc_r2_v1.0.1|w4|c0	HG02392_hap1_hprc_r2_v1.0.1	2-	756055	A	+	693853
+HG02392_hap1_hprc_r2_v1.0.1|w4|c1	HG02392_hap1_hprc_r2_v1.0.1	1+	1350200	A	-	633363
+NA19468_hap2_hprc_r2_v1.0.1|w4|c0	NA19468_hap2_hprc_r2_v1.0.1	1-	772121			0
+HG03050_pat_hprc_r2_v1.0.1|w3|c0	HG03050_pat_hprc_r2_v1.0.1	2-	811076	A	+	366061
+HG03050_pat_hprc_r2_v1.0.1|w3|c1	HG03050_pat_hprc_r2_v1.0.1	1-	1539994	A	+	378716
+HG00423_pat_hprc_r2_v1.0.1|w6|c0	HG00423_pat_hprc_r2_v1.0.1	2-	853449			0
+NA18505_hap2_hprc_r2_v1.0.1|w3|c0	NA18505_hap2_hprc_r2_v1.0.1	h21+	900367	A	-	327249
+NA18505_hap2_hprc_r2_v1.0.1|w3|c1	NA18505_hap2_hprc_r2_v1.0.1	1-	1481357	A	+	326828
+HG01123_pat_hprc_r2_v1.0.1|w4|c0	HG01123_pat_hprc_r2_v1.0.1	2-	998400	A	+	339139
+HG01123_pat_hprc_r2_v1.0.1|w4|c1	HG01123_pat_hprc_r2_v1.0.1	1-	1494243	A	+	339410
+HG01786_hap2_hprc_r2_v1.0.1|w4|c0	HG01786_hap2_hprc_r2_v1.0.1	2-	998918	A	+	562058
+HG01786_hap2_hprc_r2_v1.0.1|w4|c1	HG01786_hap2_hprc_r2_v1.0.1	1-	1494756	A	+	429498
+HG01786_hap2_hprc_r2_v1.0.1|w4|c2	HG01786_hap2_hprc_r2_v1.0.1	1+	2108409	A	-	809783
+HG03688_mat_hprc_r2_v1.0.1|w3|c0	HG03688_mat_hprc_r2_v1.0.1	2-	1012596	A	+	339097
+HG03688_mat_hprc_r2_v1.0.1|w3|c1	HG03688_mat_hprc_r2_v1.0.1	1-	1508431	A	+	429568
+HG03688_mat_hprc_r2_v1.0.1|w3|c2	HG03688_mat_hprc_r2_v1.0.1	1+	2122199	A	-	415236
+HG02886_pat_hprc_r2_v1.0.1|w3|c0	HG02886_pat_hprc_r2_v1.0.1	2+	1013796	A	-	366993
+HG02886_pat_hprc_r2_v1.0.1|w3|c1	HG02886_pat_hprc_r2_v1.0.1	1-	1767326	A	+	450737
+HG02841_pat_hprc_r2_v1.0.1|w3|c0	HG02841_pat_hprc_r2_v1.0.1	2+	1014612	A	-	381495
+HG02841_pat_hprc_r2_v1.0.1|w3|c1	HG02841_pat_hprc_r2_v1.0.1	1-	1892960	A	+	428971
+HG02630_pat_hprc_r2_v1.0.1|w3|c0	HG02630_pat_hprc_r2_v1.0.1	2+	1014630	A	-	367821
+HG02630_pat_hprc_r2_v1.0.1|w3|c1	HG02630_pat_hprc_r2_v1.0.1	1-	1732029	A	+	450729
+HG02615_pat_hprc_r2_v1.0.1|w5|c0	HG02615_pat_hprc_r2_v1.0.1	2+	1014799	A	-	367817
+HG02615_pat_hprc_r2_v1.0.1|w5|c1	HG02615_pat_hprc_r2_v1.0.1	1-	1768395	A	+	504821
+HG03834_pat_hprc_r2_v1.0.1|w2|c0	HG03834_pat_hprc_r2_v1.0.1	2-	1016953	A	+	339114
+HG03834_pat_hprc_r2_v1.0.1|w2|c1	HG03834_pat_hprc_r2_v1.0.1	1-	1512792	A	+	339407
+HG04187_pat_hprc_r2_v1.0.1|w3|c0	HG04187_pat_hprc_r2_v1.0.1	2-	1016968	A	+	338962
+HG04187_pat_hprc_r2_v1.0.1|w3|c1	HG04187_pat_hprc_r2_v1.0.1	1-	1512644	A	+	339425
+HG02735_mat_hprc_r2_v1.0.1|w3|c0	HG02735_mat_hprc_r2_v1.0.1	2-	1017385	A	+	339067
+HG02735_mat_hprc_r2_v1.0.1|w3|c1	HG02735_mat_hprc_r2_v1.0.1	1-	1513423	A	+	339409
+HG00253_hap2_hprc_r2_v1.0.1|w5|c0	HG00253_hap2_hprc_r2_v1.0.1	2-	1035208	A	+	339049
+HG00253_hap2_hprc_r2_v1.0.1|w5|c1	HG00253_hap2_hprc_r2_v1.0.1	1-	1530751	A	+	339431
+HG03225_hap2_hprc_r2_v1.0.1|w3|c0	HG03225_hap2_hprc_r2_v1.0.1	1-	1072783	A	+	314250
+HG03225_hap2_hprc_r2_v1.0.1|w3|c1	HG03225_hap2_hprc_r2_v1.0.1	2-	1601927	A	+	393767
+HG02145_mat_hprc_r2_v1.0.1|w5|c0	HG02145_mat_hprc_r2_v1.0.1	1-	1092018	A	+	391099
+HG02145_mat_hprc_r2_v1.0.1|w5|c1	HG02145_mat_hprc_r2_v1.0.1	1+	1741516	A	-	290432
+HG00329_hap1_hprc_r2_v1.0.1|w4|c0	HG00329_hap1_hprc_r2_v1.0.1	t-	1097827			0
+HG00329_hap1_hprc_r2_v1.0.1|w4|c1	HG00329_hap1_hprc_r2_v1.0.1	1+	1704251			0
+HG02055_mat_hprc_r2_v1.0.1|w4|c0	HG02055_mat_hprc_r2_v1.0.1	1-	1152304			0
+HG02514_mat_hprc_r2_v1.0.1|w4|c0	HG02514_mat_hprc_r2_v1.0.1	1+	1157713			0

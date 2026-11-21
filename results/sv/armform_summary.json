@@ -1,0 +1,112 @@
+{
+ "G_haps_all": 123,
+ "G_haps_nopair": 51,
+ "G_on_T0": [
+  14,
+  198
+ ],
+ "G_on_T1": [
+  58,
+  72
+ ],
+ "S13_band_nopair": 0,
+ "S13_band_nopair_G": 0,
+ "T0_all": 198,
+ "T1_all": 72,
+ "T1_in_mixed": 40,
+ "bands": {
+  "AB": {
+   "C0|T0": 5,
+   "C0|T1": 32,
+   "C1|T0": 0,
+   "C1|T1": 0,
+   "no pair": 0
+  },
+  "Bulk": {
+   "C0|T0": 0,
+   "C0|T1": 0,
+   "C1|T0": 141,
+   "C1|T1": 5,
+   "no pair": 17
+  },
+  "Two": {
+   "C0|T0": 0,
+   "C0|T1": 0,
+   "C1|T0": 0,
+   "C1|T1": 0,
+   "no pair": 29
+  }
+ },
+ "bulk_cluster": 8,
+ "bulk_cluster_size": 208,
+ "bulk_pair": 183,
+ "bulk_pair_C0": 0,
+ "bulk_pair_C1": 183,
+ "bulk_pair_T0": 157,
+ "bulk_pair_T1": 26,
+ "family_T1_T0": {
+  "A": [
+   1.0,
+   1.0
+  ],
+  "B": [
+   0.986,
+   0.985
+  ],
+  "C": [
+   0.972,
+   0.793
+  ],
+  "D": [
+   0.056,
+   0.768
+  ],
+  "E": [
+   0.806,
+   0.071
+  ],
+  "F": [
+   0.014,
+   0.015
+  ],
+  "G": [
+   0.0,
+   0.0
+  ],
+  "H": [
+   0.0,
+   0.005
+  ],
+  "I": [
+   0.0,
+   0.01
+  ],
+  "J": [
+   0.0,
+   0.015
+  ],
+  "K": [
+   0.014,
+   0.02
+  ],
+  "L": [
+   0.0,
+   0.0
+  ],
+  "M": [
+   0.0,
+   0.005
+  ]
+ },
+ "fisher_p_C": 2.852121234939797e-65,
+ "fisher_p_T1": 5.311896402868764e-10,
+ "mixed_C0T1": 40,
+ "mixed_C1T1": 0,
+ "mixed_cluster": 9,
+ "mixed_cluster_size": 130,
+ "mixed_pair": 76,
+ "mixed_pair_C0": 75,
+ "mixed_pair_C1": 1,
+ "mixed_pair_T1": 40,
+ "sig_family": "E"
+}

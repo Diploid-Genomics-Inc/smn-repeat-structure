@@ -1,0 +1,24 @@
+gene_id	organism	symbol	description	chromosome	accession	start	end	length	live
+452873	Pan troglodytes	GEMIN2	gem nuclear organelle associated protein 2	15	NC_072413.2	37355525	37378212	22688	True
+450730	Pan troglodytes	SMNDC1	survival motor neuron domain containing 1	8	NC_072406.2	122408798	122420815	12018	True
+461829	Pan troglodytes	SMN2	survival of motor neuron 2, centromeric	4	NC_072402.2	44954275	44982075	27801	True
+101131875	Gorilla gorilla gorilla	SMNDC1	survival motor neuron domain containing 1	8	NC_073232.2	122562511	122574792	12282	True
+100975383	Pan paniscus	SMNDC1	survival motor neuron domain containing 1	8	NC_073257.2	122171809	122183792	11984	True
+100173826	Pongo abelii	SMNDC1	survival motor neuron domain containing 1	8	NC_071993.2	117312844	117324758	11915	True
+101148291	Gorilla gorilla gorilla	SMN2	survival of motor neuron 2, centromeric	19	NC_073243.2	40549264	40577042	27779	True
+100984482	Pan paniscus	SMN2	survival of motor neuron 2, centromeric	4	NC_073253.2	44221236	44249088	27853	True
+100171813	Pongo abelii	SMN1	survival of motor neuron 1, telomeric	4	NC_071989.2	78865266	78892775	27510	True
+134809850	Pan troglodytes	LOC134809850	survival motor neuron protein-like	3	NC_072401.2	184685204	184686562	1359	True
+129135918	Pan troglodytes	LOC129135918	survival motor neuron protein-like	11	NC_072409.2	95575938	95576876	939	True
+112133012	Pongo abelii	LOC112133012	survival motor neuron protein-like	3	NC_071988.2	205329756	205331234	1479	True
+107976620	Pan troglodytes	LOC107976620	survival motor neuron protein-like	9	NC_036888.1	20318906	20322069	3164	False
+101152011	Gorilla gorilla gorilla	LOC101152011	survival motor neuron protein-like	4	NC_018428.2	196003506	196004630	1125	False
+101149971	Gorilla gorilla gorilla	LOC101149971	survival motor neuron protein	17	NC_018441.2	25588124	25607924	19801	False
+101134374	Gorilla gorilla gorilla	LOC101134374	survival motor neuron protein-like	13	NC_073237.2	44125376	44126207	832	True
+100994358	Pan paniscus	LOC100994358	survival motor neuron protein-like	11	NC_073260.2	104225848	104226679	832	True
+100968636	Pan paniscus	LOC100968636	survival motor neuron protein-like	4	NC_027872.1	187432476	187433398	923	False
+100614408	Pan troglodytes	LOC100614408	survival motor neuron protein-like	9	NC_006476.3	20640132	20640963	832	False
+100611267	Pan troglodytes	LOC100611267	survival motor neuron protein pseudogene	4	NC_036883.1	180998130	180999249	1120	False
+100446342	Pongo abelii	LOC100446342	survival motor neuron protein-like	9	NW_002938165.1	799	1623	825	False
+100442430	Pongo abelii	LOC100442430	survival motor neuron protein-like	13	NC_071998.2	37827561	37828385	825	True
+741258	Pan troglodytes	LOC741258	similar to survival motor neuron-like protein	9	NC_006476.2	20810903	20813294	2392	False

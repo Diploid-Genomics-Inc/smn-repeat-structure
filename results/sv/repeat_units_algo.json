@@ -1,0 +1,20 @@
+{
+ "example": "HG01099_mat_hprc_r2_v1.0.1",
+ "n_segments": 85,
+ "n_units": 6,
+ "families": [
+  "C",
+  "B",
+  "A",
+  "A",
+  "D",
+  "B"
+ ],
+ "axis_kb": 955.4,
+ "n_direct_pairs": 83,
+ "n_inverted_pairs": 110,
+ "short_src": "HG02965_hap1_hprc_r2_v1.0.1",
+ "short_kb": 753.1,
+ "long_src": "NA18960_hap1_hprc_r2_v1.0.1",
+ "long_kb": 2955.4
+}

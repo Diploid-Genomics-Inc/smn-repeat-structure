@@ -1,0 +1,59 @@
+{
+ "G_haps_all": 155,
+ "G_haps_nopair": 79,
+ "G_on_T0": [
+  10,
+  199
+ ],
+ "G_on_T1": [
+  66,
+  71
+ ],
+ "S13_band_nopair": 16,
+ "S13_band_nopair_G": 16,
+ "T0_all": 199,
+ "T1_all": 71,
+ "T1_in_mixed": 62,
+ "bands": {
+  "AB": {
+   "C0|T0": 0,
+   "C0|T1": 32,
+   "C1|T0": 0,
+   "C1|T1": 0,
+   "no pair": 0
+  },
+  "Bulk": {
+   "C0|T0": 23,
+   "C0|T1": 0,
+   "C1|T0": 141,
+   "C1|T1": 0,
+   "no pair": 45
+  },
+  "Three": {
+   "C0|T0": 0,
+   "C0|T1": 0,
+   "C1|T0": 0,
+   "C1|T1": 17,
+   "no pair": 16
+  },
+  "Two": {
+   "C0|T0": 0,
+   "C0|T1": 0,
+   "C1|T0": 0,
+   "C1|T1": 0,
+   "no pair": 35
+  }
+ },
+ "bulk_cluster": 6,
+ "bulk_cluster_size": 245,
+ "bulk_pair": 193,
+ "bulk_pair_T0": 193,
+ "bulk_pair_T1": 0,
+ "fisher_p_T1": 6.434621960780625e-61,
+ "mixed_C0T1": 37,
+ "mixed_C1T1": 25,
+ "mixed_cluster": 3,
+ "mixed_cluster_size": 85,
+ "mixed_pair": 62,
+ "mixed_pair_T1": 62
+}

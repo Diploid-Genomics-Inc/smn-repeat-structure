@@ -1,0 +1,9 @@
+# Luo et al. 2014, Genet Med 16:149-156 (doi:10.1038/gim.2013.84), Table 4: the six SMN1 variants on the AJ/AA duplication haplotype.
+# Typed from papers/PIIS1098360021046554.pdf (page 5, Table 4); positions are GRCh37 chr5 as printed; gpos = their SMN1 genomic position (NG_008691.1).
+luo_g	grch37	region	ref	alt
+c11678	70232445	intron 1	G	T
+c15774	70236541	intron 2a	G	A
+c22804	70243571	intron 6	G	A
+c26190	70246957	intron 6	A	G
+c27134	70247901	intron 7	T	G
+c27706_27707	70248473	exon 8	AT	-

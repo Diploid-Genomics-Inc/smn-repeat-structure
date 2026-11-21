@@ -1,0 +1,186 @@
+{
+ "transcript": "NM_004536.3",
+ "length": 7093,
+ "n_exons": 17,
+ "exons": [
+  [
+   1,
+   725
+  ],
+  [
+   726,
+   814
+  ],
+  [
+   815,
+   940
+  ],
+  [
+   941,
+   1511
+  ],
+  [
+   1512,
+   1611
+  ],
+  [
+   1612,
+   1693
+  ],
+  [
+   1694,
+   1745
+  ],
+  [
+   1746,
+   1865
+  ],
+  [
+   1866,
+   1965
+  ],
+  [
+   1966,
+   2047
+  ],
+  [
+   2048,
+   2105
+  ],
+  [
+   2106,
+   4217
+  ],
+  [
+   4218,
+   4385
+  ],
+  [
+   4386,
+   4538
+  ],
+  [
+   4539,
+   4625
+  ],
+  [
+   4626,
+   4790
+  ],
+  [
+   4791,
+   7093
+  ]
+ ],
+ "cds": [
+  944,
+  5155
+ ],
+ "cds_codons": 1404,
+ "domains": [
+  {
+   "name": "BIR 1",
+   "first": 1121,
+   "last": 1324,
+   "exons": [
+    4,
+    4
+   ]
+  },
+  {
+   "name": "BIR 2",
+   "first": 1418,
+   "last": 1624,
+   "exons": [
+    4,
+    6
+   ]
+  },
+  {
+   "name": "BIR 3",
+   "first": 1775,
+   "last": 1978,
+   "exons": [
+    8,
+    10
+   ]
+  }
+ ],
+ "grch38_base1_at": 156646,
+ "feature_tx_end": 7088,
+ "piece_ends": [
+  0,
+  1611,
+  1965,
+  7088
+ ],
+ "pieces": {
+  "0-1965": {
+   "n": 260,
+   "first_base": 1,
+   "last_base": 1965,
+   "first_exon": 1,
+   "last_exon": 9,
+   "first_codon": 1,
+   "last_codon": 341,
+   "domains": {
+    "BIR 1": "whole",
+    "BIR 2": "whole",
+    "BIR 3": "part"
+   }
+  },
+  "0-7088": {
+   "n": 350,
+   "first_base": 1,
+   "last_base": 7088,
+   "first_exon": 1,
+   "last_exon": 17,
+   "first_codon": 1,
+   "last_codon": 1404,
+   "domains": {
+    "BIR 1": "whole",
+    "BIR 2": "whole",
+    "BIR 3": "whole"
+   }
+  },
+  "1611-7088": {
+   "n": 430,
+   "first_base": 1612,
+   "last_base": 7088,
+   "first_exon": 6,
+   "last_exon": 17,
+   "first_codon": 223,
+   "last_codon": 1404,
+   "domains": {
+    "BIR 1": "none",
+    "BIR 2": "part",
+    "BIR 3": "whole"
+   }
+  },
+  "1965-7088": {
+   "n": 23,
+   "first_base": 1966,
+   "last_base": 7088,
+   "first_exon": 10,
+   "last_exon": 17,
+   "first_codon": 341,
+   "last_codon": 1404,
+   "domains": {
+    "BIR 1": "none",
+    "BIR 2": "none",
+    "BIR 3": "part"
+   }
+  }
+ },
+ "shared_3p_from_1611_and_5p": {
+  "bases": [
+   1612,
+   1965
+  ],
+  "exons": [
+   6,
+   9
+  ],
+  "n_bases": 354
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "types_tested": 7,
+ "haplotypes_in_tested": 377,
+ "haplotypes": 440,
+ "same_pairs": 21175,
+ "all_pairs": 96580,
+ "struct_vs_lendiff_all": 0.4955,
+ "seq_vs_lendiff_all": 0.2017,
+ "struct_vs_lendiff_samepairs": 0.6705
+}

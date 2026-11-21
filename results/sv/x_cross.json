@@ -1,0 +1,29 @@
+{
+ "shimmer": {
+  "w": 24,
+  "k": 48,
+  "r": 2,
+  "min_span": 12
+ },
+ "lo_kb": 300,
+ "hi_kb": 900,
+ "arms": 270,
+ "c1_arms": 192,
+ "c1_with_S": 190,
+ "c1_peak_le20": 181,
+ "c1_peak_le10": 142,
+ "c1_peak_le5": 84,
+ "c1_without_S": 2,
+ "examples": {
+  "HG01099_mat_hprc_r2_v1.0.1": {
+   "type": "C1",
+   "S_kb": 616.6,
+   "arm_kb": 900.0
+  },
+  "HG01099_pat_hprc_r2_v1.0.1": {
+   "type": "C0",
+   "S_kb": null,
+   "arm_kb": 554.6
+  }
+ }
+}

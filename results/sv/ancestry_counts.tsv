@@ -1,0 +1,8 @@
+measure	column	H	p_perm_1999	mean_AFR	mean_AMR	mean_EAS	mean_EUR	mean_SAS
+SMN copies	n_smn	3.19	0.5285	1.9	1.82	1.9	1.83	1.84
+SMN1 (exon 7)	SMN1_ex7	70.62	0.0005	1.35	1.06	1.0	1.02	1.11
+SMN2 (exon 7)	SMN2_ex7	29.19	0.0005	0.55	0.71	0.9	0.75	0.73
+SERF1	n_serf1	2.93	0.582	1.9	1.82	1.9	1.83	1.86
+full-length NAIP	n_naip_full	67.27	0.0005	1.47	1.09	1.11	1.11	1.09
+GTF2H2	n_gtf2h2	21.29	0.0005	2.44	2.36	2.15	2.45	2.29
+large repeat units	n_units	38.37	0.0005	4.93	5.86	5.56	6.02	6.0

@@ -1,0 +1,3 @@
+panel	src	axis	lb	le	rb	re	near_left	near_right	mirror_kb	arr	ncopy	left	right	form	canon	b1b2
+a	NA18940_hap2_hprc_r2_v1.0.1	902423.0	-319.273	-5.12	5.12	333.524	299.585	313.833	14.248000000000047	2- 1+	2	319.273	333.524	C1T0	True	False
+b	HG03098_mat_hprc_r2_v1.0.1	560390.5	-473.0555	-5.1005	5.1005	463.7325	317.5545	335.3155	17.760999999999967	1- 1+	2	473.0555	463.7325	C0T1	True	True

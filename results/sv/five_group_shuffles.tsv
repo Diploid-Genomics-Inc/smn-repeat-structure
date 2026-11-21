@@ -1,0 +1,23 @@
+test	what	n	observed	null_mean	p
+mantel	seq_SMN1	436	0.4229	0.124	0.001
+mantel	seq_SMN2	287	0.5392	0.0718	0.001
+copy_neighbor	SMN1:position	497	0.752	0.525	0.001
+copy_neighbor	SMN1:strand	522	0.832	0.601	0.001
+copy_neighbor	SMN1:naip3	522	0.915	0.863	0.001
+copy_neighbor	SMN1:env	497	0.939	0.847	0.001
+copy_neighbor	SMN1:arrangement	497	0.604	0.265	0.001
+copy_neighbor	SMN2:position	293	0.848	0.798	0.001
+copy_neighbor	SMN2:strand	318	0.765	0.699	0.001
+copy_neighbor	SMN2:naip3	318	0.867	0.724	0.001
+copy_neighbor	SMN2:env	293	0.99	0.979	0.037
+copy_neighbor	SMN2:arrangement	293	0.662	0.426	0.001
+make_up_neighbor	structure:A	347	0.951	0.856	0.0005
+make_up_neighbor	structure:AA	15	0.133	0.03	0.122
+make_up_neighbor	structure:AB	3	0.0	0.012	1.0
+make_up_neighbor	structure:B	28	0.571	0.144	0.0005
+make_up_neighbor	structure:BB	43	0.93	0.229	0.0005
+make_up_neighbor	SMN1 sequence:A	347	0.994	0.855	0.0005
+make_up_neighbor	SMN1 sequence:AA	15	0.6	0.031	0.0005
+make_up_neighbor	SMN1 sequence:AB	3	0.667	0.013	0.0105
+make_up_neighbor	SMN1 sequence:B	28	1.0	0.156	0.0005
+make_up_neighbor	SMN1 sequence:BB	43	1.0	0.254	0.0005

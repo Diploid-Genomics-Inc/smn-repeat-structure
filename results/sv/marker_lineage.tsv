@@ -1,0 +1,865 @@
+tip	copy_id	class	c3p80_alt	in_marker_side	in_marker_subclade	sublineage
+c0000	GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN|w3|c0	SMN2	False	False	False	
+c0001	GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN|w3|c1	SMN1	False	False	False	A
+c0002	HG00097_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0003	HG00097_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0004	HG00097_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0005	HG00097_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0006	HG00099_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0007	HG00099_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0008	HG00099_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0009	HG00126_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0010	HG00126_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0011	HG00126_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0012	HG00126_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0013	HG00128_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0014	HG00128_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0015	HG00128_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0016	HG00128_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B2
+c0017	HG00133_hap1_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0018	HG00133_hap1_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0020	HG00133_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0021	HG00140_hap1_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0022	HG00140_hap1_hprc_r2_v1.0.1|w2|c1	SMN2	False	False	False	
+c0023	HG00140_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0024	HG00140_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0025	HG00146_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0026	HG00146_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0027	HG00146_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0028	HG00232_hap1_hprc_r2_v1.0.1|w0|c0	SMN2	False	False	False	
+c0029	HG00232_hap1_hprc_r2_v1.0.1|w0|c1	SMN1	False	False	False	A
+c0030	HG00232_hap1_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0031	HG00235_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0032	HG00235_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0033	HG00235_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0034	HG00235_hap2_hprc_r2_v1.0.1|w3|c1	SMN2	False	False	False	
+c0035	HG00253_hap1_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0036	HG00253_hap1_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0037	HG00253_hap2_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0038	HG00253_hap2_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0040	HG00272_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0041	HG00272_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0042	HG00272_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0043	HG00280_hap1_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0044	HG00280_hap1_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0045	HG00280_hap2_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0046	HG00290_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0047	HG00290_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0048	HG00290_hap2_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0049	HG00320_hap1_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0050	HG00320_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0051	HG00320_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0052	HG00321_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0053	HG00321_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0054	HG00321_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0055	HG00323_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0056	HG00323_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0057	HG00323_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0058	HG00323_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0059	HG00329_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0060	HG00329_hap1_hprc_r2_v1.0.1|w7|c0	SMN2	False	False	False	
+c0061	HG00329_hap2_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0062	HG00329_hap2_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0063	HG00329_hap2_hprc_r2_v1.0.1|w8|c0	SMN2	False	False	False	
+c0064	HG00344_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0065	HG00344_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0066	HG00344_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0067	HG00344_hap2_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0068	HG00350_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0069	HG00350_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0070	HG00408_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0071	HG00408_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0072	HG00408_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0073	HG00408_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0074	HG00423_mat_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0075	HG00423_mat_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0076	HG00423_pat_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0077	HG00423_pat_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0078	HG00438_mat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0079	HG00438_mat_hprc_r2_v1.0.1|w3|c1	SMN2	False	False	False	
+c0080	HG00438_pat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0081	HG00544_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0082	HG00544_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0083	HG00544_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0084	HG00544_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0085	HG00558_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0086	HG00558_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0087	HG00558_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0088	HG00597_mat_hprc_r2_v1.0.1|w4|c2	SMN1	False	False	False	A
+c0089	HG00597_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0090	HG00597_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0091	HG005_mat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0092	HG005_mat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0093	HG005_pat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0094	HG005_pat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0095	HG00609_mat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0096	HG00609_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0097	HG00609_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0098	HG00621_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0099	HG00621_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0100	HG00621_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0101	HG00621_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0102	HG00639_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0103	HG00639_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0104	HG00639_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0105	HG00639_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0106	HG00642_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0107	HG00642_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0108	HG00642_pat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0109	HG00642_pat_hprc_r2_v1.0.1|w3|c1	SMN2	False	False	False	
+c0110	HG00658_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0111	HG00658_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0112	HG00658_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0113	HG00658_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0114	HG00673_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0115	HG00673_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0116	HG00673_pat_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0117	HG00673_pat_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0118	HG00706_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0119	HG00706_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0120	HG00706_pat_hprc_r2_v1.0.1|w4|c0	hyb_2_1	False	False	False	
+c0121	HG00706_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0122	HG00733_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0123	HG00733_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0124	HG00733_mat_hprc_r2_v1.0.1|w7|c0	SMN2	False	False	False	
+c0126	HG00733_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0127	HG00735_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0128	HG00735_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0129	HG00735_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0130	HG00735_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0131	HG00738_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0132	HG00738_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0133	HG00738_pat_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0134	HG00738_pat_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0135	HG00741_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0136	HG00741_mat_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0137	HG00741_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0138	HG00741_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0139	HG01071_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0140	HG01071_mat_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0141	HG01071_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0142	HG01071_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0143	HG01074_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0145	HG01074_pat_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0146	HG01081_mat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0147	HG01081_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0148	HG01081_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0149	HG01099_mat_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0150	HG01099_mat_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0151	HG01099_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0152	HG01099_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0153	HG01106_mat_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0154	HG01106_mat_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0155	HG01106_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0156	HG01109_mat_hprc_r2_v1.0.1|w2|c0	SMN1	False	True	True	B1
+c0157	HG01109_mat_hprc_r2_v1.0.1|w2|c1	SMN1	False	True	True	B1
+c0158	HG01109_pat_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0159	HG01109_pat_hprc_r2_v1.0.1|w7|c0	SMN2	False	False	False	
+c0160	HG01123_mat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0161	HG01123_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0162	HG01123_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0163	HG01123_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0164	HG01150_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0165	HG01150_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0166	HG01150_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0167	HG01150_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0168	HG01167_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0169	HG01167_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	True	True	True	B2
+c0170	HG01167_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0171	HG01167_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0172	HG01175_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0173	HG01175_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0175	HG01175_pat_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0176	HG01192_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0177	HG01192_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0179	HG01192_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0180	HG01243_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0181	HG01243_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B1
+c0182	HG01243_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0183	HG01243_pat_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0184	HG01243_pat_hprc_r2_v1.0.1|w4|c2	SMN1	False	False	False	A
+c0185	HG01252_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0186	HG01252_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0187	HG01252_pat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0188	HG01255_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0189	HG01255_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0190	HG01255_pat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0191	HG01258_mat_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0192	HG01258_mat_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0193	HG01258_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0194	HG01258_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0195	HG01261_mat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0196	HG01261_mat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0197	HG01261_mat_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0198	HG01261_pat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0199	HG01261_pat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0200	HG01346_mat_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0201	HG01346_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0202	HG01358_mat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0203	HG01358_pat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0204	HG01358_pat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0205	HG01361_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0206	HG01361_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0207	HG01361_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0208	HG01361_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0209	HG01433_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0210	HG01433_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0211	HG01433_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0212	HG01433_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0213	HG01496_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0214	HG01496_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0215	HG01496_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0216	HG01530_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0217	HG01530_hap1_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0218	HG01530_hap2_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0219	HG01530_hap2_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0220	HG01784_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0221	HG01784_hap2_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0222	HG01784_hap2_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0223	HG01786_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0224	HG01786_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0225	HG01786_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0226	HG01786_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0227	HG01786_hap2_hprc_r2_v1.0.1|w4|c2	SMN1	False	False	False	A
+c0228	HG01884_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0229	HG01884_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0230	HG01884_pat_hprc_r2_v1.0.1|w3|c0	hyb_2_1	False	False	False	
+c0231	HG01884_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0232	HG01891_mat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0233	HG01891_mat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0234	HG01891_pat_hprc_r2_v1.0.1|w1|c0	SMN2	False	False	False	
+c0235	HG01891_pat_hprc_r2_v1.0.1|w1|c1	SMN1	False	True	True	B1
+c0236	HG01928_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0237	HG01928_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0238	HG01928_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0240	HG01934_mat_hprc_r2_v1.0.1|w7|c0	SMN1	False	False	False	A
+c0241	HG01934_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0242	HG01940_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0243	HG01940_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0244	HG01940_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0245	HG01943_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0246	HG01943_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0247	HG01943_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0248	HG01952_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0249	HG01952_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0250	HG01952_pat_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0251	HG01952_pat_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0252	HG01960_mat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0253	HG01960_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0254	HG01960_pat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0255	HG01960_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0256	HG01969_mat_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0257	HG01969_mat_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0258	HG01969_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0259	HG01969_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0260	HG01975_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0261	HG01975_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0262	HG01975_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0263	HG01978_mat_hprc_r2_v1.1.0|w2|c0	SMN2	False	False	False	
+c0264	HG01978_mat_hprc_r2_v1.1.0|w2|c1	SMN1	False	False	False	A
+c0265	HG01978_pat_hprc_r2_v1.1.0|w4|c0	SMN2	False	False	False	
+c0266	HG01978_pat_hprc_r2_v1.1.0|w4|c1	SMN1	False	False	False	A
+c0267	HG01981_mat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0268	HG01981_mat_hprc_r2_v1.0.1|w3|c1	SMN2	False	False	False	
+c0269	HG01981_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0270	HG01981_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0271	HG01993_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0272	HG01993_mat_hprc_r2_v1.0.1|w5|c0	SMN1	False	False	False	A
+c0273	HG01993_pat_hprc_r2_v1.0.1|w0|c0	SMN1	False	False	False	A
+c0274	HG01993_pat_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0275	HG02004_mat_hprc_r2_v1.0.1|w0|c0	SMN2	False	False	False	
+c0276	HG02004_mat_hprc_r2_v1.0.1|w0|c1	SMN1	False	False	False	A
+c0277	HG02004_pat_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0278	HG02015_mat_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0279	HG02015_mat_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0280	HG02015_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0281	HG02015_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0282	HG02027_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0283	HG02027_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0284	HG02027_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0285	HG02027_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0286	HG02040_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0287	HG02040_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0288	HG02040_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0289	HG02055_mat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0290	HG02055_pat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0291	HG02055_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0292	HG02056_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0293	HG02056_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0294	HG02056_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0295	HG02056_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0296	HG02071_mat_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0297	HG02071_mat_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0298	HG02071_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0299	HG02071_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0300	HG02074_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0301	HG02074_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0302	HG02074_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0303	HG02074_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0304	HG02080_mat_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0305	HG02080_mat_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0306	HG02080_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0307	HG02080_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0308	HG02083_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0309	HG02083_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0310	HG02083_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0311	HG02083_pat_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0312	HG02109_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0313	HG02109_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0314	HG02109_pat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0315	HG02109_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0316	HG02129_mat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0317	HG02129_mat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0318	HG02129_pat_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0319	HG02129_pat_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0320	HG02132_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0321	HG02132_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0322	HG02132_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0323	HG02132_pat_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0324	HG02132_pat_hprc_r2_v1.0.1|w4|c2	SMN2	False	False	False	
+c0325	HG02135_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0326	HG02135_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0327	HG02135_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0328	HG02135_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0329	HG02145_mat_hprc_r2_v1.0.1|w5|c0	SMN1	False	False	False	A
+c0330	HG02145_mat_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0331	HG02145_pat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0332	HG02145_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0333	HG02148_mat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0334	HG02148_mat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0335	HG02148_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0336	HG02148_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0337	HG02155_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0338	HG02155_hap2_hprc_r2_v1.0.1|w3|c0	hyb_2_1	False	False	False	
+c0339	HG02155_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0340	HG02165_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0341	HG02165_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0342	HG02165_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0343	HG02165_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0344	HG02178_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0345	HG02178_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0346	HG02178_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0347	HG02178_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0348	HG02257_mat_hprc_r2_v1.1.0|w2|c0	SMN1	False	False	False	A
+c0349	HG02257_mat_hprc_r2_v1.1.0|w2|c1	SMN2	False	False	False	
+c0350	HG02257_pat_hprc_r2_v1.1.0|w5|c0	SMN2	False	False	False	
+c0351	HG02257_pat_hprc_r2_v1.1.0|w5|c1	SMN1	False	False	False	A
+c0352	HG02258_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0353	HG02258_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0354	HG02258_pat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0355	HG02258_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0356	HG02273_hap1_hprc_r2_v1.0.1|w0|c0	SMN1	False	False	False	A
+c0357	HG02273_hap1_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0358	HG02273_hap2_hprc_r2_v1.0.1|w5|c0	SMN1	False	False	False	A
+c0359	HG02273_hap2_hprc_r2_v1.0.1|w6|c0	SMN1	False	False	False	A
+c0360	HG02280_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0361	HG02280_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0362	HG02280_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0363	HG02280_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0364	HG02293_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0365	HG02293_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0366	HG02293_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0367	HG02293_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0368	HG02300_mat_hprc_r2_v1.0.1|w3|c0	hyb_1_2	False	False	False	
+c0369	HG02300_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0370	HG02300_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0371	HG02300_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0372	HG02391_hap1_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0373	HG02391_hap1_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0374	HG02391_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0375	HG02391_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0376	HG02392_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0377	HG02392_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0378	HG02392_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0379	HG02392_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0380	HG02451_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0381	HG02451_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0382	HG02451_pat_hprc_r2_v1.0.1|w3|c0	SMN1	False	True	True	B-
+c0383	HG02486_mat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0384	HG02486_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B2
+c0385	HG02486_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0386	HG02486_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0387	HG02514_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0388	HG02514_pat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0389	HG02514_pat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0390	HG02523_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0391	HG02523_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0392	HG02523_pat_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0393	HG02523_pat_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0394	HG02559_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0395	HG02559_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0396	HG02559_pat_hprc_r2_v1.0.1|w5|c0	SMN1	True	True	True	B1
+c0397	HG02559_pat_hprc_r2_v1.0.1|w5|c1	hyb_2_1	False	True	False	
+c0398	HG02572_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0399	HG02572_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0400	HG02572_pat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0401	HG02572_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B2
+c0402	HG02583_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0403	HG02583_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0404	HG02583_hap2_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0405	HG02583_hap2_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0406	HG02602_mat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0407	HG02602_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0408	HG02615_mat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0409	HG02615_mat_hprc_r2_v1.0.1|w3|c1	hyb_2_1	False	True	False	
+c0410	HG02615_pat_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0411	HG02615_pat_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0412	HG02622_mat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0413	HG02622_mat_hprc_r2_v1.0.1|w3|c1	SMN1	True	True	True	B2
+c0414	HG02622_pat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0415	HG02622_pat_hprc_r2_v1.0.1|w3|c1	SMN1	True	True	True	B2
+c0416	HG02630_mat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0417	HG02630_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0418	HG02630_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0419	HG02630_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0420	HG02647_mat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0421	HG02647_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0422	HG02647_pat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0423	HG02647_pat_hprc_r2_v1.0.1|w4|c1	hyb_2_1	False	True	False	
+c0424	HG02668_mat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0425	HG02668_mat_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0426	HG02668_mat_hprc_r2_v1.0.1|w4|c2	SMN1	False	False	False	A
+c0427	HG02668_pat_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0428	HG02668_pat_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0429	HG02698_mat_hprc_r2_v1.0.1|w5|c0	SMN1	False	False	False	A
+c0430	HG02698_mat_hprc_r2_v1.0.1|w5|c1	SMN2	False	False	False	
+c0431	HG02698_pat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0432	HG02698_pat_hprc_r2_v1.0.1|w3|c1	hyb_1_2	False	False	False	
+c0433	HG02698_pat_hprc_r2_v1.0.1|w3|c2	SMN1	False	False	False	A
+c0434	HG02717_mat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0435	HG02717_mat_hprc_r2_v1.0.1|w3|c1	SMN1	True	True	True	B1
+c0436	HG02717_pat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0437	HG02717_pat_hprc_r2_v1.0.1|w4|c1	SMN1	True	True	True	B2
+c0438	HG02723_mat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0439	HG02723_mat_hprc_r2_v1.0.1|w3|c1	hyb_2_1	False	True	False	
+c0440	HG02723_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0441	HG02723_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0442	HG02735_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0443	HG02735_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0444	HG02735_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0445	HG02738_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0446	HG02738_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0447	HG02738_pat_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0448	HG02738_pat_hprc_r2_v1.0.1|w2|c1	SMN2	False	False	False	
+c0449	HG02809_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0450	HG02809_mat_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0451	HG02809_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0452	HG02809_pat_hprc_r2_v1.0.1|w4|c1	SMN1	True	True	True	B1
+c0453	HG02818_mat_hprc_r2_v1.0.1|w6|c0	SMN1	False	True	True	B2
+c0454	HG02818_mat_hprc_r2_v1.0.1|w6|c1	SMN1	True	True	True	B1
+c0455	HG02818_pat_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0456	HG02818_pat_hprc_r2_v1.0.1|w2|c1	SMN2	False	False	False	
+c0457	HG02841_mat_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0458	HG02841_mat_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0459	HG02841_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0460	HG02841_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0461	HG02886_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0462	HG02886_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B1
+c0463	HG02886_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0464	HG02886_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0465	HG02922_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0466	HG02922_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0467	HG02922_hap2_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0468	HG02922_hap2_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0469	HG02965_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0470	HG02965_hap2_hprc_r2_v1.0.1|w4|c0	hyb_2_1	False	False	False	
+c0471	HG02965_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B-
+c0472	HG02976_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0473	HG02976_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0474	HG02976_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0475	HG02976_hap2_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0476	HG02984_mat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0477	HG02984_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0478	HG02984_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0479	HG02984_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0480	HG03017_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0481	HG03017_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0482	HG03017_pat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0483	HG03017_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0484	HG03041_mat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0485	HG03041_pat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0486	HG03041_pat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0487	HG03050_mat_hprc_r2_v1.0.1|w3|c0	SMN1	False	True	True	B2
+c0488	HG03050_mat_hprc_r2_v1.0.1|w3|c1	hyb_2_1	False	False	False	
+c0489	HG03050_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0490	HG03050_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0491	HG03098_mat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0492	HG03098_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B2
+c0493	HG03098_pat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0494	HG03098_pat_hprc_r2_v1.0.1|w4|c1	hyb_2_1	False	True	False	
+c0495	HG03130_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0496	HG03130_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0497	HG03130_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0498	HG03130_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B2
+c0499	HG03139_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	True	True	B2
+c0500	HG03139_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	True	True	True	B1
+c0501	HG03139_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0502	HG03195_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0503	HG03195_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0504	HG03195_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	True	True	True	B2
+c0505	HG03209_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0506	HG03209_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B2
+c0507	HG03209_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0508	HG03209_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0509	HG03225_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0510	HG03225_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0511	HG03225_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0512	HG03225_hap2_hprc_r2_v1.0.1|w3|c1	SMN2	False	False	False	
+c0513	HG03239_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0514	HG03239_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0515	HG03239_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0516	HG03239_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0517	HG03270_hap1_hprc_r2_v1.0.1|w7|c0	SMN2	False	False	False	
+c0518	HG03270_hap1_hprc_r2_v1.0.1|w7|c1	SMN1	False	False	False	A
+c0519	HG03270_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0520	HG03270_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B2
+c0521	HG03369_hap1_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0522	HG03369_hap1_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0523	HG03369_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0524	HG03369_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B2
+c0525	HG03453_mat_hprc_r2_v1.0.1|w0|c0	SMN1	False	True	True	B2
+c0526	HG03453_mat_hprc_r2_v1.0.1|w0|c1	hyb_2_1	False	False	False	
+c0527	HG03453_pat_hprc_r2_v1.0.1|w0|c0	SMN1	True	True	True	B1
+c0528	HG03453_pat_hprc_r2_v1.0.1|w0|c1	SMN1	False	True	True	B2
+c0529	HG03470_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0530	HG03470_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B1
+c0531	HG03470_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0532	HG03470_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0533	HG03471_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0534	HG03471_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0535	HG03471_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0536	HG03471_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0537	HG03486_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0538	HG03486_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0539	HG03486_pat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0540	HG03486_pat_hprc_r2_v1.0.1|w4|c1	SMN1	True	True	True	B2
+c0541	HG03516_mat_hprc_r2_v1.1.0|w4|c0	SMN1	False	False	False	A
+c0542	HG03516_pat_hprc_r2_v1.1.0|w4|c0	SMN1	True	True	True	B1
+c0543	HG03516_pat_hprc_r2_v1.1.0|w4|c1	hyb_2_1	False	True	False	
+c0544	HG03521_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0545	HG03521_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0546	HG03521_hap2_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0547	HG03540_mat_hprc_r2_v1.0.1|w4|c0	hyb_2_1	False	True	False	
+c0548	HG03540_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B1
+c0549	HG03540_pat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0550	HG03540_pat_hprc_r2_v1.0.1|w3|c1	SMN1	True	True	True	B1
+c0551	HG03579_mat_hprc_r2_v1.0.1|w3|c0	SMN1	False	True	True	B1
+c0552	HG03579_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B1
+c0553	HG03579_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0554	HG03583_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0555	HG03583_hap2_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0556	HG03654_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0557	HG03654_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0558	HG03654_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0559	HG03654_pat_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0560	HG03669_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0561	HG03669_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0562	HG03669_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0563	HG03669_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0564	HG03688_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0565	HG03688_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0566	HG03688_mat_hprc_r2_v1.0.1|w3|c2	SMN1	False	False	False	A
+c0567	HG03688_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0568	HG03688_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0569	HG03704_mat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0570	HG03704_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0571	HG03704_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0572	HG03704_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0573	HG03710_mat_hprc_r2_v1.0.1|w6|c0	hyb_2_1	False	False	False	
+c0574	HG03710_mat_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0575	HG03710_pat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0576	HG03710_pat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0577	HG03742_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0578	HG03742_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0579	HG03742_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0580	HG03784_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0581	HG03784_hap2_hprc_r2_v1.0.1|w8|c0	SMN2	False	False	False	
+c0582	HG03804_mat_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0583	HG03804_mat_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0584	HG03804_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0585	HG03804_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0586	HG03816_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0587	HG03816_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0588	HG03816_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0589	HG03816_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0590	HG03831_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0591	HG03831_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0592	HG03831_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0593	HG03834_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0594	HG03834_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0595	HG03834_pat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0596	HG03834_pat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0597	HG03874_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0598	HG03874_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0599	HG03927_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0600	HG03927_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0601	HG03927_pat_hprc_r2_v1.0.1|w5|c0	SMN1	False	False	False	A
+c0602	HG03942_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0603	HG03942_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0604	HG03942_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0605	HG04115_mat_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0606	HG04115_mat_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0607	HG04115_pat_hprc_r2_v1.0.1|w0|c0	SMN1	False	False	False	A
+c0608	HG04157_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0609	HG04157_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0610	HG04157_pat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0611	HG04157_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0612	HG04160_mat_hprc_r2_v1.0.1|w4|c0	hyb_2_1	False	False	False	
+c0613	HG04160_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0614	HG04160_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0615	HG04160_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0616	HG04184_mat_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0617	HG04184_mat_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0618	HG04184_pat_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0619	HG04187_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0620	HG04187_pat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0621	HG04187_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0622	HG04199_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0623	HG04199_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0624	HG04199_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0625	HG04199_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0626	HG04204_mat_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0627	HG04204_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0628	HG04204_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0629	HG04204_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0630	HG04228_mat_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0631	HG04228_mat_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0632	HG04228_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0633	HG04228_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0634	HG06807_mat_v1.0.genbank|w3|c0	SMN2	False	False	False	
+c0635	HG06807_mat_v1.0.genbank|w3|c1	SMN1	False	False	False	A
+c0636	HG06807_pat_v1.0.genbank|w5|c0	SMN1	False	False	False	A
+c0637	NA18505_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0638	NA18505_hap1_hprc_r2_v1.0.1|w4|c1	hyb_2_1	False	True	False	
+c0639	NA18505_hap2_hprc_r2_v1.0.1|w3|c0	hyb_2_1	False	False	False	
+c0640	NA18505_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0641	NA18508_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0642	NA18508_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0643	NA18508_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0644	NA18522_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0645	NA18522_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0646	NA18522_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	False	True	True	B2
+c0647	NA18522_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	True	True	True	B1
+c0648	NA18565_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0649	NA18565_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0650	NA18565_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0651	NA18565_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0652	NA18570_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0653	NA18570_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0654	NA18570_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0655	NA18570_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0656	NA18608_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0657	NA18608_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0658	NA18608_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0659	NA18608_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0660	NA18620_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0661	NA18620_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0662	NA18620_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0663	NA18620_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0664	NA18747_hap1_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0665	NA18747_hap1_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0666	NA18747_hap2_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0667	NA18747_hap2_hprc_r2_v1.0.1|w7|c0	SMN2	False	False	False	
+c0668	NA18879_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	True	True	B1
+c0669	NA18879_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0670	NA18879_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0671	NA18879_hap2_hprc_r2_v1.0.1|w4|c1	hyb_1_2	False	False	False	
+c0672	NA18906_mat_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0673	NA18906_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0674	NA18906_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0675	NA18940_hap1_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0676	NA18940_hap1_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0677	NA18940_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0678	NA18940_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0679	NA18943_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0680	NA18943_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0681	NA18943_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0682	NA18943_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0683	NA18944_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0684	NA18944_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0685	NA18944_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0686	NA18945_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0687	NA18945_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0688	NA18945_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0689	NA18945_hap2_hprc_r2_v1.0.1|w4|c1	hyb_1_2	False	False	False	
+c0690	NA18948_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0691	NA18948_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0692	NA18948_hap2_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0693	NA18948_hap2_hprc_r2_v1.0.1|w5|c1	SMN2	False	False	False	
+c0694	NA18948_hap2_hprc_r2_v1.0.1|w5|c2	SMN1	False	False	False	A
+c0695	NA18952_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0696	NA18952_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0697	NA18952_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0698	NA18959_hap1_hprc_r2_v1.0.1|w3|c1	SMN2	False	False	False	
+c0699	NA18959_hap1_hprc_r2_v1.0.1|w3|c2	SMN1	False	False	False	A
+c0700	NA18959_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0701	NA18959_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0702	NA18960_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0703	NA18960_hap1_hprc_r2_v1.0.1|w3|c1	SMN2	False	False	False	
+c0704	NA18960_hap1_hprc_r2_v1.0.1|w3|c2	SMN1	False	False	False	A
+c0705	NA18960_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0706	NA18967_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0707	NA18967_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0708	NA18967_hap2_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0709	NA18970_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0710	NA18970_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0711	NA18970_hap2_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0712	NA18970_hap2_hprc_r2_v1.0.1|w6|c1	SMN1	False	False	False	A
+c0713	NA18971_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0714	NA18971_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0715	NA18971_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0716	NA18974_hap1_hprc_r2_v1.0.1|w0|c0	SMN1	False	False	False	A
+c0717	NA18974_hap2_hprc_r2_v1.0.1|w0|c1	SMN1	False	False	False	A
+c0718	NA18974_hap2_hprc_r2_v1.0.1|w7|c0	SMN2	False	False	False	
+c0719	NA18976_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0720	NA18976_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0721	NA18976_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0722	NA18982_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0723	NA18982_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0724	NA18982_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0725	NA18982_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0726	NA18983_hap1_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0727	NA18983_hap1_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0728	NA18983_hap2_hprc_r2_v1.0.1|w2|c0	SMN2	False	False	False	
+c0729	NA18983_hap2_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0730	NA19036_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	False	True	True	B2
+c0731	NA19036_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0732	NA19036_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0733	NA19036_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B2
+c0734	NA19043_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	True	True	B1
+c0735	NA19043_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B1
+c0736	NA19043_hap2_hprc_r2_v1.0.1|w6|c0	SMN1	True	True	True	B1
+c0737	NA19043_hap2_hprc_r2_v1.0.1|w6|c1	SMN1	False	True	True	B2
+c0738	NA19087_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0739	NA19087_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0740	NA19087_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0741	NA19087_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0742	NA19159_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0743	NA19159_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0744	NA19159_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0745	NA19159_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0746	NA19185_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0747	NA19185_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B2
+c0748	NA19185_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0749	NA19185_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	True	True	True	B1
+c0750	NA19240_mat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0751	NA19240_mat_hprc_r2_v1.0.1|w4|c1	SMN1	True	True	True	B2
+c0752	NA19240_pat_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0753	NA19240_pat_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0754	NA19338_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0755	NA19338_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0756	NA19338_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0757	NA19338_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0758	NA19391_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0759	NA19391_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	True	True	True	B1
+c0760	NA19391_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0761	NA19391_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	True	True	True	B1
+c0762	NA19443_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0763	NA19443_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0764	NA19443_hap1_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0765	NA19443_hap2_hprc_r2_v1.0.1|w7|c0	SMN1	False	False	False	A
+c0766	NA19468_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0767	NA19468_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0768	NA19468_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0769	NA19682_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0770	NA19682_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0771	NA19682_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0772	NA19682_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0773	NA19700_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0774	NA19700_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0775	NA19700_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	True	True	B2
+c0776	NA19776_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0777	NA19776_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0778	NA19776_hap2_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0779	NA19776_hap2_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0780	NA19835_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0781	NA19835_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0782	NA19835_hap2_hprc_r2_v1.0.1|w5|c0	SMN1	True	True	True	B1
+c0783	NA19835_hap2_hprc_r2_v1.0.1|w5|c1	SMN1	False	True	True	B2
+c0784	NA19909_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0785	NA19909_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0786	NA19909_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	True	True	True	B1
+c0787	NA19909_hap2_hprc_r2_v1.0.1|w3|c1	hyb_2_1	False	True	False	
+c0788	NA20129_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0789	NA20129_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0790	NA20129_pat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0791	NA20129_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0792	NA20282_hap1_hprc_r2_v1.0.1|w5|c0	SMN1	True	True	True	B1
+c0793	NA20282_hap1_hprc_r2_v1.0.1|w5|c1	hyb_2_1	False	True	False	
+c0794	NA20282_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0795	NA20282_hap2_hprc_r2_v1.0.1|w4|c1	hyb_2_1	False	True	False	
+c0796	NA20346_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0797	NA20346_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0798	NA20346_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0799	NA20503_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0800	NA20503_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0801	NA20503_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0802	NA20503_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0803	NA20752_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0804	NA20752_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0805	NA20752_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0806	NA20752_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0807	NA20752_hap2_hprc_r2_v1.0.1|w6|c0	SMN2	False	False	False	
+c0808	NA20762_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0809	NA20762_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0810	NA20762_hap2_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0811	NA20762_hap2_hprc_r2_v1.0.1|w3|c1	SMN2	False	False	False	
+c0812	NA20799_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0813	NA20799_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0814	NA20799_hap2_hprc_r2_v1.0.1|w2|c0	SMN1	False	False	False	A
+c0815	NA20805_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0816	NA20805_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0817	NA20805_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0818	NA20806_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0819	NA20806_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0820	NA20806_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0821	NA20806_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0822	NA20809_hap1_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0823	NA20809_hap1_hprc_r2_v1.0.1|w5|c1	SMN1	False	False	False	A
+c0824	NA20809_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0825	NA20809_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0826	NA20827_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0827	NA20827_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0829	NA20827_hap2_hprc_r2_v1.0.1|w2|c1	SMN1	False	False	False	A
+c0830	NA20850_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0831	NA20850_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0832	NA20850_hap2_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0833	NA20850_hap2_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0834	NA20870_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0835	NA20870_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0836	NA20870_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0837	NA20905_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0838	NA20905_hap2_hprc_r2_v1.0.1|w5|c0	SMN2	False	False	False	
+c0839	NA20905_hap2_hprc_r2_v1.0.1|w5|c1	SMN2	False	False	False	
+c0840	NA20905_hap2_hprc_r2_v1.0.1|w5|c2	SMN1	False	False	False	A
+c0841	NA21093_hap1_hprc_r2_v1.0.1|w3|c0	SMN1	False	False	False	A
+c0842	NA21093_hap1_hprc_r2_v1.0.1|w3|c1	SMN2	False	False	False	
+c0843	NA21093_hap2_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0844	NA21093_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0845	NA21102_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0846	NA21102_hap1_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0847	NA21102_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0848	NA21102_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0849	NA21102_hap2_hprc_r2_v1.0.1|w4|c2	SMN2	False	False	False	
+c0850	NA21106_hap1_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0851	NA21106_hap1_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0852	NA21106_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0853	NA21106_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0854	NA21110_hap1_hprc_r2_v1.0.1|w3|c0	SMN2	False	False	False	
+c0855	NA21110_hap1_hprc_r2_v1.0.1|w3|c1	SMN1	False	False	False	A
+c0856	NA21110_hap2_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0857	NA21110_hap2_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0858	NA21144_hap1_hprc_r2_v1.0.1|w4|c0	SMN1	False	False	False	A
+c0859	NA21144_hap1_hprc_r2_v1.0.1|w4|c1	SMN2	False	False	False	
+c0860	NA21144_hap2_hprc_r2_v1.0.1|w5|c0	SMN1	False	False	False	A
+c0861	NA21309_mat_hprc_r2_v1.0.1|w4|c0	SMN2	False	False	False	
+c0862	NA21309_mat_hprc_r2_v1.0.1|w4|c1	SMN1	False	False	False	A
+c0863	NA21309_mat_hprc_r2_v1.0.1|w4|c2	SMN1	False	False	False	A
+c0864	NA21309_pat_hprc_r2_v1.0.1|w4|c0	SMN1	True	True	True	B1
+c0865	NA21309_pat_hprc_r2_v1.0.1|w4|c1	SMN1	False	True	True	B2
+c0866	chm13v2.0_maskedY_rCRS.fa.PanSN|w4|c0	SMN2	False	False	False	
+c0867	chm13v2.0_maskedY_rCRS.fa.PanSN|w4|c1	SMN1	False	False	False	A
+c0868	hg002v1.1.mat_MT.PanSN|w4|c0	SMN2	False	False	False	
+c0869	hg002v1.1.mat_MT.PanSN|w4|c1	SMN1	False	False	False	A
+c0870	hg002v1.1.pat.PanSN|w4|c0	SMN2	False	False	False	
+c0871	hg002v1.1.pat.PanSN|w4|c1	SMN1	False	False	False	A

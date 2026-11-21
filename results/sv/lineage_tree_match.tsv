@@ -1,0 +1,11 @@
+make_up	haplotypes	AFR	tree	median_within_cophenetic	median_all_cophenetic	nn_same_make_up	leaf_runs	nn_chance_all	p_within_all	p_nn_all	nn_chance_AFR-stratified	p_within_AFR-stratified	p_nn_AFR-stratified
+A	347	59	structure	0.3776	0.3776	0.951	28	0.795	1.0	0.0005	0.854	1.0	0.0005
+A	347	59	SMN1 sequence	0.0006	0.0008	0.994	16	0.795	0.0005	0.0005	0.857	0.0005	0.0005
+AA	15	4	structure	0.3711	0.3776	0.133	13	0.032	0.059	0.133	0.03	0.0495	0.121
+AA	15	4	SMN1 sequence	0.0007	0.0008	0.6	12	0.031	0.23	0.0005	0.029	0.2535	0.0005
+AB	3	3	structure	0.468	0.3776	0.0	3	0.005	0.9435	1.0	0.012	0.899	1.0
+AB	3	3	SMN1 sequence	0.0007	0.0008	0.667	3	0.006	0.2545	0.005	0.011	0.159	0.0085
+B	28	26	structure	0.4653	0.3776	0.571	16	0.062	1.0	0.0005	0.138	0.999	0.0005
+B	28	26	SMN1 sequence	0.0008	0.0008	1.0	4	0.062	0.556	0.0005	0.148	0.014	0.0005
+BB	43	41	structure	0.1941	0.3776	0.93	9	0.098	0.0005	0.0005	0.226	0.0005	0.0005
+BB	43	41	SMN1 sequence	0.0001	0.0008	1.0	3	0.094	0.0005	0.0005	0.247	0.0005	0.0005

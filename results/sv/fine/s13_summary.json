@@ -1,0 +1,16 @@
+{
+ "band": 33,
+ "central": 209,
+ "band_G": 33,
+ "central_G": 0,
+ "G_and_S13": 37,
+ "G_not_S13": 118,
+ "S13_not_G": 4,
+ "neither": 275,
+ "haplotypes": 434,
+ "G_S13_fisher_p": 3.296949516299796e-14,
+ "G_units": 158,
+ "G_rows": 155,
+ "G_span_median_bp": 64537.0,
+ "band_S13": 33
+}

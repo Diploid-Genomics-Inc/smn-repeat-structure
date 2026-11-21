@@ -1,0 +1,128 @@
+% written by scripts/41_provenance.py from note/numbers.json, results/ledger.tsv and the traced file accesses (results/sv/provenance_io.tsv)
+\newcommand{\tabNumSrc}{%
+\texttt{copy\_labels.tsv} & 04 & 106 & \texttt{\textbackslash armCenInTree}, \texttt{\textbackslash armCenNTComp} & 2.3; S4.6 \\
+\texttt{arm\_elements\_summary.json} & 28b & 101 & \texttt{\textbackslash elAendCOne}, \texttt{\textbackslash elAendCZero} & 2.4; S5, Table S9; Figs. 1, 4 \\
+\texttt{group\_pair\_distances.tsv} & 10 & 76 & \texttt{\textbackslash gdAADiffs}, \texttt{\textbackslash gdAAMax} & 2.2; S4.3 \\
+\texttt{marker\_lineage.tsv} & 05 & 74 & \texttt{\textbackslash cbABoutN}, \texttt{\textbackslash hgBnoneSix} & 2.2; S4.1 \\
+\texttt{lineage\_tree\_match.tsv} & 19c & 61 & \texttt{\textbackslash tmAAafr}, \texttt{\textbackslash tmAAchanceAfrSeq} & S3.3 \\
+\texttt{distance\_context.tsv} & 17 & 48 & \texttt{\textbackslash dcAArmCen}, \texttt{\textbackslash dcAArmCenN} & 2.3; S4.8 \\
+\texttt{unit\_families.json} & 33 & 47 & \texttt{\textbackslash ufABorder}, \texttt{\textbackslash ufABshared} & S1, Table S1 (tab:unitfam); Fig. 2 caption \\
+\texttt{chen\_hg\_copies.tsv} & 11 & 46 & \texttt{\textbackslash cbTwohg}, \texttt{\textbackslash hgAToTwo} & 2.2; S4.2 \\
+\texttt{ancestry\_counts.tsv} & 09 & 42 & \texttt{\textbackslash anGtfAfr}, \texttt{\textbackslash anGtfAmr} & 2.6; S6 \\
+\texttt{arm\_elements.tsv} & 28b & 42 & \texttt{\textbackslash elAEnd}, \texttt{\textbackslash elCEHi} & 2.4; S5, Table S9; Figs. 1, 4 \\
+\texttt{mltree.treefile} & 04a & 40 & \texttt{\textbackslash mlBBjoinCopies}, \texttt{\textbackslash mlBBjoinSup} & 2.2, 2.7 (halves, B1/B2); Fig. 3; S3.4 (S1-3, S1-8, S1-9 family clades) \\
+\texttt{tables/haplotype\_copy\_counts.tsv} & input & 39 & \texttt{\textbackslash anLeftOut}, \texttt{\textbackslash dosAfrHaps} & 2.1; Discussion; S1 \\
+\texttt{mltree\_backbone.tsv} & 29 & 37 & \texttt{\textbackslash mlBBjoinCopies}, \texttt{\textbackslash mlBBjoinSup} & 2.2, 2.7 (halves, B1/B2); Fig. 3; S3.4 (S1-3, S1-8, S1-9 family clades) \\
+\texttt{five\_group\_shuffles.tsv} & 21 & 36 & \texttt{\textbackslash fgAApSeq}, \texttt{\textbackslash fgAApStruct} & 2.5; S3.4 \\
+\texttt{family\_shimmer.json} & 43 & 35 & \texttt{\textbackslash fsCAA}, \texttt{\textbackslash fsCAB} & S1 (fig:famshim) \\
+\texttt{evolution\_summary.json} & 16 & 34 & \texttt{\textbackslash apeCopies}, \texttt{\textbackslash apeGeneFull} & 2.7; S7 \\
+\texttt{palindrome\_copies\_lineage.tsv} & 22 & 33 & \texttt{\textbackslash armCenInTree}, \texttt{\textbackslash armCenItems} & 2.1, 2.3; S5 \\
+\texttt{two\_scales.tsv} & 28i & 32 & \texttt{\textbackslash tsAllC}, \texttt{\textbackslash tsAllF} & 2.5; S8, Table S13 \\
+\texttt{a\_unit\_length.json} & 28j & 29 & \texttt{\textbackslash auAcenCore}, \texttt{\textbackslash auAcenUnit} & 2.4; Fig. 1 caption; S1, S5 \\
+\texttt{scatter\_type\_stats.tsv} & 24 & 29 & \texttt{\textbackslash stLBig}, \texttt{\textbackslash stLInv} & S3.1, Fig. S5 \\
+\texttt{arm\_element\_segments.tsv} & 28b & 27 & \texttt{\textbackslash xFormBigHaps}, \texttt{\textbackslash xFormBigKb} & 2.4; S5, Table S9; Figs. 1, 4 \\
+\texttt{armform\_summary.json} & 28e & 27 & \texttt{\textbackslash afABCZTOne}, \texttt{\textbackslash afABCZTZero} & 2.5; S3.4 \\
+\texttt{fine/copy\_position.json} & 37 & 27 & \texttt{\textbackslash fcpArrCOne}, \texttt{\textbackslash fcpArrCZero} & S8, Tables S13-S15; 2.4, 2.5 \\
+\texttt{copy\_position.json} & 28g & 26 & \texttt{\textbackslash cpArrCOne}, \texttt{\textbackslash cpArrCZero} & 2.4; S5 \\
+\texttt{palindrome\_units.tsv} & 13 & 26 & \texttt{\textbackslash nHapsNoUnits}, \texttt{\textbackslash nHapsNoUnitsNoSMNone} & 2.1, 2.3; S5 \\
+\texttt{ml\_vs\_upgma\_bands.tsv} & 19b & 24 & \texttt{\textbackslash cbABposG}, \texttt{\textbackslash cbABposS} & 2.5, Fig. S6, Methods; S3.4, Tables S14, S15 \\
+\texttt{ab\_site\_events.tsv} & 23 & 23 & \texttt{\textbackslash abEvents}, \texttt{\textbackslash abExonEvents} & 2.2; S4.4 \\
+\texttt{dotplot\_graph\_summary.json} & 34 & 23 & \texttt{\textbackslash dpACen}, \texttt{\textbackslash dpALen} & S1 (Fig. S3); S5 (Fig. S11) \\
+\texttt{summary.json} & 07 & 22 & \texttt{\textbackslash mOneAFRN}, \texttt{\textbackslash mOneAFRR} & 2.5; S3.1, S8 \\
+\texttt{ancestry\_summary.json} & 09 & 21 & \texttt{\textbackslash anChi}, \texttt{\textbackslash anFAll} & 2.6; S6 \\
+\texttt{arm\_element\_haps.tsv} & 28b & 21 & \texttt{\textbackslash afPairInTree}, \texttt{\textbackslash afPairOutTree} & 2.4; S5, Table S9; Figs. 1, 4 \\
+\texttt{ancestry\_arrangement\_shares.tsv} & 09 & 20 & \texttt{\textbackslash shDelTwoAfr}, \texttt{\textbackslash shDelTwoAmr} & 2.6; S6 \\
+\texttt{distance\_context\_tests.tsv} & 17 & 20 & \texttt{\textbackslash dcANaipSpread}, \texttt{\textbackslash dcAfrArrSpread} & 2.3; S4.8 \\
+\texttt{lineage\_haplotypes.tsv} & 06 & 19 & \texttt{\textbackslash ldCompA}, \texttt{\textbackslash ldCompAA} & 2.2-2.3; S4.7 \\
+\texttt{ml\_cluster\_pairs.tsv} & 19b & 18 & \texttt{\textbackslash cbABClu}, \texttt{\textbackslash cbABexp} & 2.5, Fig. S6, Methods; S3.4, Tables S14, S15 \\
+\texttt{ml\_cluster\_pairs\_members.tsv} & 19b & 17 & \texttt{\textbackslash cbABafr}, \texttt{\textbackslash cbABcen} & 2.5, Fig. S6, Methods; S3.4, Tables S14, S15 \\
+\texttt{copy\_neighbor\_agreement.tsv} & 07 & 16 & \texttt{\textbackslash agArrNullOne}, \texttt{\textbackslash agArrNullTwo} & S3.2, Table S4 \\
+\texttt{fine/armform\_summary.json} & 37 & 16 & \texttt{\textbackslash fafABCZTOne}, \texttt{\textbackslash fafBulkClu} & S8, Tables S13-S15; 2.4, 2.5 \\
+\texttt{hg\_scatter\_within.tsv} & 26 & 16 & \texttt{\textbackslash hsRallHi}, \texttt{\textbackslash hsRallLo} & S3.5; Fig. S7 \\
+\texttt{arm\_element\_blocks.tsv} & 28d & 15 & \texttt{\textbackslash elCEHi}, \texttt{\textbackslash elCELo} & 2.4; S5, Table S9; Figs. 1, 4 \\
+\texttt{spacer\_summary.json} & 28c & 15 & \texttt{\textbackslash sAxisBetween}, \texttt{\textbackslash sAxisFwd} & 2.4; S5 \\
+\texttt{decomp\_params.tsv} & 28i & 14 & \texttt{\textbackslash dpCBids}, \texttt{\textbackslash dpCBranch} & Methods; S8, Table S12 \\
+\texttt{palindrome\_axis\_copies.tsv} & 13 & 14 & \texttt{\textbackslash palCopies}, \texttt{\textbackslash palDhi} & 2.1, 2.3; S5 \\
+\texttt{window\_flanks.json} & 36 & 14 & \texttt{\textbackslash wfBothSingle}, \texttt{\textbackslash wfCenMed} & Methods \\
+\texttt{arm\_naip\_pieces.tsv} & 28b & 13 & \texttt{\textbackslash elNaipFive}, \texttt{\textbackslash elNaipOverlap} & 2.4; S5 \\
+\texttt{arm\_slots.tsv} & 27 & 13 & \texttt{\textbackslash slLAfr}, \texttt{\textbackslash slLAfrA} & S5, Table S10 \\
+\texttt{g\_unpaired.json} & 28h & 13 & \texttt{\textbackslash gSThree}, \texttt{\textbackslash gSThreeN} & S3.4 \\
+\texttt{lineage\_tree\_match.json} & 19c & 13 & \texttt{\textbackslash tmBBkBoth}, \texttt{\textbackslash tmBBkSeq} & S3.3 \\
+\texttt{ml\_hap\_labels.tsv} & 19b & 13 & \texttt{\textbackslash afPairInTree}, \texttt{\textbackslash afPairOutTree} & 2.5, Fig. S6, Methods; S3.4, Tables S14, S15 \\
+\texttt{fine/ml\_vs\_upgma\_bands.tsv} & 37 & 12 & \texttt{\textbackslash fbABexp}, \texttt{\textbackslash fbABn} & S8, Tables S13-S15; 2.4, 2.5 \\
+\texttt{palindrome\_arms.tsv} & 13 & 12 & \texttt{\textbackslash palArmDiff}, \texttt{\textbackslash palArmL} & 2.1, 2.3; S5 \\
+\texttt{window\_gaps.tsv} & 36b & 12 & \texttt{\textbackslash gapBig}, \texttt{\textbackslash gapBigMax} & 2.1, 2.4 \\
+\texttt{fine/s13\_summary.json} & 37 & 11 & \texttt{\textbackslash sBand}, \texttt{\textbackslash sBandG} & S8, Tables S13-S15; 2.4, 2.5 \\
+\texttt{group\_copy\_means.tsv} & 10 & 10 & \texttt{\textbackslash gdANearB}, \texttt{\textbackslash gdANearBHap} & 2.2; S4.3 \\
+\texttt{group\_pair\_distances\_sub.tsv} & 10 & 10 & \texttt{\textbackslash gsAA}, \texttt{\textbackslash gsABone} & 2.2; S4.3 \\
+\texttt{ml\_bands\_summary.json} & 19b & 10 & \texttt{\textbackslash mlbAlphaExp}, \texttt{\textbackslash mlbClusters} & 2.5, Fig. S6, Methods; S3.4, Tables S14, S15 \\
+\texttt{ml\_seq\_clusters.tsv} & 19b & 10 & \texttt{\textbackslash mlbEightSup}, \texttt{\textbackslash mlbFiveOwn} & 2.5, Fig. S6, Methods; S3.4, Tables S14, S15 \\
+\texttt{mltree\_clades.tsv} & 29 & 10 & \texttt{\textbackslash mlBpure}, \texttt{\textbackslash mlBpureSup} & 2.2, 2.7 (halves, B1/B2); Fig. 3; S3.4 (S1-3, S1-8, S1-9 family clades) \\
+\texttt{ape\_copies.tsv} & 14 & 9 & \texttt{\textbackslash apeDiffN}, \texttt{\textbackslash apeDiffSites} & 2.7; S7, Table S11 (tab:apes) \\
+\texttt{ape\_site\_reads.tsv} & 13c & 9 & \texttt{\textbackslash rdAcc}, \texttt{\textbackslash rdMsaDiff} & 2.7; S7 \\
+\texttt{cluster\_pairs.tsv} & 19 & 9 & \texttt{\textbackslash ubABexp}, \texttt{\textbackslash ubABn} &  \\
+\texttt{evolution\_sites\_checked.tsv} & 16 & 9 & \texttt{\textbackslash apeDiffN}, \texttt{\textbackslash apeDiffSites} & 2.7; S7 \\
+\texttt{fine/s13\_G\_carriers\_CD.tsv} & 37 & 9 & \texttt{\textbackslash sGEightC}, \texttt{\textbackslash sGEightD} & S8, Tables S13-S15; 2.4, 2.5 \\
+\texttt{hg\_scatter\_summary.json} & 26 & 9 & \texttt{\textbackslash hsPairs}, \texttt{\textbackslash hsPfloor} & S3.5; Fig. S7 \\
+\texttt{naip\_exons.json} & 28f & 9 & \texttt{\textbackslash nxCodons}, \texttt{\textbackslash nxExons} & 2.4; S5 \\
+\texttt{spacer\_sequence.tsv} & 28c & 9 & \texttt{\textbackslash sCenHaps}, \texttt{\textbackslash sCenMore} & 2.4; S5 \\
+\texttt{(program versions and method settings)} &  & 8 & \texttt{\textbackslash verEdlib}, \texttt{\textbackslash verIqtree} &  \\
+\texttt{arm\_element\_spacers.tsv} & 28b & 8 & \texttt{\textbackslash palGapS}, \texttt{\textbackslash palGapSHaps} & 2.4; S5, Table S9; Figs. 1, 4 \\
+\texttt{fine/s13\_unit\_families.tsv} & 37 & 8 & \texttt{\textbackslash sBandC}, \texttt{\textbackslash sBandD} & S8, Tables S13-S15; 2.4, 2.5 \\
+\texttt{lineage\_population.tsv} & 06 & 8 & \texttt{\textbackslash ldAfrPops}, \texttt{\textbackslash ldAfrPopsB} & 2.2-2.3; S4.7 \\
+\texttt{lineage\_tests.tsv} & 06 & 8 & \texttt{\textbackslash ldTestBMulti}, \texttt{\textbackslash ldTestBN} & 2.2-2.3; S4.7 \\
+\texttt{x\_cross.json} & 38 & 8 & \texttt{\textbackslash xcCOneS}, \texttt{\textbackslash xcExCZeroArm} & 2.4; S5, Fig. S12 \\
+\texttt{copy\_tips.tsv} & 02 & 7 & \texttt{\textbackslash gdANearBHap}, \texttt{\textbackslash gdANearTwoHap} & Methods \\
+\texttt{distance\_A\_by\_haplotype.tsv} & 17 & 7 & \texttt{\textbackslash dcCompAB}, \texttt{\textbackslash dcCompABAfr} & 2.3; S4.8 \\
+\texttt{lineage\_arrangement.tsv} & 06 & 7 & \texttt{\textbackslash ldHtwoOneB}, \texttt{\textbackslash ldHtwoOneBOne} & 2.3; S4.7 \\
+\texttt{smn2\_s12\_clade.json} & 19d & 7 & \texttt{\textbackslash sTwoClAfr}, \texttt{\textbackslash sTwoClHaps} & Discussion (structure and sequence vary together); Fig. 3 \\
+\texttt{unit\_families.tsv} & 33 & 7 & \texttt{\textbackslash ufACore}, \texttt{\textbackslash ufBCore} & S1, Table S1 (tab:unitfam); Fig. 2 caption \\
+\texttt{unit\_family\_elements.tsv} & 28e & 7 & \texttt{\textbackslash feACore}, \texttt{\textbackslash feBXi} & 2.1, 2.5; S1, S3.4, Table S2 (tab:unitfamel) \\
+\texttt{tables/arrangement\_types.tsv} & input & 7 & \texttt{\textbackslash arrHaps}, \texttt{\textbackslash arrOnce} & Introduction; 2.1 \\
+\texttt{data/refs/berzal2026\_fig4\_psv.tsv} & input & 6 & \texttt{\textbackslash bzExact}, \texttt{\textbackslash bzMatch} & 2.7; S7 \\
+\texttt{results/decomp/smn.bed} & 00 & 6 & \texttt{\textbackslash nouArrBundle}, \texttt{\textbackslash nouArrMax} & 2.1; Methods; S1, Table S1, Figs. S1, S3; S8 \\
+\texttt{ancestry\_struct\_median\_dist.tsv} & 09 & 6 & \texttt{\textbackslash anAfrBetweenMin}, \texttt{\textbackslash anWAfr} & 2.6; S6 \\
+\texttt{ape\_copies\_hap2.tsv} & 15 & 6 & \texttt{\textbackslash apeAltOrangA}, \texttt{\textbackslash apeAltOrangB} & 2.7; S7, Table S11 (tab:apes) \\
+\texttt{ape\_fold.tsv} & 35 & 6 & \texttt{\textbackslash apOruShare}, \texttt{\textbackslash apSOtherHi} & 2.7; S7, Table S11 (tab:apes) \\
+\texttt{copies.aln.fa} & 02 & 6 & \texttt{\textbackslash abPerfOneC}, \texttt{\textbackslash nAlnCols} & 2.2; S1, S4.1, S4.4, S7 \\
+\texttt{lineage\_context.tsv} & 06 & 6 & \texttt{\textbackslash ldEnvAssA}, \texttt{\textbackslash ldEnvAssB} & 2.2-2.3; S4.7 \\
+\texttt{luo\_variants.tsv} & 23b & 6 & \texttt{\textbackslash luoBoneHi}, \texttt{\textbackslash luoBoneLo} & S4.5 \\
+\texttt{ab\_sites.tsv} & 23 & 5 & \texttt{\textbackslash abCols}, \texttt{\textbackslash abPerfOneA} & 2.2; S4.4 \\
+\texttt{chen\_hg\_variants.tsv} & 11 & 5 & \texttt{\textbackslash hgPlaced}, \texttt{\textbackslash hgPlacedOne} & 2.2; S4.2 \\
+\texttt{fine/ml\_cluster\_pairs\_members.tsv} & 37 & 5 & \texttt{\textbackslash fbABinCoarse}, \texttt{\textbackslash fbBulkinCoarse} & S8, Tables S13-S15; 2.4, 2.5 \\
+\texttt{scatter\_type\_summary.json} & 24 & 5 & \texttt{\textbackslash stLenAll}, \texttt{\textbackslash stLenSame} & S3.1, Fig. S5 \\
+\texttt{x\_cross.tsv} & 38 & 5 & \texttt{\textbackslash xcCOneS}, \texttt{\textbackslash xcNoS} & S5, Fig. S12 \\
+\texttt{scripts/28c\_spacer\_sequence.py} & setting & 5 & \texttt{\textbackslash sCut}, \texttt{\textbackslash sGapHi} &  \\
+\texttt{results/decomp/smn.repeat\_units.tsv} &  & 4 & \texttt{\textbackslash palGapS}, \texttt{\textbackslash palSinA} & 2.1; S1, Table S1 \\
+\texttt{ape\_struct.json} & 35 & 4 & \texttt{\textbackslash apFarHi}, \texttt{\textbackslash apFarHum} & 2.7; S7, Table S11 (tab:apes) \\
+\texttt{arm\_copies.tsv} & 27 & 4 & \texttt{\textbackslash slLAfr}, \texttt{\textbackslash slLOth} & 2.3; S5 \\
+\texttt{copy\_in\_unit.tsv} & 13 & 4 & \texttt{\textbackslash palInUnit}, \texttt{\textbackslash palRelMax} & S5 \\
+\texttt{fine/unit\_family\_elements.tsv} & 37 & 4 & \texttt{\textbackslash ffeGS}, \texttt{\textbackslash ffeGXi} & S8, Tables S13-S15; 2.4, 2.5 \\
+\texttt{mltree.log} & 04a & 4 & \texttt{\textbackslash iqBoot}, \texttt{\textbackslash iqCols} & 2.2, 2.7 (halves, B1/B2); Fig. 3; S3.4 (S1-3, S1-8, S1-9 family clades) \\
+\texttt{palindrome\_dot\_classes.tsv} & 28d & 4 & \texttt{\textbackslash fdDel}, \texttt{\textbackslash fdHyb} & 2.1, 2.3; S5 \\
+\texttt{two\_scales.json} & 28i & 4 & \texttt{\textbackslash cophMlVsP}, \texttt{\textbackslash cophUpgma} & 2.5; S8, Table S13 \\
+\texttt{results/copies/copy\_calls.tsv} & input & 3 & \texttt{\textbackslash armCenNTComp}, \texttt{\textbackslash nCounted} & 2.1; Methods \\
+\texttt{arm\_units.tsv} & 27 & 3 & \texttt{\textbackslash armExtraItem}, \texttt{\textbackslash armN} & S5 \\
+\texttt{chen\_hg\_people.tsv} & 11 & 3 & \texttt{\textbackslash hgPeople}, \texttt{\textbackslash hgPeopleNine} & 2.2; S4.2 \\
+\texttt{lineage\_copies.tsv} & 06 & 3 & \texttt{\textbackslash ldPopAllN}, \texttt{\textbackslash ldPopNoLabN} & 2.2-2.3; S4.7 \\
+\texttt{repeat\_units\_algo.json} & 39 & 3 & \texttt{\textbackslash ruaEx}, \texttt{\textbackslash ruaSeg} & S1 (Fig. S1) \\
+\texttt{window\_flanks.tsv} & 36 & 3 & \texttt{\textbackslash wfShortBp}, \texttt{\textbackslash wfShortHap} & Methods \\
+\texttt{scripts/19\_cluster\_correspondence.py} & setting & 3 & \texttt{\textbackslash setAlpha}, \texttt{\textbackslash setK} &  \\
+\texttt{data/refs\_seq/smn1\_smn2\_refseq.gb} & input & 2 & \texttt{\textbackslash abPerfOneBefore}, \texttt{\textbackslash abPerfOneC} &  \\
+\texttt{a\_unit\_length.tsv} & 28j & 2 & \texttt{\textbackslash auTelENotNext}, \texttt{\textbackslash palDmaxCore} & 2.4; Fig. 1 caption; S1, S5 \\
+\texttt{palindrome\_diagram\_rows.tsv} & 22 & 2 & \texttt{\textbackslash palBMirror}, \texttt{\textbackslash palOthMirror} & 2.1, 2.3; S5 \\
+\texttt{scripts/07\_compare.py} & setting & 2 & \texttt{\textbackslash nPerm}, \texttt{\textbackslash setFlankKb} &  \\
+\texttt{scripts/19b\_ml\_bands.py} & setting & 2 & \texttt{\textbackslash setMLmin}, \texttt{\textbackslash setMLsup} &  \\
+\texttt{scripts/28\_windows\_tandem.py} & setting & 2 & \texttt{\textbackslash trMaxKb}, \texttt{\textbackslash trMinKb} &  \\
+\texttt{scripts/28b\_arm\_elements.py} & setting & 2 & \texttt{\textbackslash elAstart}, \texttt{\textbackslash elUnitLong} &  \\
+\texttt{results/copies/markers.tsv} & input & 1 & \texttt{\textbackslash nMarkerCopies} & 2.1; Methods \\
+\texttt{locus\_diagram\_examples.tsv} & 31 & 1 & \texttt{\textbackslash dpAxisGap} & Fig. 1 \\
+\texttt{mltree.iqtree} &  & 1 & \texttt{\textbackslash iqModel} & 2.2, 2.7 (halves, B1/B2); Fig. 3; S3.4 (S1-3, S1-8, S1-9 family clades) \\
+\texttt{scripts/01\_struct\_dist.sh} & setting & 1 & \texttt{\textbackslash setTopN} &  \\
+\texttt{scripts/09\_ancestry\_structure.py} & setting & 1 & \texttt{\textbackslash anPermPA} &  \\
+\texttt{scripts/32\_ml\_tree\_figure.py} & setting & 1 & \texttt{\textbackslash setSupMin} &  \\}
+\newcommand{\pvNumbers}{1688}
+\newcommand{\pvMulti}{251}
+\newcommand{\pvFiles}{121}
+\newcommand{\pvSteps}{61}
+\newcommand{\pvFigures}{17}

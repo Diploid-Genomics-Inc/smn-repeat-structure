@@ -1,0 +1,63 @@
+{
+ "overlap": {
+  "position_overlapping_pairs": 0,
+  "families_listed": 11,
+  "family_pairs": 55,
+  "family_pairs_sharing_core": 28,
+  "shared_core": {
+   "A/B": 12,
+   "A/D": 5,
+   "A/C": 6,
+   "A/G": 5,
+   "A/J": 4,
+   "A/H": 15,
+   "A/N": 2,
+   "B/D": 5,
+   "B/C": 5,
+   "B/G": 5,
+   "B/H": 12,
+   "B/N": 2,
+   "E/F": 5,
+   "E/C": 5,
+   "E/H": 5,
+   "D/C": 5,
+   "D/G": 3,
+   "D/H": 5,
+   "F/C": 5,
+   "F/I": 2,
+   "F/H": 5,
+   "C/G": 3,
+   "C/J": 1,
+   "C/H": 11,
+   "G/H": 5,
+   "G/N": 2,
+   "J/H": 3,
+   "H/N": 2
+  },
+  "core_within_A": [
+   "B",
+   "D",
+   "G",
+   "J",
+   "N"
+  ],
+  "bundle_ids_in_units": 39,
+  "bundle_ids_in_2plus_families": 38
+ },
+ "cmd": "# cmd: pangea cohort bundle repeat-units -b results/bundles/smn.bed -o results/bundles/smn",
+ "pangea_version": "pangea pangea-bin 0.27.0 (main:56818da6, release build, macos [aarch64] [rustc 1.99.1 (58cf8f9c3 2026-10-13)])",
+ "defaults": {
+  "max_gap": 3.0,
+  "max_indel": 12.0,
+  "min_unit_bp": 0.0,
+  "min_matches": 3.0,
+  "family_jaccard": 0.5
+ },
+ "auto_min_unit_bp": 38216,
+ "median_window_span_bp": 1910824,
+ "shortest_unit_bp": 38460,
+ "min_matched_bundles": 3,
+ "occurrences": 2577,
+ "windows": 436,
+ "families": 18
+}

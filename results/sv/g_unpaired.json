@@ -1,0 +1,52 @@
+{
+ "sig_family": "E",
+ "pair_T1_t2like": [
+  69,
+  72
+ ],
+ "pair_T0_t2like": [
+  4,
+  198
+ ],
+ "unpaired": 160,
+ "unpaired_with_S": 160,
+ "G_unpaired": 51,
+ "G_unpaired_t2like": 29,
+ "noG_unpaired_t2like": [
+  11,
+  109
+ ],
+ "G_unpaired_by_label": {
+  "S1-2": [
+   2,
+   18
+  ],
+  "S1-3": [
+   14,
+   14
+  ],
+  "S1-4": [
+   2,
+   2
+  ],
+  "S1-6": [
+   3,
+   3
+  ],
+  "S1-8": [
+   0,
+   2
+  ],
+  "rest": [
+   8,
+   12
+  ]
+ },
+ "S12_G_sites": {
+  "C1-like C1-like T0-like axis": 7,
+  "C1-like C1-like C1-like T0-like axis": 5,
+  "C1-like T0-like axis": 3,
+  "C1-like T0-like T1-like": 2,
+  "C1-like C1-like C1-like C1-like T0-like axis": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "haplotypes": 436,
+ "same_type_pairs": 21174,
+ "same_type_same_hg": 13606,
+ "same_type_same_lineage": 19773,
+ "shuffles": 1999,
+ "seq_median_same_type_same_hg": 0.1253286609426,
+ "seq_median_same_type_diff_hg": 0.7342022145166,
+ "struct_median_same_type_same_hg": 0.1212894725,
+ "struct_median_same_type_diff_hg": 0.297040985
+}

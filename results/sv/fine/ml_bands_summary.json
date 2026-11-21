@@ -1,0 +1,50 @@
+{
+ "K": 16,
+ "M": 20,
+ "SMN1_copies": 497,
+ "T": 95,
+ "alpha": 0.001,
+ "bands": {
+  "AB": {
+   "expected": 7.4,
+   "n": 32,
+   "p_bonf": 2.4021093571778905e-17
+  },
+  "Bulk": {
+   "expected": 141.0,
+   "n": 209,
+   "p_bonf": 3.986234540759845e-40
+  },
+  "Three": {
+   "expected": 8.0,
+   "n": 33,
+   "p_bonf": 8.424037565334823e-17
+  },
+  "Two": {
+   "expected": 4.1,
+   "n": 35,
+   "p_bonf": 4.665735043847771e-35
+  }
+ },
+ "haplotypes": 436,
+ "haplotypes_by_SMN1_copies": {
+  "1": 375,
+  "2": 61
+ },
+ "min_overlap": 10,
+ "sensitivity_settings": 9,
+ "seq_clusters": 9,
+ "seq_labels": 17,
+ "settings_all_four_bands": 9,
+ "settings_n_bands": {
+  "80/10": 4,
+  "80/20": 4,
+  "80/5": 4,
+  "90/10": 5,
+  "90/20": 4,
+  "90/5": 4,
+  "95/10": 4,
+  "95/20": 4,
+  "95/5": 4
+ }
+}

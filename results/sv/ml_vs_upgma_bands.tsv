@@ -1,0 +1,4 @@
+band	ml_struct_cluster	ml_seq_label	ml_n	ml_expected	ml_p_bonf	struct_pos_median	seq_pos_median	upgma_struct_cluster	upgma_seq_cluster	upgma_n	upgma_expected	upgma_p_bonf	shared	only_ml	only_upgma	only_ml_arr	only_upgma_arr
+Two	13	S1-2	29	3.2	8.947612872233304e-30	0.961	0.296	13	7	29	3.3	5.527593640984776e-29	29	0	0		
+AB	9	S1-8+S1-9	37	11.3	4.696006195028528e-18	0.66	0.098	9	1	37	12.2	5.420197790953802e-15	37	0	0		
+Bulk	8	rest	163	119.7	4.269092961075382e-15	0.352	0.736	8	8	165	117.4	1.738014029210762e-18	159	4	6	2- 1+ 4	1- 1+ 6

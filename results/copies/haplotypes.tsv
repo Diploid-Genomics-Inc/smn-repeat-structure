@@ -1,0 +1,467 @@
+src	sample	hap	status	n_windows_with_copies	n_copies	n_SMN1	n_SMN2	n_hyb_1_2	n_hyb_2_1	n_del7_8	n_truncated	n_fragment	n_other	ex7_SMN1	ex7_SMN2	ex8_SMN1	ex8_SMN2	arrangement	population_abbreviation	sex	trio_available
+GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN	GRCh38	ref	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+			False
+HG00097_hap1_hprc_r2_v1.0.1	HG00097	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GBR	female	False
+HG00097_hap2_hprc_r2_v1.0.1	HG00097	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	GBR	female	False
+HG00099_hap1_hprc_r2_v1.0.1	HG00099	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	GBR	female	False
+HG00099_hap2_hprc_r2_v1.0.1	HG00099	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GBR	female	False
+HG00126_hap1_hprc_r2_v1.0.1	HG00126	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GBR	male	False
+HG00126_hap2_hprc_r2_v1.0.1	HG00126	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GBR	male	False
+HG00128_hap1_hprc_r2_v1.0.1	HG00128	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GBR	female	False
+HG00128_hap2_hprc_r2_v1.0.1	HG00128	hap2	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GBR	female	False
+HG00133_hap1_hprc_r2_v1.0.1	HG00133	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GBR	female	False
+HG00133_hap2_hprc_r2_v1.0.1	HG00133	hap2	complete	1	2	1	0	0	0	1	0	0	0	1	0	1	0	d2- 1+	GBR	female	False
+HG00140_hap1_hprc_r2_v1.0.1	HG00140	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	GBR	male	False
+HG00140_hap2_hprc_r2_v1.0.1	HG00140	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GBR	male	False
+HG00146_hap1_hprc_r2_v1.0.1	HG00146	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GBR	female	False
+HG00146_hap2_hprc_r2_v1.0.1	HG00146	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	GBR	female	False
+HG00232_hap1_hprc_r2_v1.0.1	HG00232	hap1	split	2	3	1	2	0	0	0	0	0	0	1	2	1	2	2- | 2- 1-	GBR	female	False
+HG00232_hap2_hprc_r2_v1.0.1	HG00232	hap2	partial	1	1	0	0	0	0	0	1	0	0	0	0	0	0	t+	GBR	female	False
+HG00235_hap1_hprc_r2_v1.0.1	HG00235	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	GBR	female	False
+HG00235_hap2_hprc_r2_v1.0.1	HG00235	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1+ 2+	GBR	female	False
+HG00253_hap1_hprc_r2_v1.0.1	HG00253	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GBR	female	False
+HG00253_hap2_hprc_r2_v1.0.1	HG00253	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	GBR	female	False
+HG00272_hap1_hprc_r2_v1.0.1	HG00272	hap1	complete	1	2	1	0	0	0	1	0	0	0	1	0	1	0	d2- 1+	FIN	female	False
+HG00272_hap2_hprc_r2_v1.0.1	HG00272	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	FIN	female	False
+HG00280_hap1_hprc_r2_v1.0.1	HG00280	hap1	partial	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	FIN	male	False
+HG00280_hap2_hprc_r2_v1.0.1	HG00280	hap2	partial	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	FIN	male	False
+HG00290_hap1_hprc_r2_v1.0.1	HG00290	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	FIN	male	False
+HG00290_hap2_hprc_r2_v1.0.1	HG00290	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	FIN	male	False
+HG00320_hap1_hprc_r2_v1.0.1	HG00320	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	FIN	female	False
+HG00320_hap2_hprc_r2_v1.0.1	HG00320	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	FIN	female	False
+HG00321_hap1_hprc_r2_v1.0.1	HG00321	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	FIN	male	False
+HG00321_hap2_hprc_r2_v1.0.1	HG00321	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	FIN	male	False
+HG00323_hap1_hprc_r2_v1.0.1	HG00323	hap1	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	FIN	female	False
+HG00323_hap2_hprc_r2_v1.0.1	HG00323	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	FIN	female	False
+HG00329_hap1_hprc_r2_v1.0.1	HG00329	hap1	split	2	3	1	1	0	0	0	1	0	0	1	1	1	1	t- 1+ | 2+	FIN	male	False
+HG00329_hap2_hprc_r2_v1.0.1	HG00329	hap2	split	3	4	1	2	0	0	0	1	0	0	2	2	2	2	2- 1+ | 2+ | t+	FIN	male	False
+HG00344_hap1_hprc_r2_v1.0.1	HG00344	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	FIN	female	False
+HG00344_hap2_hprc_r2_v1.0.1	HG00344	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	FIN	female	False
+HG00350_hap1_hprc_r2_v1.0.1	HG00350	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	FIN	female	False
+HG00350_hap2_hprc_r2_v1.0.1	HG00350	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	FIN	female	False
+HG00408_mat_hprc_r2_v1.0.1	HG00408	mat	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	female	True
+HG00408_pat_hprc_r2_v1.0.1	HG00408	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	female	True
+HG00423_mat_hprc_r2_v1.0.1	HG00423	mat	split	2	2	1	1	0	0	0	0	0	0	1	1	1	1	2- | 1+	CHS	female	True
+HG00423_pat_hprc_r2_v1.0.1	HG00423	pat	split	2	2	1	1	0	0	0	0	0	0	1	1	1	1	2- | 1+	CHS	female	True
+HG00438_mat_hprc_r2_v1.0.1	HG00438	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1+ 2+	CHS	female	True
+HG00438_pat_hprc_r2_v1.0.1	HG00438	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	CHS	female	True
+HG00544_mat_hprc_r2_v1.0.1	HG00544	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	female	True
+HG00544_pat_hprc_r2_v1.0.1	HG00544	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	CHS	female	True
+HG00558_mat_hprc_r2_v1.0.1	HG00558	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	female	True
+HG00558_pat_hprc_r2_v1.0.1	HG00558	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	CHS	female	True
+HG00597_mat_hprc_r2_v1.0.1	HG00597	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	female	True
+HG00597_pat_hprc_r2_v1.0.1	HG00597	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	female	True
+HG005_mat_hprc_r2_v1.0.1	HG005	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-		male	True
+HG005_pat_hprc_r2_v1.0.1	HG005	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+		male	True
+HG00609_mat_hprc_r2_v1.0.1	HG00609	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	CHS	male	True
+HG00609_pat_hprc_r2_v1.0.1	HG00609	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1-	CHS	male	True
+HG00621_mat_hprc_r2_v1.0.1	HG00621	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	CHS	male	True
+HG00621_pat_hprc_r2_v1.0.1	HG00621	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	male	True
+HG00639_mat_hprc_r2_v1.0.1	HG00639	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	PUR	female	True
+HG00639_pat_hprc_r2_v1.0.1	HG00639	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	female	True
+HG00642_mat_hprc_r2_v1.0.1	HG00642	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	PUR	male	True
+HG00642_pat_hprc_r2_v1.0.1	HG00642	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2-	PUR	male	True
+HG00658_mat_hprc_r2_v1.0.1	HG00658	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	male	True
+HG00658_pat_hprc_r2_v1.0.1	HG00658	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	male	True
+HG00673_mat_hprc_r2_v1.0.1	HG00673	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	male	True
+HG00673_pat_hprc_r2_v1.0.1	HG00673	pat	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	male	True
+HG00706_mat_hprc_r2_v1.0.1	HG00706	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHS	male	True
+HG00706_pat_hprc_r2_v1.0.1	HG00706	pat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	h21- 1+	CHS	male	True
+HG00733_mat_hprc_r2_v1.0.1	HG00733	mat	split	2	3	1	2	0	0	0	0	0	0	1	2	1	2	2- 1+ | 2+	PUR	female	True
+HG00733_pat_hprc_r2_v1.0.1	HG00733	pat	complete	1	2	1	0	0	0	1	0	0	0	1	0	1	0	d2- 1+	PUR	female	True
+HG00735_mat_hprc_r2_v1.0.1	HG00735	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	female	True
+HG00735_pat_hprc_r2_v1.0.1	HG00735	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	female	True
+HG00738_mat_hprc_r2_v1.0.1	HG00738	mat	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	male	True
+HG00738_pat_hprc_r2_v1.0.1	HG00738	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	male	True
+HG00741_mat_hprc_r2_v1.0.1	HG00741	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2-	PUR	female	True
+HG00741_pat_hprc_r2_v1.0.1	HG00741	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	female	True
+HG01071_mat_hprc_r2_v1.0.1	HG01071	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	PUR	female	True
+HG01071_pat_hprc_r2_v1.0.1	HG01071	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	female	True
+HG01074_mat_hprc_r2_v1.0.1	HG01074	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	PUR	male	True
+HG01074_pat_hprc_r2_v1.0.1	HG01074	pat	complete	1	2	1	0	0	0	1	0	0	0	1	0	1	0	d2- 1+	PUR	male	True
+HG01081_mat_hprc_r2_v1.0.1	HG01081	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	PUR	female	True
+HG01081_pat_hprc_r2_v1.0.1	HG01081	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	female	True
+HG01099_mat_hprc_r2_v1.0.1	HG01099	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	male	True
+HG01099_pat_hprc_r2_v1.0.1	HG01099	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	male	True
+HG01106_mat_hprc_r2_v1.0.1	HG01106	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	male	True
+HG01106_pat_hprc_r2_v1.0.1	HG01106	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	PUR	male	True
+HG01109_mat_hprc_r2_v1.0.1	HG01109	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	PUR	male	True
+HG01109_pat_hprc_r2_v1.0.1	HG01109	pat	split	2	2	1	1	0	0	0	0	0	0	1	1	1	1	2- | 1+	PUR	male	True
+HG01123_mat_hprc_r2_v1.0.1	HG01123	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1-	CLM	female	True
+HG01123_pat_hprc_r2_v1.0.1	HG01123	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	CLM	female	True
+HG01150_mat_hprc_r2_v1.0.1	HG01150	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CLM	female	True
+HG01150_pat_hprc_r2_v1.0.1	HG01150	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CLM	female	True
+HG01167_hap1_hprc_r2_v1.0.1	HG01167	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	PUR	male	False
+HG01167_hap2_hprc_r2_v1.0.1	HG01167	hap2	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	PUR	male	False
+HG01175_mat_hprc_r2_v1.0.1	HG01175	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	female	True
+HG01175_pat_hprc_r2_v1.0.1	HG01175	pat	complete	1	2	1	0	0	0	1	0	0	0	1	0	1	0	d2- 1+	PUR	female	True
+HG01192_mat_hprc_r2_v1.0.1	HG01192	mat	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PUR	male	True
+HG01192_pat_hprc_r2_v1.0.1	HG01192	pat	complete	1	2	1	0	0	0	1	0	0	0	1	0	1	0	d2- 1+	PUR	male	True
+HG01243_mat_hprc_r2_v1.0.1	HG01243	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	PUR	male	True
+HG01243_pat_hprc_r2_v1.0.1	HG01243	pat	complete	1	3	2	1	0	0	0	0	0	0	2	1	2	1	1- 2- 1+	PUR	male	True
+HG01252_mat_hprc_r2_v1.0.1	HG01252	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	CLM	male	True
+HG01252_pat_hprc_r2_v1.0.1	HG01252	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	CLM	male	True
+HG01255_mat_hprc_r2_v1.0.1	HG01255	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CLM	male	True
+HG01255_pat_hprc_r2_v1.0.1	HG01255	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	CLM	male	True
+HG01258_mat_hprc_r2_v1.0.1	HG01258	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	CLM	male	True
+HG01258_pat_hprc_r2_v1.0.1	HG01258	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CLM	male	True
+HG01261_mat_hprc_r2_v1.0.1	HG01261	mat	split	2	3	1	2	0	0	0	0	0	0	1	2	1	2	2- 1- | 2+	CLM	male	True
+HG01261_pat_hprc_r2_v1.0.1	HG01261	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	CLM	male	True
+HG01346_mat_hprc_r2_v1.0.1	HG01346	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	CLM	female	True
+HG01346_pat_hprc_r2_v1.0.1	HG01346	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	CLM	female	True
+HG01358_mat_hprc_r2_v1.0.1	HG01358	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	CLM	male	True
+HG01358_pat_hprc_r2_v1.0.1	HG01358	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	CLM	male	True
+HG01361_mat_hprc_r2_v1.0.1	HG01361	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CLM	female	True
+HG01361_pat_hprc_r2_v1.0.1	HG01361	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CLM	female	True
+HG01433_mat_hprc_r2_v1.0.1	HG01433	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	CLM	male	True
+HG01433_pat_hprc_r2_v1.0.1	HG01433	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	CLM	male	True
+HG01496_mat_hprc_r2_v1.0.1	HG01496	mat	gapped	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	CLM	female	True
+HG01496_pat_hprc_r2_v1.0.1	HG01496	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CLM	female	True
+HG01530_hap1_hprc_r2_v1.0.1	HG01530	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	IBS	male	False
+HG01530_hap2_hprc_r2_v1.0.1	HG01530	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	IBS	male	False
+HG01784_hap1_hprc_r2_v1.0.1	HG01784	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	IBS	female	False
+HG01784_hap2_hprc_r2_v1.0.1	HG01784	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	IBS	female	False
+HG01786_hap1_hprc_r2_v1.0.1	HG01786	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	IBS	female	False
+HG01786_hap2_hprc_r2_v1.0.1	HG01786	hap2	complete	1	3	2	1	0	0	0	0	0	0	2	1	2	1	2- 1- 1+	IBS	female	False
+HG01884_mat_hprc_r2_v1.0.1	HG01884	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ACB	female	True
+HG01884_pat_hprc_r2_v1.0.1	HG01884	pat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	h21- 1-	ACB	female	True
+HG01891_mat_hprc_r2_v1.0.1	HG01891	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ACB	female	True
+HG01891_pat_hprc_r2_v1.0.1	HG01891	pat	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	ACB	female	True
+HG01928_mat_hprc_r2_v1.0.1	HG01928	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	PEL	male	True
+HG01928_pat_hprc_r2_v1.0.1	HG01928	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	male	True
+HG01934_mat_hprc_r2_v1.0.1	HG01934	mat	split	2	2	1	0	0	0	1	0	0	0	1	0	1	0	d2- | 1+	PEL	male	True
+HG01934_pat_hprc_r2_v1.0.1	HG01934	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	PEL	male	True
+HG01940_mat_hprc_r2_v1.0.1	HG01940	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG01940_pat_hprc_r2_v1.0.1	HG01940	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	PEL	female	True
+HG01943_mat_hprc_r2_v1.0.1	HG01943	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	male	True
+HG01943_pat_hprc_r2_v1.0.1	HG01943	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	PEL	male	True
+HG01952_mat_hprc_r2_v1.0.1	HG01952	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	male	True
+HG01952_pat_hprc_r2_v1.0.1	HG01952	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	PEL	male	True
+HG01960_mat_hprc_r2_v1.0.1	HG01960	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ACB	female	True
+HG01960_pat_hprc_r2_v1.0.1	HG01960	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ACB	female	True
+HG01969_mat_hprc_r2_v1.0.1	HG01969	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG01969_pat_hprc_r2_v1.0.1	HG01969	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG01975_mat_hprc_r2_v1.0.1	HG01975	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	PEL	female	True
+HG01975_pat_hprc_r2_v1.0.1	HG01975	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG01978_mat_hprc_r2_v1.1.0	HG01978	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG01978_pat_hprc_r2_v1.1.0	HG01978	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG01981_mat_hprc_r2_v1.0.1	HG01981	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1+ 2+	PEL	female	True
+HG01981_pat_hprc_r2_v1.0.1	HG01981	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG01993_mat_hprc_r2_v1.0.1	HG01993	mat	split	2	2	1	1	0	0	0	0	0	0	1	1	1	1	2- | 1+	PEL	female	True
+HG01993_pat_hprc_r2_v1.0.1	HG01993	pat	split	2	2	1	1	0	0	0	0	0	0	1	1	1	1	2- | 1+	PEL	female	True
+HG02004_mat_hprc_r2_v1.0.1	HG02004	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG02004_pat_hprc_r2_v1.0.1	HG02004	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	PEL	female	True
+HG02015_mat_hprc_r2_v1.0.1	HG02015	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02015_pat_hprc_r2_v1.0.1	HG02015	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02027_mat_hprc_r2_v1.0.1	HG02027	mat	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02027_pat_hprc_r2_v1.0.1	HG02027	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02040_hap1_hprc_r2_v1.0.1	HG02040	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	KHV	male	False
+HG02040_hap2_hprc_r2_v1.0.1	HG02040	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	False
+HG02055_mat_hprc_r2_v1.0.1	HG02055	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	ACB	male	True
+HG02055_pat_hprc_r2_v1.0.1	HG02055	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ACB	male	True
+HG02056_mat_hprc_r2_v1.0.1	HG02056	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	KHV	male	True
+HG02056_pat_hprc_r2_v1.0.1	HG02056	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02071_mat_hprc_r2_v1.0.1	HG02071	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02071_pat_hprc_r2_v1.0.1	HG02071	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02074_mat_hprc_r2_v1.0.1	HG02074	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02074_pat_hprc_r2_v1.0.1	HG02074	pat	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02080_mat_hprc_r2_v1.0.1	HG02080	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	female	True
+HG02080_pat_hprc_r2_v1.0.1	HG02080	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	female	True
+HG02083_mat_hprc_r2_v1.0.1	HG02083	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02083_pat_hprc_r2_v1.0.1	HG02083	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	KHV	male	True
+HG02109_mat_hprc_r2_v1.0.1	HG02109	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ACB	female	True
+HG02109_pat_hprc_r2_v1.0.1	HG02109	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ACB	female	True
+HG02129_mat_hprc_r2_v1.0.1	HG02129	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02129_pat_hprc_r2_v1.0.1	HG02129	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02132_mat_hprc_r2_v1.0.1	HG02132	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	KHV	male	True
+HG02132_pat_hprc_r2_v1.0.1	HG02132	pat	complete	1	3	0	3	0	0	0	0	0	0	0	3	0	3	2+ 2- 2+	KHV	male	True
+HG02135_mat_hprc_r2_v1.0.1	HG02135	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02135_pat_hprc_r2_v1.0.1	HG02135	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	male	True
+HG02145_mat_hprc_r2_v1.0.1	HG02145	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ACB	male	True
+HG02145_pat_hprc_r2_v1.0.1	HG02145	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ACB	male	True
+HG02148_mat_hprc_r2_v1.0.1	HG02148	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	PEL	female	True
+HG02148_pat_hprc_r2_v1.0.1	HG02148	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG02155_hap1_hprc_r2_v1.0.1	HG02155	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	CDX	female	False
+HG02155_hap2_hprc_r2_v1.0.1	HG02155	hap2	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	h21- 1+	CDX	female	False
+HG02165_hap1_hprc_r2_v1.0.1	HG02165	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	CDX	female	False
+HG02165_hap2_hprc_r2_v1.0.1	HG02165	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	CDX	female	False
+HG02178_hap1_hprc_r2_v1.0.1	HG02178	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CDX	female	False
+HG02178_hap2_hprc_r2_v1.0.1	HG02178	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CDX	female	False
+HG02257_mat_hprc_r2_v1.1.0	HG02257	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1+ 2+	ACB	female	True
+HG02257_pat_hprc_r2_v1.1.0	HG02257	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	ACB	female	True
+HG02258_mat_hprc_r2_v1.0.1	HG02258	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ACB	male	True
+HG02258_pat_hprc_r2_v1.0.1	HG02258	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ACB	male	True
+HG02273_hap1_hprc_r2_v1.0.1	HG02273	hap1	split	2	2	1	1	0	0	0	0	0	0	1	1	1	1	2- | 1+	PEL	female	False
+HG02273_hap2_hprc_r2_v1.0.1	HG02273	hap2	split	2	2	2	0	0	0	0	0	0	0	2	0	2	0	1- | 1+	PEL	female	False
+HG02280_mat_hprc_r2_v1.0.1	HG02280	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ACB	female	True
+HG02280_pat_hprc_r2_v1.0.1	HG02280	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ACB	female	True
+HG02293_mat_hprc_r2_v1.0.1	HG02293	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG02293_pat_hprc_r2_v1.0.1	HG02293	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG02300_mat_hprc_r2_v1.0.1	HG02300	mat	complete	1	2	1	0	1	0	0	0	0	0	2	0	1	1	h12- 1+	PEL	female	True
+HG02300_pat_hprc_r2_v1.0.1	HG02300	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PEL	female	True
+HG02391_hap1_hprc_r2_v1.0.1	HG02391	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	CDX	male	False
+HG02391_hap2_hprc_r2_v1.0.1	HG02391	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CDX	male	False
+HG02392_hap1_hprc_r2_v1.0.1	HG02392	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CDX	male	False
+HG02392_hap2_hprc_r2_v1.0.1	HG02392	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CDX	male	False
+HG02451_mat_hprc_r2_v1.0.1	HG02451	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ACB	female	True
+HG02451_pat_hprc_r2_v1.0.1	HG02451	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	ACB	female	True
+HG02486_mat_hprc_r2_v1.0.1	HG02486	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ACB	male	True
+HG02486_pat_hprc_r2_v1.0.1	HG02486	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ACB	male	True
+HG02514_mat_hprc_r2_v1.0.1	HG02514	mat	gapped	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	KHV	male	True
+HG02514_pat_hprc_r2_v1.0.1	HG02514	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	KHV	male	True
+HG02523_mat_hprc_r2_v1.0.1	HG02523	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	female	True
+HG02523_pat_hprc_r2_v1.0.1	HG02523	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	KHV	female	True
+HG02559_mat_hprc_r2_v1.0.1	HG02559	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	ACB	female	True
+HG02559_pat_hprc_r2_v1.0.1	HG02559	pat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1- h21+	ACB	female	True
+HG02572_mat_hprc_r2_v1.0.1	HG02572	mat	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GWD	male	True
+HG02572_pat_hprc_r2_v1.0.1	HG02572	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	GWD	male	True
+HG02583_hap1_hprc_r2_v1.0.1	HG02583	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GWD	female	False
+HG02583_hap2_hprc_r2_v1.0.1	HG02583	hap2	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GWD	female	False
+HG02602_mat_hprc_r2_v1.0.1	HG02602	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	PJL	male	True
+HG02602_pat_hprc_r2_v1.0.1	HG02602	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	PJL	male	True
+HG02615_mat_hprc_r2_v1.0.1	HG02615	mat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1- h21+	GWD	female	True
+HG02615_pat_hprc_r2_v1.0.1	HG02615	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1-	GWD	female	True
+HG02622_mat_hprc_r2_v1.0.1	HG02622	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	GWD	female	True
+HG02622_pat_hprc_r2_v1.0.1	HG02622	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	GWD	female	True
+HG02630_mat_hprc_r2_v1.0.1	HG02630	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	GWD	female	True
+HG02630_pat_hprc_r2_v1.0.1	HG02630	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1-	GWD	female	True
+HG02647_mat_hprc_r2_v1.0.1	HG02647	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	GWD	male	True
+HG02647_pat_hprc_r2_v1.0.1	HG02647	pat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1- h21+	GWD	male	True
+HG02668_mat_hprc_r2_v1.0.1	HG02668	mat	gapped	1	3	2	1	0	0	0	0	0	0	2	1	2	1	1- 2- 1-	GWD	male	True
+HG02668_pat_hprc_r2_v1.0.1	HG02668	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GWD	male	True
+HG02698_mat_hprc_r2_v1.0.1	HG02698	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	PJL	male	True
+HG02698_pat_hprc_r2_v1.0.1	HG02698	pat	complete	1	3	2	0	1	0	0	0	0	0	3	0	2	1	1- h12+ 1+	PJL	male	True
+HG02717_mat_hprc_r2_v1.0.1	HG02717	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	GWD	male	True
+HG02717_pat_hprc_r2_v1.0.1	HG02717	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	GWD	male	True
+HG02723_mat_hprc_r2_v1.0.1	HG02723	mat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1- h21+	GWD	female	True
+HG02723_pat_hprc_r2_v1.0.1	HG02723	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GWD	female	True
+HG02735_mat_hprc_r2_v1.0.1	HG02735	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	PJL	male	True
+HG02735_pat_hprc_r2_v1.0.1	HG02735	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	PJL	male	True
+HG02738_mat_hprc_r2_v1.0.1	HG02738	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PJL	male	True
+HG02738_pat_hprc_r2_v1.0.1	HG02738	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1+ 2+	PJL	male	True
+HG02809_mat_hprc_r2_v1.0.1	HG02809	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	GWD	female	True
+HG02809_pat_hprc_r2_v1.0.1	HG02809	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GWD	female	True
+HG02818_mat_hprc_r2_v1.0.1	HG02818	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	GWD	female	True
+HG02818_pat_hprc_r2_v1.0.1	HG02818	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	GWD	female	True
+HG02841_mat_hprc_r2_v1.0.1	HG02841	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GWD	female	True
+HG02841_pat_hprc_r2_v1.0.1	HG02841	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1-	GWD	female	True
+HG02886_mat_hprc_r2_v1.0.1	HG02886	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	GWD	female	True
+HG02886_pat_hprc_r2_v1.0.1	HG02886	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1-	GWD	female	True
+HG02922_hap1_hprc_r2_v1.0.1	HG02922	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ESN	female	False
+HG02922_hap2_hprc_r2_v1.0.1	HG02922	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ESN	female	False
+HG02965_hap1_hprc_r2_v1.0.1	HG02965	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	ESN	male	False
+HG02965_hap2_hprc_r2_v1.0.1	HG02965	hap2	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	h21+ 1-	ESN	male	False
+HG02976_hap1_hprc_r2_v1.0.1	HG02976	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ESN	female	False
+HG02976_hap2_hprc_r2_v1.0.1	HG02976	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	ESN	female	False
+HG02984_mat_hprc_r2_v1.0.1	HG02984	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	GWD	male	True
+HG02984_pat_hprc_r2_v1.0.1	HG02984	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GWD	male	True
+HG03017_mat_hprc_r2_v1.0.1	HG03017	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PJL	male	True
+HG03017_pat_hprc_r2_v1.0.1	HG03017	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	PJL	male	True
+HG03041_mat_hprc_r2_v1.0.1	HG03041	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	GWD	female	True
+HG03041_pat_hprc_r2_v1.0.1	HG03041	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GWD	female	True
+HG03050_mat_hprc_r2_v1.0.1	HG03050	mat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1+ h21+	GWD	male	True
+HG03050_pat_hprc_r2_v1.0.1	HG03050	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	GWD	male	True
+HG03098_mat_hprc_r2_v1.0.1	HG03098	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	MSL	male	True
+HG03098_pat_hprc_r2_v1.0.1	HG03098	pat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1- h21-	MSL	male	True
+HG03130_hap1_hprc_r2_v1.0.1	HG03130	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ESN	male	False
+HG03130_hap2_hprc_r2_v1.0.1	HG03130	hap2	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ESN	male	False
+HG03139_hap1_hprc_r2_v1.0.1	HG03139	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ESN	male	False
+HG03139_hap2_hprc_r2_v1.0.1	HG03139	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	ESN	male	False
+HG03195_hap1_hprc_r2_v1.0.1	HG03195	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	ESN	female	False
+HG03195_hap2_hprc_r2_v1.0.1	HG03195	hap2	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ESN	female	False
+HG03209_hap1_hprc_r2_v1.0.1	HG03209	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	MSL	male	False
+HG03209_hap2_hprc_r2_v1.0.1	HG03209	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	MSL	male	False
+HG03225_hap1_hprc_r2_v1.0.1	HG03225	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	MSL	male	False
+HG03225_hap2_hprc_r2_v1.0.1	HG03225	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2-	MSL	male	False
+HG03239_mat_hprc_r2_v1.0.1	HG03239	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PJL	female	True
+HG03239_pat_hprc_r2_v1.0.1	HG03239	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PJL	female	True
+HG03270_hap1_hprc_r2_v1.0.1	HG03270	hap1	partial	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ESN	female	False
+HG03270_hap2_hprc_r2_v1.0.1	HG03270	hap2	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ESN	female	False
+HG03369_hap1_hprc_r2_v1.0.1	HG03369	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ESN	female	False
+HG03369_hap2_hprc_r2_v1.0.1	HG03369	hap2	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ESN	female	False
+HG03453_mat_hprc_r2_v1.0.1	HG03453	mat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1+ h21+	MSL	female	True
+HG03453_pat_hprc_r2_v1.0.1	HG03453	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	MSL	female	True
+HG03470_hap1_hprc_r2_v1.0.1	HG03470	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	MSL	female	False
+HG03470_hap2_hprc_r2_v1.0.1	HG03470	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	MSL	female	False
+HG03471_hap1_hprc_r2_v1.0.1	HG03471	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	MSL	male	False
+HG03471_hap2_hprc_r2_v1.0.1	HG03471	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	MSL	male	False
+HG03486_mat_hprc_r2_v1.0.1	HG03486	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	MSL	female	True
+HG03486_pat_hprc_r2_v1.0.1	HG03486	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	MSL	female	True
+HG03516_mat_hprc_r2_v1.1.0	HG03516	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	ESN	female	True
+HG03516_pat_hprc_r2_v1.1.0	HG03516	pat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1- h21+	ESN	female	True
+HG03521_hap1_hprc_r2_v1.0.1	HG03521	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	ESN	male	False
+HG03521_hap2_hprc_r2_v1.0.1	HG03521	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	ESN	male	False
+HG03540_mat_hprc_r2_v1.0.1	HG03540	mat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	h21- 1+	GWD	female	True
+HG03540_pat_hprc_r2_v1.0.1	HG03540	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	GWD	female	True
+HG03579_mat_hprc_r2_v1.0.1	HG03579	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	MSL	male	True
+HG03579_pat_hprc_r2_v1.0.1	HG03579	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	MSL	male	True
+HG03583_hap1_hprc_r2_v1.0.1	HG03583	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	MSL	female	False
+HG03583_hap2_hprc_r2_v1.0.1	HG03583	hap2	complete	1	1	0	1	0	0	0	0	0	0	0	1	0	1	2-	MSL	female	False
+HG03654_mat_hprc_r2_v1.0.1	HG03654	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PJL	male	True
+HG03654_pat_hprc_r2_v1.0.1	HG03654	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	PJL	male	True
+HG03669_mat_hprc_r2_v1.0.1	HG03669	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	PJL	female	True
+HG03669_pat_hprc_r2_v1.0.1	HG03669	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PJL	female	True
+HG03688_mat_hprc_r2_v1.0.1	HG03688	mat	gapped	1	3	2	1	0	0	0	0	0	0	2	1	2	1	2- 1- 1+	STU	male	True
+HG03688_pat_hprc_r2_v1.0.1	HG03688	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	STU	male	True
+HG03704_mat_hprc_r2_v1.0.1	HG03704	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	PJL	female	True
+HG03704_pat_hprc_r2_v1.0.1	HG03704	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PJL	female	True
+HG03710_mat_hprc_r2_v1.0.1	HG03710	mat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	h21- 1+	PJL	male	True
+HG03710_pat_hprc_r2_v1.0.1	HG03710	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	PJL	male	True
+HG03742_hap1_hprc_r2_v1.0.1	HG03742	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ITU	male	False
+HG03742_hap2_hprc_r2_v1.0.1	HG03742	hap2	gapped	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	ITU	male	False
+HG03784_hap1_hprc_r2_v1.0.1	HG03784	hap1	split	3	4	0	0	0	0	0	4	0	0	1	1	1	1	t- t- | t+ | t+	ITU	female	False
+HG03784_hap2_hprc_r2_v1.0.1	HG03784	hap2	split	2	2	1	1	0	0	0	0	0	0	1	1	1	1	2- | 1+	ITU	female	False
+HG03804_mat_hprc_r2_v1.0.1	HG03804	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	BEB	female	True
+HG03804_pat_hprc_r2_v1.0.1	HG03804	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	BEB	female	True
+HG03816_mat_hprc_r2_v1.0.1	HG03816	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	BEB	female	True
+HG03816_pat_hprc_r2_v1.0.1	HG03816	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	BEB	female	True
+HG03831_mat_hprc_r2_v1.0.1	HG03831	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	BEB	female	True
+HG03831_pat_hprc_r2_v1.0.1	HG03831	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	BEB	female	True
+HG03834_mat_hprc_r2_v1.0.1	HG03834	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	BEB	female	True
+HG03834_pat_hprc_r2_v1.0.1	HG03834	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	BEB	female	True
+HG03874_hap1_hprc_r2_v1.0.1	HG03874	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	ITU	female	False
+HG03874_hap2_hprc_r2_v1.0.1	HG03874	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	ITU	female	False
+HG03927_mat_hprc_r2_v1.0.1	HG03927	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	BEB	female	True
+HG03927_pat_hprc_r2_v1.0.1	HG03927	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	BEB	female	True
+HG03942_mat_hprc_r2_v1.0.1	HG03942	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	BEB	male	True
+HG03942_pat_hprc_r2_v1.0.1	HG03942	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	BEB	male	True
+HG04115_mat_hprc_r2_v1.0.1	HG04115	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	STU	male	True
+HG04115_pat_hprc_r2_v1.0.1	HG04115	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	STU	male	True
+HG04157_mat_hprc_r2_v1.0.1	HG04157	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	BEB	male	True
+HG04157_pat_hprc_r2_v1.0.1	HG04157	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	BEB	male	True
+HG04160_mat_hprc_r2_v1.0.1	HG04160	mat	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	h21- 1+	BEB	male	True
+HG04160_pat_hprc_r2_v1.0.1	HG04160	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	BEB	male	True
+HG04184_mat_hprc_r2_v1.0.1	HG04184	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	BEB	female	True
+HG04184_pat_hprc_r2_v1.0.1	HG04184	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	BEB	female	True
+HG04187_mat_hprc_r2_v1.0.1	HG04187	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	BEB	male	True
+HG04187_pat_hprc_r2_v1.0.1	HG04187	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	BEB	male	True
+HG04199_mat_hprc_r2_v1.0.1	HG04199	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	STU	male	True
+HG04199_pat_hprc_r2_v1.0.1	HG04199	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	STU	male	True
+HG04204_mat_hprc_r2_v1.0.1	HG04204	mat	gapped	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	STU	male	True
+HG04204_pat_hprc_r2_v1.0.1	HG04204	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	STU	male	True
+HG04228_mat_hprc_r2_v1.0.1	HG04228	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	STU	male	True
+HG04228_pat_hprc_r2_v1.0.1	HG04228	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	STU	male	True
+HG06807_mat_v1.0.genbank	HG06807	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ASL	female	True
+HG06807_pat_v1.0.genbank	HG06807	pat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	ASL	female	True
+NA18505_hap1_hprc_r2_v1.0.1	NA18505	hap1	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1- h21-	YRI	female	False
+NA18505_hap2_hprc_r2_v1.0.1	NA18505	hap2	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	h21+ 1-	YRI	female	False
+NA18508_hap1_hprc_r2_v1.0.1	NA18508	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	YRI	female	False
+NA18508_hap2_hprc_r2_v1.0.1	NA18508	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	YRI	female	False
+NA18522_hap1_hprc_r2_v1.0.1	NA18522	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	YRI	male	False
+NA18522_hap2_hprc_r2_v1.0.1	NA18522	hap2	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	YRI	male	False
+NA18565_hap1_hprc_r2_v1.0.1	NA18565	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	CHB	female	False
+NA18565_hap2_hprc_r2_v1.0.1	NA18565	hap2	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHB	female	False
+NA18570_hap1_hprc_r2_v1.0.1	NA18570	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHB	female	False
+NA18570_hap2_hprc_r2_v1.0.1	NA18570	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHB	female	False
+NA18608_hap1_hprc_r2_v1.0.1	NA18608	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	CHB	male	False
+NA18608_hap2_hprc_r2_v1.0.1	NA18608	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHB	male	False
+NA18620_hap1_hprc_r2_v1.0.1	NA18620	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHB	male	False
+NA18620_hap2_hprc_r2_v1.0.1	NA18620	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	CHB	male	False
+NA18747_hap1_hprc_r2_v1.0.1	NA18747	hap1	split	2	2	1	1	0	0	0	0	0	0	1	1	1	1	2- | 1+	CHB	male	False
+NA18747_hap2_hprc_r2_v1.0.1	NA18747	hap2	split	2	2	1	1	0	0	0	0	0	0	1	1	1	1	2- | 1+	CHB	male	False
+NA18879_hap1_hprc_r2_v1.0.1	NA18879	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	YRI	male	False
+NA18879_hap2_hprc_r2_v1.0.1	NA18879	hap2	complete	1	2	0	1	1	0	0	0	0	0	1	1	0	2	2- h12+	YRI	male	False
+NA18906_mat_hprc_r2_v1.0.1	NA18906	mat	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	YRI	female	True
+NA18906_pat_hprc_r2_v1.0.1	NA18906	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	YRI	female	True
+NA18940_hap1_hprc_r2_v1.0.1	NA18940	hap1	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18940_hap2_hprc_r2_v1.0.1	NA18940	hap2	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18943_hap1_hprc_r2_v1.0.1	NA18943	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18943_hap2_hprc_r2_v1.0.1	NA18943	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	JPT	male	False
+NA18944_hap1_hprc_r2_v1.0.1	NA18944	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	JPT	male	False
+NA18944_hap2_hprc_r2_v1.0.1	NA18944	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18945_hap1_hprc_r2_v1.0.1	NA18945	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18945_hap2_hprc_r2_v1.0.1	NA18945	hap2	complete	1	2	0	1	1	0	0	0	0	0	1	1	0	2	2- h12+	JPT	male	False
+NA18948_hap1_hprc_r2_v1.0.1	NA18948	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	JPT	male	False
+NA18948_hap2_hprc_r2_v1.0.1	NA18948	hap2	complete	1	3	1	2	0	0	0	0	0	0	1	2	1	2	2- 2- 1+	JPT	male	False
+NA18952_hap1_hprc_r2_v1.0.1	NA18952	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	JPT	male	False
+NA18952_hap2_hprc_r2_v1.0.1	NA18952	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18959_hap1_hprc_r2_v1.0.1	NA18959	hap1	gapped	1	3	1	1	0	0	0	1	0	0	1	2	1	2	t- 2- 1+	JPT	male	False
+NA18959_hap2_hprc_r2_v1.0.1	NA18959	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18960_hap1_hprc_r2_v1.0.1	NA18960	hap1	complete	1	3	1	2	0	0	0	0	0	0	1	2	1	2	2- 2- 1-	JPT	male	False
+NA18960_hap2_hprc_r2_v1.0.1	NA18960	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	JPT	male	False
+NA18967_hap1_hprc_r2_v1.0.1	NA18967	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18967_hap2_hprc_r2_v1.0.1	NA18967	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	JPT	male	False
+NA18970_hap1_hprc_r2_v1.0.1	NA18970	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	JPT	male	False
+NA18970_hap2_hprc_r2_v1.0.1	NA18970	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18971_hap1_hprc_r2_v1.0.1	NA18971	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18971_hap2_hprc_r2_v1.0.1	NA18971	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	JPT	male	False
+NA18974_hap1_hprc_r2_v1.0.1	NA18974	hap1	partial	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	JPT	male	False
+NA18974_hap2_hprc_r2_v1.0.1	NA18974	hap2	split	2	3	1	1	0	0	0	1	0	0	1	1	1	1	2- | t- 1+	JPT	male	False
+NA18976_hap1_hprc_r2_v1.0.1	NA18976	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	female	False
+NA18976_hap2_hprc_r2_v1.0.1	NA18976	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	JPT	female	False
+NA18982_hap1_hprc_r2_v1.0.1	NA18982	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18982_hap2_hprc_r2_v1.0.1	NA18982	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	JPT	male	False
+NA18983_hap1_hprc_r2_v1.0.1	NA18983	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA18983_hap2_hprc_r2_v1.0.1	NA18983	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	male	False
+NA19036_hap1_hprc_r2_v1.0.1	NA19036	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1+ 1-	LWK	female	False
+NA19036_hap2_hprc_r2_v1.0.1	NA19036	hap2	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	LWK	female	False
+NA19043_hap1_hprc_r2_v1.0.1	NA19043	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	LWK	male	False
+NA19043_hap2_hprc_r2_v1.0.1	NA19043	hap2	gapped	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	LWK	male	False
+NA19087_hap1_hprc_r2_v1.0.1	NA19087	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	JPT	female	False
+NA19087_hap2_hprc_r2_v1.0.1	NA19087	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1+	JPT	female	False
+NA19159_hap1_hprc_r2_v1.0.1	NA19159	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	YRI	female	False
+NA19159_hap2_hprc_r2_v1.0.1	NA19159	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	YRI	female	False
+NA19185_hap1_hprc_r2_v1.0.1	NA19185	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	YRI	female	False
+NA19185_hap2_hprc_r2_v1.0.1	NA19185	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	YRI	female	False
+NA19240_mat_hprc_r2_v1.0.1	NA19240	mat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	YRI	female	True
+NA19240_pat_hprc_r2_v1.0.1	NA19240	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	YRI	female	True
+NA19338_hap1_hprc_r2_v1.0.1	NA19338	hap1	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	LWK	female	False
+NA19338_hap2_hprc_r2_v1.0.1	NA19338	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	LWK	female	False
+NA19391_hap1_hprc_r2_v1.0.1	NA19391	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	LWK	female	False
+NA19391_hap2_hprc_r2_v1.0.1	NA19391	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	LWK	female	False
+NA19443_hap1_hprc_r2_v1.0.1	NA19443	hap1	split	2	3	1	2	0	0	0	0	0	0	1	2	1	2	2- 1+ | 2+	LWK	male	False
+NA19443_hap2_hprc_r2_v1.0.1	NA19443	hap2	partial	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	LWK	male	False
+NA19468_hap1_hprc_r2_v1.0.1	NA19468	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	LWK	female	False
+NA19468_hap2_hprc_r2_v1.0.1	NA19468	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	LWK	female	False
+NA19682_hap1_hprc_r2_v1.0.1	NA19682	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	MXL	male	False
+NA19682_hap2_hprc_r2_v1.0.1	NA19682	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	MXL	male	False
+NA19700_hap1_hprc_r2_v1.0.1	NA19700	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	ASW	male	False
+NA19700_hap2_hprc_r2_v1.0.1	NA19700	hap2	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ASW	male	False
+NA19776_hap1_hprc_r2_v1.0.1	NA19776	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	MXL	female	False
+NA19776_hap2_hprc_r2_v1.0.1	NA19776	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	MXL	female	False
+NA19835_hap1_hprc_r2_v1.0.1	NA19835	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ASW	female	False
+NA19835_hap2_hprc_r2_v1.0.1	NA19835	hap2	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	ASW	female	False
+NA19909_hap1_hprc_r2_v1.0.1	NA19909	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	ASW	female	False
+NA19909_hap2_hprc_r2_v1.0.1	NA19909	hap2	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1- h21-	ASW	female	False
+NA20129_mat_hprc_r2_v1.0.1	NA20129	mat	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ASW	female	True
+NA20129_pat_hprc_r2_v1.0.1	NA20129	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	ASW	female	True
+NA20282_hap1_hprc_r2_v1.0.1	NA20282	hap1	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1- h21+	ASW	female	False
+NA20282_hap2_hprc_r2_v1.0.1	NA20282	hap2	complete	1	2	1	0	0	1	0	0	0	0	1	1	2	0	1- h21-	ASW	female	False
+NA20346_hap1_hprc_r2_v1.0.1	NA20346	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	ASW	male	False
+NA20346_hap2_hprc_r2_v1.0.1	NA20346	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	ASW	male	False
+NA20503_hap1_hprc_r2_v1.0.1	NA20503	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	TSI	female	False
+NA20503_hap2_hprc_r2_v1.0.1	NA20503	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	TSI	female	False
+NA20752_hap1_hprc_r2_v1.0.1	NA20752	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	TSI	male	False
+NA20752_hap2_hprc_r2_v1.0.1	NA20752	hap2	split	2	3	1	2	0	0	0	0	0	0	1	2	1	2	2- 1- | 2+	TSI	male	False
+NA20762_hap1_hprc_r2_v1.0.1	NA20762	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	TSI	male	False
+NA20762_hap2_hprc_r2_v1.0.1	NA20762	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1+ 2+	TSI	male	False
+NA20799_hap1_hprc_r2_v1.0.1	NA20799	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	TSI	female	False
+NA20799_hap2_hprc_r2_v1.0.1	NA20799	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	TSI	female	False
+NA20805_hap1_hprc_r2_v1.0.1	NA20805	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	TSI	male	False
+NA20805_hap2_hprc_r2_v1.0.1	NA20805	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	TSI	male	False
+NA20806_hap1_hprc_r2_v1.0.1	NA20806	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	TSI	male	False
+NA20806_hap2_hprc_r2_v1.0.1	NA20806	hap2	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2+ 1-	TSI	male	False
+NA20809_hap1_hprc_r2_v1.0.1	NA20809	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	TSI	male	False
+NA20809_hap2_hprc_r2_v1.0.1	NA20809	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	TSI	male	False
+NA20827_hap1_hprc_r2_v1.0.1	NA20827	hap1	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1-	TSI	male	False
+NA20827_hap2_hprc_r2_v1.0.1	NA20827	hap2	complete	1	2	1	0	0	0	1	0	0	0	1	0	1	0	d2- 1+	TSI	male	False
+NA20850_hap1_hprc_r2_v1.0.1	NA20850	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GIH	male	False
+NA20850_hap2_hprc_r2_v1.0.1	NA20850	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GIH	male	False
+NA20870_hap1_hprc_r2_v1.0.1	NA20870	hap1	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1+	GIH	male	False
+NA20870_hap2_hprc_r2_v1.0.1	NA20870	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GIH	male	False
+NA20905_hap1_hprc_r2_v1.0.1	NA20905	hap1	complete	1	2	1	0	0	0	0	0	1	0	1	0	1	0	f- 1-	GIH	male	False
+NA20905_hap2_hprc_r2_v1.0.1	NA20905	hap2	complete	1	3	1	2	0	0	0	0	0	0	1	2	1	2	2- 2- 1-	GIH	male	False
+NA21093_hap1_hprc_r2_v1.0.1	NA21093	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1+ 2+	GIH	male	False
+NA21093_hap2_hprc_r2_v1.0.1	NA21093	hap2	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	GIH	male	False
+NA21102_hap1_hprc_r2_v1.0.1	NA21102	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1+ 2+	GIH	female	False
+NA21102_hap2_hprc_r2_v1.0.1	NA21102	hap2	complete	1	3	1	2	0	0	0	0	0	0	1	2	1	2	2+ 1+ 2+	GIH	female	False
+NA21106_hap1_hprc_r2_v1.0.1	NA21106	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GIH	female	False
+NA21106_hap2_hprc_r2_v1.0.1	NA21106	hap2	gapped	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GIH	female	False
+NA21110_hap1_hprc_r2_v1.0.1	NA21110	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GIH	female	False
+NA21110_hap2_hprc_r2_v1.0.1	NA21110	hap2	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+	GIH	female	False
+NA21144_hap1_hprc_r2_v1.0.1	NA21144	hap1	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	1- 2+	GIH	female	False
+NA21144_hap2_hprc_r2_v1.0.1	NA21144	hap2	complete	1	1	1	0	0	0	0	0	0	0	1	0	1	0	1-	GIH	female	False
+NA21309_mat_hprc_r2_v1.0.1	NA21309	mat	complete	1	3	2	1	0	0	0	0	0	0	2	1	2	1	2+ 1- 1+	MKK	female	True
+NA21309_pat_hprc_r2_v1.0.1	NA21309	pat	complete	1	2	2	0	0	0	0	0	0	0	2	0	2	0	1- 1+	MKK	female	True
+chm13v2.0_maskedY_rCRS.fa.PanSN	CHM13	ref	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+			False
+hg002v1.1.mat_MT.PanSN	HG002_Q100	mat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+			
+hg002v1.1.pat.PanSN	HG002_Q100	pat	complete	1	2	1	1	0	0	0	0	0	0	1	1	1	1	2- 1+			

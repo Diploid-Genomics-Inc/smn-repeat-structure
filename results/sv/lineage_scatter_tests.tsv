@@ -1,0 +1,7 @@
+scope	distance	shuffle	pairs_same	pairs_diff	median_same	median_diff	mean_diff_minus_same	p
+all pairs	struct	across all haplotypes	61420	33410	0.3566	0.3982	0.0746	0.0005
+all pairs	struct	within arrangement type	61420	33410	0.3566	0.3982	0.0746	0.0005
+all pairs	seq_all	across all haplotypes	61420	33410	0.0004298	0.001084	0.0005451	0.0005
+all pairs	seq_all	within arrangement type	61420	33410	0.0004298	0.001084	0.0005451	0.0005
+all pairs	seq_SMN1	across all haplotypes	61420	33410	0.0003582	0.001003	0.0005558	0.0005
+all pairs	seq_SMN1	within arrangement type	61420	33410	0.0003582	0.001003	0.0005558	0.0005

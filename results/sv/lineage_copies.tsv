@@ -1,0 +1,523 @@
+tip	copy_id	src	cls	position	strand	naip3	env	arrangement	afr	superpop	c3p80_alt	in_marker_subclade	lineage	sample	hap	population	resolved	group
+c0001	GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN|w3|c1	GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN	SMN1	telomeric	+	full	SMN1	2+ 1+	False	reference	False	False	A			reference		non-AFR
+c0003	HG00097_hap1_hprc_r2_v1.0.1|w4|c1	HG00097_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00097	hap1	GBR	True	non-AFR
+c0005	HG00097_hap2_hprc_r2_v1.0.1|w3|c1	HG00097_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EUR	False	False	A	HG00097	hap2	GBR	True	non-AFR
+c0006	HG00099_hap1_hprc_r2_v1.0.1|w3|c0	HG00099_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EUR	False	False	A	HG00099	hap1	GBR	True	non-AFR
+c0008	HG00099_hap2_hprc_r2_v1.0.1|w4|c1	HG00099_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00099	hap2	GBR	True	non-AFR
+c0010	HG00126_hap1_hprc_r2_v1.0.1|w3|c1	HG00126_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00126	hap1	GBR	True	non-AFR
+c0012	HG00126_hap2_hprc_r2_v1.0.1|w3|c1	HG00126_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00126	hap2	GBR	True	non-AFR
+c0014	HG00128_hap1_hprc_r2_v1.0.1|w3|c1	HG00128_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00128	hap1	GBR	True	non-AFR
+c0016	HG00128_hap2_hprc_r2_v1.0.1|w4|c1	HG00128_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	True	B	HG00128	hap2	GBR	True	non-AFR
+c0018	HG00133_hap1_hprc_r2_v1.0.1|w5|c1	HG00133_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN2	2- 1+	False	EUR	False	False	A	HG00133	hap1	GBR	True	non-AFR
+c0020	HG00133_hap2_hprc_r2_v1.0.1|w4|c1	HG00133_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	d2- 1+	False	EUR	False	False	A	HG00133	hap2	GBR	True	non-AFR
+c0021	HG00140_hap1_hprc_r2_v1.0.1|w2|c0	HG00140_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN2	1- 2+	False	EUR	False	False	A	HG00140	hap1	GBR	True	non-AFR
+c0024	HG00140_hap2_hprc_r2_v1.0.1|w3|c1	HG00140_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00140	hap2	GBR	True	non-AFR
+c0026	HG00146_hap1_hprc_r2_v1.0.1|w4|c1	HG00146_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00146	hap1	GBR	True	non-AFR
+c0027	HG00146_hap2_hprc_r2_v1.0.1|w4|c0	HG00146_hap2_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EUR	False	False	A	HG00146	hap2	GBR	True	non-AFR
+c0029	HG00232_hap1_hprc_r2_v1.0.1|w0|c1	HG00232_hap1_hprc_r2_v1.0.1	SMN1	unresolved	-	full			False	EUR	False	False	A	HG00232	hap1	GBR	False	non-AFR
+c0032	HG00235_hap1_hprc_r2_v1.0.1|w3|c1	HG00235_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EUR	False	False	A	HG00235	hap1	GBR	True	non-AFR
+c0033	HG00235_hap2_hprc_r2_v1.0.1|w3|c0	HG00235_hap2_hprc_r2_v1.0.1	SMN1	centromeric	+	full	SMN1	1+ 2+	False	EUR	False	False	A	HG00235	hap2	GBR	True	non-AFR
+c0036	HG00253_hap1_hprc_r2_v1.0.1|w2|c1	HG00253_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00253	hap1	GBR	True	non-AFR
+c0038	HG00253_hap2_hprc_r2_v1.0.1|w5|c1	HG00253_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	full	mixed	2- 1-	False	EUR	False	False	A	HG00253	hap2	GBR	True	non-AFR
+c0040	HG00272_hap1_hprc_r2_v1.0.1|w3|c1	HG00272_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	d2- 1+	False	EUR	False	False	A	HG00272	hap1	FIN	True	non-AFR
+c0042	HG00272_hap2_hprc_r2_v1.0.1|w4|c1	HG00272_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	trunc5	SMN1	2- 1+	False	EUR	False	False	A	HG00272	hap2	FIN	True	non-AFR
+c0044	HG00280_hap1_hprc_r2_v1.0.1|w6|c1	HG00280_hap1_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	EUR	False	False	A	HG00280	hap1	FIN	False	non-AFR
+c0045	HG00280_hap2_hprc_r2_v1.0.1|w2|c0	HG00280_hap2_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	EUR	False	False	A	HG00280	hap2	FIN	False	non-AFR
+c0047	HG00290_hap1_hprc_r2_v1.0.1|w3|c1	HG00290_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00290	hap1	FIN	True	non-AFR
+c0048	HG00290_hap2_hprc_r2_v1.0.1|w2|c0	HG00290_hap2_hprc_r2_v1.0.1	SMN1	single	+	full	SMN2	1+	False	EUR	False	False	A	HG00290	hap2	FIN	True	non-AFR
+c0049	HG00320_hap1_hprc_r2_v1.0.1|w2|c0	HG00320_hap1_hprc_r2_v1.0.1	SMN1	single	+	trunc5	SMN1	1+	False	EUR	False	False	A	HG00320	hap1	FIN	True	non-AFR
+c0051	HG00320_hap2_hprc_r2_v1.0.1|w4|c1	HG00320_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00320	hap2	FIN	True	non-AFR
+c0052	HG00321_hap1_hprc_r2_v1.0.1|w4|c0	HG00321_hap1_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	False	EUR	False	False	A	HG00321	hap1	FIN	True	non-AFR
+c0054	HG00321_hap2_hprc_r2_v1.0.1|w4|c1	HG00321_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00321	hap2	FIN	True	non-AFR
+c0056	HG00323_hap1_hprc_r2_v1.0.1|w3|c1	HG00323_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00323	hap1	FIN	True	non-AFR
+c0058	HG00323_hap2_hprc_r2_v1.0.1|w4|c1	HG00323_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00323	hap2	FIN	True	non-AFR
+c0059	HG00329_hap1_hprc_r2_v1.0.1|w4|c1	HG00329_hap1_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	EUR	False	False	A	HG00329	hap1	FIN	False	non-AFR
+c0062	HG00329_hap2_hprc_r2_v1.0.1|w5|c1	HG00329_hap2_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	EUR	False	False	A	HG00329	hap2	FIN	False	non-AFR
+c0065	HG00344_hap1_hprc_r2_v1.0.1|w4|c1	HG00344_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	HG00344	hap1	FIN	True	non-AFR
+c0066	HG00344_hap2_hprc_r2_v1.0.1|w4|c0	HG00344_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 2+	False	EUR	False	False	A	HG00344	hap2	FIN	True	non-AFR
+c0068	HG00350_hap1_hprc_r2_v1.0.1|w3|c0	HG00350_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EUR	False	False	A	HG00350	hap1	FIN	True	non-AFR
+c0069	HG00350_hap2_hprc_r2_v1.0.1|w3|c0	HG00350_hap2_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EUR	False	False	A	HG00350	hap2	FIN	True	non-AFR
+c0071	HG00408_mat_hprc_r2_v1.0.1|w3|c1	HG00408_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00408	mat	CHS	True	non-AFR
+c0073	HG00408_pat_hprc_r2_v1.0.1|w3|c1	HG00408_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00408	pat	CHS	True	non-AFR
+c0074	HG00423_mat_hprc_r2_v1.0.1|w2|c0	HG00423_mat_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	EAS	False	False	A	HG00423	mat	CHS	False	non-AFR
+c0076	HG00423_pat_hprc_r2_v1.0.1|w2|c0	HG00423_pat_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	EAS	False	False	A	HG00423	pat	CHS	False	non-AFR
+c0078	HG00438_mat_hprc_r2_v1.0.1|w3|c0	HG00438_mat_hprc_r2_v1.0.1	SMN1	centromeric	+	trunc5	SMN1	1+ 2+	False	EAS	False	False	A	HG00438	mat	CHS	True	non-AFR
+c0080	HG00438_pat_hprc_r2_v1.0.1|w3|c0	HG00438_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EAS	False	False	A	HG00438	pat	CHS	True	non-AFR
+c0082	HG00544_mat_hprc_r2_v1.0.1|w4|c1	HG00544_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00544	mat	CHS	True	non-AFR
+c0084	HG00544_pat_hprc_r2_v1.0.1|w3|c1	HG00544_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	EAS	False	False	A	HG00544	pat	CHS	True	non-AFR
+c0086	HG00558_mat_hprc_r2_v1.0.1|w4|c1	HG00558_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00558	mat	CHS	True	non-AFR
+c0087	HG00558_pat_hprc_r2_v1.0.1|w4|c0	HG00558_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EAS	False	False	A	HG00558	pat	CHS	True	non-AFR
+c0088	HG00597_mat_hprc_r2_v1.0.1|w4|c2	HG00597_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00597	mat	CHS	True	non-AFR
+c0090	HG00597_pat_hprc_r2_v1.0.1|w3|c1	HG00597_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00597	pat	CHS	True	non-AFR
+c0092	HG005_mat_hprc_r2_v1.0.1|w2|c1	HG005_mat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	other	False	False	A	HG005	mat		True	non-AFR
+c0094	HG005_pat_hprc_r2_v1.0.1|w2|c1	HG005_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	other	False	False	A	HG005	pat		True	non-AFR
+c0095	HG00609_mat_hprc_r2_v1.0.1|w3|c0	HG00609_mat_hprc_r2_v1.0.1	SMN1	single	-	full	SMN2	1-	False	EAS	False	False	A	HG00609	mat	CHS	True	non-AFR
+c0097	HG00609_pat_hprc_r2_v1.0.1|w3|c1	HG00609_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2+ 1-	False	EAS	False	False	A	HG00609	pat	CHS	True	non-AFR
+c0099	HG00621_mat_hprc_r2_v1.0.1|w4|c1	HG00621_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	EAS	False	False	A	HG00621	mat	CHS	True	non-AFR
+c0101	HG00621_pat_hprc_r2_v1.0.1|w4|c1	HG00621_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00621	pat	CHS	True	non-AFR
+c0103	HG00639_mat_hprc_r2_v1.0.1|w4|c1	HG00639_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	AMR	False	False	A	HG00639	mat	PUR	True	non-AFR
+c0105	HG00639_pat_hprc_r2_v1.0.1|w3|c1	HG00639_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG00639	pat	PUR	True	non-AFR
+c0107	HG00642_mat_hprc_r2_v1.0.1|w4|c1	HG00642_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN2	2+ 1+	False	AMR	False	False	A	HG00642	mat	PUR	True	non-AFR
+c0108	HG00642_pat_hprc_r2_v1.0.1|w3|c0	HG00642_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 2-	False	AMR	False	False	A	HG00642	pat	PUR	True	non-AFR
+c0111	HG00658_mat_hprc_r2_v1.0.1|w3|c1	HG00658_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00658	mat	CHS	True	non-AFR
+c0113	HG00658_pat_hprc_r2_v1.0.1|w4|c1	HG00658_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00658	pat	CHS	True	non-AFR
+c0115	HG00673_mat_hprc_r2_v1.0.1|w4|c1	HG00673_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00673	mat	CHS	True	non-AFR
+c0117	HG00673_pat_hprc_r2_v1.0.1|w6|c1	HG00673_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00673	pat	CHS	True	non-AFR
+c0119	HG00706_mat_hprc_r2_v1.0.1|w4|c1	HG00706_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG00706	mat	CHS	True	non-AFR
+c0121	HG00706_pat_hprc_r2_v1.0.1|w4|c1	HG00706_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	h21- 1+	False	EAS	False	False	A	HG00706	pat	CHS	True	non-AFR
+c0123	HG00733_mat_hprc_r2_v1.0.1|w4|c1	HG00733_mat_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	AMR	False	False	A	HG00733	mat	PUR	False	non-AFR
+c0126	HG00733_pat_hprc_r2_v1.0.1|w4|c1	HG00733_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	d2- 1+	False	AMR	False	False	A	HG00733	pat	PUR	True	non-AFR
+c0128	HG00735_mat_hprc_r2_v1.0.1|w4|c1	HG00735_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	trunc5	SMN1	2- 1+	False	AMR	False	False	A	HG00735	mat	PUR	True	non-AFR
+c0130	HG00735_pat_hprc_r2_v1.0.1|w4|c1	HG00735_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG00735	pat	PUR	True	non-AFR
+c0132	HG00738_mat_hprc_r2_v1.0.1|w3|c1	HG00738_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG00738	mat	PUR	True	non-AFR
+c0134	HG00738_pat_hprc_r2_v1.0.1|w5|c1	HG00738_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG00738	pat	PUR	True	non-AFR
+c0135	HG00741_mat_hprc_r2_v1.0.1|w4|c0	HG00741_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 2-	False	AMR	False	False	A	HG00741	mat	PUR	True	non-AFR
+c0138	HG00741_pat_hprc_r2_v1.0.1|w3|c1	HG00741_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG00741	pat	PUR	True	non-AFR
+c0139	HG01071_mat_hprc_r2_v1.0.1|w4|c0	HG01071_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN2	1- 2+	False	AMR	False	False	A	HG01071	mat	PUR	True	non-AFR
+c0142	HG01071_pat_hprc_r2_v1.0.1|w4|c1	HG01071_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01071	pat	PUR	True	non-AFR
+c0143	HG01074_mat_hprc_r2_v1.0.1|w4|c0	HG01074_mat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01074	mat	PUR	True	non-AFR
+c0145	HG01074_pat_hprc_r2_v1.0.1|w5|c1	HG01074_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	d2- 1+	False	AMR	False	False	A	HG01074	pat	PUR	True	non-AFR
+c0146	HG01081_mat_hprc_r2_v1.0.1|w3|c0	HG01081_mat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01081	mat	PUR	True	non-AFR
+c0148	HG01081_pat_hprc_r2_v1.0.1|w3|c1	HG01081_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01081	pat	PUR	True	non-AFR
+c0150	HG01099_mat_hprc_r2_v1.0.1|w6|c1	HG01099_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN2	2- 1+	False	AMR	False	False	A	HG01099	mat	PUR	True	non-AFR
+c0152	HG01099_pat_hprc_r2_v1.0.1|w4|c1	HG01099_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01099	pat	PUR	True	non-AFR
+c0154	HG01106_mat_hprc_r2_v1.0.1|w6|c1	HG01106_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01106	mat	PUR	True	non-AFR
+c0155	HG01106_pat_hprc_r2_v1.0.1|w4|c0	HG01106_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01106	pat	PUR	True	non-AFR
+c0156	HG01109_mat_hprc_r2_v1.0.1|w2|c0	HG01109_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN2	1- 1+	False	AMR	False	True	B	HG01109	mat	PUR	True	non-AFR
+c0157	HG01109_mat_hprc_r2_v1.0.1|w2|c1	HG01109_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	mixed	1- 1+	False	AMR	False	True	B	HG01109	mat	PUR	True	non-AFR
+c0158	HG01109_pat_hprc_r2_v1.0.1|w2|c0	HG01109_pat_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	AMR	False	False	A	HG01109	pat	PUR	False	non-AFR
+c0160	HG01123_mat_hprc_r2_v1.0.1|w3|c0	HG01123_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 1-	False	AMR	False	False	A	HG01123	mat	CLM	True	non-AFR
+c0161	HG01123_mat_hprc_r2_v1.0.1|w3|c1	HG01123_mat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	1- 1-	False	AMR	False	False	A	HG01123	mat	CLM	True	non-AFR
+c0163	HG01123_pat_hprc_r2_v1.0.1|w4|c1	HG01123_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	AMR	False	False	A	HG01123	pat	CLM	True	non-AFR
+c0165	HG01150_mat_hprc_r2_v1.0.1|w4|c1	HG01150_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01150	mat	CLM	True	non-AFR
+c0167	HG01150_pat_hprc_r2_v1.0.1|w3|c1	HG01150_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01150	pat	CLM	True	non-AFR
+c0168	HG01167_hap1_hprc_r2_v1.0.1|w4|c0	HG01167_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	False	AMR	True	True	B	HG01167	hap1	PUR	True	non-AFR
+c0169	HG01167_hap1_hprc_r2_v1.0.1|w4|c1	HG01167_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	False	AMR	True	True	B	HG01167	hap1	PUR	True	non-AFR
+c0171	HG01167_hap2_hprc_r2_v1.0.1|w3|c1	HG01167_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	trunc5	SMN1	2+ 1+	False	AMR	False	False	A	HG01167	hap2	PUR	True	non-AFR
+c0173	HG01175_mat_hprc_r2_v1.0.1|w4|c1	HG01175_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01175	mat	PUR	True	non-AFR
+c0175	HG01175_pat_hprc_r2_v1.0.1|w5|c1	HG01175_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	d2- 1+	False	AMR	False	False	A	HG01175	pat	PUR	True	non-AFR
+c0177	HG01192_mat_hprc_r2_v1.0.1|w3|c1	HG01192_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01192	mat	PUR	True	non-AFR
+c0179	HG01192_pat_hprc_r2_v1.0.1|w3|c1	HG01192_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	d2- 1+	False	AMR	False	False	A	HG01192	pat	PUR	True	non-AFR
+c0181	HG01243_mat_hprc_r2_v1.0.1|w3|c1	HG01243_mat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	mixed	2- 1-	False	AMR	False	True	B	HG01243	mat	PUR	True	non-AFR
+c0182	HG01243_pat_hprc_r2_v1.0.1|w4|c0	HG01243_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 2- 1+	False	AMR	False	False	A	HG01243	pat	PUR	True	non-AFR
+c0184	HG01243_pat_hprc_r2_v1.0.1|w4|c2	HG01243_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 2- 1+	False	AMR	False	False	A	HG01243	pat	PUR	True	non-AFR
+c0186	HG01252_mat_hprc_r2_v1.0.1|w3|c1	HG01252_mat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	AMR	False	False	A	HG01252	mat	CLM	True	non-AFR
+c0187	HG01252_pat_hprc_r2_v1.0.1|w3|c0	HG01252_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01252	pat	CLM	True	non-AFR
+c0189	HG01255_mat_hprc_r2_v1.0.1|w4|c1	HG01255_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01255	mat	CLM	True	non-AFR
+c0190	HG01255_pat_hprc_r2_v1.0.1|w3|c0	HG01255_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01255	pat	CLM	True	non-AFR
+c0192	HG01258_mat_hprc_r2_v1.0.1|w5|c1	HG01258_mat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	AMR	False	False	A	HG01258	mat	CLM	True	non-AFR
+c0194	HG01258_pat_hprc_r2_v1.0.1|w4|c1	HG01258_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01258	pat	CLM	True	non-AFR
+c0196	HG01261_mat_hprc_r2_v1.0.1|w2|c1	HG01261_mat_hprc_r2_v1.0.1	SMN1	unresolved	-	full			False	AMR	False	False	A	HG01261	mat	CLM	False	non-AFR
+c0199	HG01261_pat_hprc_r2_v1.0.1|w2|c1	HG01261_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	AMR	False	False	A	HG01261	pat	CLM	True	non-AFR
+c0200	HG01346_mat_hprc_r2_v1.0.1|w2|c0	HG01346_mat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01346	mat	CLM	True	non-AFR
+c0201	HG01346_pat_hprc_r2_v1.0.1|w4|c0	HG01346_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01346	pat	CLM	True	non-AFR
+c0202	HG01358_mat_hprc_r2_v1.0.1|w3|c0	HG01358_mat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01358	mat	CLM	True	non-AFR
+c0204	HG01358_pat_hprc_r2_v1.0.1|w2|c1	HG01358_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	AMR	False	False	A	HG01358	pat	CLM	True	non-AFR
+c0206	HG01361_mat_hprc_r2_v1.0.1|w3|c1	HG01361_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01361	mat	CLM	True	non-AFR
+c0208	HG01361_pat_hprc_r2_v1.0.1|w3|c1	HG01361_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01361	pat	CLM	True	non-AFR
+c0210	HG01433_mat_hprc_r2_v1.0.1|w3|c1	HG01433_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	AMR	False	False	A	HG01433	mat	CLM	True	non-AFR
+c0212	HG01433_pat_hprc_r2_v1.0.1|w4|c1	HG01433_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	AMR	False	False	A	HG01433	pat	CLM	True	non-AFR
+c0213	HG01496_mat_hprc_r2_v1.0.1|w4|c0	HG01496_mat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01496	mat	CLM	True	non-AFR
+c0215	HG01496_pat_hprc_r2_v1.0.1|w4|c1	HG01496_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01496	pat	CLM	True	non-AFR
+c0216	HG01530_hap1_hprc_r2_v1.0.1|w4|c0	HG01530_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN2	1- 2+	False	EUR	False	False	A	HG01530	hap1	IBS	True	non-AFR
+c0219	HG01530_hap2_hprc_r2_v1.0.1|w2|c1	HG01530_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	EUR	False	False	A	HG01530	hap2	IBS	True	non-AFR
+c0220	HG01784_hap1_hprc_r2_v1.0.1|w3|c0	HG01784_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EUR	False	False	A	HG01784	hap1	IBS	True	non-AFR
+c0222	HG01784_hap2_hprc_r2_v1.0.1|w2|c1	HG01784_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EUR	False	False	A	HG01784	hap2	IBS	True	non-AFR
+c0224	HG01786_hap1_hprc_r2_v1.0.1|w4|c1	HG01786_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EUR	False	False	A	HG01786	hap1	IBS	True	non-AFR
+c0226	HG01786_hap2_hprc_r2_v1.0.1|w4|c1	HG01786_hap2_hprc_r2_v1.0.1	SMN1	middle	-	full	SMN1	2- 1- 1+	False	EUR	False	False	A	HG01786	hap2	IBS	True	non-AFR
+c0227	HG01786_hap2_hprc_r2_v1.0.1|w4|c2	HG01786_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1- 1+	False	EUR	False	False	A	HG01786	hap2	IBS	True	non-AFR
+c0229	HG01884_mat_hprc_r2_v1.0.1|w3|c1	HG01884_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG01884	mat	ACB	True	AFR
+c0231	HG01884_pat_hprc_r2_v1.0.1|w3|c1	HG01884_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	trunc5	SMN1	h21- 1-	True	AFR	False	False	A	HG01884	pat	ACB	True	AFR
+c0233	HG01891_mat_hprc_r2_v1.0.1|w2|c1	HG01891_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG01891	mat	ACB	True	AFR
+c0235	HG01891_pat_hprc_r2_v1.0.1|w1|c1	HG01891_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	mixed	2+ 1+	True	AFR	False	True	B	HG01891	pat	ACB	True	AFR
+c0236	HG01928_mat_hprc_r2_v1.0.1|w4|c0	HG01928_mat_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	False	AMR	False	False	A	HG01928	mat	PEL	True	non-AFR
+c0238	HG01928_pat_hprc_r2_v1.0.1|w4|c1	HG01928_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01928	pat	PEL	True	non-AFR
+c0240	HG01934_mat_hprc_r2_v1.0.1|w7|c0	HG01934_mat_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	AMR	False	False	A	HG01934	mat	PEL	False	non-AFR
+c0241	HG01934_pat_hprc_r2_v1.0.1|w4|c0	HG01934_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01934	pat	PEL	True	non-AFR
+c0243	HG01940_mat_hprc_r2_v1.0.1|w4|c1	HG01940_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN2	2- 1+	False	AMR	False	False	A	HG01940	mat	PEL	True	non-AFR
+c0244	HG01940_pat_hprc_r2_v1.0.1|w4|c0	HG01940_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01940	pat	PEL	True	non-AFR
+c0246	HG01943_mat_hprc_r2_v1.0.1|w4|c1	HG01943_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01943	mat	PEL	True	non-AFR
+c0247	HG01943_pat_hprc_r2_v1.0.1|w4|c0	HG01943_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01943	pat	PEL	True	non-AFR
+c0249	HG01952_mat_hprc_r2_v1.0.1|w4|c1	HG01952_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01952	mat	PEL	True	non-AFR
+c0251	HG01952_pat_hprc_r2_v1.0.1|w6|c1	HG01952_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	AMR	False	False	A	HG01952	pat	PEL	True	non-AFR
+c0252	HG01960_mat_hprc_r2_v1.0.1|w3|c0	HG01960_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG01960	mat	ACB	True	AFR
+c0253	HG01960_mat_hprc_r2_v1.0.1|w3|c1	HG01960_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG01960	mat	ACB	True	AFR
+c0254	HG01960_pat_hprc_r2_v1.0.1|w3|c0	HG01960_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 1+	True	AFR	False	False	A	HG01960	pat	ACB	True	AFR
+c0255	HG01960_pat_hprc_r2_v1.0.1|w3|c1	HG01960_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	False	A	HG01960	pat	ACB	True	AFR
+c0257	HG01969_mat_hprc_r2_v1.0.1|w6|c1	HG01969_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01969	mat	PEL	True	non-AFR
+c0259	HG01969_pat_hprc_r2_v1.0.1|w4|c1	HG01969_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01969	pat	PEL	True	non-AFR
+c0260	HG01975_mat_hprc_r2_v1.0.1|w4|c0	HG01975_mat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG01975	mat	PEL	True	non-AFR
+c0262	HG01975_pat_hprc_r2_v1.0.1|w4|c1	HG01975_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01975	pat	PEL	True	non-AFR
+c0264	HG01978_mat_hprc_r2_v1.1.0|w2|c1	HG01978_mat_hprc_r2_v1.1.0	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01978	mat	PEL	True	non-AFR
+c0266	HG01978_pat_hprc_r2_v1.1.0|w4|c1	HG01978_pat_hprc_r2_v1.1.0	SMN1	telomeric	+	full	SMN2	2- 1+	False	AMR	False	False	A	HG01978	pat	PEL	True	non-AFR
+c0267	HG01981_mat_hprc_r2_v1.0.1|w3|c0	HG01981_mat_hprc_r2_v1.0.1	SMN1	centromeric	+	full	SMN1	1+ 2+	False	AMR	False	False	A	HG01981	mat	PEL	True	non-AFR
+c0270	HG01981_pat_hprc_r2_v1.0.1|w4|c1	HG01981_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG01981	pat	PEL	True	non-AFR
+c0272	HG01993_mat_hprc_r2_v1.0.1|w5|c0	HG01993_mat_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	AMR	False	False	A	HG01993	mat	PEL	False	non-AFR
+c0273	HG01993_pat_hprc_r2_v1.0.1|w0|c0	HG01993_pat_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	AMR	False	False	A	HG01993	pat	PEL	False	non-AFR
+c0276	HG02004_mat_hprc_r2_v1.0.1|w0|c1	HG02004_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG02004	mat	PEL	True	non-AFR
+c0277	HG02004_pat_hprc_r2_v1.0.1|w2|c0	HG02004_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	AMR	False	False	A	HG02004	pat	PEL	True	non-AFR
+c0279	HG02015_mat_hprc_r2_v1.0.1|w6|c1	HG02015_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02015	mat	KHV	True	non-AFR
+c0281	HG02015_pat_hprc_r2_v1.0.1|w3|c1	HG02015_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02015	pat	KHV	True	non-AFR
+c0283	HG02027_mat_hprc_r2_v1.0.1|w4|c1	HG02027_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02027	mat	KHV	True	non-AFR
+c0285	HG02027_pat_hprc_r2_v1.0.1|w3|c1	HG02027_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02027	pat	KHV	True	non-AFR
+c0286	HG02040_hap1_hprc_r2_v1.0.1|w3|c0	HG02040_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EAS	False	False	A	HG02040	hap1	KHV	True	non-AFR
+c0288	HG02040_hap2_hprc_r2_v1.0.1|w3|c1	HG02040_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02040	hap2	KHV	True	non-AFR
+c0289	HG02055_mat_hprc_r2_v1.0.1|w4|c0	HG02055_mat_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	True	AFR	True	True	B	HG02055	mat	ACB	True	AFR
+c0290	HG02055_pat_hprc_r2_v1.0.1|w4|c0	HG02055_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02055	pat	ACB	True	AFR
+c0291	HG02055_pat_hprc_r2_v1.0.1|w4|c1	HG02055_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	False	A	HG02055	pat	ACB	True	AFR
+c0293	HG02056_mat_hprc_r2_v1.0.1|w4|c1	HG02056_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	EAS	False	False	A	HG02056	mat	KHV	True	non-AFR
+c0295	HG02056_pat_hprc_r2_v1.0.1|w4|c1	HG02056_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02056	pat	KHV	True	non-AFR
+c0297	HG02071_mat_hprc_r2_v1.0.1|w5|c1	HG02071_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02071	mat	KHV	True	non-AFR
+c0299	HG02071_pat_hprc_r2_v1.0.1|w4|c1	HG02071_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02071	pat	KHV	True	non-AFR
+c0301	HG02074_mat_hprc_r2_v1.0.1|w3|c1	HG02074_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02074	mat	KHV	True	non-AFR
+c0303	HG02074_pat_hprc_r2_v1.0.1|w3|c1	HG02074_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02074	pat	KHV	True	non-AFR
+c0305	HG02080_mat_hprc_r2_v1.0.1|w6|c1	HG02080_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	trunc5	SMN1	2- 1+	False	EAS	False	False	A	HG02080	mat	KHV	True	non-AFR
+c0307	HG02080_pat_hprc_r2_v1.0.1|w3|c1	HG02080_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02080	pat	KHV	True	non-AFR
+c0309	HG02083_mat_hprc_r2_v1.0.1|w3|c1	HG02083_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02083	mat	KHV	True	non-AFR
+c0310	HG02083_pat_hprc_r2_v1.0.1|w4|c0	HG02083_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 2+	False	EAS	False	False	A	HG02083	pat	KHV	True	non-AFR
+c0313	HG02109_mat_hprc_r2_v1.0.1|w4|c1	HG02109_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02109	mat	ACB	True	AFR
+c0314	HG02109_pat_hprc_r2_v1.0.1|w3|c0	HG02109_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02109	pat	ACB	True	AFR
+c0315	HG02109_pat_hprc_r2_v1.0.1|w3|c1	HG02109_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG02109	pat	ACB	True	AFR
+c0317	HG02129_mat_hprc_r2_v1.0.1|w2|c1	HG02129_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02129	mat	KHV	True	non-AFR
+c0319	HG02129_pat_hprc_r2_v1.0.1|w5|c1	HG02129_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02129	pat	KHV	True	non-AFR
+c0321	HG02132_mat_hprc_r2_v1.0.1|w4|c1	HG02132_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	EAS	False	False	A	HG02132	mat	KHV	True	non-AFR
+c0326	HG02135_mat_hprc_r2_v1.0.1|w3|c1	HG02135_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02135	mat	KHV	True	non-AFR
+c0328	HG02135_pat_hprc_r2_v1.0.1|w4|c1	HG02135_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02135	pat	KHV	True	non-AFR
+c0329	HG02145_mat_hprc_r2_v1.0.1|w5|c0	HG02145_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 1+	True	AFR	False	False	A	HG02145	mat	ACB	True	AFR
+c0330	HG02145_mat_hprc_r2_v1.0.1|w5|c1	HG02145_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	False	A	HG02145	mat	ACB	True	AFR
+c0331	HG02145_pat_hprc_r2_v1.0.1|w3|c0	HG02145_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02145	pat	ACB	True	AFR
+c0332	HG02145_pat_hprc_r2_v1.0.1|w3|c1	HG02145_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG02145	pat	ACB	True	AFR
+c0334	HG02148_mat_hprc_r2_v1.0.1|w2|c1	HG02148_mat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	AMR	False	False	A	HG02148	mat	PEL	True	non-AFR
+c0336	HG02148_pat_hprc_r2_v1.0.1|w4|c1	HG02148_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG02148	pat	PEL	True	non-AFR
+c0337	HG02155_hap1_hprc_r2_v1.0.1|w4|c0	HG02155_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EAS	False	False	A	HG02155	hap1	CDX	True	non-AFR
+c0339	HG02155_hap2_hprc_r2_v1.0.1|w3|c1	HG02155_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	h21- 1+	False	EAS	False	False	A	HG02155	hap2	CDX	True	non-AFR
+c0341	HG02165_hap1_hprc_r2_v1.0.1|w4|c1	HG02165_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	EAS	False	False	A	HG02165	hap1	CDX	True	non-AFR
+c0343	HG02165_hap2_hprc_r2_v1.0.1|w4|c1	HG02165_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	EAS	False	False	A	HG02165	hap2	CDX	True	non-AFR
+c0345	HG02178_hap1_hprc_r2_v1.0.1|w3|c1	HG02178_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02178	hap1	CDX	True	non-AFR
+c0347	HG02178_hap2_hprc_r2_v1.0.1|w4|c1	HG02178_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02178	hap2	CDX	True	non-AFR
+c0348	HG02257_mat_hprc_r2_v1.1.0|w2|c0	HG02257_mat_hprc_r2_v1.1.0	SMN1	centromeric	+	full	SMN1	1+ 2+	True	AFR	False	False	A	HG02257	mat	ACB	True	AFR
+c0351	HG02257_pat_hprc_r2_v1.1.0|w5|c1	HG02257_pat_hprc_r2_v1.1.0	SMN1	telomeric	-	full	SMN1	2- 1-	True	AFR	False	False	A	HG02257	pat	ACB	True	AFR
+c0353	HG02258_mat_hprc_r2_v1.0.1|w3|c1	HG02258_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02258	mat	ACB	True	AFR
+c0354	HG02258_pat_hprc_r2_v1.0.1|w3|c0	HG02258_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02258	pat	ACB	True	AFR
+c0355	HG02258_pat_hprc_r2_v1.0.1|w3|c1	HG02258_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG02258	pat	ACB	True	AFR
+c0356	HG02273_hap1_hprc_r2_v1.0.1|w0|c0	HG02273_hap1_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	AMR	False	False	A	HG02273	hap1	PEL	False	non-AFR
+c0358	HG02273_hap2_hprc_r2_v1.0.1|w5|c0	HG02273_hap2_hprc_r2_v1.0.1	SMN1	unresolved	-	trunc5			False	AMR	False	False	A	HG02273	hap2	PEL	False	non-AFR
+c0359	HG02273_hap2_hprc_r2_v1.0.1|w6|c0	HG02273_hap2_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	AMR	False	False	A	HG02273	hap2	PEL	False	non-AFR
+c0360	HG02280_mat_hprc_r2_v1.0.1|w4|c0	HG02280_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 1+	True	AFR	False	False	A	HG02280	mat	ACB	True	AFR
+c0361	HG02280_mat_hprc_r2_v1.0.1|w4|c1	HG02280_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	False	A	HG02280	mat	ACB	True	AFR
+c0363	HG02280_pat_hprc_r2_v1.0.1|w4|c1	HG02280_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02280	pat	ACB	True	AFR
+c0365	HG02293_mat_hprc_r2_v1.0.1|w3|c1	HG02293_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG02293	mat	PEL	True	non-AFR
+c0367	HG02293_pat_hprc_r2_v1.0.1|w4|c1	HG02293_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG02293	pat	PEL	True	non-AFR
+c0369	HG02300_mat_hprc_r2_v1.0.1|w3|c1	HG02300_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	h12- 1+	False	AMR	False	False	A	HG02300	mat	PEL	True	non-AFR
+c0371	HG02300_pat_hprc_r2_v1.0.1|w3|c1	HG02300_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	HG02300	pat	PEL	True	non-AFR
+c0373	HG02391_hap1_hprc_r2_v1.0.1|w2|c1	HG02391_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EAS	False	False	A	HG02391	hap1	CDX	True	non-AFR
+c0375	HG02391_hap2_hprc_r2_v1.0.1|w4|c1	HG02391_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02391	hap2	CDX	True	non-AFR
+c0377	HG02392_hap1_hprc_r2_v1.0.1|w4|c1	HG02392_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	trunc5	SMN1	2- 1+	False	EAS	False	False	A	HG02392	hap1	CDX	True	non-AFR
+c0379	HG02392_hap2_hprc_r2_v1.0.1|w4|c1	HG02392_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02392	hap2	CDX	True	non-AFR
+c0381	HG02451_mat_hprc_r2_v1.0.1|w4|c1	HG02451_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02451	mat	ACB	True	AFR
+c0382	HG02451_pat_hprc_r2_v1.0.1|w3|c0	HG02451_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	True	AFR	False	True	B	HG02451	pat	ACB	True	AFR
+c0383	HG02486_mat_hprc_r2_v1.0.1|w4|c0	HG02486_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02486	mat	ACB	True	AFR
+c0384	HG02486_mat_hprc_r2_v1.0.1|w4|c1	HG02486_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG02486	mat	ACB	True	AFR
+c0386	HG02486_pat_hprc_r2_v1.0.1|w4|c1	HG02486_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02486	pat	ACB	True	AFR
+c0387	HG02514_mat_hprc_r2_v1.0.1|w4|c0	HG02514_mat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EAS	False	False	A	HG02514	mat	KHV	True	non-AFR
+c0389	HG02514_pat_hprc_r2_v1.0.1|w2|c1	HG02514_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EAS	False	False	A	HG02514	pat	KHV	True	non-AFR
+c0391	HG02523_mat_hprc_r2_v1.0.1|w3|c1	HG02523_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02523	mat	KHV	True	non-AFR
+c0393	HG02523_pat_hprc_r2_v1.0.1|w6|c1	HG02523_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	HG02523	pat	KHV	True	non-AFR
+c0395	HG02559_mat_hprc_r2_v1.0.1|w4|c1	HG02559_mat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	True	AFR	False	False	A	HG02559	mat	ACB	True	AFR
+c0396	HG02559_pat_hprc_r2_v1.0.1|w5|c0	HG02559_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- h21+	True	AFR	True	True	B	HG02559	pat	ACB	True	AFR
+c0399	HG02572_mat_hprc_r2_v1.0.1|w4|c1	HG02572_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02572	mat	GWD	True	AFR
+c0400	HG02572_pat_hprc_r2_v1.0.1|w4|c0	HG02572_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02572	pat	GWD	True	AFR
+c0401	HG02572_pat_hprc_r2_v1.0.1|w4|c1	HG02572_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG02572	pat	GWD	True	AFR
+c0403	HG02583_hap1_hprc_r2_v1.0.1|w4|c1	HG02583_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02583	hap1	GWD	True	AFR
+c0405	HG02583_hap2_hprc_r2_v1.0.1|w2|c1	HG02583_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02583	hap2	GWD	True	AFR
+c0406	HG02602_mat_hprc_r2_v1.0.1|w3|c0	HG02602_mat_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	False	SAS	False	False	A	HG02602	mat	PJL	True	non-AFR
+c0407	HG02602_pat_hprc_r2_v1.0.1|w4|c0	HG02602_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	SAS	False	False	A	HG02602	pat	PJL	True	non-AFR
+c0408	HG02615_mat_hprc_r2_v1.0.1|w3|c0	HG02615_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- h21+	True	AFR	True	True	B	HG02615	mat	GWD	True	AFR
+c0411	HG02615_pat_hprc_r2_v1.0.1|w5|c1	HG02615_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2+ 1-	True	AFR	False	False	A	HG02615	pat	GWD	True	AFR
+c0412	HG02622_mat_hprc_r2_v1.0.1|w3|c0	HG02622_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02622	mat	GWD	True	AFR
+c0413	HG02622_mat_hprc_r2_v1.0.1|w3|c1	HG02622_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	True	True	B	HG02622	mat	GWD	True	AFR
+c0414	HG02622_pat_hprc_r2_v1.0.1|w3|c0	HG02622_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02622	pat	GWD	True	AFR
+c0415	HG02622_pat_hprc_r2_v1.0.1|w3|c1	HG02622_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	True	True	B	HG02622	pat	GWD	True	AFR
+c0416	HG02630_mat_hprc_r2_v1.0.1|w3|c0	HG02630_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02630	mat	GWD	True	AFR
+c0417	HG02630_mat_hprc_r2_v1.0.1|w3|c1	HG02630_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG02630	mat	GWD	True	AFR
+c0419	HG02630_pat_hprc_r2_v1.0.1|w3|c1	HG02630_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2+ 1-	True	AFR	False	False	A	HG02630	pat	GWD	True	AFR
+c0420	HG02647_mat_hprc_r2_v1.0.1|w3|c0	HG02647_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02647	mat	GWD	True	AFR
+c0421	HG02647_mat_hprc_r2_v1.0.1|w3|c1	HG02647_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG02647	mat	GWD	True	AFR
+c0422	HG02647_pat_hprc_r2_v1.0.1|w4|c0	HG02647_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- h21+	True	AFR	True	True	B	HG02647	pat	GWD	True	AFR
+c0424	HG02668_mat_hprc_r2_v1.0.1|w4|c0	HG02668_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 2- 1-	True	AFR	True	True	B	HG02668	mat	GWD	True	AFR
+c0426	HG02668_mat_hprc_r2_v1.0.1|w4|c2	HG02668_mat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	1- 2- 1-	True	AFR	False	False	A	HG02668	mat	GWD	True	AFR
+c0428	HG02668_pat_hprc_r2_v1.0.1|w5|c1	HG02668_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02668	pat	GWD	True	AFR
+c0429	HG02698_mat_hprc_r2_v1.0.1|w5|c0	HG02698_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN2	1- 2+	False	SAS	False	False	A	HG02698	mat	PJL	True	non-AFR
+c0431	HG02698_pat_hprc_r2_v1.0.1|w3|c0	HG02698_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- h12+ 1+	False	SAS	False	False	A	HG02698	pat	PJL	True	non-AFR
+c0433	HG02698_pat_hprc_r2_v1.0.1|w3|c2	HG02698_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	trunc5	SMN1	1- h12+ 1+	False	SAS	False	False	A	HG02698	pat	PJL	True	non-AFR
+c0434	HG02717_mat_hprc_r2_v1.0.1|w3|c0	HG02717_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 1+	True	AFR	True	True	B	HG02717	mat	GWD	True	AFR
+c0435	HG02717_mat_hprc_r2_v1.0.1|w3|c1	HG02717_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	True	True	B	HG02717	mat	GWD	True	AFR
+c0436	HG02717_pat_hprc_r2_v1.0.1|w4|c0	HG02717_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02717	pat	GWD	True	AFR
+c0437	HG02717_pat_hprc_r2_v1.0.1|w4|c1	HG02717_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	True	True	B	HG02717	pat	GWD	True	AFR
+c0438	HG02723_mat_hprc_r2_v1.0.1|w3|c0	HG02723_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- h21+	True	AFR	True	True	B	HG02723	mat	GWD	True	AFR
+c0441	HG02723_pat_hprc_r2_v1.0.1|w3|c1	HG02723_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02723	pat	GWD	True	AFR
+c0443	HG02735_mat_hprc_r2_v1.0.1|w3|c1	HG02735_mat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	SAS	False	False	A	HG02735	mat	PJL	True	non-AFR
+c0444	HG02735_pat_hprc_r2_v1.0.1|w4|c0	HG02735_pat_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	False	SAS	False	False	A	HG02735	pat	PJL	True	non-AFR
+c0446	HG02738_mat_hprc_r2_v1.0.1|w3|c1	HG02738_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG02738	mat	PJL	True	non-AFR
+c0447	HG02738_pat_hprc_r2_v1.0.1|w2|c0	HG02738_pat_hprc_r2_v1.0.1	SMN1	centromeric	+	full	SMN1	1+ 2+	False	SAS	False	False	A	HG02738	pat	PJL	True	non-AFR
+c0449	HG02809_mat_hprc_r2_v1.0.1|w4|c0	HG02809_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 2+	True	AFR	False	False	A	HG02809	mat	GWD	True	AFR
+c0452	HG02809_pat_hprc_r2_v1.0.1|w4|c1	HG02809_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	True	True	B	HG02809	pat	GWD	True	AFR
+c0453	HG02818_mat_hprc_r2_v1.0.1|w6|c0	HG02818_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	False	True	B	HG02818	mat	GWD	True	AFR
+c0454	HG02818_mat_hprc_r2_v1.0.1|w6|c1	HG02818_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN2	1- 1+	True	AFR	True	True	B	HG02818	mat	GWD	True	AFR
+c0455	HG02818_pat_hprc_r2_v1.0.1|w2|c0	HG02818_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 2+	True	AFR	False	False	A	HG02818	pat	GWD	True	AFR
+c0458	HG02841_mat_hprc_r2_v1.0.1|w5|c1	HG02841_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02841	mat	GWD	True	AFR
+c0460	HG02841_pat_hprc_r2_v1.0.1|w3|c1	HG02841_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2+ 1-	True	AFR	False	False	A	HG02841	pat	GWD	True	AFR
+c0462	HG02886_mat_hprc_r2_v1.0.1|w3|c1	HG02886_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	True	AFR	False	True	B	HG02886	mat	GWD	True	AFR
+c0464	HG02886_pat_hprc_r2_v1.0.1|w3|c1	HG02886_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2+ 1-	True	AFR	False	False	A	HG02886	pat	GWD	True	AFR
+c0465	HG02922_hap1_hprc_r2_v1.0.1|w3|c0	HG02922_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02922	hap1	ESN	True	AFR
+c0466	HG02922_hap1_hprc_r2_v1.0.1|w3|c1	HG02922_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG02922	hap1	ESN	True	AFR
+c0468	HG02922_hap2_hprc_r2_v1.0.1|w5|c1	HG02922_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02922	hap2	ESN	True	AFR
+c0469	HG02965_hap1_hprc_r2_v1.0.1|w4|c0	HG02965_hap1_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	True	AFR	True	True	B	HG02965	hap1	ESN	True	AFR
+c0471	HG02965_hap2_hprc_r2_v1.0.1|w4|c1	HG02965_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	full	mixed	h21+ 1-	True	AFR	False	True	B	HG02965	hap2	ESN	True	AFR
+c0472	HG02976_hap1_hprc_r2_v1.0.1|w3|c0	HG02976_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02976	hap1	ESN	True	AFR
+c0473	HG02976_hap1_hprc_r2_v1.0.1|w3|c1	HG02976_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG02976	hap1	ESN	True	AFR
+c0474	HG02976_hap2_hprc_r2_v1.0.1|w4|c0	HG02976_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 2+	True	AFR	False	False	A	HG02976	hap2	ESN	True	AFR
+c0476	HG02984_mat_hprc_r2_v1.0.1|w3|c0	HG02984_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG02984	mat	GWD	True	AFR
+c0477	HG02984_mat_hprc_r2_v1.0.1|w3|c1	HG02984_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG02984	mat	GWD	True	AFR
+c0479	HG02984_pat_hprc_r2_v1.0.1|w3|c1	HG02984_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG02984	pat	GWD	True	AFR
+c0481	HG03017_mat_hprc_r2_v1.0.1|w3|c1	HG03017_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03017	mat	PJL	True	non-AFR
+c0482	HG03017_pat_hprc_r2_v1.0.1|w3|c0	HG03017_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 1+	False	SAS	False	False	A	HG03017	pat	PJL	True	non-AFR
+c0483	HG03017_pat_hprc_r2_v1.0.1|w3|c1	HG03017_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	False	SAS	False	False	A	HG03017	pat	PJL	True	non-AFR
+c0484	HG03041_mat_hprc_r2_v1.0.1|w3|c0	HG03041_mat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	True	AFR	False	False	A	HG03041	mat	GWD	True	AFR
+c0486	HG03041_pat_hprc_r2_v1.0.1|w2|c1	HG03041_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG03041	pat	GWD	True	AFR
+c0487	HG03050_mat_hprc_r2_v1.0.1|w3|c0	HG03050_mat_hprc_r2_v1.0.1	SMN1	centromeric	+	full	SMN1	1+ h21+	True	AFR	False	True	B	HG03050	mat	GWD	True	AFR
+c0490	HG03050_pat_hprc_r2_v1.0.1|w3|c1	HG03050_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	True	AFR	False	False	A	HG03050	pat	GWD	True	AFR
+c0491	HG03098_mat_hprc_r2_v1.0.1|w4|c0	HG03098_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG03098	mat	MSL	True	AFR
+c0492	HG03098_mat_hprc_r2_v1.0.1|w4|c1	HG03098_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG03098	mat	MSL	True	AFR
+c0493	HG03098_pat_hprc_r2_v1.0.1|w4|c0	HG03098_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- h21-	True	AFR	True	True	B	HG03098	pat	MSL	True	AFR
+c0495	HG03130_hap1_hprc_r2_v1.0.1|w3|c0	HG03130_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG03130	hap1	ESN	True	AFR
+c0496	HG03130_hap1_hprc_r2_v1.0.1|w3|c1	HG03130_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG03130	hap1	ESN	True	AFR
+c0497	HG03130_hap2_hprc_r2_v1.0.1|w4|c0	HG03130_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG03130	hap2	ESN	True	AFR
+c0498	HG03130_hap2_hprc_r2_v1.0.1|w4|c1	HG03130_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG03130	hap2	ESN	True	AFR
+c0499	HG03139_hap1_hprc_r2_v1.0.1|w3|c0	HG03139_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	False	True	B	HG03139	hap1	ESN	True	AFR
+c0500	HG03139_hap1_hprc_r2_v1.0.1|w3|c1	HG03139_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	True	True	B	HG03139	hap1	ESN	True	AFR
+c0501	HG03139_hap2_hprc_r2_v1.0.1|w3|c0	HG03139_hap2_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	True	AFR	False	False	A	HG03139	hap2	ESN	True	AFR
+c0502	HG03195_hap1_hprc_r2_v1.0.1|w3|c0	HG03195_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	True	AFR	False	False	A	HG03195	hap1	ESN	True	AFR
+c0503	HG03195_hap2_hprc_r2_v1.0.1|w4|c0	HG03195_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG03195	hap2	ESN	True	AFR
+c0504	HG03195_hap2_hprc_r2_v1.0.1|w4|c1	HG03195_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	True	True	B	HG03195	hap2	ESN	True	AFR
+c0505	HG03209_hap1_hprc_r2_v1.0.1|w4|c0	HG03209_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG03209	hap1	MSL	True	AFR
+c0506	HG03209_hap1_hprc_r2_v1.0.1|w4|c1	HG03209_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG03209	hap1	MSL	True	AFR
+c0508	HG03209_hap2_hprc_r2_v1.0.1|w3|c1	HG03209_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN2	2- 1+	True	AFR	False	False	A	HG03209	hap2	MSL	True	AFR
+c0510	HG03225_hap1_hprc_r2_v1.0.1|w4|c1	HG03225_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG03225	hap1	MSL	True	AFR
+c0511	HG03225_hap2_hprc_r2_v1.0.1|w3|c0	HG03225_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 2-	True	AFR	False	False	A	HG03225	hap2	MSL	True	AFR
+c0514	HG03239_mat_hprc_r2_v1.0.1|w4|c1	HG03239_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03239	mat	PJL	True	non-AFR
+c0516	HG03239_pat_hprc_r2_v1.0.1|w4|c1	HG03239_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03239	pat	PJL	True	non-AFR
+c0518	HG03270_hap1_hprc_r2_v1.0.1|w7|c1	HG03270_hap1_hprc_r2_v1.0.1	SMN1	unresolved	+	full			True	AFR	False	False	A	HG03270	hap1	ESN	False	AFR
+c0519	HG03270_hap2_hprc_r2_v1.0.1|w4|c0	HG03270_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG03270	hap2	ESN	True	AFR
+c0520	HG03270_hap2_hprc_r2_v1.0.1|w4|c1	HG03270_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG03270	hap2	ESN	True	AFR
+c0522	HG03369_hap1_hprc_r2_v1.0.1|w5|c1	HG03369_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG03369	hap1	ESN	True	AFR
+c0523	HG03369_hap2_hprc_r2_v1.0.1|w4|c0	HG03369_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG03369	hap2	ESN	True	AFR
+c0524	HG03369_hap2_hprc_r2_v1.0.1|w4|c1	HG03369_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG03369	hap2	ESN	True	AFR
+c0525	HG03453_mat_hprc_r2_v1.0.1|w0|c0	HG03453_mat_hprc_r2_v1.0.1	SMN1	centromeric	+	full	SMN1	1+ h21+	True	AFR	False	True	B	HG03453	mat	MSL	True	AFR
+c0527	HG03453_pat_hprc_r2_v1.0.1|w0|c0	HG03453_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG03453	pat	MSL	True	AFR
+c0528	HG03453_pat_hprc_r2_v1.0.1|w0|c1	HG03453_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG03453	pat	MSL	True	AFR
+c0530	HG03470_hap1_hprc_r2_v1.0.1|w4|c1	HG03470_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	mixed	2+ 1+	True	AFR	False	True	B	HG03470	hap1	MSL	True	AFR
+c0532	HG03470_hap2_hprc_r2_v1.0.1|w3|c1	HG03470_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG03470	hap2	MSL	True	AFR
+c0533	HG03471_hap1_hprc_r2_v1.0.1|w3|c0	HG03471_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG03471	hap1	MSL	True	AFR
+c0534	HG03471_hap1_hprc_r2_v1.0.1|w3|c1	HG03471_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	HG03471	hap1	MSL	True	AFR
+c0536	HG03471_hap2_hprc_r2_v1.0.1|w3|c1	HG03471_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN2	2- 1+	True	AFR	False	False	A	HG03471	hap2	MSL	True	AFR
+c0538	HG03486_mat_hprc_r2_v1.0.1|w4|c1	HG03486_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	HG03486	mat	MSL	True	AFR
+c0539	HG03486_pat_hprc_r2_v1.0.1|w4|c0	HG03486_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	HG03486	pat	MSL	True	AFR
+c0540	HG03486_pat_hprc_r2_v1.0.1|w4|c1	HG03486_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	True	True	B	HG03486	pat	MSL	True	AFR
+c0541	HG03516_mat_hprc_r2_v1.1.0|w4|c0	HG03516_mat_hprc_r2_v1.1.0	SMN1	single	+	full	SMN1	1+	True	AFR	False	False	A	HG03516	mat	ESN	True	AFR
+c0542	HG03516_pat_hprc_r2_v1.1.0|w4|c0	HG03516_pat_hprc_r2_v1.1.0	SMN1	centromeric	-	full	SMN1	1- h21+	True	AFR	True	True	B	HG03516	pat	ESN	True	AFR
+c0544	HG03521_hap1_hprc_r2_v1.0.1|w3|c0	HG03521_hap1_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	True	AFR	True	True	B	HG03521	hap1	ESN	True	AFR
+c0545	HG03521_hap2_hprc_r2_v1.0.1|w4|c0	HG03521_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 2+	True	AFR	False	False	A	HG03521	hap2	ESN	True	AFR
+c0548	HG03540_mat_hprc_r2_v1.0.1|w4|c1	HG03540_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	h21- 1+	True	AFR	False	True	B	HG03540	mat	GWD	True	AFR
+c0549	HG03540_pat_hprc_r2_v1.0.1|w3|c0	HG03540_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 1+	True	AFR	True	True	B	HG03540	pat	GWD	True	AFR
+c0550	HG03540_pat_hprc_r2_v1.0.1|w3|c1	HG03540_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	True	True	B	HG03540	pat	GWD	True	AFR
+c0551	HG03579_mat_hprc_r2_v1.0.1|w3|c0	HG03579_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN2	1- 1+	True	AFR	False	True	B	HG03579	mat	MSL	True	AFR
+c0552	HG03579_mat_hprc_r2_v1.0.1|w3|c1	HG03579_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	mixed	1- 1+	True	AFR	False	True	B	HG03579	mat	MSL	True	AFR
+c0553	HG03579_pat_hprc_r2_v1.0.1|w4|c0	HG03579_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	True	AFR	False	False	A	HG03579	pat	MSL	True	AFR
+c0554	HG03583_hap1_hprc_r2_v1.0.1|w3|c0	HG03583_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	True	AFR	False	False	A	HG03583	hap1	MSL	True	AFR
+c0557	HG03654_mat_hprc_r2_v1.0.1|w3|c1	HG03654_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03654	mat	PJL	True	non-AFR
+c0558	HG03654_pat_hprc_r2_v1.0.1|w4|c0	HG03654_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 2+	False	SAS	False	False	A	HG03654	pat	PJL	True	non-AFR
+c0561	HG03669_mat_hprc_r2_v1.0.1|w4|c1	HG03669_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	SAS	False	False	A	HG03669	mat	PJL	True	non-AFR
+c0563	HG03669_pat_hprc_r2_v1.0.1|w4|c1	HG03669_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03669	pat	PJL	True	non-AFR
+c0565	HG03688_mat_hprc_r2_v1.0.1|w3|c1	HG03688_mat_hprc_r2_v1.0.1	SMN1	middle	-	full	SMN1	2- 1- 1+	False	SAS	False	False	A	HG03688	mat	STU	True	non-AFR
+c0566	HG03688_mat_hprc_r2_v1.0.1|w3|c2	HG03688_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1- 1+	False	SAS	False	False	A	HG03688	mat	STU	True	non-AFR
+c0568	HG03688_pat_hprc_r2_v1.0.1|w4|c1	HG03688_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03688	pat	STU	True	non-AFR
+c0569	HG03704_mat_hprc_r2_v1.0.1|w3|c0	HG03704_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	mixed	1- 1+	False	SAS	False	False	A	HG03704	mat	PJL	True	non-AFR
+c0570	HG03704_mat_hprc_r2_v1.0.1|w3|c1	HG03704_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	False	SAS	False	False	A	HG03704	mat	PJL	True	non-AFR
+c0572	HG03704_pat_hprc_r2_v1.0.1|w4|c1	HG03704_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03704	pat	PJL	True	non-AFR
+c0574	HG03710_mat_hprc_r2_v1.0.1|w6|c1	HG03710_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN2	h21- 1+	False	SAS	False	False	A	HG03710	mat	PJL	True	non-AFR
+c0576	HG03710_pat_hprc_r2_v1.0.1|w2|c1	HG03710_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03710	pat	PJL	True	non-AFR
+c0578	HG03742_hap1_hprc_r2_v1.0.1|w3|c1	HG03742_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03742	hap1	ITU	True	non-AFR
+c0579	HG03742_hap2_hprc_r2_v1.0.1|w4|c0	HG03742_hap2_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	False	SAS	False	False	A	HG03742	hap2	ITU	True	non-AFR
+c0580	HG03784_hap2_hprc_r2_v1.0.1|w3|c0	HG03784_hap2_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	SAS	False	False	A	HG03784	hap2	ITU	False	non-AFR
+c0583	HG03804_mat_hprc_r2_v1.0.1|w6|c1	HG03804_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03804	mat	BEB	True	non-AFR
+c0585	HG03804_pat_hprc_r2_v1.0.1|w3|c1	HG03804_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03804	pat	BEB	True	non-AFR
+c0587	HG03816_mat_hprc_r2_v1.0.1|w3|c1	HG03816_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03816	mat	BEB	True	non-AFR
+c0589	HG03816_pat_hprc_r2_v1.0.1|w4|c1	HG03816_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03816	pat	BEB	True	non-AFR
+c0590	HG03831_mat_hprc_r2_v1.0.1|w4|c0	HG03831_mat_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	False	SAS	False	False	A	HG03831	mat	BEB	True	non-AFR
+c0592	HG03831_pat_hprc_r2_v1.0.1|w4|c1	HG03831_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	SAS	False	False	A	HG03831	pat	BEB	True	non-AFR
+c0594	HG03834_mat_hprc_r2_v1.0.1|w3|c1	HG03834_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03834	mat	BEB	True	non-AFR
+c0596	HG03834_pat_hprc_r2_v1.0.1|w2|c1	HG03834_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	SAS	False	False	A	HG03834	pat	BEB	True	non-AFR
+c0597	HG03874_hap1_hprc_r2_v1.0.1|w3|c0	HG03874_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN2	1+	False	SAS	False	False	A	HG03874	hap1	ITU	True	non-AFR
+c0598	HG03874_hap2_hprc_r2_v1.0.1|w4|c0	HG03874_hap2_hprc_r2_v1.0.1	SMN1	single	+	full	SMN2	1+	False	SAS	False	False	A	HG03874	hap2	ITU	True	non-AFR
+c0600	HG03927_mat_hprc_r2_v1.0.1|w4|c1	HG03927_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03927	mat	BEB	True	non-AFR
+c0601	HG03927_pat_hprc_r2_v1.0.1|w5|c0	HG03927_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN2	1+	False	SAS	False	False	A	HG03927	pat	BEB	True	non-AFR
+c0602	HG03942_mat_hprc_r2_v1.0.1|w4|c0	HG03942_mat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN2	1+	False	SAS	False	False	A	HG03942	mat	BEB	True	non-AFR
+c0604	HG03942_pat_hprc_r2_v1.0.1|w3|c1	HG03942_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG03942	pat	BEB	True	non-AFR
+c0606	HG04115_mat_hprc_r2_v1.0.1|w5|c1	HG04115_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG04115	mat	STU	True	non-AFR
+c0607	HG04115_pat_hprc_r2_v1.0.1|w0|c0	HG04115_pat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	SAS	False	False	A	HG04115	pat	STU	True	non-AFR
+c0609	HG04157_mat_hprc_r2_v1.0.1|w3|c1	HG04157_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG04157	mat	BEB	True	non-AFR
+c0610	HG04157_pat_hprc_r2_v1.0.1|w4|c0	HG04157_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 1+	False	SAS	False	False	A	HG04157	pat	BEB	True	non-AFR
+c0611	HG04157_pat_hprc_r2_v1.0.1|w4|c1	HG04157_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	False	SAS	False	False	A	HG04157	pat	BEB	True	non-AFR
+c0613	HG04160_mat_hprc_r2_v1.0.1|w4|c1	HG04160_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	h21- 1+	False	SAS	False	False	A	HG04160	mat	BEB	True	non-AFR
+c0615	HG04160_pat_hprc_r2_v1.0.1|w4|c1	HG04160_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG04160	pat	BEB	True	non-AFR
+c0617	HG04184_mat_hprc_r2_v1.0.1|w2|c1	HG04184_mat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	SAS	False	False	A	HG04184	mat	BEB	True	non-AFR
+c0618	HG04184_pat_hprc_r2_v1.0.1|w3|c0	HG04184_pat_hprc_r2_v1.0.1	SMN1	single	-	full	SMN2	1-	False	SAS	False	False	A	HG04184	pat	BEB	True	non-AFR
+c0619	HG04187_mat_hprc_r2_v1.0.1|w4|c0	HG04187_mat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	SAS	False	False	A	HG04187	mat	BEB	True	non-AFR
+c0621	HG04187_pat_hprc_r2_v1.0.1|w3|c1	HG04187_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	SAS	False	False	A	HG04187	pat	BEB	True	non-AFR
+c0623	HG04199_mat_hprc_r2_v1.0.1|w4|c1	HG04199_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG04199	mat	STU	True	non-AFR
+c0625	HG04199_pat_hprc_r2_v1.0.1|w4|c1	HG04199_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG04199	pat	STU	True	non-AFR
+c0626	HG04204_mat_hprc_r2_v1.0.1|w4|c0	HG04204_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	mixed	1- 1+	False	SAS	False	False	A	HG04204	mat	STU	True	non-AFR
+c0627	HG04204_mat_hprc_r2_v1.0.1|w4|c1	HG04204_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	False	SAS	False	False	A	HG04204	mat	STU	True	non-AFR
+c0629	HG04204_pat_hprc_r2_v1.0.1|w4|c1	HG04204_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG04204	pat	STU	True	non-AFR
+c0631	HG04228_mat_hprc_r2_v1.0.1|w3|c1	HG04228_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG04228	mat	STU	True	non-AFR
+c0633	HG04228_pat_hprc_r2_v1.0.1|w4|c1	HG04228_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	HG04228	pat	STU	True	non-AFR
+c0635	HG06807_mat_v1.0.genbank|w3|c1	HG06807_mat_v1.0.genbank	SMN1	telomeric	+	full	SMN1	2- 1+	False	other	False	False	A	HG06807	mat	ASL	True	non-AFR
+c0636	HG06807_pat_v1.0.genbank|w5|c0	HG06807_pat_v1.0.genbank	SMN1	single	+	full	SMN1	1+	False	other	False	False	A	HG06807	pat	ASL	True	non-AFR
+c0637	NA18505_hap1_hprc_r2_v1.0.1|w4|c0	NA18505_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- h21-	True	AFR	True	True	B	NA18505	hap1	YRI	True	AFR
+c0640	NA18505_hap2_hprc_r2_v1.0.1|w3|c1	NA18505_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	trunc5	SMN1	h21+ 1-	True	AFR	False	False	A	NA18505	hap2	YRI	True	AFR
+c0642	NA18508_hap1_hprc_r2_v1.0.1|w4|c1	NA18508_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	NA18508	hap1	YRI	True	AFR
+c0643	NA18508_hap2_hprc_r2_v1.0.1|w3|c0	NA18508_hap2_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	True	AFR	False	False	A	NA18508	hap2	YRI	True	AFR
+c0645	NA18522_hap1_hprc_r2_v1.0.1|w3|c1	NA18522_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	trunc5	SMN1	2- 1+	True	AFR	False	False	A	NA18522	hap1	YRI	True	AFR
+c0646	NA18522_hap2_hprc_r2_v1.0.1|w4|c0	NA18522_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	False	True	B	NA18522	hap2	YRI	True	AFR
+c0647	NA18522_hap2_hprc_r2_v1.0.1|w4|c1	NA18522_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN2	1- 1+	True	AFR	True	True	B	NA18522	hap2	YRI	True	AFR
+c0648	NA18565_hap1_hprc_r2_v1.0.1|w3|c0	NA18565_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN2	1- 1+	False	EAS	False	False	A	NA18565	hap1	CHB	True	non-AFR
+c0649	NA18565_hap1_hprc_r2_v1.0.1|w3|c1	NA18565_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	False	EAS	False	False	A	NA18565	hap1	CHB	True	non-AFR
+c0651	NA18565_hap2_hprc_r2_v1.0.1|w3|c1	NA18565_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18565	hap2	CHB	True	non-AFR
+c0653	NA18570_hap1_hprc_r2_v1.0.1|w4|c1	NA18570_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18570	hap1	CHB	True	non-AFR
+c0655	NA18570_hap2_hprc_r2_v1.0.1|w4|c1	NA18570_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18570	hap2	CHB	True	non-AFR
+c0657	NA18608_hap1_hprc_r2_v1.0.1|w3|c1	NA18608_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	EAS	False	False	A	NA18608	hap1	CHB	True	non-AFR
+c0659	NA18608_hap2_hprc_r2_v1.0.1|w3|c1	NA18608_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18608	hap2	CHB	True	non-AFR
+c0661	NA18620_hap1_hprc_r2_v1.0.1|w4|c1	NA18620_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18620	hap1	CHB	True	non-AFR
+c0663	NA18620_hap2_hprc_r2_v1.0.1|w4|c1	NA18620_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18620	hap2	CHB	True	non-AFR
+c0664	NA18747_hap1_hprc_r2_v1.0.1|w2|c0	NA18747_hap1_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	EAS	False	False	A	NA18747	hap1	CHB	False	non-AFR
+c0666	NA18747_hap2_hprc_r2_v1.0.1|w2|c0	NA18747_hap2_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	EAS	False	False	A	NA18747	hap2	CHB	False	non-AFR
+c0668	NA18879_hap1_hprc_r2_v1.0.1|w3|c0	NA18879_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	False	True	B	NA18879	hap1	YRI	True	AFR
+c0669	NA18879_hap1_hprc_r2_v1.0.1|w3|c1	NA18879_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	trunc5	SMN1	1- 1+	True	AFR	False	True	B	NA18879	hap1	YRI	True	AFR
+c0672	NA18906_mat_hprc_r2_v1.0.1|w2|c0	NA18906_mat_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	True	AFR	False	False	A	NA18906	mat	YRI	True	AFR
+c0674	NA18906_pat_hprc_r2_v1.0.1|w4|c1	NA18906_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	NA18906	pat	YRI	True	AFR
+c0676	NA18940_hap1_hprc_r2_v1.0.1|w6|c1	NA18940_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18940	hap1	JPT	True	non-AFR
+c0678	NA18940_hap2_hprc_r2_v1.0.1|w4|c1	NA18940_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN2	2- 1+	False	EAS	False	False	A	NA18940	hap2	JPT	True	non-AFR
+c0680	NA18943_hap1_hprc_r2_v1.0.1|w4|c1	NA18943_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18943	hap1	JPT	True	non-AFR
+c0682	NA18943_hap2_hprc_r2_v1.0.1|w3|c1	NA18943_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EAS	False	False	A	NA18943	hap2	JPT	True	non-AFR
+c0683	NA18944_hap1_hprc_r2_v1.0.1|w3|c0	NA18944_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EAS	False	False	A	NA18944	hap1	JPT	True	non-AFR
+c0685	NA18944_hap2_hprc_r2_v1.0.1|w3|c1	NA18944_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18944	hap2	JPT	True	non-AFR
+c0687	NA18945_hap1_hprc_r2_v1.0.1|w3|c1	NA18945_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18945	hap1	JPT	True	non-AFR
+c0691	NA18948_hap1_hprc_r2_v1.0.1|w3|c1	NA18948_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EAS	False	False	A	NA18948	hap1	JPT	True	non-AFR
+c0694	NA18948_hap2_hprc_r2_v1.0.1|w5|c2	NA18948_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 2- 1+	False	EAS	False	False	A	NA18948	hap2	JPT	True	non-AFR
+c0695	NA18952_hap1_hprc_r2_v1.0.1|w4|c0	NA18952_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EAS	False	False	A	NA18952	hap1	JPT	True	non-AFR
+c0697	NA18952_hap2_hprc_r2_v1.0.1|w3|c1	NA18952_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18952	hap2	JPT	True	non-AFR
+c0699	NA18959_hap1_hprc_r2_v1.0.1|w3|c2	NA18959_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	t- 2- 1+	False	EAS	False	False	A	NA18959	hap1	JPT	True	non-AFR
+c0701	NA18959_hap2_hprc_r2_v1.0.1|w4|c1	NA18959_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18959	hap2	JPT	True	non-AFR
+c0704	NA18960_hap1_hprc_r2_v1.0.1|w3|c2	NA18960_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 2- 1-	False	EAS	False	False	A	NA18960	hap1	JPT	True	non-AFR
+c0705	NA18960_hap2_hprc_r2_v1.0.1|w3|c0	NA18960_hap2_hprc_r2_v1.0.1	SMN1	single	-	full	SMN2	1-	False	EAS	False	False	A	NA18960	hap2	JPT	True	non-AFR
+c0707	NA18967_hap1_hprc_r2_v1.0.1|w3|c1	NA18967_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18967	hap1	JPT	True	non-AFR
+c0708	NA18967_hap2_hprc_r2_v1.0.1|w2|c0	NA18967_hap2_hprc_r2_v1.0.1	SMN1	single	-	full	SMN2	1-	False	EAS	False	False	A	NA18967	hap2	JPT	True	non-AFR
+c0710	NA18970_hap1_hprc_r2_v1.0.1|w4|c1	NA18970_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	EAS	False	False	A	NA18970	hap1	JPT	True	non-AFR
+c0712	NA18970_hap2_hprc_r2_v1.0.1|w6|c1	NA18970_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	mixed	2- 1+	False	EAS	False	False	A	NA18970	hap2	JPT	True	non-AFR
+c0714	NA18971_hap1_hprc_r2_v1.0.1|w3|c1	NA18971_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18971	hap1	JPT	True	non-AFR
+c0715	NA18971_hap2_hprc_r2_v1.0.1|w3|c0	NA18971_hap2_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EAS	False	False	A	NA18971	hap2	JPT	True	non-AFR
+c0716	NA18974_hap1_hprc_r2_v1.0.1|w0|c0	NA18974_hap1_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	EAS	False	False	A	NA18974	hap1	JPT	False	non-AFR
+c0717	NA18974_hap2_hprc_r2_v1.0.1|w0|c1	NA18974_hap2_hprc_r2_v1.0.1	SMN1	unresolved	+	full			False	EAS	False	False	A	NA18974	hap2	JPT	False	non-AFR
+c0720	NA18976_hap1_hprc_r2_v1.0.1|w3|c1	NA18976_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	unread	2- 1+	False	EAS	False	False	A	NA18976	hap1	JPT	True	non-AFR
+c0721	NA18976_hap2_hprc_r2_v1.0.1|w3|c0	NA18976_hap2_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EAS	False	False	A	NA18976	hap2	JPT	True	non-AFR
+c0723	NA18982_hap1_hprc_r2_v1.0.1|w4|c1	NA18982_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18982	hap1	JPT	True	non-AFR
+c0725	NA18982_hap2_hprc_r2_v1.0.1|w4|c1	NA18982_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	EAS	False	False	A	NA18982	hap2	JPT	True	non-AFR
+c0727	NA18983_hap1_hprc_r2_v1.0.1|w2|c1	NA18983_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18983	hap1	JPT	True	non-AFR
+c0729	NA18983_hap2_hprc_r2_v1.0.1|w2|c1	NA18983_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA18983	hap2	JPT	True	non-AFR
+c0730	NA19036_hap1_hprc_r2_v1.0.1|w4|c0	NA19036_hap1_hprc_r2_v1.0.1	SMN1	centromeric	+	full	SMN1	1+ 1-	True	AFR	False	True	B	NA19036	hap1	LWK	True	AFR
+c0731	NA19036_hap1_hprc_r2_v1.0.1|w4|c1	NA19036_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	1+ 1-	True	AFR	False	False	A	NA19036	hap1	LWK	True	AFR
+c0732	NA19036_hap2_hprc_r2_v1.0.1|w4|c0	NA19036_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	NA19036	hap2	LWK	True	AFR
+c0733	NA19036_hap2_hprc_r2_v1.0.1|w4|c1	NA19036_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	NA19036	hap2	LWK	True	AFR
+c0734	NA19043_hap1_hprc_r2_v1.0.1|w3|c0	NA19043_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN2	1- 1+	True	AFR	False	True	B	NA19043	hap1	LWK	True	AFR
+c0735	NA19043_hap1_hprc_r2_v1.0.1|w3|c1	NA19043_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	mixed	1- 1+	True	AFR	False	True	B	NA19043	hap1	LWK	True	AFR
+c0736	NA19043_hap2_hprc_r2_v1.0.1|w6|c0	NA19043_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	NA19043	hap2	LWK	True	AFR
+c0737	NA19043_hap2_hprc_r2_v1.0.1|w6|c1	NA19043_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	NA19043	hap2	LWK	True	AFR
+c0739	NA19087_hap1_hprc_r2_v1.0.1|w4|c1	NA19087_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EAS	False	False	A	NA19087	hap1	JPT	True	non-AFR
+c0741	NA19087_hap2_hprc_r2_v1.0.1|w3|c1	NA19087_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1+	False	EAS	False	False	A	NA19087	hap2	JPT	True	non-AFR
+c0743	NA19159_hap1_hprc_r2_v1.0.1|w3|c1	NA19159_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	True	AFR	False	False	A	NA19159	hap1	YRI	True	AFR
+c0745	NA19159_hap2_hprc_r2_v1.0.1|w4|c1	NA19159_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN2	2- 1+	True	AFR	False	False	A	NA19159	hap2	YRI	True	AFR
+c0746	NA19185_hap1_hprc_r2_v1.0.1|w4|c0	NA19185_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	NA19185	hap1	YRI	True	AFR
+c0747	NA19185_hap1_hprc_r2_v1.0.1|w4|c1	NA19185_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	NA19185	hap1	YRI	True	AFR
+c0749	NA19185_hap2_hprc_r2_v1.0.1|w4|c1	NA19185_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	True	True	B	NA19185	hap2	YRI	True	AFR
+c0750	NA19240_mat_hprc_r2_v1.0.1|w4|c0	NA19240_mat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	NA19240	mat	YRI	True	AFR
+c0751	NA19240_mat_hprc_r2_v1.0.1|w4|c1	NA19240_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	True	True	B	NA19240	mat	YRI	True	AFR
+c0752	NA19240_pat_hprc_r2_v1.0.1|w3|c0	NA19240_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	NA19240	pat	YRI	True	AFR
+c0753	NA19240_pat_hprc_r2_v1.0.1|w3|c1	NA19240_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	NA19240	pat	YRI	True	AFR
+c0754	NA19338_hap1_hprc_r2_v1.0.1|w3|c0	NA19338_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	NA19338	hap1	LWK	True	AFR
+c0755	NA19338_hap1_hprc_r2_v1.0.1|w3|c1	NA19338_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	NA19338	hap1	LWK	True	AFR
+c0757	NA19338_hap2_hprc_r2_v1.0.1|w4|c1	NA19338_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	True	AFR	False	False	A	NA19338	hap2	LWK	True	AFR
+c0759	NA19391_hap1_hprc_r2_v1.0.1|w4|c1	NA19391_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	True	True	B	NA19391	hap1	LWK	True	AFR
+c0761	NA19391_hap2_hprc_r2_v1.0.1|w4|c1	NA19391_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	True	AFR	True	True	B	NA19391	hap2	LWK	True	AFR
+c0763	NA19443_hap1_hprc_r2_v1.0.1|w3|c1	NA19443_hap1_hprc_r2_v1.0.1	SMN1	unresolved	+	full			True	AFR	False	False	A	NA19443	hap1	LWK	False	AFR
+c0765	NA19443_hap2_hprc_r2_v1.0.1|w7|c0	NA19443_hap2_hprc_r2_v1.0.1	SMN1	unresolved	+	full			True	AFR	False	False	A	NA19443	hap2	LWK	False	AFR
+c0767	NA19468_hap1_hprc_r2_v1.0.1|w4|c1	NA19468_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	True	AFR	False	False	A	NA19468	hap1	LWK	True	AFR
+c0768	NA19468_hap2_hprc_r2_v1.0.1|w4|c0	NA19468_hap2_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	True	AFR	False	False	A	NA19468	hap2	LWK	True	AFR
+c0770	NA19682_hap1_hprc_r2_v1.0.1|w4|c1	NA19682_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	NA19682	hap1	MXL	True	non-AFR
+c0772	NA19682_hap2_hprc_r2_v1.0.1|w4|c1	NA19682_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	NA19682	hap2	MXL	True	non-AFR
+c0773	NA19700_hap1_hprc_r2_v1.0.1|w4|c0	NA19700_hap1_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	True	AFR	True	True	B	NA19700	hap1	ASW	True	AFR
+c0774	NA19700_hap2_hprc_r2_v1.0.1|w3|c0	NA19700_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	NA19700	hap2	ASW	True	AFR
+c0775	NA19700_hap2_hprc_r2_v1.0.1|w3|c1	NA19700_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	NA19700	hap2	ASW	True	AFR
+c0777	NA19776_hap1_hprc_r2_v1.0.1|w4|c1	NA19776_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	NA19776	hap1	MXL	True	non-AFR
+c0779	NA19776_hap2_hprc_r2_v1.0.1|w5|c1	NA19776_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	AMR	False	False	A	NA19776	hap2	MXL	True	non-AFR
+c0781	NA19835_hap1_hprc_r2_v1.0.1|w3|c1	NA19835_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	NA19835	hap1	ASW	True	AFR
+c0782	NA19835_hap2_hprc_r2_v1.0.1|w5|c0	NA19835_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	NA19835	hap2	ASW	True	AFR
+c0783	NA19835_hap2_hprc_r2_v1.0.1|w5|c1	NA19835_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	NA19835	hap2	ASW	True	AFR
+c0785	NA19909_hap1_hprc_r2_v1.0.1|w4|c1	NA19909_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	True	AFR	False	False	A	NA19909	hap1	ASW	True	AFR
+c0786	NA19909_hap2_hprc_r2_v1.0.1|w3|c0	NA19909_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- h21-	True	AFR	True	True	B	NA19909	hap2	ASW	True	AFR
+c0789	NA20129_mat_hprc_r2_v1.0.1|w4|c1	NA20129_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	NA20129	mat	ASW	True	AFR
+c0791	NA20129_pat_hprc_r2_v1.0.1|w4|c1	NA20129_pat_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	True	AFR	False	False	A	NA20129	pat	ASW	True	AFR
+c0792	NA20282_hap1_hprc_r2_v1.0.1|w5|c0	NA20282_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- h21+	True	AFR	True	True	B	NA20282	hap1	ASW	True	AFR
+c0794	NA20282_hap2_hprc_r2_v1.0.1|w4|c0	NA20282_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- h21-	True	AFR	True	True	B	NA20282	hap2	ASW	True	AFR
+c0797	NA20346_hap1_hprc_r2_v1.0.1|w4|c1	NA20346_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	True	AFR	False	False	A	NA20346	hap1	ASW	True	AFR
+c0798	NA20346_hap2_hprc_r2_v1.0.1|w4|c0	NA20346_hap2_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	True	AFR	False	False	A	NA20346	hap2	ASW	True	AFR
+c0800	NA20503_hap1_hprc_r2_v1.0.1|w4|c1	NA20503_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EUR	False	False	A	NA20503	hap1	TSI	True	non-AFR
+c0802	NA20503_hap2_hprc_r2_v1.0.1|w3|c1	NA20503_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EUR	False	False	A	NA20503	hap2	TSI	True	non-AFR
+c0804	NA20752_hap1_hprc_r2_v1.0.1|w3|c1	NA20752_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	NA20752	hap1	TSI	True	non-AFR
+c0806	NA20752_hap2_hprc_r2_v1.0.1|w3|c1	NA20752_hap2_hprc_r2_v1.0.1	SMN1	unresolved	-	full			False	EUR	False	False	A	NA20752	hap2	TSI	False	non-AFR
+c0809	NA20762_hap1_hprc_r2_v1.0.1|w4|c1	NA20762_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	NA20762	hap1	TSI	True	non-AFR
+c0810	NA20762_hap2_hprc_r2_v1.0.1|w3|c0	NA20762_hap2_hprc_r2_v1.0.1	SMN1	centromeric	+	full	SMN1	1+ 2+	False	EUR	False	False	A	NA20762	hap2	TSI	True	non-AFR
+c0813	NA20799_hap1_hprc_r2_v1.0.1|w3|c1	NA20799_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	NA20799	hap1	TSI	True	non-AFR
+c0814	NA20799_hap2_hprc_r2_v1.0.1|w2|c0	NA20799_hap2_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	False	EUR	False	False	A	NA20799	hap2	TSI	True	non-AFR
+c0815	NA20805_hap1_hprc_r2_v1.0.1|w4|c0	NA20805_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	EUR	False	False	A	NA20805	hap1	TSI	True	non-AFR
+c0817	NA20805_hap2_hprc_r2_v1.0.1|w3|c1	NA20805_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EUR	False	False	A	NA20805	hap2	TSI	True	non-AFR
+c0819	NA20806_hap1_hprc_r2_v1.0.1|w3|c1	NA20806_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EUR	False	False	A	NA20806	hap1	TSI	True	non-AFR
+c0821	NA20806_hap2_hprc_r2_v1.0.1|w3|c1	NA20806_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2+ 1-	False	EUR	False	False	A	NA20806	hap2	TSI	True	non-AFR
+c0823	NA20809_hap1_hprc_r2_v1.0.1|w5|c1	NA20809_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	NA20809	hap1	TSI	True	non-AFR
+c0825	NA20809_hap2_hprc_r2_v1.0.1|w3|c1	NA20809_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	EUR	False	False	A	NA20809	hap2	TSI	True	non-AFR
+c0827	NA20827_hap1_hprc_r2_v1.0.1|w3|c1	NA20827_hap1_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 1-	False	EUR	False	False	A	NA20827	hap1	TSI	True	non-AFR
+c0829	NA20827_hap2_hprc_r2_v1.0.1|w2|c1	NA20827_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	d2- 1+	False	EUR	False	False	A	NA20827	hap2	TSI	True	non-AFR
+c0831	NA20850_hap1_hprc_r2_v1.0.1|w4|c1	NA20850_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	NA20850	hap1	GIH	True	non-AFR
+c0833	NA20850_hap2_hprc_r2_v1.0.1|w3|c1	NA20850_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	NA20850	hap2	GIH	True	non-AFR
+c0834	NA20870_hap1_hprc_r2_v1.0.1|w3|c0	NA20870_hap1_hprc_r2_v1.0.1	SMN1	single	+	full	SMN1	1+	False	SAS	False	False	A	NA20870	hap1	GIH	True	non-AFR
+c0836	NA20870_hap2_hprc_r2_v1.0.1|w4|c1	NA20870_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	NA20870	hap2	GIH	True	non-AFR
+c0837	NA20905_hap1_hprc_r2_v1.0.1|w3|c1	NA20905_hap1_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	f- 1-	False	SAS	False	False	A	NA20905	hap1	GIH	True	non-AFR
+c0840	NA20905_hap2_hprc_r2_v1.0.1|w5|c2	NA20905_hap2_hprc_r2_v1.0.1	SMN1	telomeric	-	full	SMN1	2- 2- 1-	False	SAS	False	False	A	NA20905	hap2	GIH	True	non-AFR
+c0841	NA21093_hap1_hprc_r2_v1.0.1|w3|c0	NA21093_hap1_hprc_r2_v1.0.1	SMN1	centromeric	+	full	SMN1	1+ 2+	False	SAS	False	False	A	NA21093	hap1	GIH	True	non-AFR
+c0843	NA21093_hap2_hprc_r2_v1.0.1|w4|c0	NA21093_hap2_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 1+	False	SAS	False	False	A	NA21093	hap2	GIH	True	non-AFR
+c0844	NA21093_hap2_hprc_r2_v1.0.1|w4|c1	NA21093_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	False	SAS	False	False	A	NA21093	hap2	GIH	True	non-AFR
+c0845	NA21102_hap1_hprc_r2_v1.0.1|w4|c0	NA21102_hap1_hprc_r2_v1.0.1	SMN1	centromeric	+	trunc5	SMN1	1+ 2+	False	SAS	False	False	A	NA21102	hap1	GIH	True	non-AFR
+c0848	NA21102_hap2_hprc_r2_v1.0.1|w4|c1	NA21102_hap2_hprc_r2_v1.0.1	SMN1	middle	+	full	SMN1	2+ 1+ 2+	False	SAS	False	False	A	NA21102	hap2	GIH	True	non-AFR
+c0851	NA21106_hap1_hprc_r2_v1.0.1|w4|c1	NA21106_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	NA21106	hap1	GIH	True	non-AFR
+c0853	NA21106_hap2_hprc_r2_v1.0.1|w4|c1	NA21106_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	NA21106	hap2	GIH	True	non-AFR
+c0855	NA21110_hap1_hprc_r2_v1.0.1|w3|c1	NA21110_hap1_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	NA21110	hap1	GIH	True	non-AFR
+c0857	NA21110_hap2_hprc_r2_v1.0.1|w4|c1	NA21110_hap2_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2- 1+	False	SAS	False	False	A	NA21110	hap2	GIH	True	non-AFR
+c0858	NA21144_hap1_hprc_r2_v1.0.1|w4|c0	NA21144_hap1_hprc_r2_v1.0.1	SMN1	centromeric	-	trunc5	SMN1	1- 2+	False	SAS	False	False	A	NA21144	hap1	GIH	True	non-AFR
+c0860	NA21144_hap2_hprc_r2_v1.0.1|w5|c0	NA21144_hap2_hprc_r2_v1.0.1	SMN1	single	-	full	SMN1	1-	False	SAS	False	False	A	NA21144	hap2	GIH	True	non-AFR
+c0862	NA21309_mat_hprc_r2_v1.0.1|w4|c1	NA21309_mat_hprc_r2_v1.0.1	SMN1	middle	-	full	SMN1	2+ 1- 1+	True	AFR	False	False	A	NA21309	mat	MKK	True	AFR
+c0863	NA21309_mat_hprc_r2_v1.0.1|w4|c2	NA21309_mat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	2+ 1- 1+	True	AFR	False	False	A	NA21309	mat	MKK	True	AFR
+c0864	NA21309_pat_hprc_r2_v1.0.1|w4|c0	NA21309_pat_hprc_r2_v1.0.1	SMN1	centromeric	-	full	SMN1	1- 1+	True	AFR	True	True	B	NA21309	pat	MKK	True	AFR
+c0865	NA21309_pat_hprc_r2_v1.0.1|w4|c1	NA21309_pat_hprc_r2_v1.0.1	SMN1	telomeric	+	full	SMN1	1- 1+	True	AFR	False	True	B	NA21309	pat	MKK	True	AFR
+c0867	chm13v2.0_maskedY_rCRS.fa.PanSN|w4|c1	chm13v2.0_maskedY_rCRS.fa.PanSN	SMN1	telomeric	+	full	SMN1	2- 1+	False	reference	False	False	A			reference		non-AFR
+c0869	hg002v1.1.mat_MT.PanSN|w4|c1	hg002v1.1.mat_MT.PanSN	SMN1	telomeric	+	full	SMN1	2- 1+	False	other	False	False	A	HG002_Q100	mat		True	non-AFR
+c0871	hg002v1.1.pat.PanSN|w4|c1	hg002v1.1.pat.PanSN	SMN1	telomeric	+	full	SMN1	2- 1+	False	other	False	False	A	HG002_Q100	pat		True	non-AFR

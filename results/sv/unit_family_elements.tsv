@@ -1,0 +1,6 @@
+family	occurrences	haplotypes	share_Acore	share_K	share_Xi	share_S	share_Xd	share_E	share_Fl	share_other	top_combo	top_combo_n	main_element
+A	550	270	0.922	0.001	0.009	0.0	0.004	0.055	0.0	0.008	A core	360	A core
+B	456	266	0.039	0.033	0.671	0.007	0.011	0.0	0.0	0.239	Xi + other	281	Xi
+C	254	227	0.0	0.091	0.011	0.001	0.394	0.366	0.0	0.137	Xd + E + other	183	Xd
+D	161	156	0.169	0.012	0.0	0.0	0.0	0.819	0.0	0.0	A core + E	154	E
+E	76	72	0.0	0.001	0.833	0.062	0.086	0.0	0.0	0.017	Xi	67	Xi

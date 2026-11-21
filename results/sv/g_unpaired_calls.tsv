@@ -1,0 +1,161 @@
+row	sites	G	arr	t2
+HG00097_hap2_hprc_r2_v1.0.1	C1-like T0-like axis	False	2- 1-	False
+HG00099_hap1_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG00126_hap1_hprc_r2_v1.0.1	C1-like C1-like C1-like T0-like	False	2- 1+	False
+HG00128_hap2_hprc_r2_v1.0.1	C1-like T0-like	False	2- 1+	False
+HG00146_hap2_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG00235_hap1_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+HG00235_hap2_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	True	1+ 2+	False
+HG00253_hap2_hprc_r2_v1.0.1	C1-like C1-like C1-like T0-like axis	True	2- 1-	False
+HG00290_hap2_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG00320_hap1_hprc_r2_v1.0.1	C1-like C1-like T0-like	False	1+	False
+HG00321_hap1_hprc_r2_v1.0.1	C1-like T0-like	False	1-	False
+HG00350_hap1_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG00350_hap2_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG00438_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	1+ 2+	False
+HG00438_pat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG00544_pat_hprc_r2_v1.0.1	C1-like T0-like axis	False	2+ 1+	False
+HG00558_pat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG005_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	2- 1-	False
+HG00609_mat_hprc_r2_v1.0.1	C1-like T0-like T1-like	False	1-	True
+HG00609_pat_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2+ 1-	False
+HG00621_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	2+ 1+	False
+HG00639_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	2+ 1+	False
+HG00642_mat_hprc_r2_v1.0.1	C1-like T0-like T1-like axis	True	2+ 1+	True
+HG00642_pat_hprc_r2_v1.0.1	C1-like C1-like T0-like T1-like	False	1- 2-	True
+HG00741_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	1- 2-	False
+HG01074_mat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG01081_mat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG01106_pat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG01123_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	1- 1-	False
+HG01123_pat_hprc_r2_v1.0.1	C1-like C1-like C1-like T0-like axis	True	2- 1-	False
+HG01150_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like	False	2- 1+	True
+HG01167_hap2_hprc_r2_v1.0.1	C1-like C1-like C1-like T0-like	False	2+ 1+	False
+HG01192_mat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	2- 1+	True
+HG01243_mat_hprc_r2_v1.0.1	C1-like C1-like T0-like	False	2- 1-	False
+HG01252_mat_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+HG01252_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG01255_pat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG01258_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	2- 1-	False
+HG01261_pat_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+HG01346_mat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG01346_pat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG01358_mat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG01358_pat_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+HG01433_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	2+ 1+	False
+HG01433_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like axis	True	2+ 1+	True
+HG01496_mat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG01530_hap2_hprc_r2_v1.0.1	C1-like C1-like C1-like T0-like	False	2+ 1+	False
+HG01784_hap1_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG01784_hap2_hprc_r2_v1.0.1	C1-like T0-like axis	True	2- 1-	False
+HG01786_hap1_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+HG01884_pat_hprc_r2_v1.0.1	T0-like T1-like axis	True	h21- 1-	True
+HG01891_pat_hprc_r2_v1.0.1	C1-like C1-like T0-like T1-like	True	2+ 1+	True
+HG01928_mat_hprc_r2_v1.0.1	C1-like T0-like T1-like	False	1-	True
+HG01934_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG01940_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG01943_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG01952_pat_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+HG01975_mat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG01981_mat_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	True	1+ 2+	False
+HG02004_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like	False	1+	True
+HG02040_hap1_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG02056_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	2+ 1+	False
+HG02132_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	2+ 1+	False
+HG02148_mat_hprc_r2_v1.0.1	C1-like T0-like axis	True	2- 1-	False
+HG02155_hap1_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG02165_hap1_hprc_r2_v1.0.1	C1-like T0-like axis	False	2+ 1+	False
+HG02165_hap2_hprc_r2_v1.0.1	C1-like T0-like axis	False	2+ 1+	False
+HG02257_mat_hprc_r2_v1.1.0	C1-like C1-like T0-like axis	True	1+ 2+	False
+HG02257_pat_hprc_r2_v1.1.0	C1-like T0-like axis	False	2- 1-	False
+HG02391_hap1_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+HG02451_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like	False	1+	True
+HG02514_mat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG02514_pat_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+HG02559_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	2- 1-	False
+HG02572_mat_hprc_r2_v1.0.1	C1-like T0-like axis	True	2- 1+	False
+HG02602_mat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1-	True
+HG02602_pat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG02615_pat_hprc_r2_v1.0.1	C1-like C1-like C1-like T0-like	False	2+ 1-	False
+HG02630_pat_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2+ 1-	False
+HG02668_mat_hprc_r2_v1.0.1	T0-like axis	False	1- 2- 1-	False
+HG02717_mat_hprc_r2_v1.0.1	T0-like	False	1- 1+	False
+HG02735_mat_hprc_r2_v1.0.1	C1-like C1-like C1-like T0-like axis	True	2- 1-	False
+HG02735_pat_hprc_r2_v1.0.1	C1-like T0-like	False	1-	False
+HG02738_pat_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	True	1+ 2+	False
+HG02841_pat_hprc_r2_v1.0.1	C1-like C1-like C1-like T0-like	True	2+ 1-	False
+HG02886_mat_hprc_r2_v1.0.1	C1-like C1-like T0-like T1-like	True	2+ 1+	True
+HG02886_pat_hprc_r2_v1.0.1	C1-like C1-like C1-like T0-like	False	2+ 1-	False
+HG03041_mat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG03050_mat_hprc_r2_v1.0.1	C1-like T0-like axis	True	1+ h21+	False
+HG03050_pat_hprc_r2_v1.0.1	C1-like T0-like axis	False	2- 1-	False
+HG03098_pat_hprc_r2_v1.0.1	T0-like axis	False	1- h21-	False
+HG03139_hap2_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG03195_hap1_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG03225_hap2_hprc_r2_v1.0.1	T0-like T1-like T1-like axis	False	1- 2-	True
+HG03453_mat_hprc_r2_v1.0.1	C1-like T0-like axis	True	1+ h21+	False
+HG03470_hap1_hprc_r2_v1.0.1	C1-like T0-like T1-like T1-like axis	True	2+ 1+	True
+HG03516_mat_hprc_r2_v1.1.0	C1-like T0-like T1-like	True	1+	True
+HG03540_pat_hprc_r2_v1.0.1	T0-like	False	1- 1+	False
+HG03579_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG03583_hap1_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG03669_mat_hprc_r2_v1.0.1	C1-like T0-like axis	False	2+ 1+	False
+HG03742_hap2_hprc_r2_v1.0.1	T0-like	False	1-	False
+HG03831_mat_hprc_r2_v1.0.1	C1-like T0-like	False	1-	False
+HG03831_pat_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	True	2- 1-	False
+HG03834_pat_hprc_r2_v1.0.1	C1-like C1-like C1-like T0-like axis	True	2- 1-	False
+HG03874_hap1_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG03874_hap2_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG03927_pat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG03942_mat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG04115_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1+	True
+HG04184_mat_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+HG04184_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	1-	True
+HG04187_mat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+HG04187_pat_hprc_r2_v1.0.1	C1-like C1-like C1-like T0-like axis	True	2- 1-	False
+HG04204_mat_hprc_r2_v1.0.1	C1-like T0-like	False	1- 1+	False
+HG06807_mat_v1.0.genbank	C1-like C1-like C1-like T0-like	False	2- 1+	False
+HG06807_pat_v1.0.genbank	C1-like T0-like	False	1+	False
+NA18505_hap1_hprc_r2_v1.0.1	T0-like axis	False	1- h21-	False
+NA18505_hap2_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	True	h21+ 1-	False
+NA18508_hap2_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+NA18608_hap1_hprc_r2_v1.0.1	C1-like T0-like T1-like axis	True	2+ 1+	True
+NA18906_mat_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+NA18943_hap2_hprc_r2_v1.0.1	C1-like T0-like axis	False	2- 1-	False
+NA18944_hap1_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+NA18948_hap1_hprc_r2_v1.0.1	C1-like T0-like axis	False	2- 1-	False
+NA18952_hap1_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+NA18960_hap1_hprc_r2_v1.0.1	C1-like C1-like C1-like C1-like T0-like axis	True	2- 2- 1-	False
+NA18960_hap2_hprc_r2_v1.0.1	C1-like T0-like T1-like	False	1-	True
+NA18967_hap2_hprc_r2_v1.0.1	C1-like T0-like T1-like	False	1-	True
+NA18970_hap1_hprc_r2_v1.0.1	C1-like T0-like axis	False	2+ 1+	False
+NA18971_hap2_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+NA18976_hap2_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+NA18982_hap2_hprc_r2_v1.0.1	C1-like T0-like axis	False	2+ 1+	False
+NA19087_hap2_hprc_r2_v1.0.1	C1-like T0-like T1-like axis	True	2+ 1+	True
+NA19159_hap1_hprc_r2_v1.0.1	C1-like T0-like axis	False	2- 1-	False
+NA19338_hap2_hprc_r2_v1.0.1	C1-like T0-like axis	False	2- 1-	False
+NA19468_hap1_hprc_r2_v1.0.1	C1-like C1-like T0-like	True	2- 1-	False
+NA19468_hap2_hprc_r2_v1.0.1	T0-like T1-like	False	1-	True
+NA19909_hap1_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	2- 1-	True
+NA19909_hap2_hprc_r2_v1.0.1	T0-like axis	False	1- h21-	False
+NA20129_pat_hprc_r2_v1.0.1	C1-like T0-like T1-like	True	2- 1-	True
+NA20282_hap2_hprc_r2_v1.0.1	T0-like axis	False	1- h21-	False
+NA20346_hap2_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+NA20503_hap1_hprc_r2_v1.0.1	C1-like T0-like axis	False	2- 1-	False
+NA20503_hap2_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+NA20762_hap2_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	True	1+ 2+	False
+NA20799_hap2_hprc_r2_v1.0.1	C1-like T0-like T1-like	False	1-	True
+NA20805_hap1_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+NA20805_hap2_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+NA20806_hap1_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	2- 1-	False
+NA20806_hap2_hprc_r2_v1.0.1	C1-like T0-like axis	True	2+ 1-	False
+NA20827_hap1_hprc_r2_v1.0.1	C1-like C1-like T0-like	False	2- 1-	False
+NA20870_hap1_hprc_r2_v1.0.1	C1-like T0-like	False	1+	False
+NA20905_hap1_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	False	f- 1-	False
+NA20905_hap2_hprc_r2_v1.0.1	C1-like T0-like axis axis	False	2- 2- 1-	False
+NA21093_hap1_hprc_r2_v1.0.1	C1-like C1-like T0-like axis	True	1+ 2+	False
+NA21102_hap1_hprc_r2_v1.0.1	C1-like T0-like axis	False	1+ 2+	False
+NA21102_hap2_hprc_r2_v1.0.1	C1-like C1-like T0-like axis axis	False	2+ 1+ 2+	False
+NA21144_hap2_hprc_r2_v1.0.1	C1-like T0-like	False	1-	False
+hg002v1.1.mat_MT.PanSN	C1-like C1-like C1-like T0-like	False	2- 1+	False

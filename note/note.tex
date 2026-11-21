@@ -1,0 +1,527 @@
+\documentclass[10pt]{article}
+\usepackage[a4paper,margin=2.2cm]{geometry}
+\usepackage{graphicx,booktabs,array,xcolor,url,caption,enumitem,longtable}
+\usepackage[hidelinks]{hyperref}
+\input{numbers}
+\input{revision}
+\input{tab_neighbor}
+\input{tab_lin_comp}
+\input{tab_lin_pop}
+\input{tab_grpdist}
+\input{tab_chenhg}
+\input{tab_apes}
+\input{tab_slots}
+\input{tab_unitfam}
+\input{tab_unitfam_el}
+\input{tab_elements}
+\input{tab_numsrc}
+\input{tab_twoscales}
+\input{tab_decomp}
+\captionsetup{font=small,labelfont=bf}
+\setlist{nosep,leftmargin=1.4em}
+\newcommand{\cpe}{c.*3+80T>G}
+\newcommand{\RUf}[1]{\ensuremath{\mathrm{R}^{\mathrm{f}}_{\mathrm{#1}}}}% repeat-unit family of the finer decomposition (Section S8)
+\newcommand{\RU}[1]{R\textsubscript{#1}}% repeat-unit family (PANGEA repeat-units), kept apart from SMN1 lineages and arm elements
+\title{SMN1 lineages on a mirrored repeat: the large-scale structure of the SMN region against the SMN gene sequence in \nHapsRes{} assembled human haplotypes}
+\author{Chen-Shan Chin\\ \small Diploid Genomics Inc.}
+% draft label kept out of the rendered PDF (researcher, 2026-11-20); scripts/42_revision.py still writes the macros
+% \date{Draft, revision \draftrev{} (git \texttt{\draftgit}), \today}
+\date{\today}
+\setlength{\emergencystretch}{2em}
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\noindent Spinal muscular atrophy (SMA) is caused by loss of \emph{SMN1}, and its severity is set mainly by the copy
+number of the nearly identical \emph{SMN2}. Both lie in large inverted segmental duplications at 5q13. Since the genes were found in the 1990s, maps built from
+cloned DNA and pulsed-field gels have shown copy-number differences, gene conversion and hybrid genes there, but they
+could not resolve how the copies are arranged on each chromosome. Dosage assays, and reads mapped to the reference with
+copy-number calls, cannot resolve it either, and the reference GRCh38 does not carry the commonest
+arrangement. Long-read sequencing has now made phased assemblies routine for many diverse genomes, so the arrangement
+can be read directly. We resolved the region on one contig in \nHapsRes{} haplotype
+assemblies of the Human Pangenome Reference Consortium (HPRC) release~2, decomposed it into large repeat units with PANGEA and
+aligned every SMN copy. Most haplotypes carry a head-to-head inverted repeat with one SMN copy on each arm, at mirror
+positions. Its centromeric arm either carries or lacks one element, X: part of an inverted copy of the arm's core (the part of the arm next to the center, which holds its SMN copy) together with a direct copy of that part, an inverted repeat centered on a short spacer (of the \elCOne{} arms with both of its halves, all but \xcNoS{} have the spacer between them, and X is \xFormShortKb{} or \xFormLongKb{}\,kb on \xFormTwoN{}). The rest of that inverted copy lies beside X on almost every arm that carries it, and together they split \emph{NAIP}. The SMN1 copies fall into two lineages, and lineage B is found
+almost only in African-ancestry haplotypes. Most notably, SMN1 lineage is tightly linked to the repeat structure:
+B's sub-lineage B1, as the centromeric copy of the inverted repeat, lies on an arm that lacks X in \elBoneCZero{} of \elBoneCen{} cases (within African-ancestry haplotypes \elAfrBoneCZero{} of \elAfrBoneCen; Fisher $p=$\,\elAfrBoneP). The common African two-copy SMN1 allele pairs B1 head to
+head with the other sub-lineage, B2, on such a chromosome, and in the two largest structure clusters the haplotypes with this inverted repeat separate almost completely by whether their centromeric arm carries X. In each great-ape haplotype assembly searched (two per species) the region around the locus carries one whole SMN copy, and its self dot plot shows no large repeat, with far fewer repeat matches than a human haplotype. Assemblies thus add the order,
+orientation and lineage of the copies on each chromosome to copy number, a basis for haplotype-aware carrier testing,
+in particular in African-ancestry populations, where two-copy SMN1 alleles are common.
+\end{abstract}
+
+\section{Introduction}\label{m:intro}
+SMA is a recessive motor-neuron disease caused in most patients by homozygous loss of \emph{SMN1}. Lefebvre et
+al.\ identified \emph{SMN1} as the SMA-determining gene in 1995 and found a nearly identical copy,
+\emph{SMN2}~\cite{lefebvre1995}. The two genes differ at a handful of bases; a C-to-T change six bases into exon~7
+(c.840C>T, in the coding notation of the Human Genome Variation Society, HGVS; Section~\ref{m:arr}) makes most \emph{SMN2} transcripts skip exon~7, so \emph{SMN2} makes little full-length protein and cannot
+replace a lost \emph{SMN1}~\cite{lorson1999,monani1999}. The number of \emph{SMN2} copies a patient carries goes with
+milder disease, and treatments that raise SMN protein, an antisense oligonucleotide that corrects \emph{SMN2} splicing
+and a gene therapy that adds \emph{SMN1}, have changed the outlook for patients treated
+early~\cite{mercuri2022,finkel2017,mendell2017}. Diagnosis, newborn screening and carrier screening therefore all rest
+on counting \emph{SMN1} and \emph{SMN2} correctly~\cite{prior2008}.
+
+Counting them is hard. Both genes vary in copy number between chromosomes, and a dosage test that reads
+\emph{SMN1} exon~7 (multiplex ligation-dependent probe amplification, MLPA; quantitative PCR, qPCR; droplet digital
+PCR, ddPCR) gives a person's total, not how the copies are shared between the two
+chromosomes. A carrier with two \emph{SMN1} copies on one chromosome and none on the other (a ``2+0'' or silent
+carrier) looks like a non-carrier. This matters most in African-ancestry populations: Hendrickson et al.\ found
+chromosomes with more than one \emph{SMN1} copy far more often in African Americans than in other groups, and the
+detection rate of dosage-based carrier screening is correspondingly lower there~\cite{hendrickson2009,sugarman2012}.
+Single bases that tag duplicated \emph{SMN1} alleles, such as \cpe{} (in intron~7; notation in Section~\ref{m:arr}, lineages in Section~\ref{m:lineages}), change a person's residual risk, but they tag
+only some duplication alleles and their value differs between
+populations~\cite{luo2014,feng2017,milligan2021,mikhalchuk2025}.
+
+Short-read genome callers and the long-read caller
+Paraphase now estimate copy numbers and phase variants within each gene~\cite{chen2020,chen2023}, and Chen et al.\
+used Paraphase to sort \emph{SMN1} copies into haplogroups and to identify a common African two-copy \emph{SMN1}
+allele~\cite{chen2023}. Neither reports where the copies sit on a chromosome or which way they face.
+
+That the genes lie in a large, unstable duplication was known before the human genome was sequenced. Family studies
+mapped SMA to the long arm of chromosome~5 in 1990~\cite{brzustowicz1990,melki1990,gilliam1990}. Lefebvre et al.\ then found the
+SMN genes in two copies within an inverted duplication of about 500~kb, named by position the telomeric (SMNtel, now
+\emph{SMN1}) and centromeric (SMNcen, now \emph{SMN2}) copies~\cite{lefebvre1995}; we call these positions telSMN and cenSMN. \emph{NAIP} (NLR family apoptosis inhibitory protein) was mapped to the same region~\cite{roy1995}, and the
+\emph{GTF2H2} (p44) gene was found duplicated in it~\cite{burglen1997}.
+
+Without sequence across
+the region, its layout was pieced together from cloned maps and pulsed-field gels. Campbell et al.\ found differences
+of up to several hundred kilobases in the size of the region between healthy people, inherited as Mendelian traits,
+and read the milder forms of SMA as conversion of \emph{SMN1} to \emph{SMN2} rather than deletion~\cite{campbell1997};
+van der Steege et al.\ found hybrid genes joining one gene's exon~7 to the other's exon~8~\cite{vandersteege1996}.
+Campbell et al.\ noted that exact copy numbers could not be determined reliably with those methods~\cite{campbell1997}. Recent work still describes
+the architecture of the locus as not fully known, and has proposed that rearrangements beyond copy number shape both
+carrier status and severity~\cite{vorster2020,wadman2020,berzal2026}. Short reads do not settle it
+either. Reads from nearly identical copies are mapped to the reference genome and turned into copy-number calls, but the
+reference GRCh38 carries one arrangement, ``2+~1+'', which is found on only \arrRefN{} of the \nHapsRes{} resolved
+haplotypes studied here against \arrTopN{} for the commonest, ``2-~1+'' (Section~\ref{m:arr}); and copy numbers called
+against any reference do not say how the copies are ordered and oriented on each chromosome. That needs phased
+assemblies that span the region from one unique flank to the other.
+
+Long-read, haplotype-resolved assemblies now span the region. The Human Pangenome Reference Consortium (HPRC) released
+assemblies of diverse people~\cite{liao2023}, and its release~2 has added roughly five times as many genomes~\cite{lucas2026}, near-complete genomes resolve complex segmental
+duplications~\cite{logsdon2025}, and Suzuki et al.\ assembled complete SMN haplotypes in Japanese genomes, among them
+minor haplotypes absent from earlier pangenome graphs, and reported signs of one-way gene conversion around
+SMN~\cite{suzuki2026}. Zwartkruis et al.\ used long reads to find copy-specific markers of SMN gene conversion in
+patients~\cite{zwartkruis2025}. A pangenome graph records the shared sequence of many haplotypes~\cite{hickey2024},
+but reading from it, haplotype by haplotype, which copies are present, in what order and orientation, on which large
+repeat units, is a separate step.
+
+Here we take that step for the SMN region of HPRC release~2~\cite{lucas2026}. We use PANGEA, the successor of the PanGenome Research Tool Kit (PGR-TK), whose principal
+bundles decompose each haplotype into sequence blocks shared across haplotypes and group them into large repeat
+units~\cite{chin2023}; each SMN copy is named by its own bases and aligned over its gene body. We then ask how the
+large-scale structure and the gene sequence relate: which SMN1 lineages exist and where they sit, whether haplotypes
+with similar structure carry similar copies, what the long repeat units hold, and what order of events the copies and
+the great-ape outgroups suggest.
+
+\section{Results}\label{m:results}
+\subsection{The resolved haplotypes carry \arrTypes{} arrangements of SMN copies, almost all on large repeat units}\label{m:arr}
+Of the \nHapsAll{} haplotypes of the \nPeopleAll{} HPRC release-2 people, \nHapsRes{} hold the SMN region on one
+contig spanning it end to end (\emph{resolved}, though still subject to assembly error); \nPeopleBoth{} people have both haplotypes resolved. On \gapRes{} resolved haplotypes the contig still holds an assembly gap (a run of N) inside the region: a placeholder of at most \gapSmallMax~bp on \gapSmall, a gap of \gapBigMin--\gapBigMax~kb on \gapBig{} (\gapBigPal{} of these \gapBig{} are among the \elHaps{} haplotypes with the palindrome described below, against \gapRestPal{} of the \gapRestN{} resolved haplotypes without a large gap, Fisher $p=$\,\gapPalP: a large gap can hide the pair); all are kept in the analysis.
+\nHapsResSMNone{} of the resolved haplotypes carry an SMN1 copy and \nHapsResNoSMNone{} carry none; with GRCh38 and CHM13 (the complete telomere-to-telomere reference assembly),
+the \nHapsResSMNone{} make the \mlbHaps{} haplotypes on which structure and sequence are compared (Section~\ref{m:struct}).
+The resolved haplotypes with repeat units also number \palHaps, but they are a different set from the \nHapsResSMNone{} with an SMN1 copy: \nHapsNoUnits{} resolved haplotypes have no
+units and \nHapsResNoSMNone{} have no SMN1 copy, and only \nHapsNoUnitsNoSMNone{} haplotype is in both. Each SMN copy is
+named by its own bases at c.840 (exon~7) and c.*239 (exon~8), positions in HGVS coding notation: c.840 is base 840 of the coding sequence, c.*239 (as in Berzal-Serrano et al.~\cite{berzal2026}) the 239th base after the stop codon counted along the spliced transcript, in exon~8 (exon~7 ends at c.*3, three bases past the stop codon), and an intronic position such as c.*3+80 lies 80 bases into intron~7 after that last base of exon~7: SMN1, SMN2, the hybrids h12 (SMN1's base at c.840, SMN2's at c.*239) and h21 (the
+reverse), or a $\Delta$7--8 copy, which lacks exons 7 and 8 (Fig.~\ref{fig:locus}c; Supplementary Section~\ref{sec:compared}). A haplotype's
+\emph{arrangement} lists its copies from the centromeric to the telomeric end with their strands: ``2-~1+'' is a
+reversed SMN2 copy beside a forward SMN1 copy, a head-to-head inverted pair; GRCh38 itself reads ``2+~1+'' and CHM13
+``2-~1+''. The resolved haplotypes carry \arrTypes{} arrangements, \arrOnce{} of them on one haplotype only; ``2-~1+''
+is the commonest (\arrTopN{} haplotypes).
+
+Each haplotype's \emph{window}, the stretch of its contig that holds the SMN region (Methods), decomposes into large repeat units, groups of bundles (the shared sequence blocks of the Introduction) that recur within a haplotype, labeled by family
+(Fig.~\ref{fig:allhaps}).
+
+We write the families \RU{A}, \RU{B}, \dots{} (R for repeat unit).
+Haplotypes are named by HPRC sample, then \emph{mat}/\emph{pat} for the maternal and paternal haplotype of a trio-phased assembly, or \emph{hap1}/\emph{hap2} for one phased without parental data.
+
+Of the \nHapsRes{} resolved haplotypes, \nHapsNoUnits{} have no repeat unit at all (\palNoUnitsList). Each carries a single reversed SMN copy in a window of \nouLenMin--\nouLenMax~kb, against at least \nouOtherMin~Mb for every other resolved haplotype, and in each window every bundle occurs once except bundle \nouArrBundle, the $\sim$20-kb tandem-array unit (\nouArrMin--\nouArrMax{} copies), so there is nothing for PANGEA to pair into a unit. These haplotypes carry none of the large repeat that the rest of this study describes. All four donors are from African-ancestry populations of the 1000 Genomes Project (\nouPops; ASW, African ancestry in the southwest USA; ESN, Esan in Nigeria; MSL, Mende in Sierra Leone), part of the continental group AFR, the 1000 Genomes African superpopulation (Section~\ref{m:anc}); the other continental groups are the 1000 Genomes superpopulations AMR (admixed American), EAS (East Asian), EUR (European) and SAS (South Asian). None of them is a single forward SMN1 copy, so none is among the ``1+'' haplotypes below.
+
+The families are PANGEA's segmentation of the windows, not biological units: where a unit starts and stops depends on how the program chains bundles between the two arms of a pair (Supplementary Section~\ref{sec:palindrome}), and each family is mostly one or a few of the arm elements defined in Section~\ref{m:arms} (Supplementary Table~\ref{tab:unitfamel}).
+
+PANGEA finds an adjacent inverted pair of \RU{A} units on \palAdj{} of the \palHaps{} haplotypes with units: \palHead{} head to head, \RU{A}+ then \RU{A}$-$, and \palTail{} tail to tail, \RU{A}$-$ then \RU{A}+ (\palTailHaps; \palTailArr). On \palPair{} the head-to-head pair carries an SMN copy on each \emph{arm}, each side of the pair's center (the other, \palNoCopyHap, has none on its telomeric arm); these \palPair{} are the palindrome studied here, with its two \RU{A} units of median \palArmL{} and \palArmR{}~kb (within a haplotype the two units differ by a median of \palArmDiff~kb; an arm runs out to the end of the window, not only to the end of the unit) on either side of a
+stretch that neither unit covers; we call the center of the pair the \emph{axis} and give positions on the arms in kb from it. That stretch is of either about \palGapShort~kb (\palGapShortN{} haplotypes) or about \palGapLong~kb (\palGapLongN{} haplotypes; \palGapOtherN{} others fall outside both). The spacer S, a short sequence block described with the arm elements below (Section~\ref{m:arms}), which marks the center of the inverted pair, lies, almost always, not in that stretch but inside one of the two \RU{A} units (\palSinA{} of the \palGapSN{} copies of S at the axis, on \palGapSHaps{} haplotypes) (Fig.~\ref{fig:locus}a; Supplementary Section~\ref{sec:palindrome}). Each arm holds one SMN
+copy, flanked in the drawn examples by \emph{SERF1} (small EDRK-rich factor~1, with copies \emph{SERF1A} and \emph{SERF1B}; its function is not known) on one side and \emph{NAIP} on the other (Fig.~\ref{fig:locus}). The copies lie
+\palDmin--\palDmax~kb from the axis (median \palDmed; nine in ten between \palDlo{} and \palDhi~kb), and the two copies of a haplotype are placed in near mirror image,
+their distances from the axis differing by a median of \palMirror~kb. Beyond the \RU{A} pair the order of PANGEA's repeat units is a mirror image on
+\palDeeper{} haplotypes (\palDeeperHap); by content, the arms beyond the core (the part of each arm next to the axis) differ by arm type. In brief, defined in full in Section~\ref{m:arms}: beyond the core an arm may carry Xi$'$ and Xi, the inner and outer parts of an inverted copy of the core, split by a tandem array, a short spacer S (which also sits at the axis), Xd, a direct copy of core sequence, and E, the stretch carrying \emph{GTF2H2} (general transcription factor IIH subunit 2); X is Xi, S and Xd together, an inverted repeat centered on S (Xi$'$, nearer the core, lies outside it). A cenSMN arm is type C1 with Xd (and with it X, on all but \xcNoS{} arms, which lack S) and C0 without; a telSMN arm is type T1 with Xd and T0 without. The cenSMN and telSMN positions (Lefebvre et al.'s SMNcen and SMNtel) are the copy slots on the left
+(centromeric, \RU{A}+) and right (telomeric, \RU{A}$-$) arms. The other \palNoPair{} haplotypes with units have no such palindrome (\palNoAdj{} have no adjacent inverted \RU{A} pair at all; the other \palAdjNotPal{} have one, \palTail{} tail to tail and one, \palNoCopyHap, head to head with no copy on its telomeric arm); they include all \palNoOne{} resolved single-copy ``1+'' haplotypes, every one of which has repeat units.
+
+\begin{figure}[htbp]\centering
+\includegraphics[width=\linewidth]{../figures/locus_diagram.png}
+\caption{The SMN region as this study defines it (haplotype names as in Section~\ref{m:arr}). \textbf{a}, \dpAName{}, a ``2-~1+'' haplotype whose cenSMN arm
+carries X (type C1) and whose telSMN arm is type T0 (arm types, defined in Section~\ref{m:arms}: C1 or C0, cenSMN arm with or without Xd, and so with or without X, the element made of Xi, S and Xd, which on all but \xcNoS{} C1 arms is whole; T0 or T1, telSMN arm without or with Xd, a direct copy of core sequence beyond the spacer S), drawn to scale around the axis of its head-to-head pair of
+\RU{A} repeat units (\RU{A}+ then \RU{A}$-$): repeat units as bars labeled by family and strand (light, reverse strand; the
+whole assembled window is drawn; every haplotype's units are in Fig.~\ref{fig:allhaps}), the genes found in the window
+as arrows in their direction of transcription (pale where the match covers less than 90\% of the transcript), and the
+two SMN copies as ticks colored by gene and SMN1 lineage (A, B1, B2; Section~\ref{m:lineages}), one on each arm, at the cenSMN (left) and telSMN (right)
+positions. The strip under the units gives the arm elements of Section~\ref{m:arms}: the core (tan, from the axis to the end
+of the core), Xi$'$ (pale blue) and Xi (blue), the inner and outer parts of an inverted copy of the core beyond the core, of which Xi, S and Xd make X, the spacer S (magenta, also at the axis), Xd (green), E (gold; the stretch, carrying \emph{GTF2H2}, that follows a copy of the core's end) and
+the unique flank (gray). On the cenSMN arm of (a) the partial \emph{NAIP} at the end of the core and the one beyond X, next to
+E, are the two parts of one gene split by X. \textbf{b}, \dpDName{}, a ``1-~1+'' haplotype with one copy of each of the SMN1 sub-lineages B1 and B2 (Section~\ref{m:lineages}),
+ whose cenSMN arm lacks X (type C0; \emph{NAIP} whole) and whose telSMN arm carries Xd (type T1). Neither
+haplotype carries a hybrid copy. Both are chosen by rule (Methods). \textbf{c}, the copy classes, read from each
+copy's own bases at c.840 and c.*239 (definitions only; the tick colors are listed beside them). Gene labels: \emph{GTF2H2C}, GTF2H2 family member~C; \emph{OCLN}, occludin. Each repeat unit is drawn as an arrow pointing along its strand, so the \RU{A}+ and \RU{A}$-$ units point head to head at the axis and the inverted and direct copies beyond them read off by direction. Unit-family
+colors are the same in Figs.~\ref{fig:locus} and \ref{fig:allhaps}. Repeat-unit families are written \RU{A}, \RU{B}, \dots{} (with a strand, as \RU{A}+ or \RU{B}$-$). The \RU{A} units of (a) and (b) differ in length (\auAcenUnit{} and \auAtelUnit~kb against \auDcenUnit{} and \auDtelUnit~kb; each unit begins about \dpAxisGap~kb from the axis, so the drawn units reach that much further) far more than their cores do (to the end of the core \auAcenCore{} and \auAtelCore~kb against \auDcenCore{} and \auDtelCore~kb): a unit ends where the two arms stop matching in mirror image, which in (b) is beyond the core's end and E, present on both arms, and in (a) before the core's end, because the cenSMN arm continues with X instead (Section~\ref{m:arms}).}
+\label{fig:locus}
+\end{figure}
+
+\begin{figure}[p]\centering
+\includegraphics[width=\linewidth,height=0.78\textheight,keepaspectratio]{../figures/all_haplotypes.png}
+\caption{Every resolved haplotype whose window PANGEA decomposed into repeat units, one row each (the \nHapsNoUnits{} resolved haplotypes without units, Section~\ref{m:arr}, are not drawn), aligned on its most
+telomeric SMN copy (x = 0) and grouped by arrangement type (haplotype counts at left; types on fewer than five
+haplotypes pooled; in the type codes a number or letter names the copy, 1 SMN1, 2 SMN2, h12 and h21 the hybrids, d2 a $\Delta$7--8 copy of SMN2 type, t a truncated copy and f a fragment (one haplotype each), and $+$/$-$ its strand, Supplementary Section~\ref{sec:compared}). Bars: large repeat units colored by family (each family defined by its bundle content in Supplementary
+Table~\ref{tab:unitfam}), dark for the forward and light for the reverse strand. \RU{A} units end near the end of the core, before it or beyond the E that follows it depending on the arm type (Section~\ref{m:arms}); what the arms hold beyond the core is read from
+their elements (Section~\ref{m:arms}). Ticks: SMN copies, colored by class, with SMN1 split into lineage A (red) and the B sub-lineages B1 (black) and B2
+(brown; Section~\ref{m:lineages}). Left strip: continental group of the donor (1000 Genomes superpopulation; ``ASL or no label'' marks the one donor whose population code in the HPRC sample table is ASL, which is not one of the 1000 Genomes population codes, and the two donors with no population label). Within an arrangement group, rows are ordered by
+UPGMA (unweighted pair-group average-linkage clustering; Sokal and Michener, 1958) on the structural distance between windows (PANGEA's bundle distance, defined in Methods and Supplementary Section~\ref{sec:compared}).}
+\label{fig:allhaps}
+\end{figure}
+
+\subsection{SMN1 copies fall into two lineages; lineage B, almost only African, has two sub-lineages}\label{m:lineages}
+The \nCopies{} whole counted copies, from every haplotype including \nCopiesUnres{} copies on \nCopiesUnresHaps{} haplotypes not resolved end to end (\nSMNone{} SMN1, \nSMNtwo{} SMN2, \nHtwentyone{} h21 and \nHtwelve{} h12; the
+\nDelLeftOut{} $\Delta$7--8 copies and \nJoined{} copy joined from two pieces left out, Methods) were aligned over the \nGeneCols{} columns of the multiple alignment
+that lie between the 2-kb flanks (the gene body; Supplementary Section~\ref{sec:compared}). A maximum-likelihood (ML) tree
+with \iqBoot{} ultrafast bootstrap replicates (a clade's support is the percentage of the \iqBoot{} replicate trees that contain it), rooted on the orangutan copy with the chimpanzee, bonobo and gorilla copies
+included (the ape copies do not fall in species order, so the root is uncertain; Section~\ref{m:hist}), divides the human copies into two halves (Fig.~\ref{fig:mltree}): one of \mlIcopies{} copies (support
+\mlIsup) holding \mlIB{} SMN1 copies and \mlIh{} h21 copies, and one of \mlIIcopies{} copies (support \mlIIsup)
+holding the other \mlIIA{} SMN1 copies, all \mlIISMNtwo{} SMN2 copies, \mlIIh{} h21 and \mlIIhtwelve{} h12 copies. We
+call the SMN1 copies of the first half \emph{lineage B} and those of the second \emph{lineage A}. Within B's half two
+clades are supported: \emph{B1}, \linBone{} SMN1 copies together with the \mlBhH{} h21 copies (support \mlBhSup), and
+\emph{B2}, \linBtwo{} SMN1 copies (support \mlEightSup); \linBnone{} B copies fall in neither. B2 is nearer A in p-distance (the share of differing bases between two copies, over the columns where both carry a base; \gsABtwo{} differences per kb) than it is to B1 (\gsBoneBtwo; Supplementary Section~\ref{sec:grpdist}). The maximum-likelihood tree puts B1 and B2 in one half (\mlIcopies{} copies, support \mlIsup, with the \linBnone{} B copies of neither clade), but the node that joins B1 and B2 alone (\mlBBjoinCopies{} copies) has support \mlBBjoinSup.
+
+The lineages coincide with Chen et al.'s SMN1 haplogroups, found from PacBio HiFi (high-fidelity long) reads with Paraphase~\cite{chen2023}, whose
+``haplotype'' is one gene copy rather than one chromosome. B1 holds all \hgNineB{} copies of the S1-9 family (S1-9,
+S1-9c, S1-9d) and \hgBoneSix{} of the \hgSixB{} S1-6 copies (S1-6 with its subgroup S1-6c), B2 all \hgEightB{} S1-8 copies, and the \hgBnoneSix{} B
+copies in neither clade are S1-6; no copy of these three haplogroups is in lineage A (Supplementary
+Table~\ref{tab:chenhg}). In each of the \hgPeople{} people the two studies share, our B count equals each person's
+number of S1-6, S1-8 and S1-9 copies. B is found in all \ldAfrPopsB{} African-ancestry populations sampled, at
+\ldShareMin--\ldShareMax\% of SMN1 copies in the \ldAfrPopsBig{} with ten or more, and outside them only in
+\linBNonAfrPops{} SMN1 copies; \linBAfr{} of the \linB{} B copies come from African-ancestry donors.
+
+Compared pair by pair over the gene body (Supplementary Section~\ref{sec:grpdist}), lineage A is \gdATwoMean{}
+differences per kb from SMN2 and \gdABMean{} from B. Within B, B1 is the copy group furthest from SMN2
+(\gsBoneTwo), B2's distance from SMN2 lies between those of A and B1 (\gsBtwoTwo), and B1 and B2 are \gsBoneBtwo{} apart. B2 is the least varied group
+(\gsBtwoBtwo{} within it), then B1 (\gsBoneBone); A and SMN2 vary equally (\gsAA{} and \gdTwoTwoMean).
+
+The lineages differ at \abCols{} gene-body columns of the multiple sequence alignment (MSA), where the commonest states of A and B differ; adjacent columns of one insertion or deletion count as one event, leaving
+\abEvents{} events (\abSNV{} base changes and \abIndel{} insertions or deletions), mostly in intron~1 (\abIntronOne{} events) and
+intron~6 (\abIntronSix{} events; Supplementary Fig.~\ref{fig:absites}); SMN2 carries lineage A's state at \abSmnTwoA{} of them and B's at \abSmnTwoB. At \abNearFixed{} events each lineage carries its own
+state in at least 90\% of its copies, and at \abPerfect{} in every copy: \abPerfOneKind{} at chr5:\abPerfOnePos{} in
+the 5$'$ untranslated part of exon~1 (\abPerfOneC, \abPerfOneBefore{} bases before the start codon) and \abPerfTwoKind{} at chr5:\abPerfTwoPos{} in intron~1. None
+lies in the coding sequence. The marker \cpe{}, in intron~7, is on \linBoneMk{} of the \linBone{} B1 copies,
+\linBtwoMk{} of the \linBtwo{} B2 copies and no A copy. Because the lineages were cut from a tree built on the same
+alignment, how cleanly these sites separate them is partly built in and needs testing in other samples.
+
+\begin{figure}[p]\centering
+\includegraphics[width=\linewidth,height=0.80\textheight,keepaspectratio]{../figures/ml_tree.png}
+\caption{Maximum-likelihood tree of the \nCopies{} SMN copies over the gene body (IQ-TREE, \iqModel: the general time-reversible substitution model with base frequencies from the data and four gamma-distributed rate categories), rooted on the
+orangutan copy, with the chimpanzee, bonobo and gorilla copies; the ape branches are compressed past the break. The ape copies do not fall in species order (the gorilla copy is sister to the human copies, ultrafast bootstrap support \mlGorSup\% of \iqBoot{} replicates), so the root is uncertain.
+Red numbers, ultrafast-bootstrap support (percentage of \iqBoot{} replicate trees) of clades of \setSupMin{} or more copies. Strips, one row per copy: class, with SMN1
+split into lineage A (red) and sub-lineages B1 (black) and B2 (brown); Chen et al.'s SMN1 haplogroup; arm, as in Fig.~\ref{fig:locus}: the cenSMN or telSMN arm of the head-to-head \RU{A} pair that holds the copy, or `no \RU{A} pair' for a copy on a resolved haplotype without that pair (the cenSMN count is the \armCenInTree{} of the \armCenItems{} items on that arm, as in Fig.~\ref{fig:palindrome}, that are in the tree; the other \armCenNotTree{} are not: \armCenNTDel{} $\Delta$7--8 copies, \armCenNTTrunc{} truncated piece and \armCenNTComp{} SMN2 copy assembled from two pieces (\armCenNTCompHap), none of which is a whole copy (Methods; the trees use the whole copies); blank for the \nCopiesUnres{} copies on the \nCopiesUnresHaps{} haplotypes not resolved end to end);
+arrangement type of the copy's haplotype, as in Fig.~\ref{fig:allhaps}, with types found on fewer than 10 resolved haplotypes pooled as `other types' (blank as for arm; Fig.~\ref{fig:allhaps} pools at fewer than five, so its `other types' is a smaller set); continental group of the donor (legend counts are copies, not haplotypes; the \spNone{} copies of GRCh38 and CHM13 have no group and are not counted).}
+\label{fig:mltree}
+\end{figure}
+
+\subsection{The common African two-copy SMN1 allele is a head-to-head pair of B1 and B2}\label{m:cen}
+The assemblies give each copy's place in its haplotype, which alignments of reads to a reference cannot tell. Lineage A is mostly telomeric (\linATel{} telomeric and \linACen{} centromeric copies; a copy's place here is its order among the window's SMN copies, Supplementary Section~\ref{sec:posstrand}, not the arm labels of Section~\ref{m:arms}, and the copies left over are single or middle copies or lie on haplotypes not resolved end to end), while B is found in both places (\linBCen{} centromeric,
+\linBTel{} telomeric). The sub-lineages separate the two: B1 is centromeric in \linBoneCen{} copies, every one reversed (on a palindrome haplotype the centromeric copy always reads reversed; Supplementary Section~\ref{sec:posstrand}),
+and telomeric in \linBoneTel; B2 is telomeric in \linBtwoTel, every one forward, and centromeric in \linBtwoCen{}
+(two-sided Fisher exact $p=$\,\linSubPpos; Supplementary Section~\ref{sec:posstrand}). On the \linMixHaps{}
+haplotypes that carry one B1 and one B2 copy (all \linMixHaps{} ``1-~1+'', \linMixAfr{} of them from African-ancestry donors), B1 is
+centromeric and reversed on \linMixBoneCenRev{} and B2 telomeric and forward on \linMixBtwoTelFwd: Chen et al.'s common African two-copy allele (S1-8 with S1-9d; their Table~2)~\cite{chen2023}, whose two haplogroups fall in B2 and B1 (Section~\ref{m:lineages}), is, on the assemblies, the head-to-head inverted pair
+with B1 at cenSMN and B2 at telSMN; on the other \linMixSwap{} (\linMixSwapNames) the two sit the other way round, B1 at telSMN and B2 at cenSMN. The test below uses the \mOneAFRN{} resolved AFR haplotypes with an SMN1 copy (the \dosAfrHaps{} resolved AFR haplotypes less the \dosAfrNoSmnOne{} with none). Of the
+\ldTestBN{} of them that carry a B copy, \ldTestBMulti{} have two or more SMN1 copies,
+against \ldTestNoBMulti{} of the \ldTestNoBN{} without one (Fisher $p=$\,\ldTestP); read the other way,
+\ldTestBMulti{} of the \ldTestMultiN{} AFR haplotypes with two or more SMN1 copies carry B.
+
+On the inverted \RU{A} pair (Fig.~\ref{fig:palindrome}a,c; Supplementary Table~\ref{tab:slots}), the left (cenSMN) arm of AFR
+haplotypes holds SMN1 B on \slLAfrB{} of \slLAfr{} (B1 on \slLAfrBone{}, B2 on \slLAfrBtwo; the table pools B), SMN2 on \slLAfrTwo{} and A on \slLAfrA, while in the other groups it
+holds SMN2 on \slLOthTwo{} of \slLOth{} arms (the table counts \slLOthItems{} items there: one arm also carries a truncated piece); the right (telSMN) arm of AFR haplotypes holds B2 on \slRAfrBtwo{} and A on \slRAfrA{} of \slRAfr{} (the table pools B there too: \slRAfrBtwo{} B2 with \slRAfrBone{} B1), and in the other groups A on \slROthA{} of \slROth. In this cohort's African-ancestry haplotypes
+the commonest gene at the cenSMN position is thus SMN1 of sub-lineage B1, not SMN2; Lefebvre et al.'s naming of the two
+loci by position~\cite{lefebvre1995} fits most haplotypes outside Africa.
+
+B1 is a sequence lineage, not a place in the window:
+\linBoneTel{} B1 copies are telomeric, of the \linMkSingleB{} haplotypes whose only SMN1 copy is B, \linMkSingleBone{} carry B1 (\linMkSingleBtwo{} B2, \linMkSingleBnone{} a B copy in neither clade), and B1 also
+forms SMN1 + h21 pairs, ``1-~h21+'' (\ldHtwoOnePlusN{} haplotypes) and ``1-~h21-'' (\ldHtwoOneMinusN), where every SMN1 copy is B1 (\ldHtwoOneBOne{} of \ldHtwoOneN); the \ldOnePHtwoOneN{} ``1+~h21+'' haplotypes carry B2 instead (Supplementary
+Section~\ref{sec:lindetail}).
+
+By arm, the cenSMN or telSMN arm of the head-to-head \RU{A} pair as in Fig.~\ref{fig:locus}, or no such pair (the `arm' strip of Fig.~\ref{fig:mltree}), B copies on the cenSMN arm are further from SMN2 than those on the telSMN arm (\dcBArmCen{} against \dcBArmTel{} differences per kb; Kruskal--Wallis test over the three arm groups, $p=$\,\dcPBArm), which reflects B1 against B2; B copies on haplotypes without the pair are \dcBArmNo. A copies on the two arms are equally far (\dcAArmCen{} and \dcAArmTel; \dcAArmCenN{} and \dcAArmTelN{} copies; the GRCh38 and CHM13 copies are left out of these tests), and A copies on haplotypes without the pair are slightly further (\dcAArmNo; three arm groups, $p=$\,\dcPAArm). A copies also differ by arrangement type ($p=$\,\dcPAArr) and, slightly, by whether a full \emph{NAIP} lies 3$'$ of the copy ($p=$\,\dcPANaip; medians \dcANaipSpread{} per kb apart), but these shifts are small: the arm moves the medians by at most \dcArmSpread{} per kb, and across arrangement types they run from \dcAArrMin{} to \dcAArrMax. Within AFR the arm difference of A is not seen ($p=$\,\dcPAfrAArm), while arrangement type still shifts the AFR A copies' medians, by up to \dcAfrArrSpread{} per kb ($p=$\,\dcPAfrAArr), a shift that comes from the \dcAfrArrOneOneN{} A copies on AFR ``1-~1+'' haplotypes (median \dcAfrArrOneOneMed{} against \dcAfrArrOthMin--\dcAfrArrOthMax{} for the other types) (Supplementary Section~\ref{sec:distctx}).
+
+\begin{figure}[p]\centering
+\includegraphics[width=\linewidth,height=0.88\textheight,keepaspectratio]{../figures/palindrome.png}
+\caption{The \RU{A} palindrome read as named elements. \textbf{a}, what each arm holds: the items on the left
+(cenSMN, \RU{A}+) and right (telSMN, \RU{A}$-$) arms of the AFR haplotypes and of those of the other groups, by gene and, for
+SMN1, lineage (numbers in the bars are items; each arm holds one copy, and one arm also a truncated piece). On the
+cenSMN arm of AFR haplotypes B1 is the commonest gene (\slLAfrBone{} of \slLAfr), ahead of SMN2 (\slLAfrTwo{} of \slLAfr); in the
+other groups SMN2 holds it (\slLOthTwo{} of \slLOth). \textbf{b}, the four forms of the palindrome, cenSMN arm C1
+(with Xd, and so X, the inverted repeat of Xi, S and Xd, whole on all but \xcNoS{} arms; Xi$'$ on nearly all) or C0 (none of them), telSMN arm T0 (Xi and S, with Xi$'$ on nearly all) or T1 (X, then Xi$'$, Xi and S further out), each drawn from the median block
+positions (labels as in panel c; Fl, unique flank) of the arms with that type's commonest layout, with the number of haplotypes (AFR in brackets); brackets mark X (Xi--S--Xd) on C1 cenSMN arms and, on T1 telSMN arms, its inverted copy, which reads the same outward from the axis and so runs the opposite way along the window. \textbf{c},
+all \palPair{} haplotypes with the palindrome (an adjacent \RU{A}+ \RU{A}$-$ pair with an SMN copy on each arm; Section~\ref{m:arr}), each a row aligned on its own axis (dashed) and colored by
+element over its whole window, grouped by form; brown squares, AFR. Thin black lines, the $\sim$20-kb tandem arrays;
+dots, the \palCopies{} items (red, SMN1 lineage A, \palSmnA; black, B1, and brown, B2, together \palSmnB{} B copies;
+blue, SMN2, \fdSmnTwo; purple, hybrids, \fdHyb; orange, $\Delta$7--8 copies, \fdDel; gray, the truncated piece, \fdTrunc); triangles, \emph{NAIP} (filled, whole; open, a 5$^\prime$ or 3$^\prime$ part). Every copy stays
+\palDmin--\palDmax~kb from the axis. \textbf{d}, for each haplotype the nearest copy on the left arm against the
+nearest on the right; point size, number of haplotypes; points on the diagonal are exact mirrors (median difference
+\palMirror~kb). Element ends, and so the axis, are known only to the resolution of PANGEA's bundles.}
+\label{fig:palindrome}
+\end{figure}
+
+\subsection{The cenSMN arms differ by whether they carry X, which goes with a split NAIP; its absence goes with lineage B1}\label{m:arms}
+Read bundle by bundle, with the bundles PANGEA identifies, the arms of the \RU{A} pair (here each side of the axis out to the end of the window, not the \RU{A} unit of Section~\ref{m:arr}) are a fixed series of named elements (Fig.~\ref{fig:locus}a; Fig.~\ref{fig:palindrome}b,c; Supplementary Section~\ref{sec:palindrome}). Walking outward from the axis, every arm begins with the core, which holds the arm's one counted SMN copy, whole or $\Delta$7--8 (\armOneCopy{} of \armN{} arms; Methods), and ends a median \elAEnd~kb out at a short run of bundles, the end of the core. Beyond it lie an inverted copy of the core, split by a $\sim$20-kb tandem array into an inner part, Xi$'$, nearer the core, and an outer part, Xi; S, a spacer of median \sLen~kb, which also sits at the main axis; Xd, a direct copy of Xi; E, a stretch carrying a whole \emph{GTF2H2} (\elGtfE{} of the \elGtfAll{} \emph{GTF2H2} matches lie in E); and the window's unique flank. Xi, S and Xd form an inverted repeat centered on S, which we call X, after its shape in a self dot plot: Xi and Xd draw a line across the diagonal that crosses it at S (Supplementary Fig.~\ref{fig:xcross}). Xi$'$ is not part of X: it has no partner across S, its partner being the core itself across the main axis, and with Xi it makes one inverted copy of the whole core, split by the array. On the cenSMN arm X runs from a median \xOutStart{} to \elCXdHi~kb from the axis and takes one of two lengths, \xFormShortKb{} or \xFormLongKb~kb (\xFormShortN{} and \xFormLongN{} of the \xSpanN{} arms with the commonest layout, none in between; \xFormBigN{} arms are longer, and the other \xSpanRest{} C1 arms carry an extra element and are not measured).
+
+Each arm is one of two types, decided by Xd (C1 and T1 carry it, C0 and T0 do not). On the cenSMN arm \elCOne{} arms carry Xi and Xd, (type C1; \xpCOneBoth{} of them carry Xi$'$ as well); on all but \xcNoS{} of them (\xcNoSNames) S lies between the two, so that X is whole, and \elCZero{} carry none of them (type C0). On the telSMN arm Xi and S are always present: \elTZero{} arms lack Xd (type T0) and \elTOne{} carry it (type T1), there as an inverted copy of the cenSMN X. A haplotype's form pairs its two arm types, cenSMN arm first: C1|T0, C1|T1, C0|T0 or C0|T1 (Fig.~\ref{fig:palindrome}b). Where the \RU{A} unit of Section~\ref{m:arr} ends is set by what follows the core on each arm, so a long or short \RU{A} unit reports the arm type beside it, not a longer or shorter core (Supplementary Section~\ref{sec:palindrome}).
+
+Xi$'$ and X split \emph{NAIP}. The gene spans the end of the core: on every C0 arm (\elNaipWholeCZero{} of \elCZero) a whole \emph{NAIP} crosses it and ends a median \elNaipPast~kb beyond. On \elNaipSplit{} of the \elCOne{} C1 arms the gene is cut there: a 3$^\prime$ part ends at the end of the core, and a 5$^\prime$ part lies beyond X, at the next copy of the core's end, next to E. Both cuts fall at exon junctions of the \emph{NAIP} transcript \nxTx{}, and the 5$^\prime$ part ends at codon \nxFiveCodon{} of \nxCodons, so it holds the first two of the protein's three BIR (baculovirus IAP repeat) domains and part of the third (Supplementary Section~\ref{sec:palindrome}). Per window, \elNaipTwoWholeCZero{} of the \elCZero{} haplotypes with a C0 arm have two whole \emph{NAIP} genes; \elNaipOneWholeCOne{} of the \elCOne{} with a C1 arm have one.
+
+S is one element by sequence too, and comes in two variants: the S of X on the cenSMN arm matches the same haplotype's axis S (\sCenSa{} of \sCenAll; median \sSaMed{} differences per kb), while the S on the telSMN arm differs from it by a median \sStMed{} per kb (\sTelSt{} of \sTelAll{} compared; Supplementary Section~\ref{sec:palindrome}).
+
+The SMN copy's distance from the axis rises with the number of units in a tandem array inside the core, of $\sim$\elInnerUnit-kb units (Spearman \elRhotel{} on the telSMN arm, \elRhocen{} on the cenSMN arm), and copies lie further out on T1 arms (median \elCopyDTOne{} against \elCopyDTZero~kb) and on C0 arms (\elCopyDCZero{} against \elCopyDCOne~kb). Campbell et al.\ saw differences of up to several hundred kilobases here by pulsed-field gels and proposed a tandem ``midisatellite'' array as their cause~\cite{campbell1997}; on the assemblies the arms differ by X and by the copy numbers of $\sim$20-kb tandem arrays at three places: inside the core, between Xi$'$ and Xi on C1 cenSMN arms, and between Xi$'$ and Xi on the telSMN arm (Supplementary Section~\ref{sec:palindrome}).
+
+The arm types go with lineage and ancestry. C0 arms are common in AFR haplotypes (\elCZeroAfr{} of \elAfrHaps) and
+rare elsewhere (\elCZeroNonAfr{} of \elNonAfrHaps). A B1 copy at cenSMN sits on a C0 arm on \elBoneCZero{} of
+\elBoneCen{} arms; within AFR, \elAfrBoneCZero{} of \elAfrBoneCen{} B1 arms against \elAfrOthCZero{} of \elAfrOthCen{}
+other cenSMN arms (Fisher $p=$\,\elAfrBoneP). All \elBB{} haplotypes with one B1 and one B2 copy have a C0 cenSMN arm,
+and \elBBTOne{} of them a T1 telSMN arm; within AFR the telSMN arm of a B2 copy is T1 on \elAfrBtwoTOne{} of
+\elAfrBtwoTel, against \elAfrOthTOne{} of \elAfrOthTel{} other telSMN arms ($p=$\,\elAfrBtwoP). The two types go
+together (C0 with T1 on \elFzeroone{} haplotypes; Fisher $p=$\,\elFormP) within AFR ($p=$\,\elFormAfrP) but not
+outside it ($p=$\,\elFormNonAfrP). Within AFR the link rests on the B1+B2 chromosome: left out, the two types no longer go together
+(among the other \elFormAfrNoBBn{} AFR haplotypes, no association: the telSMN arm is T1 on \elFormAfrNoBBzPct\% of those with a C0 arm, \elFormAfrNoBBzt{} of \elFormAfrNoBBzN, against \elFormAfrNoBBoPct\% of those with a C1 arm, \elFormAfrNoBBot{} of \elFormAfrNoBBoN). Of the \elFzeroone{} C0|T1 haplotypes, \elFzerooneBB{} are B1+B2 and \elFzerooneNotBB{} are not. No EAS haplotype has a T1 arm.
+The \elCZeroNotBB{} C0 arms on other haplotypes (\elCZeroNotBBAfr{} AFR) show that lacking X is not confined to it.
+
+\subsection{Large-scale structure and SMN1 sequence go together in part, in bands of arrangement and haplogroup}\label{m:struct}
+Haplotypes whose large-scale structure is similar (PANGEA's bundle distance over the whole window) carry similar SMN
+copies: the rank correlation between the structural and sequence distances is \mantelAll{} over all copies (all \tsAllN{} windows, GRCh38 and CHM13 included), \mOneR{}
+over SMN1 copies (the \mlbHaps{} haplotypes of Section~\ref{m:arr}) and \mTwoR{} over SMN2 copies, each $p\le$\,\mantelP{} (Mantel test, which compares the two distance matrices against \nPerm{} shuffles of the haplotypes in one of them, so $p$ is at the smallest value they can give; also with haplotypes shuffled only
+within AFR and within non-AFR, or within each of five continental groups; Supplementary Section~\ref{sec:structseq}), though the two trees built from these distances
+agree only loosely (cophenetic correlation \cophenetic, the correlation between haplotype-to-haplotype distances read off the structure tree and off the maximum-likelihood tree of Fig.~\ref{fig:mltree}; Supplementary Section~\ref{sec:cophen}). On the finer bundle
+decomposition the link is a little stronger (\tsOneF{} over SMN1;
+Supplementary Section~\ref{sec:fine}).
+
+The agreement comes in bands: sets of haplotypes that fall together in one cluster of the structure tree and one
+supported clade of the SMN1 maximum-likelihood tree (Methods; Supplementary Fig.~\ref{fig:tangclus}). Three form. One
+holds \cbABn{} of the \linMixHaps{} ``1-~1+'' haplotypes that carry B1 and B2 (\cbABexp{} expected, $p=\cbABp$), each
+with two divergent SMN1 copies, one per arm (Fig.~\ref{fig:palindrome}a,c): B1 and B2 differ by \gsBoneBtwo{}
+differences per kb, nearly as much as lineage A differs from SMN2 (\gsATwo). A second holds \cbTwon{} haplotypes
+whose one SMN1 copy lies in the supported ML clade that holds most S1-2 copies ($p=\cbTwop$), none from an African-ancestry donor and none with the head-to-head \RU{A} pair. The third is a loose bulk of
+\cbBulkn{} haplotypes ($p=\cbBulkp$), mostly ``2-~1+'', whose SMN1 copy lies in no supported clade. The bands hold at each of
+\mlbSettings{} settings of the clade thresholds (Supplementary Section~\ref{sec:bands}).
+
+At the bundle decomposition used here, what splits the two largest of the \scN{} structure clusters (\scFirst{} and \scSecond{} haplotypes; the next holds \scThird) is the cenSMN arm type (Section~\ref{m:arms}); at a finer decomposition they split by the telSMN arm type instead (Supplementary Section~\ref{sec:fine}). Among the haplotypes with
+the head-to-head \RU{A} pair, all \afBulkPair{} in the bulk band's cluster are C1 (carry Xi and Xd), and \afMixCZero{} of the
+\afMixPair{} in the B1\,+\,B2 band's cluster lack it (C0; Fisher $p=$\,\afPC); every B1\,+\,B2 band haplotype is C0.
+Within one arrangement type, pairs still separate largely by SMN1 haplogroup, in structure as well as in sequence
+(Supplementary Section~\ref{sec:hgscatter}).
+
+
+\subsection{The structure differs between continental groups, most between AFR and the rest}\label{m:anc}
+Over \anHaps{} resolved haplotypes of \anPeople{} people in the five 1000 Genomes continental groups (the resolved haplotypes less the \anLeftOut{} of the three donors outside the five groups: the one coded ASL, not a 1000 Genomes population, and the two with no population label), arrangement
+types differ between groups ($\chi^2=\anChi$, Cram\'er's $V=\anV$, a 0--1 measure of how strongly type and group are associated, \anPerm{} permutations of people, $p\le\anPArr$, the floor): ``2-~1+'' is
+\shTwoMOnePAfr\% of AFR haplotypes against \shTwoMOnePEur--\shTwoMOnePEas\% elsewhere, and ``1-~1+'' \shOneMOnePAfr\%
+in AFR against at most \shOneMOnePSas\% (Supplementary Fig.~\ref{fig:ancestry}). Group explains \anRsqAll\% of the
+variance in structural distance (PERMANOVA, permutational analysis of variance on the distances~\cite{anderson2001}; \anPermPA{} permutations of people, $p\le\anPAll$, the floor), and \anRsqNonAfr\% among the four groups other than AFR
+($p=\anPNonAfr$). The number of SMN copies per haplotype does not differ ($p=\anPSmn$), but what they
+hold does: SMN1 by exon~7 is \anOneAfr{} per haplotype in AFR against \anOneEas--\anOneSas{} elsewhere
+($p\le\anPOne$, the floor of \anPermPA{} permutations), the B1 copies at cenSMN described above.
+
+\subsection{A proposed history: most of SMN2's defining bases look derived, and different parts of the gene tell different histories}\label{m:hist}
+In each of the \apeHaps{} great-ape haplotypes searched (chimpanzee, bonobo, gorilla and orangutan, both haplotypes of
+each T2T (telomere-to-telomere) assembly~\cite{yoo2025}) we found one SMN copy in the region searched around the locus (Supplementary Section~\ref{sec:history}), and every one carries SMN1's base at c.840 and c.*239
+(Supplementary Section~\ref{sec:history}, Table~\ref{tab:apes}). At the \evS{} sites where SMN1 and SMN2 are each
+fixed (at least 90\% of copies) for different bases, all in a \evSspanKb-kb stretch from intron~6 to exon~8 (\bzMatch{} of the \bzPsvN{} paralogous sequence variants in Fig.~4 of Berzal-Serrano et al.~\cite{berzal2026}), the base most apes share (taken as ancestral; the four apes agree at \evSunan{} of the \evS) is
+SMN1's at \evSancOne{} (c.840 and c.*239 among them) and SMN2's at \evSancTwo{}, and at the remaining \evSunres{} the ape base is unresolved (single apes carry SMN2's base at \evTwoBaseMin--\evTwoBaseMax); A and B both carry SMN1's
+base at all \evS, and share the newer SMN1 base at \evSsharedAB. At the \evAB{} sites where A and B are each fixed for
+different bases (the \abNearFixed{} near-fixed events of Section~\ref{m:lineages} less one insertion or deletion, as this comparison
+counts bases only), all between exon~1 and intron~2, upstream of that stretch, the apes carry B's base at \evABancB{} and A's at
+\evABancA{} (one, at the end of a homopolymer run, cannot be read in the apes; ape bases are read from the raw ape sequence, Methods). SMN2 carries A's base at all \evABtwoEqA{} A/B sites, so at the \evABancB{} where the apes carry B's base A and SMN2 share the newer base. These ape bases come from the primary assembly of each species only; the other haplotype assemblies were typed pair-wise (Table~\ref{tab:apes}) and give the same counts as their primary for chimpanzee, bonobo and gorilla, but the orangutan alternate carries A's base at \apeAltOrangA{} A/B sites and B's at \apeAltOrangB{} (its primary, pair-wise, \apeOrangPairA{} and \apeOrangPairB), and SMN1's base at \apeAltOrangSOne{} paralog sites and SMN2's at \apeAltOrangSTwo{} (primary \apeOrangPairSOne{} and \apeOrangPairSTwo). These primary pair-wise counts differ from the history's because the history reads each site from the raw ape sequence, which corrects the pair-wise typing at a few orangutan sites (Supplementary Section~\ref{sec:history}); either way the orangutan reading is the least certain. So in the intron~6--exon~8 stretch A groups
+with B, while upstream A groups with SMN2, as the maximum-likelihood tree, which places SMN2 in A's half, does over the
+gene body as a whole.
+
+One reading (Fig.~\ref{fig:evo}): the human copies first divided into B's side and a side
+holding A and SMN2; SMN2 then acquired its defining bases in the intron~6--exon~8 stretch, where A and B kept or
+shared SMN1 bases. Gene conversion between copies, which keeps SMN1 and SMN2 alike outside that stretch and which Suzuki et al.\ reported as putatively biased, in one direction, around SMN~\cite{suzuki2026}, would produce the same mixed signal from other orders,
+and the order rests on \evS{} and \evAB{} sites. Rochette et al.\ reported 2--7 SMN copies per diploid chimpanzee genome
+by quantitative PCR and no SMN2 bases in non-human primates~\cite{rochette2001}; the single copy we find per ape
+haplotype does not fit an SMN duplication older than the human--chimpanzee split, and which is right is open; a near-identical duplication collapsed in the ape assemblies would also give one copy.
+The apes' structure points the same way: none of the \apeHaps{} ape stretches (3~Mb around the copy) shows the large
+repeats (\apFarLo--\apFarHi{} dots per Mb more than 50~kb off the diagonal of a self dot plot, against \apFarHum{} per Mb in a human window),
+and in chimpanzee, bonobo and gorilla both arms of the human core land, in the same order from the axis, on one ape stretch
+(\apShareLo--\apShareHi\% of each arm's matches within one \apWin-kb stretch), so the palindrome looks younger than these
+species' split from us; S is found in chimpanzee and bonobo but not in gorilla or orangutan (Supplementary
+Section~\ref{sec:history}, Figs.~\ref{fig:apeself} and~\ref{fig:apehum}). These comparisons use all \apeHaps{} ape haplotype assemblies (two per species) and one
+human haplotype (HG01099 mat) as the reference. Over the
+whole gene body the SMN2 copies form a clade with the \mlSTwoPH{} h21 copies and no SMN1 copy (\mlSTwoMrca{} copies, support \mlSTwoMrcaSup); the SMN1 copies nearest it are A copies, \mlSTwoTen{} S1-10 joining first (the \mlSTwoCopies-copy clade they form with the SMN2 and h21 copies has support \mlSTwoSup) and then \mlSTwoPOne{} S1-1 (a clade of \mlSTwoPCopies{} copies, support \mlSTwoPSup), and the
+gorilla copy, not chimpanzee or bonobo, is sister to the human copies (ultrafast bootstrap support \mlGorSup\% of \iqBoot{} replicates), a further sign that a
+single tree of this gene is not a single history.
+
+\begin{figure}[htbp]\centering
+\includegraphics[width=\linewidth]{../figures/evolution_order.png}
+\caption{A proposed order of events and the sites behind it. \textbf{a}, the order, with the evidence for each event
+beside it: [here], computed in this study; [quoted], from a paper. \textbf{b}, each site where SMN1 and SMN2 (paralog sites)
+or lineages A and B (A/B sites) are fixed for different bases: the majority base of lineage A, lineage B and SMN2 and
+the base of each ape's copy, read from the ape's raw sequence (Methods; ?, a site no ape aligns across cleanly); teal, the first state (SMN1 or A); ochre, the second (SMN2 or B); a dot marks a human
+group's base that differs from the base of at least three apes.}
+\label{fig:evo}
+\end{figure}
+
+\section{Discussion}\label{m:disc}
+\textbf{Assemblies give what dosage and reads leave out: where each copy sits.} Dosage assays count copies, and read
+callers such as Paraphase sort them into haplogroups and phase variants within a gene~\cite{chen2023}; neither places
+a copy on its chromosome. On the assemblies the order, orientation and repeat unit of every copy are read directly,
+and that is how the common African two-copy SMN1 allele was seen to be a head-to-head pair of the B1 and B2
+sub-lineages, and how the cenSMN arms were found to differ by whether they carry X, which goes with a split \emph{NAIP} where it is present, rather
+than by more SMN copies. The structure that maps of the 1990s pieced together as one inverted duplication~\cite{lefebvre1995,campbell1997}
+is, haplotype by haplotype, \arrTypes{} arrangements of SMN copies; on \palPair{} of the \palHaps{} haplotypes with
+repeat units the copies sit on the two arms of a palindrome of large \RU{A} units, and on the other \palNoPair{} there is
+no such palindrome.
+
+\textbf{Structure and sequence vary together, and not simply.} One result is that a haplotype's
+large-scale structure and the sequence of the SMN copies it carries are associated (Mantel correlation \mantelAll, $p\le$\,\mantelP),
+yet the two trees built from them agree only loosely (cophenetic correlation \cophenetic). The link is not one rule but
+a few bands, each joining a set of arrangements to one supported SMN1 clade, beside a bulk of haplotypes whose SMN1
+copies fall in no supported clade of that size (Section~\ref{m:struct}). The S1-2 band holds no African-ancestry haplotype and none with the head-to-head \RU{A} pair (Supplementary Section~\ref{sec:bands}), and the SMN1
+and SMN2 correlations remain when haplotypes are shuffled only within AFR and non-AFR, or within each of five continental groups, so shared ancestry alone does
+not account for it, though within AFR the SMN1 correlation is weaker (Mantel Spearman $\rho=\mOneAFRR$, against \mOneR{} over all SMN1 copies). The tests treat haplotypes as
+independent, and the structural distance also follows window length (Supplementary Section~\ref{sec:structseq}), so this is an
+association: it suggests that structure and copy sequence share a history, and does not show how. The tree of Fig.~\ref{fig:mltree} shows the same link on the SMN2 side: a clade of \sTwoClN{} SMN2 copies (support \sTwoClSup\%) lies most often on ``2-~1-'' haplotypes (\sTwoClTwoMinusOneMinus{} of its \sTwoClN{} copies) and only \sTwoClAfr{} on an African-ancestry one, and \sTwoClWithSOneTwo{} of the \sTwoClHaps{} such haplotypes in the structure tree also carry an SMN1 copy of the S1-2 clade. The S1-2 band is thus a set of haplotypes whose SMN1 and SMN2 copies each belong to a clade of their own, a link of structure to the sequence of both copies that arises outside African ancestry and that the bulk of haplotypes does not show.
+
+\textbf{How a palindrome could shape base changes is open.} On \palPair{} of \palHaps{} haplotypes the SMN copies lie one
+on each arm of an inverted pair of repeat units, at distances from the axis that differ by a median of only
+\palMirror{}~kb (Fig.~\ref{fig:palindrome}d), so the two copies of a haplotype sit at matching points of the mirror. Arms of the Y chromosome's
+palindromes exchange sequence by gene conversion~\cite{rozen2003}, and in one of them the arms were estimated to
+mutate more slowly than the spacer between them~\cite{bonito2021}.
+
+At the amylase locus, which we studied earlier with
+the same kind of assemblies and tools, nearly identical structures arose again and again on different haplotype
+backgrounds~\cite{bolognini2024}, through recurrent non-allelic homologous recombination from an ancient three-copy
+haplotype~\cite{yilmaz2024}, so there structure says little about the sequence it sits on; at 5q13
+part of the cohort shows the opposite, structures that travel with one sequence clade.
+
+Whether the palindrome acts on
+base changes directly, through pairing and conversion between mirrored copies or through how often and where the
+region rearranges, this study cannot say: it has no reads, no families and no mutation rates. It does say where to
+look. If conversion between mirrored arms acts, the two copies of one haplotype should be closer in sequence than
+copies at the same arm position on other haplotypes, conversion tracts should follow distance from the axis, and new
+changes in trios sequenced with long reads should fall unevenly along the arms; each test is open to the data that
+the next releases bring.
+
+\textbf{For carrier testing, the lineage of a copy is a second axis beside its count.} A two-copy SMN1 allele in this
+cohort's African-ancestry haplotypes usually carries lineage B (\ldTestBMulti{} of \ldTestMultiN{} such haplotypes),
+most often as B1 at cenSMN and B2 at telSMN. Chen et al.\ proposed haplotype-based screening for silent carriers from
+the S1-8 and S1-9 haplogroups~\cite{chen2023}; the sites that separate A from B, and the structural context, could serve
+the same purpose and are open to testing in families. The marker \cpe{}, introduced as a tag of SMN1 duplication alleles~\cite{luo2014}, sits on \linBoneMk{} of the \linBone{} B1 copies but on \linBtwoMk{} of the \linBtwo{} B2 copies, which shows
+why it misses part of the duplication alleles (Supplementary Section~\ref{sec:marker}). More broadly, a dosage assay reads one
+number per person, while an assembly gives for each chromosome the copies' order, orientation, lineage and the repeat
+units around them: the sites that separate A from B with no exception (\abPerfect, in the 5$'$ untranslated region and intron~1), the
+B1-at-cenSMN, B2-at-telSMN pair, and the cenSMN arm type C0, which marks the structure cluster of the B1\,+\,B2 band. These are
+candidate targets for assays that tell a two-copy chromosome from one copy on each, the case dosage misses; each
+needs testing in families of known phase before use. The case is not rare in the cohort: \dosTwo{} of the \nHapsRes{} resolved haplotypes carry two or more \emph{SMN1} exon-7 copies (\dosTwoAfr{} of the \dosAfrHaps{} resolved AFR ones; the \mOneAFRN{} AFR haplotypes of the Mantel tests are these less the \dosAfrNoSmnOne{} with no \emph{SMN1} copy), \dosZero{} carry none, counted as a dosage assay counts them, by exon~7, so an h12 copy counts as \emph{SMN1} (whole \emph{SMN1} copies: \dosTwoCopy{} haplotypes with two or more, Supplementary Section~\ref{sec:bands}, and \dosNoCopy{} with none, Section~\ref{m:arr}; the \dosHOneTwoN{} haplotypes that change class between the two counts each carry an h12 copy, which has SMN1's base at c.840), and \dosPeopleTwo{} of the \dosPeople{} people with both haplotypes resolved have a two-copy chromosome. None of them is 2+0, but each two-copy chromosome passed on together with a deletion chromosome makes a silent carrier whom an exon-7 dosage test reads as two copies, a non-carrier.
+
+\textbf{For reading reads, structure matters.} Reads from a person carrying B1 at cenSMN and B2 at telSMN come from two
+SMN1 copies \gsBoneBtwo{} differences per kb apart over the gene body; knowing the arrangement and lineage of the
+carrier's haplotypes tells a caller which copy a read belongs to. The same applies to \emph{NAIP}, whose copy number has been studied as a severity modifier (in one cohort it added nothing to \emph{SMN2} copy number~\cite{wadman2020}): a
+haplotype whose cenSMN arm carries X has its \emph{NAIP} there split in two by Xi$'$ and X, so it carries one whole \emph{NAIP}
+per window where a haplotype whose cenSMN arm lacks X carries two (\elNaipOneWholeCOne{} of \elCOne{} against \elNaipTwoWholeCZero{}
+of \elCZero), a structural source of \emph{NAIP} copy-number differences distinct from the SMN unit, and one a dosage
+assay of a single \emph{NAIP} exon would read differently depending on the exon.
+
+\textbf{What the history suggests.} Most of SMN2's defining bases look derived (of the \evS{} sites, \evSancOne{} look derived, \evSancTwo{} ancestral and \evSunres{} unresolved), and in the gene-body tree, whose root the ape copies leave uncertain (Section~\ref{m:lineages}), the two supported halves separate an almost wholly African group (lineage B, with some h21 copies) from the rest, SMN2 included. At the A/B sites upstream, SMN2 carries A's base at all \evABtwoEqA, and A and SMN2 share
+the newer base where the apes carry B's, while in the intron~6--exon~8 stretch A and B share newer SMN1 bases. With gene conversion active in the
+region~\cite{campbell1997,vandersteege1996,suzuki2026}, a single tree is not a single history; trees of the intron~6--exon~8
+stretch and of the rest of the gene, and more ape individuals, would test the order.
+
+\section{Limitations}\label{m:lim}
+\begin{itemize}
+\item \textbf{Assembled bases only.} No read confirms a copy, its order or its orientation; an assembly error at a
+copy-to-copy junction would change an arrangement and would show as reads that do not span it.
+\item \textbf{Lineages from the same alignment.} A, B, B1 and B2 were cut from a maximum-likelihood tree of the same
+alignment (supports \mlIsup, \mlIIsup, \mlBhSup{} and \mlEightSup); the node that joins B1 and B2 alone has support \mlBBjoinSup. Sites that separate
+the lineages perfectly here may not in other samples.
+\item \textbf{Copies are not independent.} Fisher, hypergeometric and permutation tests treat copies or haplotypes as independent;
+copies of one haplotype, and haplotypes of one person, are not. Mantel tests shuffle haplotypes, some within AFR and non-AFR or within five continental groups; only the ancestry tests (Section~\ref{m:anc}) shuffle
+whole people, keeping a person's two haplotypes together.
+\item \textbf{Ancestry.} Lineage B is almost only in African-ancestry haplotypes, so its associations with arm and
+structure cannot be tested elsewhere, and HPRC sampling is not proportional to populations.
+\item \textbf{Structural distance.} PANGEA's bundle distance scores the whole window and follows window length; the
+arrangement strings and the arm elements are the more direct description.
+\item \textbf{Outgroups.} One copy per ape haplotype, from one individual per species, and \evS{} and \evAB{} sites;
+the ape bases are read from one assembly each, one A/B site (\rdUnresSite) cannot be read in any ape, and gene conversion can make site patterns misleading.
+\end{itemize}
+
+\section{Methods}\label{m:methods}
+\textbf{Data.} The HPRC release-2 assemblies~\cite{lucas2026} of \nPeopleAll{} people (\nHapsAll{} haplotypes) with GRCh38 and CHM13,
+in an agc-rs archive (PANGEA's compressed sequence archive, from which any contig or stretch is extracted by name) indexed by PANGEA. The SMN window of each haplotype, its SMN copies and their classes, the gene
+features in each window (\emph{SERF1}, \emph{NAIP}, \emph{GTF2H2}, \emph{GTF2H2C}, GTF2H2 family member~C; \emph{OCLN}, occludin) and the per-haplotype
+tables come from a companion clinical study's pipeline at a fixed commit (\texttt{data/SOURCES.md}). The window is the contig stretch that a PANGEA query of the \wfQueryMb-Mb GRCh38 stretch chr5:\wfGStart--\wfGEnd{} against the release-2 index hits. All \wfN{} decomposed windows start within 2~kb of the query's start and \wfReachEnd{} reach its end (the other, \wfShortHap, ends \wfShortBp~bp short of it, still \wfShortTelKb~kb into single-copy sequence); every one begins and ends in bundles that occur only once in that window (the unique flank of Section~\ref{m:arms}), with at least \wfCenMin~kb (median \wfCenMed) of such single-copy sequence on the centromeric side and \wfTelMin~kb (median \wfTelMed) on the telomeric side (windows \wfLenMin--\wfLenMax~kb, median \wfLenMed; step~36). A copy is
+counted when it lies away from contig ends and gaps and is either whole (all nine exons: 1, 2a, 2b and 3--8) or a
+$\Delta$7--8 copy (exons 1--6, without 7 and 8). Of the \nCounted{} counted copies, \nAligned{} were aligned: the
+\nJoined{} copy the pipeline joined from two pieces of one contig was left out. The \nDelLeftOut{} $\Delta$7--8 copies are in the alignment
+(\nAlnRows{} rows) but are left out of the trees and distances (steps 05 and 07), which use the \nCopies{} whole copies. Copies are taken from every haplotype that carries one, resolved or not (\nCopiesUnres{} whole copies lie on \nCopiesUnresHaps{} haplotypes not resolved end to end); the structural comparisons use resolved haplotypes only.
+
+\textbf{Structure.} The windows were decomposed together into principal bundles with \texttt{pangea cohort bundle decomp}
+(\texttt{-w~48 -k~\dpCK{} -r~4 --min-span~\dpCSpan{} --min-branch-size~\dpCBranch{}}, bundle length cutoff and merge
+distance \dpCCut~bp; \dpCSegs{} bundle segments of \dpCBids{} bundles; step~00) and into large repeat units with \texttt{pangea cohort bundle
+repeat-units} at its default settings (PANGEA \verPangea; the algorithm is described in Supplementary Section~\ref{sec:compared}); the structural distance between two windows is the
+\texttt{pangea cohort bundle dist} score on the top \setTopN{} bundles by span, which here is every one of the \dpCBids{} bundles (step~01). A finer decomposition (cutoff \dpFCut, merge distance \dpFMerge~bp, other settings default; \dpFBids{} bundles) is
+used as a check (steps 01b, 28i and 37; every parameter of both in Supplementary Table~\ref{tab:decomp}).
+\textbf{Arm elements.} On each haplotype with a head-to-head \RU{A} pair, every bundle segment is put on the cenSMN or
+telSMN arm by its midpoint, measured from the axis and read outward with its strand as seen walking away from the axis
+(step~28b). Named sets of bundles define the end of the core, Xi (both parts, Xi$'$ and Xi, told apart by bundle), S, Xd, E and the flank (Supplementary
+Section~\ref{sec:palindrome}); the core runs from the axis to the end of the first end-of-core run beyond \elAstart~kb. An arm's
+type is whether it carries Xd: C1 or C0 on the cenSMN arm (C0 carries none of Xi$'$, Xi, S and Xd), T1 or T0 on the telSMN
+arm. Tandem arrays are PANGEA's \texttt{tandem-repeats} (units \trMinKb--\trMaxKb~kb) over every window (step~28); the spacer is
+checked by sequence (step~28c). The copy's distance from the axis is split into the core stretch covered by the array's bundle and the rest
+(step~28g; with the finer bundles, step~37). \emph{NAIP} pieces are placed on the exons of the RefSeq
+transcript \nxTx, whose first bases map to GRCh38's \emph{NAIP} at the position the gene features give (step~28f). On haplotypes without the
+pair, each S is read from its nearest SMN copy outward, by bundle id, without an axis (step~28h). For the apes, a 3-Mb
+stretch around each ape copy is plotted against itself and against one human window (HG01099 mat) with PANGEA's shimmer
+matcher, which marks every shimmer (a sparse pair of minimizers, PANGEA's indexing unit~\cite{chin2023}) the two sequences share (step~35), with the settings $w=24$, $k=48$, $r=2$ and a minimum span of 12. The measure of large repeats is the number of such dots more than 50~kb off the diagonal of a self dot plot, per Mb of sequence.
+
+\textbf{Sequence.} Each counted copy, gene body with \setFlankKb~kb flanks on the SMN1-gene strand, was aligned with MAFFT
+\verMafft{} FFT-NS-2~\cite{katoh2013} (step~02); distances use the \nGeneCols{} gene-body columns only and leave out
+the \nDelLeftOut{} $\Delta$7--8 copies (Supplementary Section~\ref{sec:compared}). The
+maximum-likelihood tree is IQ-TREE \verIqtree{}, \iqModel, \iqBoot{} ultrafast bootstraps~\cite{minh2020,hoang2018},
+over the same columns with the four ape gene bodies (NCBI, T2T assemblies~\cite{yoo2025}) added by MAFFT
+\texttt{--add --keeplength} (steps 03, 04a, 29). At the S and A/B sites of the history, each ape's base is then read from its raw primary sequence by local alignment of the 101-bp GRCh38 context (step~13c; Supplementary Section~\ref{sec:history}). Lineages A and B are the SMN1 copies of the two halves of the human
+copies in this tree (support \mlIIsup{} and \mlIsup, below the 95 used for every other clade; Section~\ref{m:lineages}), and B1 and B2 the SMN1 copies of the two clades in B's half with support $\ge$95 that lie in no larger such clade: B1 the one that holds the h21 copies (\linBone{} SMN1 copies, of S1-9 and most S1-6, with \mlBhH{} h21 copies; support \mlBhSup), B2 the other (\linBtwo{} copies, support \mlEightSup); the \linBnone{} B copies outside both belong to neither (step~05); haplogroups are assigned copy by copy
+(step~11): Chen et al.\ read their haplogroups off a neighbor-joining tree of SMN gene copies and Paraphase assigns a
+new copy by its most similar representative sequence~\cite{chen2023}; here each SMN1 copy is given the haplogroup whose
+listed single-base variants (their Table S6) it matches best, and check the result person by person against Paraphase's
+calls (Supplementary Section~\ref{sec:chenhg}).
+
+\textbf{Bands.} The structure tree (UPGMA, Sokal and Michener 1958, with optimal leaf order on bundle distance, over the \mlbHaps{} haplotypes
+with an SMN1 copy) was cut into \setK{} clusters. On the sequence side each SMN1 copy was assigned to the smallest clade
+of the maximum-likelihood tree with ultrafast-bootstrap support $\ge$\setMLsup{} that holds at least \setMLmin{} of
+these SMN1 copies, or to the rest of the human clade; this gives \mlbClusters{} sequence clusters, and a haplotype's
+sequence label is its copy's cluster, or the combination for several copies (\mlbLabels{} labels). Every structure
+cluster by sequence label pair of five or more haplotypes was tested for excess overlap (hypergeometric test: the chance of at least that many shared haplotypes if the two groups were drawn at random; Bonferroni
+over all pairs), and a band is a pair of at least \setMinOverlap{} haplotypes with corrected $p<\setAlpha$ (step~19b).
+As a check, the support threshold (80, 90, 95) and clade size (5, 10, 20) were varied.
+
+\textbf{Tests.} Mantel tests with Spearman correlation and \nPerm{} shuffles~\cite{mantel1967}; Fisher exact tests;
+PERMANOVA and permutation tests that shuffle people; computed with NumPy~\cite{harris2020}, pandas and SciPy~\cite{virtanen2020},
+figures with Matplotlib~\cite{matplotlib}. Seeds are fixed and outputs sorted.
+
+\textbf{Numbers and figures.} \texttt{scripts/run\_all.sh} runs every numbered step in \texttt{scripts/} in order, 00 to 43 (with the lettered steps 01b, 04a, 13b, 13c, 19b, 19c, 19d, 23b, 28b--28j and 34b; step 28j is two scripts: \texttt{28j\_fig5.py} draws the band figure, Supplementary Fig.~\ref{fig:tangclus}, with the arm-type strips of 28b, and \texttt{28j\_a\_unit\_length.py} measures the \RU{A} units), \texttt{41\_provenance.py}, and \texttt{scripts/40\_numbers.py},
+which writes every number of this document as a macro with the script line and input files that produce it
+(\texttt{note/numbers.json}); Supplementary Section~\ref{sec:provenance} shows how the data flow through the steps
+and where each number comes from. The example haplotypes of Fig.~\ref{fig:locus} are chosen by rule: among haplotypes whose two arms
+both have their type's commonest layout, the two-copy ``2-~1+'' haplotype of form C1|T0 (a) and the ``1-~1+'' B1+B2
+haplotype of form C0|T1 (b) nearest the medians of arm length and mirror difference.
+
+\section*{Availability, contributions and use of AI}
+Code, result tables and this document's sources are in the project repository, \url{https://github.com/Diploid-Genomics-Inc/smn-repeat-structure}. All PANGEA steps (\texttt{pangea} and \texttt{agc-rs}) used version 0.27.0 (build 56818da6); a macOS (Apple silicon) binary of this version will be released with the repository [placeholder: binary release URL and SHA-256]. The HPRC release-2
+assemblies are public; the list of the contigs used, with their GenBank accessions and the window taken from each (\texttt{data/hprc\_r2\_contigs\_used.tsv}), is available in the same repository. \textbf{Contributions.} C.S.C.: conceptualization, directing the computation and experiments, choosing the research
+direction, reading and revision. PANGEA Strata (Research Intelligence Development Environment): managing and recording the research process
+with the LLM, and tracking the artifacts for verification and validation. Claude (Opus 5.5, Anthropic): LLM; drafting,
+coding for the analysis and diagrams, testing, and advice on analysis approaches.
+
+\input{references}
+
+\clearpage
+\appendix
+\renewcommand{\thesection}{S\arabic{section}}
+\renewcommand{\thefigure}{S\arabic{figure}}
+\renewcommand{\thetable}{S\arabic{table}}
+\setcounter{figure}{0}\setcounter{table}{0}
+\begin{center}\Large Supplementary information\end{center}
+\input{supplement}
+\end{document}

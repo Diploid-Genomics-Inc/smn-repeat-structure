@@ -1,0 +1,10 @@
+ape	haplotype	rule	copy	chrom	chr_start	chr_end	strand	start	end	hits	body_from	body_to	body_cov	kmer_share	S_70950189	S_70950192	S_70950329	S_70950493	S_70950966	S_70951092	S_70951392	S_70951463	S_70951897	S_70951946	S_70952094	S_70952209	S_70952674	AB_70925090	AB_70925229	AB_70926413	AB_70928297	AB_70936613	AB_70939617	AB_70941877	c840	c239	S_smn1	S_smn2	AB_A	AB_B
+bonobo	other	strict	bonobo_other_strict_1	CM054464.2	44402272	44430083	+	4183036	4210848	20479	9	27922	0.999	0.762	G	C	A	G	G	A	G	C	A	C	A	G	G	C	C	T	T	-	T	A	C	G	8.0	5.0	2.0	4.0
+bonobo	other	relaxed	bonobo_other_relaxed_1	CM054464.2	44400455	44430083	+	4181219	4210848	20539	9	27922	0.999	0.762																										
+chimp	alt	strict	chimp_alt_strict_1	CM054415.2	45369541	45397175	+	4417266	4444901	20293	9	27922	0.999	0.755	G	C	A	G	G	A	G	C	A	C	A	G	G	C	C	T	T	-	T	A	C	G	8.0	5.0	2.0	4.0
+chimp	alt	relaxed	chimp_alt_relaxed_1	CM054415.2	45369541	45397175	+	4417266	4444901	20293	9	27922	0.999	0.755																										
+gorilla	other	strict	gorilla_other_strict_1	CM054601.2	37138028	37165604	+	7138028	7165605	19906	202	27923	0.993	0.74	G	T	A	G	G	A	G	C	A	C	A	G	G	C	C	T	T	T	T	A	C	G	9.0	4.0	2.0	5.0
+gorilla	other	relaxed	gorilla_other_relaxed_1	CM054601.2	37136033	37165604	+	7136033	7165605	20127	9	27923	0.999	0.746																										
+orangutan	alt	strict	orangutan_alt_strict_1	CM054660.2	78263534	78290963	-	3400268	3427698	10369	9	27881	0.998	0.385	G	C	A	G	G	A	G	C	A	C	A	G	G	C	C	C	C	-	T	A	C	G	8.0	5.0	4.0	2.0
+orangutan	alt	relaxed	orangutan_alt_relaxed_1	CM054660.2	78263534	78290963	-	3400268	3427698	10369	9	27881	0.998	0.385																										
+orangutan	alt	relaxed	orangutan_alt_relaxed_2	CM054660.2	78286388	78290056	+	3423122	3426791	1230	877	21965	0.755	0.046																										

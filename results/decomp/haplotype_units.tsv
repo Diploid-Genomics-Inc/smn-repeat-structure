@@ -1,0 +1,441 @@
+src	sample	hap	population_abbreviation	arrangement	n_copies	units	n_unit_A
+GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN	GRCh38	ref		2+ 1+	2	C+ A- B+ C+ A- D- B+	2
+HG00097_hap1_hprc_r2_v1.0.1	HG00097	hap1	GBR	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+HG00097_hap2_hprc_r2_v1.0.1	HG00097	hap2	GBR	2- 1-	2	C+ B- A+ B- D+ A+	2
+HG00099_hap1_hprc_r2_v1.0.1	HG00099	hap1	GBR	1+	1	C+ A- D- B+	1
+HG00099_hap2_hprc_r2_v1.0.1	HG00099	hap2	GBR	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+HG00126_hap1_hprc_r2_v1.0.1	HG00126	hap1	GBR	2- 1+	2	C+ B- A+ C+ A- D- B+	2
+HG00126_hap2_hprc_r2_v1.0.1	HG00126	hap2	GBR	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00128_hap1_hprc_r2_v1.0.1	HG00128	hap1	GBR	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+HG00128_hap2_hprc_r2_v1.0.1	HG00128	hap2	GBR	2- 1+	2	C+ L+ B- F+ F- D- B+	0
+HG00133_hap1_hprc_r2_v1.0.1	HG00133	hap1	GBR	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00133_hap2_hprc_r2_v1.0.1	HG00133	hap2	GBR	d2- 1+	2	C+ B- A+ A- D- B+	2
+HG00140_hap1_hprc_r2_v1.0.1	HG00140	hap1	GBR	1- 2+	2	C+ B- A+ A- D- B+	2
+HG00140_hap2_hprc_r2_v1.0.1	HG00140	hap2	GBR	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00146_hap1_hprc_r2_v1.0.1	HG00146	hap1	GBR	2- 1+	2	C+ B- A+ A- D- D- B+	2
+HG00146_hap2_hprc_r2_v1.0.1	HG00146	hap2	GBR	1+	1	C+ A- D- B+	1
+HG00235_hap1_hprc_r2_v1.0.1	HG00235	hap1	GBR	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+HG00235_hap2_hprc_r2_v1.0.1	HG00235	hap2	GBR	1+ 2+	2	C+ A- E+ A- B+ C- B+	2
+HG00253_hap1_hprc_r2_v1.0.1	HG00253	hap1	GBR	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+HG00253_hap2_hprc_r2_v1.0.1	HG00253	hap2	GBR	2- 1-	2	C+ B- E+ B- A+ C- A+ C- B+	2
+HG00272_hap1_hprc_r2_v1.0.1	HG00272	hap1	FIN	d2- 1+	2	C+ B- A+ A- D- B+	2
+HG00272_hap2_hprc_r2_v1.0.1	HG00272	hap2	FIN	2- 1+	2	E+ B- A+ A- B+	2
+HG00290_hap1_hprc_r2_v1.0.1	HG00290	hap1	FIN	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00290_hap2_hprc_r2_v1.0.1	HG00290	hap2	FIN	1+	1	C+ A- E+ B- C+	1
+HG00320_hap1_hprc_r2_v1.0.1	HG00320	hap1	FIN	1+	1	C+ A- B+ C- B+	1
+HG00320_hap2_hprc_r2_v1.0.1	HG00320	hap2	FIN	2- 1+	2	A+ A- B+	2
+HG00321_hap1_hprc_r2_v1.0.1	HG00321	hap1	FIN	1-	1	D+ A+ C- B+	1
+HG00321_hap2_hprc_r2_v1.0.1	HG00321	hap2	FIN	2- 1+	2	A+ A- B+	2
+HG00323_hap1_hprc_r2_v1.0.1	HG00323	hap1	FIN	2- 1+	2	C+ I- A+ A- D- B+	2
+HG00323_hap2_hprc_r2_v1.0.1	HG00323	hap2	FIN	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00344_hap1_hprc_r2_v1.0.1	HG00344	hap1	FIN	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+HG00344_hap2_hprc_r2_v1.0.1	HG00344	hap2	FIN	1- 2+	2	D+ D+ A+ A- B+ E- B+	2
+HG00350_hap1_hprc_r2_v1.0.1	HG00350	hap1	FIN	1+	1	C+ A- D- B+	1
+HG00350_hap2_hprc_r2_v1.0.1	HG00350	hap2	FIN	1+	1	C+ A- D- D- B+	1
+HG00408_mat_hprc_r2_v1.0.1	HG00408	mat	CHS	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00408_pat_hprc_r2_v1.0.1	HG00408	pat	CHS	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00438_mat_hprc_r2_v1.0.1	HG00438	mat	CHS	1+ 2+	2	C+ A- B+ A- B+	2
+HG00438_pat_hprc_r2_v1.0.1	HG00438	pat	CHS	1+	1	C+ A- D- B+	1
+HG00544_mat_hprc_r2_v1.0.1	HG00544	mat	CHS	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00544_pat_hprc_r2_v1.0.1	HG00544	pat	CHS	2+ 1+	2	C+ A- B+ A- D- B+	2
+HG00558_mat_hprc_r2_v1.0.1	HG00558	mat	CHS	2- 1+	2	A+ A- B+	2
+HG00558_pat_hprc_r2_v1.0.1	HG00558	pat	CHS	1+	1	C+ A- D- B+	1
+HG00597_mat_hprc_r2_v1.0.1	HG00597	mat	CHS	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00597_pat_hprc_r2_v1.0.1	HG00597	pat	CHS	2- 1+	2	C+ B- A+ A- D- B+	2
+HG005_mat_hprc_r2_v1.0.1	HG005	mat		2- 1-	2	A+ A+ C- B+	2
+HG005_pat_hprc_r2_v1.0.1	HG005	pat		2- 1+	2	C+ B- A+ A- D- B+	2
+HG00609_mat_hprc_r2_v1.0.1	HG00609	mat	CHS	1-	1	C+ C- A+ C- B+	1
+HG00609_pat_hprc_r2_v1.0.1	HG00609	pat	CHS	2+ 1-	2	C+ A- B+ A+ C- B+	2
+HG00621_mat_hprc_r2_v1.0.1	HG00621	mat	CHS	2+ 1+	2	C+ A- B+ A- B+	2
+HG00621_pat_hprc_r2_v1.0.1	HG00621	pat	CHS	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00639_mat_hprc_r2_v1.0.1	HG00639	mat	PUR	2+ 1+	2	C+ A- B+ A- B+	2
+HG00639_pat_hprc_r2_v1.0.1	HG00639	pat	PUR	2- 1+	2	A+ A- B+	2
+HG00642_mat_hprc_r2_v1.0.1	HG00642	mat	PUR	2+ 1+	2	C+ A- B+ A- E+ B- C+	2
+HG00642_pat_hprc_r2_v1.0.1	HG00642	pat	PUR	1- 2-	2	C+ B- D+ A+ C- B- A+	2
+HG00658_mat_hprc_r2_v1.0.1	HG00658	mat	CHS	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00658_pat_hprc_r2_v1.0.1	HG00658	pat	CHS	2- 1+	2	A+ A- B+	2
+HG00673_mat_hprc_r2_v1.0.1	HG00673	mat	CHS	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00673_pat_hprc_r2_v1.0.1	HG00673	pat	CHS	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00706_mat_hprc_r2_v1.0.1	HG00706	mat	CHS	2- 1+	2	A+ A- B+	2
+HG00706_pat_hprc_r2_v1.0.1	HG00706	pat	CHS	h21- 1+	2	A+ A- B+	2
+HG00733_pat_hprc_r2_v1.0.1	HG00733	pat	PUR	d2- 1+	2	C+ B- A+ A- D- B+	2
+HG00735_mat_hprc_r2_v1.0.1	HG00735	mat	PUR	2- 1+	2	E+ B- A+ A- B+	2
+HG00735_pat_hprc_r2_v1.0.1	HG00735	pat	PUR	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00738_mat_hprc_r2_v1.0.1	HG00738	mat	PUR	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00738_pat_hprc_r2_v1.0.1	HG00738	pat	PUR	2- 1+	2	C+ B- A+ A- D- B+	2
+HG00741_mat_hprc_r2_v1.0.1	HG00741	mat	PUR	1- 2-	2	D+ A+ B- A+ C- B+	2
+HG00741_pat_hprc_r2_v1.0.1	HG00741	pat	PUR	2- 1+	2	C+ B- A+ A- D- B+	2
+HG01071_mat_hprc_r2_v1.0.1	HG01071	mat	PUR	1- 2+	2	C+ B- A+ A- D- B+	2
+HG01071_pat_hprc_r2_v1.0.1	HG01071	pat	PUR	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+HG01074_mat_hprc_r2_v1.0.1	HG01074	mat	PUR	1+	1	C+ A- E+ C- B+	1
+HG01074_pat_hprc_r2_v1.0.1	HG01074	pat	PUR	d2- 1+	2	C+ B- A+ A- D- B+	2
+HG01081_mat_hprc_r2_v1.0.1	HG01081	mat	PUR	1+	1	C+ A- E+ C- B+	1
+HG01081_pat_hprc_r2_v1.0.1	HG01081	pat	PUR	2- 1+	2	C+ B- A+ A- E+ B- B+	2
+HG01099_mat_hprc_r2_v1.0.1	HG01099	mat	PUR	2- 1+	2	C+ B- A+ A- D- B+	2
+HG01099_pat_hprc_r2_v1.0.1	HG01099	pat	PUR	2- 1+	2	A+ A- B+	2
+HG01106_mat_hprc_r2_v1.0.1	HG01106	mat	PUR	2- 1+	2	C+ B- A+ A- D- D- B+	2
+HG01106_pat_hprc_r2_v1.0.1	HG01106	pat	PUR	1+	1	C+ A- D- B+	1
+HG01109_mat_hprc_r2_v1.0.1	HG01109	mat	PUR	1- 1+	2	C+ B- A+ A- D- E+	2
+HG01123_mat_hprc_r2_v1.0.1	HG01123	mat	CLM	1- 1-	2	C+ B- A+ B- D+ A+	2
+HG01123_pat_hprc_r2_v1.0.1	HG01123	pat	CLM	2- 1-	2	C+ B- E+ B- A+ C- A+ C- B+	2
+HG01150_mat_hprc_r2_v1.0.1	HG01150	mat	CLM	2- 1+	2	C+ B- A+ A- D- B+	2
+HG01150_pat_hprc_r2_v1.0.1	HG01150	pat	CLM	2- 1+	2	C+ B- A+ C+ C- B+	1
+HG01167_hap1_hprc_r2_v1.0.1	HG01167	hap1	PUR	1- 1+	2	A+ A- E+ C- B+	2
+HG01167_hap2_hprc_r2_v1.0.1	HG01167	hap2	PUR	2+ 1+	2	C+ A- B+ C+ A- B+	2
+HG01175_mat_hprc_r2_v1.0.1	HG01175	mat	PUR	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+HG01175_pat_hprc_r2_v1.0.1	HG01175	pat	PUR	d2- 1+	2	C+ B- A+ A- D- B+	2
+HG01192_mat_hprc_r2_v1.0.1	HG01192	mat	PUR	2- 1+	2	C+ B- A+ F- G- C+ C- F+ E+	1
+HG01192_pat_hprc_r2_v1.0.1	HG01192	pat	PUR	d2- 1+	2	C+ B- A+ A- D- B+	2
+HG01243_mat_hprc_r2_v1.0.1	HG01243	mat	PUR	2- 1-	2	C+ B- A+ B- D+ D+ A+	2
+HG01243_pat_hprc_r2_v1.0.1	HG01243	pat	PUR	1- 2- 1+	3	C+ E- A+ B- A+ A- B+	3
+HG01252_mat_hprc_r2_v1.0.1	HG01252	mat	CLM	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+HG01252_pat_hprc_r2_v1.0.1	HG01252	pat	CLM	1+	1	C+ A- E+ C- B+	1
+HG01255_mat_hprc_r2_v1.0.1	HG01255	mat	CLM	2- 1+	2	C+ B- A+ A- D- D- B+	2
+HG01255_pat_hprc_r2_v1.0.1	HG01255	pat	CLM	1+	1	C+ A- D- B+	1
+HG01258_mat_hprc_r2_v1.0.1	HG01258	mat	CLM	2- 1-	2	C+ B- A+ B- D+ A+	2
+HG01258_pat_hprc_r2_v1.0.1	HG01258	pat	CLM	2- 1+	2	C+ B- A+ A- D- B+	2
+HG01261_pat_hprc_r2_v1.0.1	HG01261	pat	CLM	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+HG01346_mat_hprc_r2_v1.0.1	HG01346	mat	CLM	1+	1	C+ A- D- B+	1
+HG01346_pat_hprc_r2_v1.0.1	HG01346	pat	CLM	1+	1	C+ A- D- B+	1
+HG01358_mat_hprc_r2_v1.0.1	HG01358	mat	CLM	1+	1	C+ A- D- B+	1
+HG01358_pat_hprc_r2_v1.0.1	HG01358	pat	CLM	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+HG01361_mat_hprc_r2_v1.0.1	HG01361	mat	CLM	2- 1+	2	A+ A- B+	2
+HG01361_pat_hprc_r2_v1.0.1	HG01361	pat	CLM	2- 1+	2	A+ A- B+	2
+HG01433_mat_hprc_r2_v1.0.1	HG01433	mat	CLM	2+ 1+	2	C+ A- B+ A- B+	2
+HG01433_pat_hprc_r2_v1.0.1	HG01433	pat	CLM	2+ 1+	2	C+ A- B+ A- E+ C- B+	2
+HG01496_mat_hprc_r2_v1.0.1	HG01496	mat	CLM	1+	1	C+ A- D- B+	1
+HG01496_pat_hprc_r2_v1.0.1	HG01496	pat	CLM	2- 1+	2	C+ B- A+ A- D- B+	2
+HG01530_hap1_hprc_r2_v1.0.1	HG01530	hap1	IBS	1- 2+	2	C+ B- A+ A- D- B+	2
+HG01530_hap2_hprc_r2_v1.0.1	HG01530	hap2	IBS	2+ 1+	2	C+ A- B+ C+ A- D- B+	2
+HG01784_hap1_hprc_r2_v1.0.1	HG01784	hap1	IBS	1+	1	C+ A- E+ C- B+	1
+HG01784_hap2_hprc_r2_v1.0.1	HG01784	hap2	IBS	2- 1-	2	C+ B- A+ E- D+ A+	2
+HG01786_hap1_hprc_r2_v1.0.1	HG01786	hap1	IBS	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+HG01786_hap2_hprc_r2_v1.0.1	HG01786	hap2	IBS	2- 1- 1+	3	C+ B- E+ B- A+ E- A+ A- B+	3
+HG01884_mat_hprc_r2_v1.0.1	HG01884	mat	ACB	2- 1+	2	A+ A- B+	2
+HG01884_pat_hprc_r2_v1.0.1	HG01884	pat	ACB	h21- 1-	2	C+ E- D+ A+ B- A+	2
+HG01891_mat_hprc_r2_v1.0.1	HG01891	mat	ACB	2- 1+	2	C+ B- A+ A- D- B+	2
+HG01891_pat_hprc_r2_v1.0.1	HG01891	pat	ACB	2+ 1+	2	C+ A- B+ A- E+ C- B+	2
+HG01928_mat_hprc_r2_v1.0.1	HG01928	mat	PEL	1-	1	D+ A+ C- C- B+	1
+HG01928_pat_hprc_r2_v1.0.1	HG01928	pat	PEL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG01934_pat_hprc_r2_v1.0.1	HG01934	pat	PEL	1+	1	C+ A- E+ C- B+	1
+HG01940_mat_hprc_r2_v1.0.1	HG01940	mat	PEL	2- 1+	2	C+ B- A+ A- E+ B- C+	2
+HG01940_pat_hprc_r2_v1.0.1	HG01940	pat	PEL	1+	1	C+ A- E+ C- B+	1
+HG01943_mat_hprc_r2_v1.0.1	HG01943	mat	PEL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG01943_pat_hprc_r2_v1.0.1	HG01943	pat	PEL	1+	1	C+ A- E+ C- B+	1
+HG01952_mat_hprc_r2_v1.0.1	HG01952	mat	PEL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG01952_pat_hprc_r2_v1.0.1	HG01952	pat	PEL	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+HG01960_mat_hprc_r2_v1.0.1	HG01960	mat	ACB	1- 1+	2	A+ A- E+ C- K- B+	2
+HG01960_pat_hprc_r2_v1.0.1	HG01960	pat	ACB	1- 1+	2	C+ B- A+ A- E+ C- B+	2
+HG01969_mat_hprc_r2_v1.0.1	HG01969	mat	PEL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG01969_pat_hprc_r2_v1.0.1	HG01969	pat	PEL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG01975_mat_hprc_r2_v1.0.1	HG01975	mat	PEL	1+	1	C+ A- E+ C- B+	1
+HG01975_pat_hprc_r2_v1.0.1	HG01975	pat	PEL	2- 1+	2	C+ B- A+ A- D- F+ J+ J+ B+	2
+HG01978_mat_hprc_r2_v1.1.0	HG01978	mat	PEL	2- 1+	2	C+ B- A+ A- E+ B- B+	2
+HG01978_pat_hprc_r2_v1.1.0	HG01978	pat	PEL	2- 1+	2	C+ B- A+ A- E+ B- C+	2
+HG01981_mat_hprc_r2_v1.0.1	HG01981	mat	PEL	1+ 2+	2	C+ A- E+ A- B+ C- B+	2
+HG01981_pat_hprc_r2_v1.0.1	HG01981	pat	PEL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02004_mat_hprc_r2_v1.0.1	HG02004	mat	PEL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02004_pat_hprc_r2_v1.0.1	HG02004	pat	PEL	1+	1	C+ A- A-	2
+HG02015_mat_hprc_r2_v1.0.1	HG02015	mat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02015_pat_hprc_r2_v1.0.1	HG02015	pat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02027_mat_hprc_r2_v1.0.1	HG02027	mat	KHV	2- 1+	2	C+ E+ B- A+ A- D- B+	2
+HG02027_pat_hprc_r2_v1.0.1	HG02027	pat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02040_hap1_hprc_r2_v1.0.1	HG02040	hap1	KHV	1+	1	C+ A- D- B+	1
+HG02040_hap2_hprc_r2_v1.0.1	HG02040	hap2	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02055_mat_hprc_r2_v1.0.1	HG02055	mat	ACB	1-	1	C+ A- A+ B+	2
+HG02055_pat_hprc_r2_v1.0.1	HG02055	pat	ACB	1- 1+	2	A+ A- B+	2
+HG02056_mat_hprc_r2_v1.0.1	HG02056	mat	KHV	2+ 1+	2	C+ A- B+ A- D- B+	2
+HG02056_pat_hprc_r2_v1.0.1	HG02056	pat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02071_mat_hprc_r2_v1.0.1	HG02071	mat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02071_pat_hprc_r2_v1.0.1	HG02071	pat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02074_mat_hprc_r2_v1.0.1	HG02074	mat	KHV	2- 1+	2	A+ A- B+	2
+HG02074_pat_hprc_r2_v1.0.1	HG02074	pat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02080_mat_hprc_r2_v1.0.1	HG02080	mat	KHV	2- 1+	2	E+ B- A+ A- B+	2
+HG02080_pat_hprc_r2_v1.0.1	HG02080	pat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02083_mat_hprc_r2_v1.0.1	HG02083	mat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02083_pat_hprc_r2_v1.0.1	HG02083	pat	KHV	1- 2+	2	C+ B- A+ A- D- B+	2
+HG02109_mat_hprc_r2_v1.0.1	HG02109	mat	ACB	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02109_pat_hprc_r2_v1.0.1	HG02109	pat	ACB	1- 1+	2	A+ A- E+	2
+HG02129_mat_hprc_r2_v1.0.1	HG02129	mat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02129_pat_hprc_r2_v1.0.1	HG02129	pat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02132_mat_hprc_r2_v1.0.1	HG02132	mat	KHV	2+ 1+	2	C+ A- B+ A- B+	2
+HG02132_pat_hprc_r2_v1.0.1	HG02132	pat	KHV	2+ 2- 2+	3	C+ A- E+ B- A+ A- B+	3
+HG02135_mat_hprc_r2_v1.0.1	HG02135	mat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02135_pat_hprc_r2_v1.0.1	HG02135	pat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02145_mat_hprc_r2_v1.0.1	HG02145	mat	ACB	1- 1+	2	C+ C+ B- A+ A- D- B+	2
+HG02145_pat_hprc_r2_v1.0.1	HG02145	pat	ACB	1- 1+	2	A+ A- E+ B- C+	2
+HG02148_mat_hprc_r2_v1.0.1	HG02148	mat	PEL	2- 1-	2	C+ B- A+ E- D+ A+	2
+HG02148_pat_hprc_r2_v1.0.1	HG02148	pat	PEL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02155_hap1_hprc_r2_v1.0.1	HG02155	hap1	CDX	1+	1	C+ A- E+ C- B+	1
+HG02155_hap2_hprc_r2_v1.0.1	HG02155	hap2	CDX	h21- 1+	2	A+ A- B+	2
+HG02165_hap1_hprc_r2_v1.0.1	HG02165	hap1	CDX	2+ 1+	2	C+ A- B+ A- B+	2
+HG02165_hap2_hprc_r2_v1.0.1	HG02165	hap2	CDX	2+ 1+	2	C+ A- B+ A- B+	2
+HG02178_hap1_hprc_r2_v1.0.1	HG02178	hap1	CDX	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02178_hap2_hprc_r2_v1.0.1	HG02178	hap2	CDX	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02257_mat_hprc_r2_v1.1.0	HG02257	mat	ACB	1+ 2+	2	C+ A- E+ A- B+ C- B+	2
+HG02257_pat_hprc_r2_v1.1.0	HG02257	pat	ACB	2- 1-	2	C+ B- A+ B- D+ A+	2
+HG02258_mat_hprc_r2_v1.0.1	HG02258	mat	ACB	2- 1+	2	A+ A- E+ C- B+	2
+HG02258_pat_hprc_r2_v1.0.1	HG02258	pat	ACB	1- 1+	2	A+ A- E+ C- B+	2
+HG02280_mat_hprc_r2_v1.0.1	HG02280	mat	ACB	1- 1+	2	C+ B- A+ A- D- E+	2
+HG02280_pat_hprc_r2_v1.0.1	HG02280	pat	ACB	2- 1+	2	C+ B- A+ A- D- D- B+	2
+HG02293_mat_hprc_r2_v1.0.1	HG02293	mat	PEL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02293_pat_hprc_r2_v1.0.1	HG02293	pat	PEL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02300_mat_hprc_r2_v1.0.1	HG02300	mat	PEL	h12- 1+	2	C+ B- A+ A- D- B+	2
+HG02300_pat_hprc_r2_v1.0.1	HG02300	pat	PEL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02391_hap1_hprc_r2_v1.0.1	HG02391	hap1	CDX	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+HG02391_hap2_hprc_r2_v1.0.1	HG02391	hap2	CDX	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02392_hap1_hprc_r2_v1.0.1	HG02392	hap1	CDX	2- 1+	2	C+ B- D+ A+ A- B+	2
+HG02392_hap2_hprc_r2_v1.0.1	HG02392	hap2	CDX	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02451_mat_hprc_r2_v1.0.1	HG02451	mat	ACB	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02451_pat_hprc_r2_v1.0.1	HG02451	pat	ACB	1+	1	C+ A- A-	2
+HG02486_mat_hprc_r2_v1.0.1	HG02486	mat	ACB	1- 1+	2	A+ A- E+ C- B+	2
+HG02486_pat_hprc_r2_v1.0.1	HG02486	pat	ACB	2- 1+	2	A+ A- B+	2
+HG02514_mat_hprc_r2_v1.0.1	HG02514	mat	KHV	1+	1	C+ E+ A- E+ C- B+	1
+HG02514_pat_hprc_r2_v1.0.1	HG02514	pat	KHV	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+HG02523_mat_hprc_r2_v1.0.1	HG02523	mat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02523_pat_hprc_r2_v1.0.1	HG02523	pat	KHV	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02559_mat_hprc_r2_v1.0.1	HG02559	mat	ACB	2- 1-	2	C+ B- A+ B- D+ A+	2
+HG02559_pat_hprc_r2_v1.0.1	HG02559	pat	ACB	1- h21+	2	A+ A- B+	2
+HG02572_mat_hprc_r2_v1.0.1	HG02572	mat	GWD	2- 1+	2	C+ B- I+ E+ A- D- B+	1
+HG02572_pat_hprc_r2_v1.0.1	HG02572	pat	GWD	1- 1+	2	A+ A- C- B+	2
+HG02583_hap1_hprc_r2_v1.0.1	HG02583	hap1	GWD	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+HG02583_hap2_hprc_r2_v1.0.1	HG02583	hap2	GWD	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02602_mat_hprc_r2_v1.0.1	HG02602	mat	PJL	1-	1	C+ E- D+ A+ C- B+	1
+HG02602_pat_hprc_r2_v1.0.1	HG02602	pat	PJL	1+	1	C+ A- D- B+	1
+HG02615_mat_hprc_r2_v1.0.1	HG02615	mat	GWD	1- h21+	2	A+ A- B+	2
+HG02615_pat_hprc_r2_v1.0.1	HG02615	pat	GWD	2+ 1-	2	D+ L+ B- C+ A- B+ B- D+ A+	2
+HG02622_mat_hprc_r2_v1.0.1	HG02622	mat	GWD	1- 1+	2	A+ A- C- B+	2
+HG02622_pat_hprc_r2_v1.0.1	HG02622	pat	GWD	1- 1+	2	A+ A- C- C- B+	2
+HG02630_mat_hprc_r2_v1.0.1	HG02630	mat	GWD	1- 1+	2	A+ A- E+ C- B+	2
+HG02630_pat_hprc_r2_v1.0.1	HG02630	pat	GWD	2+ 1-	2	C+ B- C+ A- B+ B- A+	2
+HG02647_mat_hprc_r2_v1.0.1	HG02647	mat	GWD	1- 1+	2	A+ A- E+ C- B+	2
+HG02647_pat_hprc_r2_v1.0.1	HG02647	pat	GWD	1- h21+	2	A+ A- B+	2
+HG02668_mat_hprc_r2_v1.0.1	HG02668	mat	GWD	1- 2- 1-	3	A+ B- A+ I- A+	3
+HG02668_pat_hprc_r2_v1.0.1	HG02668	pat	GWD	2- 1+	2	A+ A- B+	2
+HG02698_mat_hprc_r2_v1.0.1	HG02698	mat	PJL	1- 2+	2	C+ B- A+ A- D- B+	2
+HG02698_pat_hprc_r2_v1.0.1	HG02698	pat	PJL	1- h12+ 1+	3	A+ A- B+ A- B+	3
+HG02717_mat_hprc_r2_v1.0.1	HG02717	mat	GWD	1- 1+	2	G+ F+ G- F-	0
+HG02717_pat_hprc_r2_v1.0.1	HG02717	pat	GWD	1- 1+	2	A+ A- C- B+	2
+HG02723_mat_hprc_r2_v1.0.1	HG02723	mat	GWD	1- h21+	2	A+ A- B+	2
+HG02723_pat_hprc_r2_v1.0.1	HG02723	pat	GWD	2- 1+	2	A+ A- B+	2
+HG02735_mat_hprc_r2_v1.0.1	HG02735	mat	PJL	2- 1-	2	C+ B- E+ B- A+ C- A+ B- C+	2
+HG02735_pat_hprc_r2_v1.0.1	HG02735	pat	PJL	1-	1	D+ A+ C- B+	1
+HG02738_mat_hprc_r2_v1.0.1	HG02738	mat	PJL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02738_pat_hprc_r2_v1.0.1	HG02738	pat	PJL	1+ 2+	2	C+ A- E+ A- B+ C- B+	2
+HG02809_mat_hprc_r2_v1.0.1	HG02809	mat	GWD	1- 2+	2	A+ A- B+	2
+HG02809_pat_hprc_r2_v1.0.1	HG02809	pat	GWD	2- 1+	2	A+ A- K- B+	2
+HG02818_mat_hprc_r2_v1.0.1	HG02818	mat	GWD	1- 1+	2	A+ A- E+ C- B+	2
+HG02818_pat_hprc_r2_v1.0.1	HG02818	pat	GWD	1- 2+	2	C+ B- A+ A- D- B+	2
+HG02841_mat_hprc_r2_v1.0.1	HG02841	mat	GWD	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02841_pat_hprc_r2_v1.0.1	HG02841	pat	GWD	2+ 1-	2	C+ B- E+ A- B+ B- D+ K+ A+	2
+HG02886_mat_hprc_r2_v1.0.1	HG02886	mat	GWD	2+ 1+	2	C+ A- I+ B+ A- E+ B- C+	2
+HG02886_pat_hprc_r2_v1.0.1	HG02886	pat	GWD	2+ 1-	2	C+ B- C+ A- B+ B- A+	2
+HG02922_hap1_hprc_r2_v1.0.1	HG02922	hap1	ESN	1- 1+	2	A+ A- E+ C- B+	2
+HG02922_hap2_hprc_r2_v1.0.1	HG02922	hap2	ESN	2- 1+	2	C+ B- A+ A- D- B+	2
+HG02965_hap1_hprc_r2_v1.0.1	HG02965	hap1	ESN	1-	1		0
+HG02965_hap2_hprc_r2_v1.0.1	HG02965	hap2	ESN	h21+ 1-	2	C+ A- A+	2
+HG02976_hap1_hprc_r2_v1.0.1	HG02976	hap1	ESN	1- 1+	2	A+ A- C- C- B+	2
+HG02976_hap2_hprc_r2_v1.0.1	HG02976	hap2	ESN	1- 2+	2	C+ B- A+ A- D- B+	2
+HG02984_mat_hprc_r2_v1.0.1	HG02984	mat	GWD	1- 1+	2	A+ A- E+	2
+HG02984_pat_hprc_r2_v1.0.1	HG02984	pat	GWD	2- 1+	2	A+ A- B+	2
+HG03017_mat_hprc_r2_v1.0.1	HG03017	mat	PJL	2- 1+	2	C+ B- A+ A- A-	3
+HG03017_pat_hprc_r2_v1.0.1	HG03017	pat	PJL	1- 1+	2	C+ B- A+ A- D- B+	2
+HG03041_mat_hprc_r2_v1.0.1	HG03041	mat	GWD	1+	1	C+ A- D- B+	1
+HG03041_pat_hprc_r2_v1.0.1	HG03041	pat	GWD	2- 1+	2	A+ A- E+ C- B+	2
+HG03050_mat_hprc_r2_v1.0.1	HG03050	mat	GWD	1+ h21+	2	C+ A- E+ A- B+	2
+HG03050_pat_hprc_r2_v1.0.1	HG03050	pat	GWD	2- 1-	2	C+ B- A+ B- D+ A+	2
+HG03098_mat_hprc_r2_v1.0.1	HG03098	mat	MSL	1- 1+	2	A+ A- E+ C- B+	2
+HG03098_pat_hprc_r2_v1.0.1	HG03098	pat	MSL	1- h21-	2	A+ B- A+	2
+HG03130_hap1_hprc_r2_v1.0.1	HG03130	hap1	ESN	1- 1+	2	A+ A- E+ C- B+	2
+HG03130_hap2_hprc_r2_v1.0.1	HG03130	hap2	ESN	1- 1+	2	A+ A- E+ C- B+	2
+HG03139_hap1_hprc_r2_v1.0.1	HG03139	hap1	ESN	1- 1+	2	A+ A- E+ C- B+	2
+HG03139_hap2_hprc_r2_v1.0.1	HG03139	hap2	ESN	1+	1	C+ A- D- B+	1
+HG03195_hap1_hprc_r2_v1.0.1	HG03195	hap1	ESN	1+	1	C+ A- E+ C- B+	1
+HG03195_hap2_hprc_r2_v1.0.1	HG03195	hap2	ESN	1- 1+	2	A+ A- E+ C- B+	2
+HG03209_hap1_hprc_r2_v1.0.1	HG03209	hap1	MSL	1- 1+	2	A+ A- E+ C- B+	2
+HG03209_hap2_hprc_r2_v1.0.1	HG03209	hap2	MSL	2- 1+	2	C+ B- A+ A- D- E+ C- B+	2
+HG03225_hap1_hprc_r2_v1.0.1	HG03225	hap1	MSL	2- 1+	2	A+ A- E+ C- B+	2
+HG03225_hap2_hprc_r2_v1.0.1	HG03225	hap2	MSL	1- 2-	2	C+ A- C- A+ B- A+	3
+HG03239_mat_hprc_r2_v1.0.1	HG03239	mat	PJL	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+HG03239_pat_hprc_r2_v1.0.1	HG03239	pat	PJL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG03270_hap2_hprc_r2_v1.0.1	HG03270	hap2	ESN	1- 1+	2	A+ A- E+ C- B+	2
+HG03369_hap1_hprc_r2_v1.0.1	HG03369	hap1	ESN	2- 1+	2	C+ B- A+ A- D- B+	2
+HG03369_hap2_hprc_r2_v1.0.1	HG03369	hap2	ESN	1- 1+	2	A+ A- E+ C- B+	2
+HG03453_mat_hprc_r2_v1.0.1	HG03453	mat	MSL	1+ h21+	2	C+ A- E+ A- B+	2
+HG03453_pat_hprc_r2_v1.0.1	HG03453	pat	MSL	1- 1+	2	A+ A- C- B+	2
+HG03470_hap1_hprc_r2_v1.0.1	HG03470	hap1	MSL	2+ 1+	2	C+ A- B+ A- E+ A+ A+	4
+HG03470_hap2_hprc_r2_v1.0.1	HG03470	hap2	MSL	2- 1+	2	A+ A- B+	2
+HG03471_hap1_hprc_r2_v1.0.1	HG03471	hap1	MSL	1- 1+	2	A+ A- E+ C- B+	2
+HG03471_hap2_hprc_r2_v1.0.1	HG03471	hap2	MSL	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+HG03486_mat_hprc_r2_v1.0.1	HG03486	mat	MSL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG03486_pat_hprc_r2_v1.0.1	HG03486	pat	MSL	1- 1+	2	A+ A- E+ C- B+	2
+HG03516_mat_hprc_r2_v1.1.0	HG03516	mat	ESN	1+	1	C+ A- E+ C- B+	1
+HG03516_pat_hprc_r2_v1.1.0	HG03516	pat	ESN	1- h21+	2	A+ A- C- B+	2
+HG03521_hap1_hprc_r2_v1.0.1	HG03521	hap1	ESN	1-	1		0
+HG03521_hap2_hprc_r2_v1.0.1	HG03521	hap2	ESN	1- 2+	2	C+ B- A+ A- D- B+	2
+HG03540_mat_hprc_r2_v1.0.1	HG03540	mat	GWD	h21- 1+	2	C+ A+ A-	2
+HG03540_pat_hprc_r2_v1.0.1	HG03540	pat	GWD	1- 1+	2	G+ F+ G- F-	0
+HG03579_mat_hprc_r2_v1.0.1	HG03579	mat	MSL	1- 1+	2	C+ B- A+ A- D- E+	2
+HG03579_pat_hprc_r2_v1.0.1	HG03579	pat	MSL	1+	1	C+ A- E+ C- B+	1
+HG03583_hap1_hprc_r2_v1.0.1	HG03583	hap1	MSL	1+	1	C+ A- E+ C- B+	1
+HG03583_hap2_hprc_r2_v1.0.1	HG03583	hap2	MSL	2-	1		0
+HG03654_mat_hprc_r2_v1.0.1	HG03654	mat	PJL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG03654_pat_hprc_r2_v1.0.1	HG03654	pat	PJL	1- 2+	2	C+ B- A+ A- D- B+	2
+HG03669_mat_hprc_r2_v1.0.1	HG03669	mat	PJL	2+ 1+	2	C+ A- B+ A- B+	2
+HG03669_pat_hprc_r2_v1.0.1	HG03669	pat	PJL	2- 1+	2	A+ A- B+	2
+HG03688_mat_hprc_r2_v1.0.1	HG03688	mat	STU	2- 1- 1+	3	C+ B- M+ I- A+ E- A+ A- F+ J+ B+	3
+HG03688_pat_hprc_r2_v1.0.1	HG03688	pat	STU	2- 1+	2	C+ B- A+ A- D- B+	2
+HG03704_mat_hprc_r2_v1.0.1	HG03704	mat	PJL	1- 1+	2	C+ B- A+ A- D- B+	2
+HG03704_pat_hprc_r2_v1.0.1	HG03704	pat	PJL	2- 1+	2	C+ B- A+ A- D- B+	2
+HG03710_mat_hprc_r2_v1.0.1	HG03710	mat	PJL	h21- 1+	2	C+ B- A+ A- E+ B- C+	2
+HG03710_pat_hprc_r2_v1.0.1	HG03710	pat	PJL	2- 1+	2	C+ B- A+ A- E+ B- B+	2
+HG03742_hap1_hprc_r2_v1.0.1	HG03742	hap1	ITU	2- 1+	2	A+ A- B+	2
+HG03742_hap2_hprc_r2_v1.0.1	HG03742	hap2	ITU	1-	1	D+ D+ J+ J+ J+	0
+HG03804_mat_hprc_r2_v1.0.1	HG03804	mat	BEB	2- 1+	2	C+ B- A+ A- E+ C- C- B+	2
+HG03804_pat_hprc_r2_v1.0.1	HG03804	pat	BEB	2- 1+	2	C+ B- A+ A- D- B+	2
+HG03816_mat_hprc_r2_v1.0.1	HG03816	mat	BEB	2- 1+	2	C+ B- A+ A- D- B+	2
+HG03816_pat_hprc_r2_v1.0.1	HG03816	pat	BEB	2- 1+	2	C+ B- A+ A- D- B+	2
+HG03831_mat_hprc_r2_v1.0.1	HG03831	mat	BEB	1-	1	D+ A+ C- B+	1
+HG03831_pat_hprc_r2_v1.0.1	HG03831	pat	BEB	2- 1-	2	C+ B- A+ E- D+ A+ C- B+	2
+HG03834_mat_hprc_r2_v1.0.1	HG03834	mat	BEB	2- 1+	2	C+ B- A+ A- D- B+	2
+HG03834_pat_hprc_r2_v1.0.1	HG03834	pat	BEB	2- 1-	2	C+ B- E+ B- A+ C- A+ B- C+	2
+HG03874_hap1_hprc_r2_v1.0.1	HG03874	hap1	ITU	1+	1	C+ A- D- B+	1
+HG03874_hap2_hprc_r2_v1.0.1	HG03874	hap2	ITU	1+	1	C+ A- D- B+	1
+HG03927_mat_hprc_r2_v1.0.1	HG03927	mat	BEB	2- 1+	2	C+ B- A+ A- D- B+	2
+HG03927_pat_hprc_r2_v1.0.1	HG03927	pat	BEB	1+	1	C+ A- D- B+	1
+HG03942_mat_hprc_r2_v1.0.1	HG03942	mat	BEB	1+	1	C+ A- D- B+	1
+HG03942_pat_hprc_r2_v1.0.1	HG03942	pat	BEB	2- 1+	2	C+ B- A+ A- D- B+	2
+HG04115_mat_hprc_r2_v1.0.1	HG04115	mat	STU	2- 1+	2	C+ B- A+ A- D- B+	2
+HG04115_pat_hprc_r2_v1.0.1	HG04115	pat	STU	1+	1	C+ A- E+ C- B+	1
+HG04157_mat_hprc_r2_v1.0.1	HG04157	mat	BEB	2- 1+	2	C+ B- A+ A- E+ A+	3
+HG04157_pat_hprc_r2_v1.0.1	HG04157	pat	BEB	1- 1+	2	C+ B- A+ A- D- B+	2
+HG04160_mat_hprc_r2_v1.0.1	HG04160	mat	BEB	h21- 1+	2	C+ B- A+ A- D- B+	2
+HG04160_pat_hprc_r2_v1.0.1	HG04160	pat	BEB	2- 1+	2	C+ B- A+ A- D- E+ B- E+	2
+HG04184_mat_hprc_r2_v1.0.1	HG04184	mat	BEB	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+HG04184_pat_hprc_r2_v1.0.1	HG04184	pat	BEB	1-	1	C+ E- A+ E- B+	1
+HG04187_mat_hprc_r2_v1.0.1	HG04187	mat	BEB	1+	1	C+ A- D- B+	1
+HG04187_pat_hprc_r2_v1.0.1	HG04187	pat	BEB	2- 1-	2	C+ B- E+ B- A+ C- A+ C- B+	2
+HG04199_mat_hprc_r2_v1.0.1	HG04199	mat	STU	2- 1+	2	C+ B- A+ A- A-	3
+HG04199_pat_hprc_r2_v1.0.1	HG04199	pat	STU	2- 1+	2	C+ B- A+ A- D- F+ J+ J+ J+ J+ B+	2
+HG04204_mat_hprc_r2_v1.0.1	HG04204	mat	STU	1- 1+	2	C+ B- A+ F- G- B+	1
+HG04204_pat_hprc_r2_v1.0.1	HG04204	pat	STU	2- 1+	2	C+ B- A+ A- D- B+	2
+HG04228_mat_hprc_r2_v1.0.1	HG04228	mat	STU	2- 1+	2	C+ B- A+ A- D- B+	2
+HG04228_pat_hprc_r2_v1.0.1	HG04228	pat	STU	2- 1+	2	C+ B- A+ A- D- B+	2
+HG06807_mat_v1.0.genbank	HG06807	mat	ASL	2- 1+	2	C+ B- A+ C+ A- D- B+	2
+HG06807_pat_v1.0.genbank	HG06807	pat	ASL	1+	1	C+ A- D- B+	1
+NA18505_hap1_hprc_r2_v1.0.1	NA18505	hap1	YRI	1- h21-	2	A+ B- A+	2
+NA18505_hap2_hprc_r2_v1.0.1	NA18505	hap2	YRI	h21+ 1-	2	B+ A- E+ B- A+ C- B+	2
+NA18508_hap1_hprc_r2_v1.0.1	NA18508	hap1	YRI	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+NA18508_hap2_hprc_r2_v1.0.1	NA18508	hap2	YRI	1+	1	C+ A- D- B+	1
+NA18522_hap1_hprc_r2_v1.0.1	NA18522	hap1	YRI	2- 1+	2	D+ A+ A- B+ C- B+	2
+NA18522_hap2_hprc_r2_v1.0.1	NA18522	hap2	YRI	1- 1+	2	A+ A- E+ C- B+	2
+NA18565_hap1_hprc_r2_v1.0.1	NA18565	hap1	CHB	1- 1+	2	C+ B- A+ A- D- B+	2
+NA18565_hap2_hprc_r2_v1.0.1	NA18565	hap2	CHB	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18570_hap1_hprc_r2_v1.0.1	NA18570	hap1	CHB	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18570_hap2_hprc_r2_v1.0.1	NA18570	hap2	CHB	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18608_hap1_hprc_r2_v1.0.1	NA18608	hap1	CHB	2+ 1+	2	C+ A- B+ A- E+ C- B+	2
+NA18608_hap2_hprc_r2_v1.0.1	NA18608	hap2	CHB	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18620_hap1_hprc_r2_v1.0.1	NA18620	hap1	CHB	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18620_hap2_hprc_r2_v1.0.1	NA18620	hap2	CHB	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18879_hap1_hprc_r2_v1.0.1	NA18879	hap1	YRI	1- 1+	2	A+ A- B+	2
+NA18879_hap2_hprc_r2_v1.0.1	NA18879	hap2	YRI	2- h12+	2	A+ A- B+	2
+NA18906_mat_hprc_r2_v1.0.1	NA18906	mat	YRI	1+	1	C+ A- D- B+	1
+NA18906_pat_hprc_r2_v1.0.1	NA18906	pat	YRI	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18940_hap1_hprc_r2_v1.0.1	NA18940	hap1	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18940_hap2_hprc_r2_v1.0.1	NA18940	hap2	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18943_hap1_hprc_r2_v1.0.1	NA18943	hap1	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18943_hap2_hprc_r2_v1.0.1	NA18943	hap2	JPT	2- 1-	2	A+ A+ C- B+	2
+NA18944_hap1_hprc_r2_v1.0.1	NA18944	hap1	JPT	1+	1	C+ A- D- B+	1
+NA18944_hap2_hprc_r2_v1.0.1	NA18944	hap2	JPT	2- 1+	2	A+ A- B+	2
+NA18945_hap1_hprc_r2_v1.0.1	NA18945	hap1	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18945_hap2_hprc_r2_v1.0.1	NA18945	hap2	JPT	2- h12+	2	A+ A- B+	2
+NA18948_hap1_hprc_r2_v1.0.1	NA18948	hap1	JPT	2- 1-	2	A+ A+ C- B+	2
+NA18948_hap2_hprc_r2_v1.0.1	NA18948	hap2	JPT	2- 2- 1+	3	C+ B- A+ B- A+ A- D- B+	3
+NA18952_hap1_hprc_r2_v1.0.1	NA18952	hap1	JPT	1+	1	C+ A- D- B+	1
+NA18952_hap2_hprc_r2_v1.0.1	NA18952	hap2	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18959_hap1_hprc_r2_v1.0.1	NA18959	hap1	JPT	t- 2- 1+	3	C+ B- A+ A- D- B+	2
+NA18959_hap2_hprc_r2_v1.0.1	NA18959	hap2	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18960_hap1_hprc_r2_v1.0.1	NA18960	hap1	JPT	2- 2- 1-	3	C+ B- A+ C+ B- A+ E- A+ C- B+	3
+NA18960_hap2_hprc_r2_v1.0.1	NA18960	hap2	JPT	1-	1	C+ C- A+ C- B+	1
+NA18967_hap1_hprc_r2_v1.0.1	NA18967	hap1	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18967_hap2_hprc_r2_v1.0.1	NA18967	hap2	JPT	1-	1	C+ C- A+ C- B+	1
+NA18970_hap1_hprc_r2_v1.0.1	NA18970	hap1	JPT	2+ 1+	2	C+ A- B+ A- B+	2
+NA18970_hap2_hprc_r2_v1.0.1	NA18970	hap2	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18971_hap1_hprc_r2_v1.0.1	NA18971	hap1	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18971_hap2_hprc_r2_v1.0.1	NA18971	hap2	JPT	1+	1	C+ A- D- B+	1
+NA18976_hap1_hprc_r2_v1.0.1	NA18976	hap1	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18976_hap2_hprc_r2_v1.0.1	NA18976	hap2	JPT	1+	1	C+ A- D- B+	1
+NA18982_hap1_hprc_r2_v1.0.1	NA18982	hap1	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18982_hap2_hprc_r2_v1.0.1	NA18982	hap2	JPT	2+ 1+	2	C+ A- B+ A- D- B+	2
+NA18983_hap1_hprc_r2_v1.0.1	NA18983	hap1	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA18983_hap2_hprc_r2_v1.0.1	NA18983	hap2	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA19036_hap1_hprc_r2_v1.0.1	NA19036	hap1	LWK	1+ 1-	2	C+ A- A+	2
+NA19036_hap2_hprc_r2_v1.0.1	NA19036	hap2	LWK	1- 1+	2	A+ A- E+ C- B+	2
+NA19043_hap1_hprc_r2_v1.0.1	NA19043	hap1	LWK	1- 1+	2	C+ B- A+ A- D- E+	2
+NA19043_hap2_hprc_r2_v1.0.1	NA19043	hap2	LWK	1- 1+	2	A+ A- E+ E- C- F+ E+	2
+NA19087_hap1_hprc_r2_v1.0.1	NA19087	hap1	JPT	2- 1+	2	C+ B- A+ A- D- B+	2
+NA19087_hap2_hprc_r2_v1.0.1	NA19087	hap2	JPT	2+ 1+	2	C+ A- B+ A- E+ C- B+	2
+NA19159_hap1_hprc_r2_v1.0.1	NA19159	hap1	YRI	2- 1-	2	C+ B- A+ B- D+ A+	2
+NA19159_hap2_hprc_r2_v1.0.1	NA19159	hap2	YRI	2- 1+	2	C+ B- A+ A- D- B+	2
+NA19185_hap1_hprc_r2_v1.0.1	NA19185	hap1	YRI	1- 1+	2	A+ A- E+ C- B+	2
+NA19185_hap2_hprc_r2_v1.0.1	NA19185	hap2	YRI	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+NA19240_mat_hprc_r2_v1.0.1	NA19240	mat	YRI	1- 1+	2	A+ A- K- B+	2
+NA19240_pat_hprc_r2_v1.0.1	NA19240	pat	YRI	1- 1+	2	A+ A- E+ C- B+	2
+NA19338_hap1_hprc_r2_v1.0.1	NA19338	hap1	LWK	1- 1+	2	A+ A- C- B+	2
+NA19338_hap2_hprc_r2_v1.0.1	NA19338	hap2	LWK	2- 1-	2	C+ B- A+ B- D+ A+	2
+NA19391_hap1_hprc_r2_v1.0.1	NA19391	hap1	LWK	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+NA19391_hap2_hprc_r2_v1.0.1	NA19391	hap2	LWK	2- 1-	2	C+ B- A+ A+ A-	3
+NA19468_hap1_hprc_r2_v1.0.1	NA19468	hap1	LWK	2- 1-	2	D- E+ B- A+ B- D- D- A+	2
+NA19468_hap2_hprc_r2_v1.0.1	NA19468	hap2	LWK	1-	1	C+ B- D+ A+	1
+NA19682_hap1_hprc_r2_v1.0.1	NA19682	hap1	MXL	2- 1+	2	C+ B- A+ A- D- B+	2
+NA19682_hap2_hprc_r2_v1.0.1	NA19682	hap2	MXL	2- 1+	2	C+ B- A+ A- D- B+	2
+NA19700_hap1_hprc_r2_v1.0.1	NA19700	hap1	ASW	1-	1		0
+NA19700_hap2_hprc_r2_v1.0.1	NA19700	hap2	ASW	1- 1+	2	A+ A- E+ C- B+	2
+NA19776_hap1_hprc_r2_v1.0.1	NA19776	hap1	MXL	2- 1+	2	C+ B- A+ A- D- B+	2
+NA19776_hap2_hprc_r2_v1.0.1	NA19776	hap2	MXL	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+NA19835_hap1_hprc_r2_v1.0.1	NA19835	hap1	ASW	2- 1+	2	C+ B- A+ A- D- B+	2
+NA19835_hap2_hprc_r2_v1.0.1	NA19835	hap2	ASW	1- 1+	2	A+ A- E+ C- B+	2
+NA19909_hap1_hprc_r2_v1.0.1	NA19909	hap1	ASW	2- 1-	2	A+ B- C+ E- A+	2
+NA19909_hap2_hprc_r2_v1.0.1	NA19909	hap2	ASW	1- h21-	2	A+ B- A+	2
+NA20129_mat_hprc_r2_v1.0.1	NA20129	mat	ASW	2- 1+	2	C+ B- A+ A- D- H+	2
+NA20129_pat_hprc_r2_v1.0.1	NA20129	pat	ASW	2- 1-	2	A+ B- C+ E- A+	2
+NA20282_hap1_hprc_r2_v1.0.1	NA20282	hap1	ASW	1- h21+	2	A+ A- C- B+	2
+NA20282_hap2_hprc_r2_v1.0.1	NA20282	hap2	ASW	1- h21-	2	A+ B- A+	2
+NA20346_hap1_hprc_r2_v1.0.1	NA20346	hap1	ASW	2- 1+	2	A+ A- K- B+	2
+NA20346_hap2_hprc_r2_v1.0.1	NA20346	hap2	ASW	1+	1	C+ A- D- B+	1
+NA20503_hap1_hprc_r2_v1.0.1	NA20503	hap1	TSI	2- 1-	2	C+ B- A+ B- D+ A+	2
+NA20503_hap2_hprc_r2_v1.0.1	NA20503	hap2	TSI	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+NA20752_hap1_hprc_r2_v1.0.1	NA20752	hap1	TSI	2- 1+	2	C+ B- A+ A- E+ B- B+	2
+NA20762_hap1_hprc_r2_v1.0.1	NA20762	hap1	TSI	2- 1+	2	A+ A- B+	2
+NA20762_hap2_hprc_r2_v1.0.1	NA20762	hap2	TSI	1+ 2+	2	C+ A- E+ A- B+ C- B+	2
+NA20799_hap1_hprc_r2_v1.0.1	NA20799	hap1	TSI	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+NA20799_hap2_hprc_r2_v1.0.1	NA20799	hap2	TSI	1-	1	C+ C- A+ C- B+	1
+NA20805_hap1_hprc_r2_v1.0.1	NA20805	hap1	TSI	1+	1	C+ A- D- B+	1
+NA20805_hap2_hprc_r2_v1.0.1	NA20805	hap2	TSI	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+NA20806_hap1_hprc_r2_v1.0.1	NA20806	hap1	TSI	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+NA20806_hap2_hprc_r2_v1.0.1	NA20806	hap2	TSI	2+ 1-	2	C- A- B+ C- A+ E- D+ B+	2
+NA20809_hap1_hprc_r2_v1.0.1	NA20809	hap1	TSI	2- 1+	2	C+ B- A+ A- E+ C- B+	2
+NA20809_hap2_hprc_r2_v1.0.1	NA20809	hap2	TSI	2- 1+	2	A+ A- B+	2
+NA20827_hap1_hprc_r2_v1.0.1	NA20827	hap1	TSI	2- 1-	2	C+ B- A+ C- A+ C- B+	2
+NA20827_hap2_hprc_r2_v1.0.1	NA20827	hap2	TSI	d2- 1+	2	C+ B- A+ A- D- B+	2
+NA20850_hap1_hprc_r2_v1.0.1	NA20850	hap1	GIH	2- 1+	2	C+ B- A+ A- D- B+	2
+NA20850_hap2_hprc_r2_v1.0.1	NA20850	hap2	GIH	2- 1+	2	C+ B- A+ A- D- B+	2
+NA20870_hap1_hprc_r2_v1.0.1	NA20870	hap1	GIH	1+	1	C+ A- D- D- B+	1
+NA20870_hap2_hprc_r2_v1.0.1	NA20870	hap2	GIH	2- 1+	2	C+ B- A+ A- D- B+	2
+NA20905_hap1_hprc_r2_v1.0.1	NA20905	hap1	GIH	f- 1-	2	C+ B- A+ C- A+ C- B+	2
+NA20905_hap2_hprc_r2_v1.0.1	NA20905	hap2	GIH	2- 2- 1-	3	C+ B- A+ A+ A+	3
+NA21093_hap1_hprc_r2_v1.0.1	NA21093	hap1	GIH	1+ 2+	2	C+ A- E+ A- B+ C- B+	2
+NA21093_hap2_hprc_r2_v1.0.1	NA21093	hap2	GIH	1- 1+	2	C+ B- A+ A- D- B+	2
+NA21102_hap1_hprc_r2_v1.0.1	NA21102	hap1	GIH	1+ 2+	2	C+ A- B+ A- B+	2
+NA21102_hap2_hprc_r2_v1.0.1	NA21102	hap2	GIH	2+ 1+ 2+	3	C+ A- B+ A- A- B+ C- B+	3
+NA21106_hap1_hprc_r2_v1.0.1	NA21106	hap1	GIH	2- 1+	2	C+ B- A+ A- D- B+	2
+NA21106_hap2_hprc_r2_v1.0.1	NA21106	hap2	GIH	2- 1+	2	C+ B- A+ A- D- B+	2
+NA21110_hap1_hprc_r2_v1.0.1	NA21110	hap1	GIH	2- 1+	2	C+ B- A+ A- D- B+	2
+NA21110_hap2_hprc_r2_v1.0.1	NA21110	hap2	GIH	2- 1+	2	C+ B- A+ A- D- B+	2
+NA21144_hap1_hprc_r2_v1.0.1	NA21144	hap1	GIH	1- 2+	2	C+ B- A+ A- D- B+	2
+NA21144_hap2_hprc_r2_v1.0.1	NA21144	hap2	GIH	1-	1	D+ A+ C- B+	1
+NA21309_mat_hprc_r2_v1.0.1	NA21309	mat	MKK	2+ 1- 1+	3	C+ A- B+ A+ A- C- B+	3
+NA21309_pat_hprc_r2_v1.0.1	NA21309	pat	MKK	1- 1+	2	A+ A- K- B+	2
+chm13v2.0_maskedY_rCRS.fa.PanSN	CHM13	ref		2- 1+	2	C+ B- A+ A- D- B+	2
+hg002v1.1.mat_MT.PanSN	HG002_Q100	mat		2- 1+	2	C+ B- A+ C+ A- D- B+	2
+hg002v1.1.pat.PanSN	HG002_Q100	pat		2- 1+	2	C+ B- A+ A- D- B+	2

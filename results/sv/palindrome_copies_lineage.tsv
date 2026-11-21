@@ -1,0 +1,542 @@
+src	copy_id	token	d_kb	gene	lineage	arm	sublineage	mark
+HG00097_hap1_hprc_r2_v1.0.1	HG00097_hap1_hprc_r2_v1.0.1|w4|c0	2-	-279.314	SMN2		left (A+, centromeric)		SMN2
+HG00097_hap1_hprc_r2_v1.0.1	HG00097_hap1_hprc_r2_v1.0.1|w4|c1	1+	354.643	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00099_hap2_hprc_r2_v1.0.1	HG00099_hap2_hprc_r2_v1.0.1|w4|c0	2-	-295.8565	SMN2		left (A+, centromeric)		SMN2
+HG00099_hap2_hprc_r2_v1.0.1	HG00099_hap2_hprc_r2_v1.0.1|w4|c1	1+	337.4185	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00126_hap2_hprc_r2_v1.0.1	HG00126_hap2_hprc_r2_v1.0.1|w3|c0	2-	-299.5365	SMN2		left (A+, centromeric)		SMN2
+HG00126_hap2_hprc_r2_v1.0.1	HG00126_hap2_hprc_r2_v1.0.1|w3|c1	1+	313.7935	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00128_hap1_hprc_r2_v1.0.1	HG00128_hap1_hprc_r2_v1.0.1|w3|c0	2-	-295.8505	SMN2		left (A+, centromeric)		SMN2
+HG00128_hap1_hprc_r2_v1.0.1	HG00128_hap1_hprc_r2_v1.0.1|w3|c1	1+	337.4135	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00133_hap1_hprc_r2_v1.0.1	HG00133_hap1_hprc_r2_v1.0.1|w5|c0	2-	-300.0005	SMN2		left (A+, centromeric)		SMN2
+HG00133_hap1_hprc_r2_v1.0.1	HG00133_hap1_hprc_r2_v1.0.1|w5|c1	1+	333.9695	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00133_hap2_hprc_r2_v1.0.1	HG00133_hap2_hprc_r2_v1.0.1|w4|c0	d2-	-314.0845	other		left (A+, centromeric)		other
+HG00133_hap2_hprc_r2_v1.0.1	HG00133_hap2_hprc_r2_v1.0.1|w4|c1	1+	297.2285	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00140_hap1_hprc_r2_v1.0.1	HG00140_hap1_hprc_r2_v1.0.1|w2|c0	1-	-279.5325	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG00140_hap1_hprc_r2_v1.0.1	HG00140_hap1_hprc_r2_v1.0.1|w2|c1	2+	311.9055	SMN2		right (A-, telomeric)		SMN2
+HG00140_hap2_hprc_r2_v1.0.1	HG00140_hap2_hprc_r2_v1.0.1|w3|c0	2-	-299.5665	SMN2		left (A+, centromeric)		SMN2
+HG00140_hap2_hprc_r2_v1.0.1	HG00140_hap2_hprc_r2_v1.0.1|w3|c1	1+	334.3895	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00146_hap1_hprc_r2_v1.0.1	HG00146_hap1_hprc_r2_v1.0.1|w4|c0	2-	-316.33	SMN2		left (A+, centromeric)		SMN2
+HG00146_hap1_hprc_r2_v1.0.1	HG00146_hap1_hprc_r2_v1.0.1|w4|c1	1+	297.055	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00253_hap1_hprc_r2_v1.0.1	HG00253_hap1_hprc_r2_v1.0.1|w2|c0	2-	-295.9095	SMN2		left (A+, centromeric)		SMN2
+HG00253_hap1_hprc_r2_v1.0.1	HG00253_hap1_hprc_r2_v1.0.1|w2|c1	1+	337.5285	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00272_hap1_hprc_r2_v1.0.1	HG00272_hap1_hprc_r2_v1.0.1|w3|c0	d2-	-314.0565	other		left (A+, centromeric)		other
+HG00272_hap1_hprc_r2_v1.0.1	HG00272_hap1_hprc_r2_v1.0.1|w3|c1	1+	297.2205	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00272_hap2_hprc_r2_v1.0.1	HG00272_hap2_hprc_r2_v1.0.1|w4|c0	2-	-316.3705	SMN2		left (A+, centromeric)		SMN2
+HG00272_hap2_hprc_r2_v1.0.1	HG00272_hap2_hprc_r2_v1.0.1|w4|c1	1+	297.1105	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00290_hap1_hprc_r2_v1.0.1	HG00290_hap1_hprc_r2_v1.0.1|w3|c0	2-	-299.5955	SMN2		left (A+, centromeric)		SMN2
+HG00290_hap1_hprc_r2_v1.0.1	HG00290_hap1_hprc_r2_v1.0.1|w3|c1	1+	313.8305	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00320_hap2_hprc_r2_v1.0.1	HG00320_hap2_hprc_r2_v1.0.1|w4|c0	2-	-334.0785	SMN2		left (A+, centromeric)		SMN2
+HG00320_hap2_hprc_r2_v1.0.1	HG00320_hap2_hprc_r2_v1.0.1|w4|c1	1+	338.1945	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00321_hap2_hprc_r2_v1.0.1	HG00321_hap2_hprc_r2_v1.0.1|w4|c0	2-	-334.3845	SMN2		left (A+, centromeric)		SMN2
+HG00321_hap2_hprc_r2_v1.0.1	HG00321_hap2_hprc_r2_v1.0.1|w4|c1	1+	338.1745	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00323_hap1_hprc_r2_v1.0.1	HG00323_hap1_hprc_r2_v1.0.1|w3|c0	2-	-297.1925	SMN2		left (A+, centromeric)		SMN2
+HG00323_hap1_hprc_r2_v1.0.1	HG00323_hap1_hprc_r2_v1.0.1|w3|c1	1+	317.6405	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00323_hap2_hprc_r2_v1.0.1	HG00323_hap2_hprc_r2_v1.0.1|w4|c0	2-	-297.1915	SMN2		left (A+, centromeric)		SMN2
+HG00323_hap2_hprc_r2_v1.0.1	HG00323_hap2_hprc_r2_v1.0.1|w4|c1	1+	317.6455	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00344_hap1_hprc_r2_v1.0.1	HG00344_hap1_hprc_r2_v1.0.1|w4|c0	2-	-295.8565	SMN2		left (A+, centromeric)		SMN2
+HG00344_hap1_hprc_r2_v1.0.1	HG00344_hap1_hprc_r2_v1.0.1|w4|c1	1+	337.3535	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00344_hap2_hprc_r2_v1.0.1	HG00344_hap2_hprc_r2_v1.0.1|w4|c0	1-	-316.8395	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG00344_hap2_hprc_r2_v1.0.1	HG00344_hap2_hprc_r2_v1.0.1|w4|c1	2+	335.2465	SMN2		right (A-, telomeric)		SMN2
+HG00408_mat_hprc_r2_v1.0.1	HG00408_mat_hprc_r2_v1.0.1|w3|c0	2-	-299.6275	SMN2		left (A+, centromeric)		SMN2
+HG00408_mat_hprc_r2_v1.0.1	HG00408_mat_hprc_r2_v1.0.1|w3|c1	1+	296.0435	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00408_pat_hprc_r2_v1.0.1	HG00408_pat_hprc_r2_v1.0.1|w3|c0	2-	-316.57	SMN2		left (A+, centromeric)		SMN2
+HG00408_pat_hprc_r2_v1.0.1	HG00408_pat_hprc_r2_v1.0.1|w3|c1	1+	297.119	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00544_mat_hprc_r2_v1.0.1	HG00544_mat_hprc_r2_v1.0.1|w4|c0	2-	-295.874	SMN2		left (A+, centromeric)		SMN2
+HG00544_mat_hprc_r2_v1.0.1	HG00544_mat_hprc_r2_v1.0.1|w4|c1	1+	297.068	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00558_mat_hprc_r2_v1.0.1	HG00558_mat_hprc_r2_v1.0.1|w4|c0	2-	-299.6395	SMN2		left (A+, centromeric)		SMN2
+HG00558_mat_hprc_r2_v1.0.1	HG00558_mat_hprc_r2_v1.0.1|w4|c1	1+	313.9435	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00597_mat_hprc_r2_v1.0.1	HG00597_mat_hprc_r2_v1.0.1|w4|c0	2-	-281.1435	SMN2		left (A+, centromeric)		SMN2
+HG00597_mat_hprc_r2_v1.0.1	HG00597_mat_hprc_r2_v1.0.1|w4|c2	1+	313.9735	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00597_pat_hprc_r2_v1.0.1	HG00597_pat_hprc_r2_v1.0.1|w3|c0	2-	-316.4355	SMN2		left (A+, centromeric)		SMN2
+HG00597_pat_hprc_r2_v1.0.1	HG00597_pat_hprc_r2_v1.0.1|w3|c1	1+	276.6315	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG005_pat_hprc_r2_v1.0.1	HG005_pat_hprc_r2_v1.0.1|w2|c0	2-	-316.308	SMN2		left (A+, centromeric)		SMN2
+HG005_pat_hprc_r2_v1.0.1	HG005_pat_hprc_r2_v1.0.1|w2|c1	1+	297.061	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00621_pat_hprc_r2_v1.0.1	HG00621_pat_hprc_r2_v1.0.1|w4|c0	2-	-298.7915	SMN2		left (A+, centromeric)		SMN2
+HG00621_pat_hprc_r2_v1.0.1	HG00621_pat_hprc_r2_v1.0.1|w4|c1	1+	313.5205	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00639_pat_hprc_r2_v1.0.1	HG00639_pat_hprc_r2_v1.0.1|w3|c0	2-	-338.177	SMN2		left (A+, centromeric)		SMN2
+HG00639_pat_hprc_r2_v1.0.1	HG00639_pat_hprc_r2_v1.0.1|w3|c1	1+	334.431	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00658_mat_hprc_r2_v1.0.1	HG00658_mat_hprc_r2_v1.0.1|w3|c0	2-	-299.958	SMN2		left (A+, centromeric)		SMN2
+HG00658_mat_hprc_r2_v1.0.1	HG00658_mat_hprc_r2_v1.0.1|w3|c1	1+	313.944	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00658_pat_hprc_r2_v1.0.1	HG00658_pat_hprc_r2_v1.0.1|w4|c0	2-	-299.6855	SMN2		left (A+, centromeric)		SMN2
+HG00658_pat_hprc_r2_v1.0.1	HG00658_pat_hprc_r2_v1.0.1|w4|c1	1+	313.5205	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00673_mat_hprc_r2_v1.0.1	HG00673_mat_hprc_r2_v1.0.1|w4|c0	2-	-316.5955	SMN2		left (A+, centromeric)		SMN2
+HG00673_mat_hprc_r2_v1.0.1	HG00673_mat_hprc_r2_v1.0.1|w4|c1	1+	297.1165	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00673_pat_hprc_r2_v1.0.1	HG00673_pat_hprc_r2_v1.0.1|w6|c0	2-	-316.4515	SMN2		left (A+, centromeric)		SMN2
+HG00673_pat_hprc_r2_v1.0.1	HG00673_pat_hprc_r2_v1.0.1|w6|c1	1+	317.7935	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00706_mat_hprc_r2_v1.0.1	HG00706_mat_hprc_r2_v1.0.1|w4|c0	2-	-299.6985	SMN2		left (A+, centromeric)		SMN2
+HG00706_mat_hprc_r2_v1.0.1	HG00706_mat_hprc_r2_v1.0.1|w4|c1	1+	313.9295	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00706_pat_hprc_r2_v1.0.1	HG00706_pat_hprc_r2_v1.0.1|w4|c0	h21-	-313.6655	hybrid		left (A+, centromeric)		hybrid
+HG00706_pat_hprc_r2_v1.0.1	HG00706_pat_hprc_r2_v1.0.1|w4|c1	1+	300.0025	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00733_pat_hprc_r2_v1.0.1	HG00733_pat_hprc_r2_v1.0.1|w4|c0	d2-	-314.0435	other		left (A+, centromeric)		other
+HG00733_pat_hprc_r2_v1.0.1	HG00733_pat_hprc_r2_v1.0.1|w4|c1	1+	297.2265	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00735_mat_hprc_r2_v1.0.1	HG00735_mat_hprc_r2_v1.0.1|w4|c0	2-	-316.4135	SMN2		left (A+, centromeric)		SMN2
+HG00735_mat_hprc_r2_v1.0.1	HG00735_mat_hprc_r2_v1.0.1|w4|c1	1+	297.1285	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00735_pat_hprc_r2_v1.0.1	HG00735_pat_hprc_r2_v1.0.1|w4|c0	2-	-316.348	SMN2		left (A+, centromeric)		SMN2
+HG00735_pat_hprc_r2_v1.0.1	HG00735_pat_hprc_r2_v1.0.1|w4|c1	1+	297.071	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00738_mat_hprc_r2_v1.0.1	HG00738_mat_hprc_r2_v1.0.1|w3|c0	2-	-334.249	SMN2		left (A+, centromeric)		SMN2
+HG00738_mat_hprc_r2_v1.0.1	HG00738_mat_hprc_r2_v1.0.1|w3|c1	1+	320.269	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00738_pat_hprc_r2_v1.0.1	HG00738_pat_hprc_r2_v1.0.1|w5|c0	2-	-316.365	SMN2		left (A+, centromeric)		SMN2
+HG00738_pat_hprc_r2_v1.0.1	HG00738_pat_hprc_r2_v1.0.1|w5|c1	1+	297.05	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG00741_pat_hprc_r2_v1.0.1	HG00741_pat_hprc_r2_v1.0.1|w3|c0	2-	-320.458	SMN2		left (A+, centromeric)		SMN2
+HG00741_pat_hprc_r2_v1.0.1	HG00741_pat_hprc_r2_v1.0.1|w3|c1	1+	333.868	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01071_mat_hprc_r2_v1.0.1	HG01071_mat_hprc_r2_v1.0.1|w4|c0	1-	-316.8435	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG01071_mat_hprc_r2_v1.0.1	HG01071_mat_hprc_r2_v1.0.1|w4|c1	2+	295.8825	SMN2		right (A-, telomeric)		SMN2
+HG01071_pat_hprc_r2_v1.0.1	HG01071_pat_hprc_r2_v1.0.1|w4|c0	2-	-295.8615	SMN2		left (A+, centromeric)		SMN2
+HG01071_pat_hprc_r2_v1.0.1	HG01071_pat_hprc_r2_v1.0.1|w4|c1	1+	337.4145	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01074_pat_hprc_r2_v1.0.1	HG01074_pat_hprc_r2_v1.0.1|w5|c0	d2-	-314.0305	other		left (A+, centromeric)		other
+HG01074_pat_hprc_r2_v1.0.1	HG01074_pat_hprc_r2_v1.0.1|w5|c1	1+	297.1945	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01081_pat_hprc_r2_v1.0.1	HG01081_pat_hprc_r2_v1.0.1|w3|c0	2-	-292.969	SMN2		left (A+, centromeric)		SMN2
+HG01081_pat_hprc_r2_v1.0.1	HG01081_pat_hprc_r2_v1.0.1|w3|c1	1+	340.235	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01099_mat_hprc_r2_v1.0.1	HG01099_mat_hprc_r2_v1.0.1|w6|c0	2-	-300.0055	SMN2		left (A+, centromeric)		SMN2
+HG01099_mat_hprc_r2_v1.0.1	HG01099_mat_hprc_r2_v1.0.1|w6|c1	1+	313.5275	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01099_pat_hprc_r2_v1.0.1	HG01099_pat_hprc_r2_v1.0.1|w4|c0	2-	-317.746	SMN2		left (A+, centromeric)		SMN2
+HG01099_pat_hprc_r2_v1.0.1	HG01099_pat_hprc_r2_v1.0.1|w4|c1	1+	334.443	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01106_mat_hprc_r2_v1.0.1	HG01106_mat_hprc_r2_v1.0.1|w6|c0	2-	-316.28	SMN2		left (A+, centromeric)		SMN2
+HG01106_mat_hprc_r2_v1.0.1	HG01106_mat_hprc_r2_v1.0.1|w6|c1	1+	297.063	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01109_mat_hprc_r2_v1.0.1	HG01109_mat_hprc_r2_v1.0.1|w2|c0	1-	-314.5005	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG01109_mat_hprc_r2_v1.0.1	HG01109_mat_hprc_r2_v1.0.1|w2|c1	1+	342.0995	SMN1	B	right (A-, telomeric)	B1	SMN1 B1
+HG01150_mat_hprc_r2_v1.0.1	HG01150_mat_hprc_r2_v1.0.1|w4|c0	2-	-296.2335	SMN2		left (A+, centromeric)		SMN2
+HG01150_mat_hprc_r2_v1.0.1	HG01150_mat_hprc_r2_v1.0.1|w4|c1	1+	296.6655	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01167_hap1_hprc_r2_v1.0.1	HG01167_hap1_hprc_r2_v1.0.1|w4|c0	1-	-317.5485	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG01167_hap1_hprc_r2_v1.0.1	HG01167_hap1_hprc_r2_v1.0.1|w4|c1	1+	335.3375	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG01175_mat_hprc_r2_v1.0.1	HG01175_mat_hprc_r2_v1.0.1|w4|c0	2-	-295.8475	SMN2		left (A+, centromeric)		SMN2
+HG01175_mat_hprc_r2_v1.0.1	HG01175_mat_hprc_r2_v1.0.1|w4|c1	1+	337.3965	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01175_pat_hprc_r2_v1.0.1	HG01175_pat_hprc_r2_v1.0.1|w5|c0	d2-	-314.0305	other		left (A+, centromeric)		other
+HG01175_pat_hprc_r2_v1.0.1	HG01175_pat_hprc_r2_v1.0.1|w5|c1	1+	297.1945	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01192_pat_hprc_r2_v1.0.1	HG01192_pat_hprc_r2_v1.0.1|w3|c0	d2-	-311.0635	other		left (A+, centromeric)		other
+HG01192_pat_hprc_r2_v1.0.1	HG01192_pat_hprc_r2_v1.0.1|w3|c1	1+	300.0735	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01243_pat_hprc_r2_v1.0.1	HG01243_pat_hprc_r2_v1.0.1|w4|c1	2-	-320.432	SMN2		left (A+, centromeric)		SMN2
+HG01243_pat_hprc_r2_v1.0.1	HG01243_pat_hprc_r2_v1.0.1|w4|c2	1+	333.89	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01255_mat_hprc_r2_v1.0.1	HG01255_mat_hprc_r2_v1.0.1|w4|c0	2-	-320.031	SMN2		left (A+, centromeric)		SMN2
+HG01255_mat_hprc_r2_v1.0.1	HG01255_mat_hprc_r2_v1.0.1|w4|c1	1+	313.836	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01258_pat_hprc_r2_v1.0.1	HG01258_pat_hprc_r2_v1.0.1|w4|c0	2-	-299.627	SMN2		left (A+, centromeric)		SMN2
+HG01258_pat_hprc_r2_v1.0.1	HG01258_pat_hprc_r2_v1.0.1|w4|c1	1+	313.833	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01361_mat_hprc_r2_v1.0.1	HG01361_mat_hprc_r2_v1.0.1|w3|c0	2-	-320.5685	SMN2		left (A+, centromeric)		SMN2
+HG01361_mat_hprc_r2_v1.0.1	HG01361_mat_hprc_r2_v1.0.1|w3|c1	1+	351.9725	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01361_pat_hprc_r2_v1.0.1	HG01361_pat_hprc_r2_v1.0.1|w3|c0	2-	-331.5435	SMN2		left (A+, centromeric)		SMN2
+HG01361_pat_hprc_r2_v1.0.1	HG01361_pat_hprc_r2_v1.0.1|w3|c1	1+	320.5565	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01496_pat_hprc_r2_v1.0.1	HG01496_pat_hprc_r2_v1.0.1|w4|c0	2-	-295.046	SMN2		left (A+, centromeric)		SMN2
+HG01496_pat_hprc_r2_v1.0.1	HG01496_pat_hprc_r2_v1.0.1|w4|c1	1+	313.88	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01530_hap1_hprc_r2_v1.0.1	HG01530_hap1_hprc_r2_v1.0.1|w4|c0	1-	-300.0115	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG01530_hap1_hprc_r2_v1.0.1	HG01530_hap1_hprc_r2_v1.0.1|w4|c1	2+	312.7185	SMN2		right (A-, telomeric)		SMN2
+HG01786_hap2_hprc_r2_v1.0.1	HG01786_hap2_hprc_r2_v1.0.1|w4|c1	1-	-316.6165	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG01786_hap2_hprc_r2_v1.0.1	HG01786_hap2_hprc_r2_v1.0.1|w4|c2	1+	297.0365	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01884_mat_hprc_r2_v1.0.1	HG01884_mat_hprc_r2_v1.0.1|w3|c0	2-	-354.324	SMN2		left (A+, centromeric)		SMN2
+HG01884_mat_hprc_r2_v1.0.1	HG01884_mat_hprc_r2_v1.0.1|w3|c1	1+	299.992	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01891_mat_hprc_r2_v1.0.1	HG01891_mat_hprc_r2_v1.0.1|w2|c0	2-	-299.9775	SMN2		left (A+, centromeric)		SMN2
+HG01891_mat_hprc_r2_v1.0.1	HG01891_mat_hprc_r2_v1.0.1|w2|c1	1+	313.4085	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01928_pat_hprc_r2_v1.0.1	HG01928_pat_hprc_r2_v1.0.1|w4|c0	2-	-299.598	SMN2		left (A+, centromeric)		SMN2
+HG01928_pat_hprc_r2_v1.0.1	HG01928_pat_hprc_r2_v1.0.1|w4|c1	1+	313.837	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01940_mat_hprc_r2_v1.0.1	HG01940_mat_hprc_r2_v1.0.1|w4|c0	2-	-279.363	SMN2		left (A+, centromeric)		SMN2
+HG01940_mat_hprc_r2_v1.0.1	HG01940_mat_hprc_r2_v1.0.1|w4|c1	1+	354.753	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01943_mat_hprc_r2_v1.0.1	HG01943_mat_hprc_r2_v1.0.1|w4|c0	2-	-316.3005	SMN2		left (A+, centromeric)		SMN2
+HG01943_mat_hprc_r2_v1.0.1	HG01943_mat_hprc_r2_v1.0.1|w4|c1	1+	297.2345	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01952_mat_hprc_r2_v1.0.1	HG01952_mat_hprc_r2_v1.0.1|w4|c0	2-	-316.5245	SMN2		left (A+, centromeric)		SMN2
+HG01952_mat_hprc_r2_v1.0.1	HG01952_mat_hprc_r2_v1.0.1|w4|c1	1+	276.8445	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01960_mat_hprc_r2_v1.0.1	HG01960_mat_hprc_r2_v1.0.1|w3|c0	1-	-321.0435	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG01960_mat_hprc_r2_v1.0.1	HG01960_mat_hprc_r2_v1.0.1|w3|c1	1+	334.9915	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG01960_pat_hprc_r2_v1.0.1	HG01960_pat_hprc_r2_v1.0.1|w3|c0	1-	-377.7805	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG01960_pat_hprc_r2_v1.0.1	HG01960_pat_hprc_r2_v1.0.1|w3|c1	1+	276.6405	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01969_mat_hprc_r2_v1.0.1	HG01969_mat_hprc_r2_v1.0.1|w6|c0	2-	-316.473	SMN2		left (A+, centromeric)		SMN2
+HG01969_mat_hprc_r2_v1.0.1	HG01969_mat_hprc_r2_v1.0.1|w6|c1	1+	296.259	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01969_pat_hprc_r2_v1.0.1	HG01969_pat_hprc_r2_v1.0.1|w4|c0	2-	-279.1415	SMN2		left (A+, centromeric)		SMN2
+HG01969_pat_hprc_r2_v1.0.1	HG01969_pat_hprc_r2_v1.0.1|w4|c1	1+	313.7775	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01975_pat_hprc_r2_v1.0.1	HG01975_pat_hprc_r2_v1.0.1|w4|c0	2-	-313.571	SMN2		left (A+, centromeric)		SMN2
+HG01975_pat_hprc_r2_v1.0.1	HG01975_pat_hprc_r2_v1.0.1|w4|c1	1+	300.794	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01978_mat_hprc_r2_v1.1.0	HG01978_mat_hprc_r2_v1.1.0|w2|c0	2-	-292.947	SMN2		left (A+, centromeric)		SMN2
+HG01978_mat_hprc_r2_v1.1.0	HG01978_mat_hprc_r2_v1.1.0|w2|c1	1+	340.263	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01978_pat_hprc_r2_v1.1.0	HG01978_pat_hprc_r2_v1.1.0|w4|c0	2-	-279.354	SMN2		left (A+, centromeric)		SMN2
+HG01978_pat_hprc_r2_v1.1.0	HG01978_pat_hprc_r2_v1.1.0|w4|c1	1+	354.637	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG01981_pat_hprc_r2_v1.0.1	HG01981_pat_hprc_r2_v1.0.1|w4|c0	2-	-299.585	SMN2		left (A+, centromeric)		SMN2
+HG01981_pat_hprc_r2_v1.0.1	HG01981_pat_hprc_r2_v1.0.1|w4|c1	1+	313.883	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02004_mat_hprc_r2_v1.0.1	HG02004_mat_hprc_r2_v1.0.1|w0|c0	2-	-316.472	SMN2		left (A+, centromeric)		SMN2
+HG02004_mat_hprc_r2_v1.0.1	HG02004_mat_hprc_r2_v1.0.1|w0|c1	1+	297.097	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02015_mat_hprc_r2_v1.0.1	HG02015_mat_hprc_r2_v1.0.1|w6|c0	2-	-316.3215	SMN2		left (A+, centromeric)		SMN2
+HG02015_mat_hprc_r2_v1.0.1	HG02015_mat_hprc_r2_v1.0.1|w6|c1	1+	297.1455	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02015_pat_hprc_r2_v1.0.1	HG02015_pat_hprc_r2_v1.0.1|w3|c0	2-	-316.3745	SMN2		left (A+, centromeric)		SMN2
+HG02015_pat_hprc_r2_v1.0.1	HG02015_pat_hprc_r2_v1.0.1|w3|c1	1+	297.1005	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02027_mat_hprc_r2_v1.0.1	HG02027_mat_hprc_r2_v1.0.1|w4|c0	2-	-316.7065	SMN2		left (A+, centromeric)		SMN2
+HG02027_mat_hprc_r2_v1.0.1	HG02027_mat_hprc_r2_v1.0.1|w4|c1	1+	296.6685	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02027_pat_hprc_r2_v1.0.1	HG02027_pat_hprc_r2_v1.0.1|w3|c0	2-	-316.688	SMN2		left (A+, centromeric)		SMN2
+HG02027_pat_hprc_r2_v1.0.1	HG02027_pat_hprc_r2_v1.0.1|w3|c1	1+	276.604	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02040_hap2_hprc_r2_v1.0.1	HG02040_hap2_hprc_r2_v1.0.1|w3|c0	2-	-299.584	SMN2		left (A+, centromeric)		SMN2
+HG02040_hap2_hprc_r2_v1.0.1	HG02040_hap2_hprc_r2_v1.0.1|w3|c1	1+	313.938	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02055_pat_hprc_r2_v1.0.1	HG02055_pat_hprc_r2_v1.0.1|w4|c0	1-	-317.6445	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02055_pat_hprc_r2_v1.0.1	HG02055_pat_hprc_r2_v1.0.1|w4|c1	1+	314.8895	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02056_pat_hprc_r2_v1.0.1	HG02056_pat_hprc_r2_v1.0.1|w4|c0	2-	-316.5475	SMN2		left (A+, centromeric)		SMN2
+HG02056_pat_hprc_r2_v1.0.1	HG02056_pat_hprc_r2_v1.0.1|w4|c1	1+	297.2825	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02071_mat_hprc_r2_v1.0.1	HG02071_mat_hprc_r2_v1.0.1|w5|c0	2-	-320.1215	SMN2		left (A+, centromeric)		SMN2
+HG02071_mat_hprc_r2_v1.0.1	HG02071_mat_hprc_r2_v1.0.1|w5|c1	1+	314.0535	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02071_pat_hprc_r2_v1.0.1	HG02071_pat_hprc_r2_v1.0.1|w4|c0	2-	-316.379	SMN2		left (A+, centromeric)		SMN2
+HG02071_pat_hprc_r2_v1.0.1	HG02071_pat_hprc_r2_v1.0.1|w4|c1	1+	297.071	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02074_mat_hprc_r2_v1.0.1	HG02074_mat_hprc_r2_v1.0.1|w3|c0	2-	-313.5505	SMN2		left (A+, centromeric)		SMN2
+HG02074_mat_hprc_r2_v1.0.1	HG02074_mat_hprc_r2_v1.0.1|w3|c1	1+	300.0695	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02074_pat_hprc_r2_v1.0.1	HG02074_pat_hprc_r2_v1.0.1|w3|c0	2-	-299.601	SMN2		left (A+, centromeric)		SMN2
+HG02074_pat_hprc_r2_v1.0.1	HG02074_pat_hprc_r2_v1.0.1|w3|c1	1+	313.817	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02080_mat_hprc_r2_v1.0.1	HG02080_mat_hprc_r2_v1.0.1|w6|c0	2-	-299.582	SMN2		left (A+, centromeric)		SMN2
+HG02080_mat_hprc_r2_v1.0.1	HG02080_mat_hprc_r2_v1.0.1|w6|c1	1+	293.392	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02080_pat_hprc_r2_v1.0.1	HG02080_pat_hprc_r2_v1.0.1|w3|c0	2-	-316.358	SMN2		left (A+, centromeric)		SMN2
+HG02080_pat_hprc_r2_v1.0.1	HG02080_pat_hprc_r2_v1.0.1|w3|c1	1+	297.055	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02083_mat_hprc_r2_v1.0.1	HG02083_mat_hprc_r2_v1.0.1|w3|c0	2-	-316.3115	SMN2		left (A+, centromeric)		SMN2
+HG02083_mat_hprc_r2_v1.0.1	HG02083_mat_hprc_r2_v1.0.1|w3|c1	1+	312.7775	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02083_pat_hprc_r2_v1.0.1	HG02083_pat_hprc_r2_v1.0.1|w4|c0	1-	-318.005	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG02083_pat_hprc_r2_v1.0.1	HG02083_pat_hprc_r2_v1.0.1|w4|c1	2+	296.699	SMN2		right (A-, telomeric)		SMN2
+HG02109_mat_hprc_r2_v1.0.1	HG02109_mat_hprc_r2_v1.0.1|w4|c0	2-	-299.9475	SMN2		left (A+, centromeric)		SMN2
+HG02109_mat_hprc_r2_v1.0.1	HG02109_mat_hprc_r2_v1.0.1|w4|c1	1+	313.4175	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02109_pat_hprc_r2_v1.0.1	HG02109_pat_hprc_r2_v1.0.1|w3|c0	1-	-317.4715	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02109_pat_hprc_r2_v1.0.1	HG02109_pat_hprc_r2_v1.0.1|w3|c1	1+	314.6545	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02129_mat_hprc_r2_v1.0.1	HG02129_mat_hprc_r2_v1.0.1|w2|c0	2-	-377.8745	SMN2		left (A+, centromeric)		SMN2
+HG02129_mat_hprc_r2_v1.0.1	HG02129_mat_hprc_r2_v1.0.1|w2|c1	1+	297.1355	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02129_pat_hprc_r2_v1.0.1	HG02129_pat_hprc_r2_v1.0.1|w5|c0	2-	-316.4865	SMN2		left (A+, centromeric)		SMN2
+HG02129_pat_hprc_r2_v1.0.1	HG02129_pat_hprc_r2_v1.0.1|w5|c1	1+	297.2585	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02132_pat_hprc_r2_v1.0.1	HG02132_pat_hprc_r2_v1.0.1|w4|c1	2-	-279.8925	SMN2		left (A+, centromeric)		SMN2
+HG02132_pat_hprc_r2_v1.0.1	HG02132_pat_hprc_r2_v1.0.1|w4|c2	2+	293.0465	SMN2		right (A-, telomeric)		SMN2
+HG02135_mat_hprc_r2_v1.0.1	HG02135_mat_hprc_r2_v1.0.1|w3|c0	2-	-300.4465	SMN2		left (A+, centromeric)		SMN2
+HG02135_mat_hprc_r2_v1.0.1	HG02135_mat_hprc_r2_v1.0.1|w3|c1	1+	313.8905	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02135_pat_hprc_r2_v1.0.1	HG02135_pat_hprc_r2_v1.0.1|w4|c0	2-	-299.58	SMN2		left (A+, centromeric)		SMN2
+HG02135_pat_hprc_r2_v1.0.1	HG02135_pat_hprc_r2_v1.0.1|w4|c1	1+	313.831	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02145_mat_hprc_r2_v1.0.1	HG02145_mat_hprc_r2_v1.0.1|w5|c0	1-	-396.3015	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG02145_mat_hprc_r2_v1.0.1	HG02145_mat_hprc_r2_v1.0.1|w5|c1	1+	253.1965	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02145_pat_hprc_r2_v1.0.1	HG02145_pat_hprc_r2_v1.0.1|w3|c0	1-	-317.5275	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02145_pat_hprc_r2_v1.0.1	HG02145_pat_hprc_r2_v1.0.1|w3|c1	1+	335.3025	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02148_pat_hprc_r2_v1.0.1	HG02148_pat_hprc_r2_v1.0.1|w4|c0	2-	-299.58	SMN2		left (A+, centromeric)		SMN2
+HG02148_pat_hprc_r2_v1.0.1	HG02148_pat_hprc_r2_v1.0.1|w4|c1	1+	313.806	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02155_hap2_hprc_r2_v1.0.1	HG02155_hap2_hprc_r2_v1.0.1|w3|c0	h21-	-313.6115	hybrid		left (A+, centromeric)		hybrid
+HG02155_hap2_hprc_r2_v1.0.1	HG02155_hap2_hprc_r2_v1.0.1|w3|c1	1+	300.0015	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02178_hap1_hprc_r2_v1.0.1	HG02178_hap1_hprc_r2_v1.0.1|w3|c0	2-	-299.6625	SMN2		left (A+, centromeric)		SMN2
+HG02178_hap1_hprc_r2_v1.0.1	HG02178_hap1_hprc_r2_v1.0.1|w3|c1	1+	334.4215	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02178_hap2_hprc_r2_v1.0.1	HG02178_hap2_hprc_r2_v1.0.1|w4|c0	2-	-300.0765	SMN2		left (A+, centromeric)		SMN2
+HG02178_hap2_hprc_r2_v1.0.1	HG02178_hap2_hprc_r2_v1.0.1|w4|c1	1+	312.7315	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02258_mat_hprc_r2_v1.0.1	HG02258_mat_hprc_r2_v1.0.1|w3|c0	2-	-353.655	SMN2		left (A+, centromeric)		SMN2
+HG02258_mat_hprc_r2_v1.0.1	HG02258_mat_hprc_r2_v1.0.1|w3|c1	1+	322.277	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02258_pat_hprc_r2_v1.0.1	HG02258_pat_hprc_r2_v1.0.1|w3|c0	1-	-317.5715	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02258_pat_hprc_r2_v1.0.1	HG02258_pat_hprc_r2_v1.0.1|w3|c1	1+	335.3475	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02280_mat_hprc_r2_v1.0.1	HG02280_mat_hprc_r2_v1.0.1|w4|c0	1-	-279.524	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG02280_mat_hprc_r2_v1.0.1	HG02280_mat_hprc_r2_v1.0.1|w4|c1	1+	354.417	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02280_pat_hprc_r2_v1.0.1	HG02280_pat_hprc_r2_v1.0.1|w4|c0	2-	-316.339	SMN2		left (A+, centromeric)		SMN2
+HG02280_pat_hprc_r2_v1.0.1	HG02280_pat_hprc_r2_v1.0.1|w4|c1	1+	297.047	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02293_mat_hprc_r2_v1.0.1	HG02293_mat_hprc_r2_v1.0.1|w3|c0	2-	-316.455	SMN2		left (A+, centromeric)		SMN2
+HG02293_mat_hprc_r2_v1.0.1	HG02293_mat_hprc_r2_v1.0.1|w3|c1	1+	297.09	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02293_pat_hprc_r2_v1.0.1	HG02293_pat_hprc_r2_v1.0.1|w4|c0	2-	-300.0825	SMN2		left (A+, centromeric)		SMN2
+HG02293_pat_hprc_r2_v1.0.1	HG02293_pat_hprc_r2_v1.0.1|w4|c1	1+	313.6565	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02300_mat_hprc_r2_v1.0.1	HG02300_mat_hprc_r2_v1.0.1|w3|c0	h12-	-316.1475	hybrid		left (A+, centromeric)		hybrid
+HG02300_mat_hprc_r2_v1.0.1	HG02300_mat_hprc_r2_v1.0.1|w3|c1	1+	297.1835	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02300_pat_hprc_r2_v1.0.1	HG02300_pat_hprc_r2_v1.0.1|w3|c0	2-	-316.296	SMN2		left (A+, centromeric)		SMN2
+HG02300_pat_hprc_r2_v1.0.1	HG02300_pat_hprc_r2_v1.0.1|w3|c1	1+	297.046	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02391_hap2_hprc_r2_v1.0.1	HG02391_hap2_hprc_r2_v1.0.1|w4|c0	2-	-316.4585	SMN2		left (A+, centromeric)		SMN2
+HG02391_hap2_hprc_r2_v1.0.1	HG02391_hap2_hprc_r2_v1.0.1|w4|c1	1+	317.6975	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02392_hap1_hprc_r2_v1.0.1	HG02392_hap1_hprc_r2_v1.0.1|w4|c0	2-	-300.581	SMN2		left (A+, centromeric)		SMN2
+HG02392_hap1_hprc_r2_v1.0.1	HG02392_hap1_hprc_r2_v1.0.1|w4|c1	1+	293.564	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02392_hap2_hprc_r2_v1.0.1	HG02392_hap2_hprc_r2_v1.0.1|w4|c0	2-	-299.5905	SMN2		left (A+, centromeric)		SMN2
+HG02392_hap2_hprc_r2_v1.0.1	HG02392_hap2_hprc_r2_v1.0.1|w4|c1	1+	313.8535	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02451_mat_hprc_r2_v1.0.1	HG02451_mat_hprc_r2_v1.0.1|w4|c0	2-	-315.5155	SMN2		left (A+, centromeric)		SMN2
+HG02451_mat_hprc_r2_v1.0.1	HG02451_mat_hprc_r2_v1.0.1|w4|c1	1+	317.5675	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02486_mat_hprc_r2_v1.0.1	HG02486_mat_hprc_r2_v1.0.1|w4|c0	1-	-317.4505	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02486_mat_hprc_r2_v1.0.1	HG02486_mat_hprc_r2_v1.0.1|w4|c1	1+	335.3485	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02486_pat_hprc_r2_v1.0.1	HG02486_pat_hprc_r2_v1.0.1|w4|c0	2-	-320.172	SMN2		left (A+, centromeric)		SMN2
+HG02486_pat_hprc_r2_v1.0.1	HG02486_pat_hprc_r2_v1.0.1|w4|c1	1+	312.616	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02523_mat_hprc_r2_v1.0.1	HG02523_mat_hprc_r2_v1.0.1|w3|c0	2-	-316.5575	SMN2		left (A+, centromeric)		SMN2
+HG02523_mat_hprc_r2_v1.0.1	HG02523_mat_hprc_r2_v1.0.1|w3|c1	1+	276.6665	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02523_pat_hprc_r2_v1.0.1	HG02523_pat_hprc_r2_v1.0.1|w6|c0	2-	-316.4085	SMN2		left (A+, centromeric)		SMN2
+HG02523_pat_hprc_r2_v1.0.1	HG02523_pat_hprc_r2_v1.0.1|w6|c1	1+	297.1305	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02559_pat_hprc_r2_v1.0.1	HG02559_pat_hprc_r2_v1.0.1|w5|c0	1-	-317.4835	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02559_pat_hprc_r2_v1.0.1	HG02559_pat_hprc_r2_v1.0.1|w5|c1	h21+	317.2595	hybrid		right (A-, telomeric)		hybrid
+HG02572_pat_hprc_r2_v1.0.1	HG02572_pat_hprc_r2_v1.0.1|w4|c0	1-	-310.9635	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02572_pat_hprc_r2_v1.0.1	HG02572_pat_hprc_r2_v1.0.1|w4|c1	1+	321.5585	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02583_hap1_hprc_r2_v1.0.1	HG02583_hap1_hprc_r2_v1.0.1|w4|c0	2-	-279.0105	SMN2		left (A+, centromeric)		SMN2
+HG02583_hap1_hprc_r2_v1.0.1	HG02583_hap1_hprc_r2_v1.0.1|w4|c1	1+	334.0685	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02583_hap2_hprc_r2_v1.0.1	HG02583_hap2_hprc_r2_v1.0.1|w2|c0	2-	-296.0285	SMN2		left (A+, centromeric)		SMN2
+HG02583_hap2_hprc_r2_v1.0.1	HG02583_hap2_hprc_r2_v1.0.1|w2|c1	1+	297.0355	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02615_mat_hprc_r2_v1.0.1	HG02615_mat_hprc_r2_v1.0.1|w3|c0	1-	-317.4895	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02615_mat_hprc_r2_v1.0.1	HG02615_mat_hprc_r2_v1.0.1|w3|c1	h21+	317.3055	hybrid		right (A-, telomeric)		hybrid
+HG02622_mat_hprc_r2_v1.0.1	HG02622_mat_hprc_r2_v1.0.1|w3|c0	1-	-297.1025	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02622_mat_hprc_r2_v1.0.1	HG02622_mat_hprc_r2_v1.0.1|w3|c1	1+	314.5235	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02622_pat_hprc_r2_v1.0.1	HG02622_pat_hprc_r2_v1.0.1|w3|c0	1-	-317.4515	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02622_pat_hprc_r2_v1.0.1	HG02622_pat_hprc_r2_v1.0.1|w3|c1	1+	334.9565	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02630_mat_hprc_r2_v1.0.1	HG02630_mat_hprc_r2_v1.0.1|w3|c0	1-	-317.3095	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02630_mat_hprc_r2_v1.0.1	HG02630_mat_hprc_r2_v1.0.1|w3|c1	1+	314.9345	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02647_mat_hprc_r2_v1.0.1	HG02647_mat_hprc_r2_v1.0.1|w3|c0	1-	-330.9175	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02647_mat_hprc_r2_v1.0.1	HG02647_mat_hprc_r2_v1.0.1|w3|c1	1+	321.8415	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02647_pat_hprc_r2_v1.0.1	HG02647_pat_hprc_r2_v1.0.1|w4|c0	1-	-301.2615	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02647_pat_hprc_r2_v1.0.1	HG02647_pat_hprc_r2_v1.0.1|w4|c1	h21+	333.6755	hybrid		right (A-, telomeric)		hybrid
+HG02668_pat_hprc_r2_v1.0.1	HG02668_pat_hprc_r2_v1.0.1|w5|c0	2-	-395.296	SMN2		left (A+, centromeric)		SMN2
+HG02668_pat_hprc_r2_v1.0.1	HG02668_pat_hprc_r2_v1.0.1|w5|c1	1+	299.974	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02698_mat_hprc_r2_v1.0.1	HG02698_mat_hprc_r2_v1.0.1|w5|c0	1-	-300.0035	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG02698_mat_hprc_r2_v1.0.1	HG02698_mat_hprc_r2_v1.0.1|w5|c1	2+	312.6625	SMN2		right (A-, telomeric)		SMN2
+HG02698_pat_hprc_r2_v1.0.1	HG02698_pat_hprc_r2_v1.0.1|w3|c0	1-	-305.1105	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG02698_pat_hprc_r2_v1.0.1	HG02698_pat_hprc_r2_v1.0.1|w3|c1	h12+	308.2675	hybrid		right (A-, telomeric)		hybrid
+HG02717_pat_hprc_r2_v1.0.1	HG02717_pat_hprc_r2_v1.0.1|w4|c0	1-	-317.4705	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02717_pat_hprc_r2_v1.0.1	HG02717_pat_hprc_r2_v1.0.1|w4|c1	1+	335.3565	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02723_mat_hprc_r2_v1.0.1	HG02723_mat_hprc_r2_v1.0.1|w3|c0	1-	-301.4135	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02723_mat_hprc_r2_v1.0.1	HG02723_mat_hprc_r2_v1.0.1|w3|c1	h21+	333.3835	hybrid		right (A-, telomeric)		hybrid
+HG02723_pat_hprc_r2_v1.0.1	HG02723_pat_hprc_r2_v1.0.1|w3|c0	2-	-354.282	SMN2		left (A+, centromeric)		SMN2
+HG02723_pat_hprc_r2_v1.0.1	HG02723_pat_hprc_r2_v1.0.1|w3|c1	1+	299.985	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02738_mat_hprc_r2_v1.0.1	HG02738_mat_hprc_r2_v1.0.1|w3|c0	2-	-297.1865	SMN2		left (A+, centromeric)		SMN2
+HG02738_mat_hprc_r2_v1.0.1	HG02738_mat_hprc_r2_v1.0.1|w3|c1	1+	317.6685	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02809_mat_hprc_r2_v1.0.1	HG02809_mat_hprc_r2_v1.0.1|w4|c0	1-	-299.916	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG02809_mat_hprc_r2_v1.0.1	HG02809_mat_hprc_r2_v1.0.1|w4|c1	2+	354.318	SMN2		right (A-, telomeric)		SMN2
+HG02809_pat_hprc_r2_v1.0.1	HG02809_pat_hprc_r2_v1.0.1|w4|c0	2-	-319.982	SMN2		left (A+, centromeric)		SMN2
+HG02809_pat_hprc_r2_v1.0.1	HG02809_pat_hprc_r2_v1.0.1|w4|c1	1+	354.747	SMN1	B	right (A-, telomeric)	B1	SMN1 B1
+HG02818_mat_hprc_r2_v1.0.1	HG02818_mat_hprc_r2_v1.0.1|w6|c0	1-	-321.4815	SMN1	B	left (A+, centromeric)	B2	SMN1 B2
+HG02818_mat_hprc_r2_v1.0.1	HG02818_mat_hprc_r2_v1.0.1|w6|c1	1+	334.1295	SMN1	B	right (A-, telomeric)	B1	SMN1 B1
+HG02818_pat_hprc_r2_v1.0.1	HG02818_pat_hprc_r2_v1.0.1|w2|c0	1-	-316.7455	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG02818_pat_hprc_r2_v1.0.1	HG02818_pat_hprc_r2_v1.0.1|w2|c1	2+	296.6755	SMN2		right (A-, telomeric)		SMN2
+HG02841_mat_hprc_r2_v1.0.1	HG02841_mat_hprc_r2_v1.0.1|w5|c0	2-	-299.9465	SMN2		left (A+, centromeric)		SMN2
+HG02841_mat_hprc_r2_v1.0.1	HG02841_mat_hprc_r2_v1.0.1|w5|c1	1+	313.3495	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02922_hap1_hprc_r2_v1.0.1	HG02922_hap1_hprc_r2_v1.0.1|w3|c0	1-	-317.4255	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02922_hap1_hprc_r2_v1.0.1	HG02922_hap1_hprc_r2_v1.0.1|w3|c1	1+	335.3555	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02922_hap2_hprc_r2_v1.0.1	HG02922_hap2_hprc_r2_v1.0.1|w5|c0	2-	-320.497	SMN2		left (A+, centromeric)		SMN2
+HG02922_hap2_hprc_r2_v1.0.1	HG02922_hap2_hprc_r2_v1.0.1|w5|c1	1+	292.158	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG02976_hap1_hprc_r2_v1.0.1	HG02976_hap1_hprc_r2_v1.0.1|w3|c0	1-	-317.4555	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02976_hap1_hprc_r2_v1.0.1	HG02976_hap1_hprc_r2_v1.0.1|w3|c1	1+	335.3405	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02976_hap2_hprc_r2_v1.0.1	HG02976_hap2_hprc_r2_v1.0.1|w4|c0	1-	-316.6985	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG02976_hap2_hprc_r2_v1.0.1	HG02976_hap2_hprc_r2_v1.0.1|w4|c1	2+	296.6345	SMN2		right (A-, telomeric)		SMN2
+HG02984_mat_hprc_r2_v1.0.1	HG02984_mat_hprc_r2_v1.0.1|w3|c0	1-	-317.5105	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG02984_mat_hprc_r2_v1.0.1	HG02984_mat_hprc_r2_v1.0.1|w3|c1	1+	314.5185	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG02984_pat_hprc_r2_v1.0.1	HG02984_pat_hprc_r2_v1.0.1|w3|c0	2-	-299.5875	SMN2		left (A+, centromeric)		SMN2
+HG02984_pat_hprc_r2_v1.0.1	HG02984_pat_hprc_r2_v1.0.1|w3|c1	1+	313.7955	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03017_mat_hprc_r2_v1.0.1	HG03017_mat_hprc_r2_v1.0.1|w3|c0	2-	-316.3145	SMN2		left (A+, centromeric)		SMN2
+HG03017_mat_hprc_r2_v1.0.1	HG03017_mat_hprc_r2_v1.0.1|w3|c1	1+	297.2445	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03017_pat_hprc_r2_v1.0.1	HG03017_pat_hprc_r2_v1.0.1|w3|c0	1-	-295.6335	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG03017_pat_hprc_r2_v1.0.1	HG03017_pat_hprc_r2_v1.0.1|w3|c1	1+	297.2015	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03041_pat_hprc_r2_v1.0.1	HG03041_pat_hprc_r2_v1.0.1|w2|c0	2-	-353.711	SMN2		left (A+, centromeric)		SMN2
+HG03041_pat_hprc_r2_v1.0.1	HG03041_pat_hprc_r2_v1.0.1|w2|c1	1+	322.289	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03098_mat_hprc_r2_v1.0.1	HG03098_mat_hprc_r2_v1.0.1|w4|c0	1-	-317.5545	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03098_mat_hprc_r2_v1.0.1	HG03098_mat_hprc_r2_v1.0.1|w4|c1	1+	335.3155	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG03130_hap1_hprc_r2_v1.0.1	HG03130_hap1_hprc_r2_v1.0.1|w3|c0	1-	-317.5625	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03130_hap1_hprc_r2_v1.0.1	HG03130_hap1_hprc_r2_v1.0.1|w3|c1	1+	314.9165	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG03130_hap2_hprc_r2_v1.0.1	HG03130_hap2_hprc_r2_v1.0.1|w4|c0	1-	-317.4635	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03130_hap2_hprc_r2_v1.0.1	HG03130_hap2_hprc_r2_v1.0.1|w4|c1	1+	335.3425	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG03139_hap1_hprc_r2_v1.0.1	HG03139_hap1_hprc_r2_v1.0.1|w3|c0	1-	-335.3025	SMN1	B	left (A+, centromeric)	B2	SMN1 B2
+HG03139_hap1_hprc_r2_v1.0.1	HG03139_hap1_hprc_r2_v1.0.1|w3|c1	1+	317.4905	SMN1	B	right (A-, telomeric)	B1	SMN1 B1
+HG03195_hap2_hprc_r2_v1.0.1	HG03195_hap2_hprc_r2_v1.0.1|w4|c0	1-	-317.4375	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03195_hap2_hprc_r2_v1.0.1	HG03195_hap2_hprc_r2_v1.0.1|w4|c1	1+	335.3415	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG03209_hap1_hprc_r2_v1.0.1	HG03209_hap1_hprc_r2_v1.0.1|w4|c0	1-	-317.5115	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03209_hap1_hprc_r2_v1.0.1	HG03209_hap1_hprc_r2_v1.0.1|w4|c1	1+	335.3375	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG03209_hap2_hprc_r2_v1.0.1	HG03209_hap2_hprc_r2_v1.0.1|w3|c0	2-	-293.1945	SMN2		left (A+, centromeric)		SMN2
+HG03209_hap2_hprc_r2_v1.0.1	HG03209_hap2_hprc_r2_v1.0.1|w3|c1	1+	299.9365	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03225_hap1_hprc_r2_v1.0.1	HG03225_hap1_hprc_r2_v1.0.1|w4|c0	2-	-353.64	SMN2		left (A+, centromeric)		SMN2
+HG03225_hap1_hprc_r2_v1.0.1	HG03225_hap1_hprc_r2_v1.0.1|w4|c1	1+	322.253	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03239_mat_hprc_r2_v1.0.1	HG03239_mat_hprc_r2_v1.0.1|w4|c0	2-	-340.213	SMN2		left (A+, centromeric)		SMN2
+HG03239_mat_hprc_r2_v1.0.1	HG03239_mat_hprc_r2_v1.0.1|w4|c1	1+	293.005	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03239_pat_hprc_r2_v1.0.1	HG03239_pat_hprc_r2_v1.0.1|w4|c0	2-	-316.3355	SMN2		left (A+, centromeric)		SMN2
+HG03239_pat_hprc_r2_v1.0.1	HG03239_pat_hprc_r2_v1.0.1|w4|c1	1+	297.0965	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03270_hap2_hprc_r2_v1.0.1	HG03270_hap2_hprc_r2_v1.0.1|w4|c0	1-	-317.4465	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03270_hap2_hprc_r2_v1.0.1	HG03270_hap2_hprc_r2_v1.0.1|w4|c1	1+	314.9565	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG03369_hap1_hprc_r2_v1.0.1	HG03369_hap1_hprc_r2_v1.0.1|w5|c0	2-	-299.5355	SMN2		left (A+, centromeric)		SMN2
+HG03369_hap1_hprc_r2_v1.0.1	HG03369_hap1_hprc_r2_v1.0.1|w5|c1	1+	313.7855	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03369_hap2_hprc_r2_v1.0.1	HG03369_hap2_hprc_r2_v1.0.1|w4|c0	1-	-317.4875	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03369_hap2_hprc_r2_v1.0.1	HG03369_hap2_hprc_r2_v1.0.1|w4|c1	1+	335.3555	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG03453_pat_hprc_r2_v1.0.1	HG03453_pat_hprc_r2_v1.0.1|w0|c0	1-	-296.9945	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03453_pat_hprc_r2_v1.0.1	HG03453_pat_hprc_r2_v1.0.1|w0|c1	1+	334.4865	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG03470_hap2_hprc_r2_v1.0.1	HG03470_hap2_hprc_r2_v1.0.1|w3|c0	2-	-319.998	SMN2		left (A+, centromeric)		SMN2
+HG03470_hap2_hprc_r2_v1.0.1	HG03470_hap2_hprc_r2_v1.0.1|w3|c1	1+	313.874	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03471_hap1_hprc_r2_v1.0.1	HG03471_hap1_hprc_r2_v1.0.1|w3|c0	1-	-358.4295	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03471_hap1_hprc_r2_v1.0.1	HG03471_hap1_hprc_r2_v1.0.1|w3|c1	1+	335.3465	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG03471_hap2_hprc_r2_v1.0.1	HG03471_hap2_hprc_r2_v1.0.1|w3|c0	2-	-296.0545	SMN2		left (A+, centromeric)		SMN2
+HG03471_hap2_hprc_r2_v1.0.1	HG03471_hap2_hprc_r2_v1.0.1|w3|c1	1+	297.0685	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03486_mat_hprc_r2_v1.0.1	HG03486_mat_hprc_r2_v1.0.1|w4|c0	2-	-320.437	SMN2		left (A+, centromeric)		SMN2
+HG03486_mat_hprc_r2_v1.0.1	HG03486_mat_hprc_r2_v1.0.1|w4|c1	1+	333.876	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03486_pat_hprc_r2_v1.0.1	HG03486_pat_hprc_r2_v1.0.1|w4|c0	1-	-330.5965	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03486_pat_hprc_r2_v1.0.1	HG03486_pat_hprc_r2_v1.0.1|w4|c1	1+	321.7085	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+HG03516_pat_hprc_r2_v1.1.0	HG03516_pat_hprc_r2_v1.1.0|w4|c0	1-	-341.0855	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03516_pat_hprc_r2_v1.1.0	HG03516_pat_hprc_r2_v1.1.0|w4|c1	h21+	334.9815	hybrid		right (A-, telomeric)		hybrid
+HG03521_hap2_hprc_r2_v1.0.1	HG03521_hap2_hprc_r2_v1.0.1|w4|c0	1-	-279.1795	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG03521_hap2_hprc_r2_v1.0.1	HG03521_hap2_hprc_r2_v1.0.1|w4|c1	2+	313.9455	SMN2		right (A-, telomeric)		SMN2
+HG03540_mat_hprc_r2_v1.0.1	HG03540_mat_hprc_r2_v1.0.1|w4|c0	h21-	-314.5425	hybrid		left (A+, centromeric)		hybrid
+HG03540_mat_hprc_r2_v1.0.1	HG03540_mat_hprc_r2_v1.0.1|w4|c1	1+	317.4125	SMN1	B	right (A-, telomeric)	B1	SMN1 B1
+HG03579_mat_hprc_r2_v1.0.1	HG03579_mat_hprc_r2_v1.0.1|w3|c0	1-	-314.5135	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+HG03579_mat_hprc_r2_v1.0.1	HG03579_mat_hprc_r2_v1.0.1|w3|c1	1+	342.1055	SMN1	B	right (A-, telomeric)	B1	SMN1 B1
+HG03654_mat_hprc_r2_v1.0.1	HG03654_mat_hprc_r2_v1.0.1|w3|c0	2-	-299.9805	SMN2		left (A+, centromeric)		SMN2
+HG03654_mat_hprc_r2_v1.0.1	HG03654_mat_hprc_r2_v1.0.1|w3|c1	1+	313.5955	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03654_pat_hprc_r2_v1.0.1	HG03654_pat_hprc_r2_v1.0.1|w4|c0	1-	-296.3895	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG03654_pat_hprc_r2_v1.0.1	HG03654_pat_hprc_r2_v1.0.1|w4|c1	2+	297.5535	SMN2		right (A-, telomeric)		SMN2
+HG03669_pat_hprc_r2_v1.0.1	HG03669_pat_hprc_r2_v1.0.1|w4|c0	2-	-299.7035	SMN2		left (A+, centromeric)		SMN2
+HG03669_pat_hprc_r2_v1.0.1	HG03669_pat_hprc_r2_v1.0.1|w4|c1	1+	334.4075	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03688_mat_hprc_r2_v1.0.1	HG03688_mat_hprc_r2_v1.0.1|w3|c1	1-	-316.6835	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG03688_mat_hprc_r2_v1.0.1	HG03688_mat_hprc_r2_v1.0.1|w3|c2	1+	297.0845	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03688_pat_hprc_r2_v1.0.1	HG03688_pat_hprc_r2_v1.0.1|w4|c0	2-	-299.67	SMN2		left (A+, centromeric)		SMN2
+HG03688_pat_hprc_r2_v1.0.1	HG03688_pat_hprc_r2_v1.0.1|w4|c1	1+	313.905	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03704_mat_hprc_r2_v1.0.1	HG03704_mat_hprc_r2_v1.0.1|w3|c0	1-	-316.4885	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG03704_mat_hprc_r2_v1.0.1	HG03704_mat_hprc_r2_v1.0.1|w3|c1	1+	297.1375	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03704_pat_hprc_r2_v1.0.1	HG03704_pat_hprc_r2_v1.0.1|w4|c0	2-	-316.3785	SMN2		left (A+, centromeric)		SMN2
+HG03704_pat_hprc_r2_v1.0.1	HG03704_pat_hprc_r2_v1.0.1|w4|c1	1+	297.1325	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03710_mat_hprc_r2_v1.0.1	HG03710_mat_hprc_r2_v1.0.1|w6|c0	h21-	-279.003	hybrid		left (A+, centromeric)		hybrid
+HG03710_mat_hprc_r2_v1.0.1	HG03710_mat_hprc_r2_v1.0.1|w6|c1	1+	374.965	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03710_pat_hprc_r2_v1.0.1	HG03710_pat_hprc_r2_v1.0.1|w2|c0	2-	-292.962	SMN2		left (A+, centromeric)		SMN2
+HG03710_pat_hprc_r2_v1.0.1	HG03710_pat_hprc_r2_v1.0.1|w2|c1	1+	340.25	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03742_hap1_hprc_r2_v1.0.1	HG03742_hap1_hprc_r2_v1.0.1|w3|c0	2-	-313.5225	SMN2		left (A+, centromeric)		SMN2
+HG03742_hap1_hprc_r2_v1.0.1	HG03742_hap1_hprc_r2_v1.0.1|w3|c1	1+	320.4495	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03804_mat_hprc_r2_v1.0.1	HG03804_mat_hprc_r2_v1.0.1|w6|c0	2-	-257.545	SMN2		left (A+, centromeric)		SMN2
+HG03804_mat_hprc_r2_v1.0.1	HG03804_mat_hprc_r2_v1.0.1|w6|c1	1+	372.735	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03804_pat_hprc_r2_v1.0.1	HG03804_pat_hprc_r2_v1.0.1|w3|c0	2-	-316.4645	SMN2		left (A+, centromeric)		SMN2
+HG03804_pat_hprc_r2_v1.0.1	HG03804_pat_hprc_r2_v1.0.1|w3|c1	1+	297.0545	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03816_mat_hprc_r2_v1.0.1	HG03816_mat_hprc_r2_v1.0.1|w3|c0	2-	-316.4135	SMN2		left (A+, centromeric)		SMN2
+HG03816_mat_hprc_r2_v1.0.1	HG03816_mat_hprc_r2_v1.0.1|w3|c1	1+	297.2415	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03816_pat_hprc_r2_v1.0.1	HG03816_pat_hprc_r2_v1.0.1|w4|c0	2-	-316.313	SMN2		left (A+, centromeric)		SMN2
+HG03816_pat_hprc_r2_v1.0.1	HG03816_pat_hprc_r2_v1.0.1|w4|c1	1+	317.522	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03834_mat_hprc_r2_v1.0.1	HG03834_mat_hprc_r2_v1.0.1|w3|c0	2-	-279.268	SMN2		left (A+, centromeric)		SMN2
+HG03834_mat_hprc_r2_v1.0.1	HG03834_mat_hprc_r2_v1.0.1|w3|c1	1+	293.523	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03927_mat_hprc_r2_v1.0.1	HG03927_mat_hprc_r2_v1.0.1|w4|c0	2-	-301.3165	SMN2		left (A+, centromeric)		SMN2
+HG03927_mat_hprc_r2_v1.0.1	HG03927_mat_hprc_r2_v1.0.1|w4|c1	1+	293.5135	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG03942_pat_hprc_r2_v1.0.1	HG03942_pat_hprc_r2_v1.0.1|w3|c0	2-	-316.31	SMN2		left (A+, centromeric)		SMN2
+HG03942_pat_hprc_r2_v1.0.1	HG03942_pat_hprc_r2_v1.0.1|w3|c1	1+	317.535	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG04115_mat_hprc_r2_v1.0.1	HG04115_mat_hprc_r2_v1.0.1|w5|c0	2-	-299.6725	SMN2		left (A+, centromeric)		SMN2
+HG04115_mat_hprc_r2_v1.0.1	HG04115_mat_hprc_r2_v1.0.1|w5|c1	1+	313.9085	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG04157_mat_hprc_r2_v1.0.1	HG04157_mat_hprc_r2_v1.0.1|w3|c0	2-	-302.4435	SMN2		left (A+, centromeric)		SMN2
+HG04157_mat_hprc_r2_v1.0.1	HG04157_mat_hprc_r2_v1.0.1|w3|c1	1+	361.6815	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG04157_pat_hprc_r2_v1.0.1	HG04157_pat_hprc_r2_v1.0.1|w4|c0	1-	-299.7705	SMN1	A	left (A+, centromeric)	A	SMN1 A
+HG04157_pat_hprc_r2_v1.0.1	HG04157_pat_hprc_r2_v1.0.1|w4|c1	1+	293.1335	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG04160_mat_hprc_r2_v1.0.1	HG04160_mat_hprc_r2_v1.0.1|w4|c0	h21-	-299.953	hybrid		left (A+, centromeric)		hybrid
+HG04160_mat_hprc_r2_v1.0.1	HG04160_mat_hprc_r2_v1.0.1|w4|c1	1+	293.1	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG04160_pat_hprc_r2_v1.0.1	HG04160_pat_hprc_r2_v1.0.1|w4|c0	2-	-293.015	SMN2		left (A+, centromeric)		SMN2
+HG04160_pat_hprc_r2_v1.0.1	HG04160_pat_hprc_r2_v1.0.1|w4|c1	1+	340.268	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG04199_mat_hprc_r2_v1.0.1	HG04199_mat_hprc_r2_v1.0.1|w4|c0	2-	-302.4585	SMN2		left (A+, centromeric)		SMN2
+HG04199_mat_hprc_r2_v1.0.1	HG04199_mat_hprc_r2_v1.0.1|w4|c1	1+	541.4575	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG04199_pat_hprc_r2_v1.0.1	HG04199_pat_hprc_r2_v1.0.1|w4|c0	2-	-293.144	SMN2		left (A+, centromeric)		SMN2
+HG04199_pat_hprc_r2_v1.0.1	HG04199_pat_hprc_r2_v1.0.1|w4|c1	1+	300.061	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG04204_pat_hprc_r2_v1.0.1	HG04204_pat_hprc_r2_v1.0.1|w4|c0	2-	-299.605	SMN2		left (A+, centromeric)		SMN2
+HG04204_pat_hprc_r2_v1.0.1	HG04204_pat_hprc_r2_v1.0.1|w4|c1	1+	293.308	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG04228_mat_hprc_r2_v1.0.1	HG04228_mat_hprc_r2_v1.0.1|w3|c0	2-	-316.4145	SMN2		left (A+, centromeric)		SMN2
+HG04228_mat_hprc_r2_v1.0.1	HG04228_mat_hprc_r2_v1.0.1|w3|c1	1+	297.0845	SMN1	A	right (A-, telomeric)	A	SMN1 A
+HG04228_pat_hprc_r2_v1.0.1	HG04228_pat_hprc_r2_v1.0.1|w4|c0	2-	-296.3935	SMN2		left (A+, centromeric)		SMN2
+HG04228_pat_hprc_r2_v1.0.1	HG04228_pat_hprc_r2_v1.0.1|w4|c1	1+	297.5725	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18508_hap1_hprc_r2_v1.0.1	NA18508_hap1_hprc_r2_v1.0.1|w4|c0	2-	-316.6975	SMN2		left (A+, centromeric)		SMN2
+NA18508_hap1_hprc_r2_v1.0.1	NA18508_hap1_hprc_r2_v1.0.1|w4|c1	1+	276.5795	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18522_hap1_hprc_r2_v1.0.1	NA18522_hap1_hprc_r2_v1.0.1|w3|c0	2-	-299.5665	SMN2		left (A+, centromeric)		SMN2
+NA18522_hap1_hprc_r2_v1.0.1	NA18522_hap1_hprc_r2_v1.0.1|w3|c1	1+	313.8295	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18522_hap2_hprc_r2_v1.0.1	NA18522_hap2_hprc_r2_v1.0.1|w4|c0	1-	-334.9345	SMN1	B	left (A+, centromeric)	B2	SMN1 B2
+NA18522_hap2_hprc_r2_v1.0.1	NA18522_hap2_hprc_r2_v1.0.1|w4|c1	1+	320.6635	SMN1	B	right (A-, telomeric)	B1	SMN1 B1
+NA18565_hap1_hprc_r2_v1.0.1	NA18565_hap1_hprc_r2_v1.0.1|w3|c0	1-	-299.5575	SMN1	A	left (A+, centromeric)	A	SMN1 A
+NA18565_hap1_hprc_r2_v1.0.1	NA18565_hap1_hprc_r2_v1.0.1|w3|c1	1+	313.5315	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18565_hap2_hprc_r2_v1.0.1	NA18565_hap2_hprc_r2_v1.0.1|w3|c0	2-	-316.4435	SMN2		left (A+, centromeric)		SMN2
+NA18565_hap2_hprc_r2_v1.0.1	NA18565_hap2_hprc_r2_v1.0.1|w3|c1	1+	297.2485	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18570_hap1_hprc_r2_v1.0.1	NA18570_hap1_hprc_r2_v1.0.1|w4|c0	2-	-300.1665	SMN2		left (A+, centromeric)		SMN2
+NA18570_hap1_hprc_r2_v1.0.1	NA18570_hap1_hprc_r2_v1.0.1|w4|c1	1+	313.5415	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18570_hap2_hprc_r2_v1.0.1	NA18570_hap2_hprc_r2_v1.0.1|w4|c0	2-	-316.321	SMN2		left (A+, centromeric)		SMN2
+NA18570_hap2_hprc_r2_v1.0.1	NA18570_hap2_hprc_r2_v1.0.1|w4|c1	1+	297.074	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18608_hap2_hprc_r2_v1.0.1	NA18608_hap2_hprc_r2_v1.0.1|w3|c0	2-	-316.655	SMN2		left (A+, centromeric)		SMN2
+NA18608_hap2_hprc_r2_v1.0.1	NA18608_hap2_hprc_r2_v1.0.1|w3|c1	1+	297.06	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18620_hap1_hprc_r2_v1.0.1	NA18620_hap1_hprc_r2_v1.0.1|w4|c0	2-	-316.4285	SMN2		left (A+, centromeric)		SMN2
+NA18620_hap1_hprc_r2_v1.0.1	NA18620_hap1_hprc_r2_v1.0.1|w4|c1	1+	297.1605	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18620_hap2_hprc_r2_v1.0.1	NA18620_hap2_hprc_r2_v1.0.1|w4|c0	2-	-299.8995	SMN2		left (A+, centromeric)		SMN2
+NA18620_hap2_hprc_r2_v1.0.1	NA18620_hap2_hprc_r2_v1.0.1|w4|c1	1+	293.3595	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18879_hap1_hprc_r2_v1.0.1	NA18879_hap1_hprc_r2_v1.0.1|w3|c0	1-	-317.5755	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA18879_hap1_hprc_r2_v1.0.1	NA18879_hap1_hprc_r2_v1.0.1|w3|c1	1+	355.6695	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+NA18879_hap2_hprc_r2_v1.0.1	NA18879_hap2_hprc_r2_v1.0.1|w4|c0	2-	-340.815	SMN2		left (A+, centromeric)		SMN2
+NA18879_hap2_hprc_r2_v1.0.1	NA18879_hap2_hprc_r2_v1.0.1|w4|c1	h12+	313.035	hybrid		right (A-, telomeric)		hybrid
+NA18906_pat_hprc_r2_v1.0.1	NA18906_pat_hprc_r2_v1.0.1|w4|c0	2-	-316.3015	SMN2		left (A+, centromeric)		SMN2
+NA18906_pat_hprc_r2_v1.0.1	NA18906_pat_hprc_r2_v1.0.1|w4|c1	1+	276.6035	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18940_hap1_hprc_r2_v1.0.1	NA18940_hap1_hprc_r2_v1.0.1|w6|c0	2-	-316.1565	SMN2		left (A+, centromeric)		SMN2
+NA18940_hap1_hprc_r2_v1.0.1	NA18940_hap1_hprc_r2_v1.0.1|w6|c1	1+	317.6285	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18940_hap2_hprc_r2_v1.0.1	NA18940_hap2_hprc_r2_v1.0.1|w4|c0	2-	-299.585	SMN2		left (A+, centromeric)		SMN2
+NA18940_hap2_hprc_r2_v1.0.1	NA18940_hap2_hprc_r2_v1.0.1|w4|c1	1+	313.833	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18943_hap1_hprc_r2_v1.0.1	NA18943_hap1_hprc_r2_v1.0.1|w4|c0	2-	-316.2825	SMN2		left (A+, centromeric)		SMN2
+NA18943_hap1_hprc_r2_v1.0.1	NA18943_hap1_hprc_r2_v1.0.1|w4|c1	1+	297.0815	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18944_hap2_hprc_r2_v1.0.1	NA18944_hap2_hprc_r2_v1.0.1|w3|c0	2-	-299.6285	SMN2		left (A+, centromeric)		SMN2
+NA18944_hap2_hprc_r2_v1.0.1	NA18944_hap2_hprc_r2_v1.0.1|w3|c1	1+	313.9535	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18945_hap1_hprc_r2_v1.0.1	NA18945_hap1_hprc_r2_v1.0.1|w3|c0	2-	-336.767	SMN2		left (A+, centromeric)		SMN2
+NA18945_hap1_hprc_r2_v1.0.1	NA18945_hap1_hprc_r2_v1.0.1|w3|c1	1+	296.747	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18945_hap2_hprc_r2_v1.0.1	NA18945_hap2_hprc_r2_v1.0.1|w4|c0	2-	-299.5955	SMN2		left (A+, centromeric)		SMN2
+NA18945_hap2_hprc_r2_v1.0.1	NA18945_hap2_hprc_r2_v1.0.1|w4|c1	h12+	313.7745	hybrid		right (A-, telomeric)		hybrid
+NA18948_hap2_hprc_r2_v1.0.1	NA18948_hap2_hprc_r2_v1.0.1|w5|c1	2-	-336.781	SMN2		left (A+, centromeric)		SMN2
+NA18948_hap2_hprc_r2_v1.0.1	NA18948_hap2_hprc_r2_v1.0.1|w5|c2	1+	297.052	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18952_hap2_hprc_r2_v1.0.1	NA18952_hap2_hprc_r2_v1.0.1|w3|c0	2-	-299.548	SMN2		left (A+, centromeric)		SMN2
+NA18952_hap2_hprc_r2_v1.0.1	NA18952_hap2_hprc_r2_v1.0.1|w3|c1	1+	314.482	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18959_hap1_hprc_r2_v1.0.1	NA18959_hap1_hprc_r2_v1.0.1|w3|c0	t-	-347.4965	other		left (A+, centromeric)		other
+NA18959_hap1_hprc_r2_v1.0.1	NA18959_hap1_hprc_r2_v1.0.1|w3|c1	2-	-316.3255	SMN2		left (A+, centromeric)		SMN2
+NA18959_hap1_hprc_r2_v1.0.1	NA18959_hap1_hprc_r2_v1.0.1|w3|c2	1+	297.1085	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18959_hap2_hprc_r2_v1.0.1	NA18959_hap2_hprc_r2_v1.0.1|w4|c0	2-	-299.6135	SMN2		left (A+, centromeric)		SMN2
+NA18959_hap2_hprc_r2_v1.0.1	NA18959_hap2_hprc_r2_v1.0.1|w4|c1	1+	313.8925	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18967_hap1_hprc_r2_v1.0.1	NA18967_hap1_hprc_r2_v1.0.1|w3|c0	2-	-299.952	SMN2		left (A+, centromeric)		SMN2
+NA18967_hap1_hprc_r2_v1.0.1	NA18967_hap1_hprc_r2_v1.0.1|w3|c1	1+	313.485	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18970_hap2_hprc_r2_v1.0.1	NA18970_hap2_hprc_r2_v1.0.1|w6|c0	2-	-316.319	SMN2		left (A+, centromeric)		SMN2
+NA18970_hap2_hprc_r2_v1.0.1	NA18970_hap2_hprc_r2_v1.0.1|w6|c1	1+	297.034	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18971_hap1_hprc_r2_v1.0.1	NA18971_hap1_hprc_r2_v1.0.1|w3|c0	2-	-316.0505	SMN2		left (A+, centromeric)		SMN2
+NA18971_hap1_hprc_r2_v1.0.1	NA18971_hap1_hprc_r2_v1.0.1|w3|c1	1+	297.0985	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18976_hap1_hprc_r2_v1.0.1	NA18976_hap1_hprc_r2_v1.0.1|w3|c0	2-	-316.344	SMN2		left (A+, centromeric)		SMN2
+NA18976_hap1_hprc_r2_v1.0.1	NA18976_hap1_hprc_r2_v1.0.1|w3|c1	1+	297.087	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18982_hap1_hprc_r2_v1.0.1	NA18982_hap1_hprc_r2_v1.0.1|w4|c0	2-	-316.3705	SMN2		left (A+, centromeric)		SMN2
+NA18982_hap1_hprc_r2_v1.0.1	NA18982_hap1_hprc_r2_v1.0.1|w4|c1	1+	297.2085	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18983_hap1_hprc_r2_v1.0.1	NA18983_hap1_hprc_r2_v1.0.1|w2|c0	2-	-299.583	SMN2		left (A+, centromeric)		SMN2
+NA18983_hap1_hprc_r2_v1.0.1	NA18983_hap1_hprc_r2_v1.0.1|w2|c1	1+	313.766	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA18983_hap2_hprc_r2_v1.0.1	NA18983_hap2_hprc_r2_v1.0.1|w2|c0	2-	-299.6185	SMN2		left (A+, centromeric)		SMN2
+NA18983_hap2_hprc_r2_v1.0.1	NA18983_hap2_hprc_r2_v1.0.1|w2|c1	1+	313.8365	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA19036_hap2_hprc_r2_v1.0.1	NA19036_hap2_hprc_r2_v1.0.1|w4|c0	1-	-348.8735	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA19036_hap2_hprc_r2_v1.0.1	NA19036_hap2_hprc_r2_v1.0.1|w4|c1	1+	321.8825	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+NA19043_hap1_hprc_r2_v1.0.1	NA19043_hap1_hprc_r2_v1.0.1|w3|c0	1-	-314.5015	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA19043_hap1_hprc_r2_v1.0.1	NA19043_hap1_hprc_r2_v1.0.1|w3|c1	1+	362.5835	SMN1	B	right (A-, telomeric)	B1	SMN1 B1
+NA19043_hap2_hprc_r2_v1.0.1	NA19043_hap2_hprc_r2_v1.0.1|w6|c0	1-	-343.7805	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA19043_hap2_hprc_r2_v1.0.1	NA19043_hap2_hprc_r2_v1.0.1|w6|c1	1+	327.7565	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+NA19087_hap1_hprc_r2_v1.0.1	NA19087_hap1_hprc_r2_v1.0.1|w4|c0	2-	-299.608	SMN2		left (A+, centromeric)		SMN2
+NA19087_hap1_hprc_r2_v1.0.1	NA19087_hap1_hprc_r2_v1.0.1|w4|c1	1+	311.369	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA19159_hap2_hprc_r2_v1.0.1	NA19159_hap2_hprc_r2_v1.0.1|w4|c0	2-	-296.1265	SMN2		left (A+, centromeric)		SMN2
+NA19159_hap2_hprc_r2_v1.0.1	NA19159_hap2_hprc_r2_v1.0.1|w4|c1	1+	297.0385	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA19185_hap1_hprc_r2_v1.0.1	NA19185_hap1_hprc_r2_v1.0.1|w4|c0	1-	-317.4895	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA19185_hap1_hprc_r2_v1.0.1	NA19185_hap1_hprc_r2_v1.0.1|w4|c1	1+	314.9005	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+NA19185_hap2_hprc_r2_v1.0.1	NA19185_hap2_hprc_r2_v1.0.1|w4|c0	2-	-278.985	SMN2		left (A+, centromeric)		SMN2
+NA19185_hap2_hprc_r2_v1.0.1	NA19185_hap2_hprc_r2_v1.0.1|w4|c1	1+	334.084	SMN1	B	right (A-, telomeric)	B1	SMN1 B1
+NA19240_mat_hprc_r2_v1.0.1	NA19240_mat_hprc_r2_v1.0.1|w4|c0	1-	-297.8915	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA19240_mat_hprc_r2_v1.0.1	NA19240_mat_hprc_r2_v1.0.1|w4|c1	1+	334.1445	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+NA19240_pat_hprc_r2_v1.0.1	NA19240_pat_hprc_r2_v1.0.1|w3|c0	1-	-330.9595	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA19240_pat_hprc_r2_v1.0.1	NA19240_pat_hprc_r2_v1.0.1|w3|c1	1+	321.8555	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+NA19338_hap1_hprc_r2_v1.0.1	NA19338_hap1_hprc_r2_v1.0.1|w3|c0	1-	-320.8005	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA19338_hap1_hprc_r2_v1.0.1	NA19338_hap1_hprc_r2_v1.0.1|w3|c1	1+	314.5375	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+NA19391_hap1_hprc_r2_v1.0.1	NA19391_hap1_hprc_r2_v1.0.1|w4|c0	2-	-278.99	SMN2		left (A+, centromeric)		SMN2
+NA19391_hap1_hprc_r2_v1.0.1	NA19391_hap1_hprc_r2_v1.0.1|w4|c1	1+	334.042	SMN1	B	right (A-, telomeric)	B1	SMN1 B1
+NA19682_hap1_hprc_r2_v1.0.1	NA19682_hap1_hprc_r2_v1.0.1|w4|c0	2-	-316.4775	SMN2		left (A+, centromeric)		SMN2
+NA19682_hap1_hprc_r2_v1.0.1	NA19682_hap1_hprc_r2_v1.0.1|w4|c1	1+	297.1795	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA19682_hap2_hprc_r2_v1.0.1	NA19682_hap2_hprc_r2_v1.0.1|w4|c0	2-	-299.577	SMN2		left (A+, centromeric)		SMN2
+NA19682_hap2_hprc_r2_v1.0.1	NA19682_hap2_hprc_r2_v1.0.1|w4|c1	1+	313.861	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA19700_hap2_hprc_r2_v1.0.1	NA19700_hap2_hprc_r2_v1.0.1|w3|c0	1-	-277.3695	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA19700_hap2_hprc_r2_v1.0.1	NA19700_hap2_hprc_r2_v1.0.1|w3|c1	1+	335.3435	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+NA19776_hap1_hprc_r2_v1.0.1	NA19776_hap1_hprc_r2_v1.0.1|w4|c0	2-	-316.312	SMN2		left (A+, centromeric)		SMN2
+NA19776_hap1_hprc_r2_v1.0.1	NA19776_hap1_hprc_r2_v1.0.1|w4|c1	1+	297.06	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA19776_hap2_hprc_r2_v1.0.1	NA19776_hap2_hprc_r2_v1.0.1|w5|c0	2-	-295.8755	SMN2		left (A+, centromeric)		SMN2
+NA19776_hap2_hprc_r2_v1.0.1	NA19776_hap2_hprc_r2_v1.0.1|w5|c1	1+	338.2185	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA19835_hap1_hprc_r2_v1.0.1	NA19835_hap1_hprc_r2_v1.0.1|w3|c0	2-	-299.5725	SMN2		left (A+, centromeric)		SMN2
+NA19835_hap1_hprc_r2_v1.0.1	NA19835_hap1_hprc_r2_v1.0.1|w3|c1	1+	313.4575	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA19835_hap2_hprc_r2_v1.0.1	NA19835_hap2_hprc_r2_v1.0.1|w5|c0	1-	-317.4285	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA19835_hap2_hprc_r2_v1.0.1	NA19835_hap2_hprc_r2_v1.0.1|w5|c1	1+	314.8625	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+NA20129_mat_hprc_r2_v1.0.1	NA20129_mat_hprc_r2_v1.0.1|w4|c0	2-	-280.9295	SMN2		left (A+, centromeric)		SMN2
+NA20129_mat_hprc_r2_v1.0.1	NA20129_mat_hprc_r2_v1.0.1|w4|c1	1+	290.6405	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA20282_hap1_hprc_r2_v1.0.1	NA20282_hap1_hprc_r2_v1.0.1|w5|c0	1-	-341.2445	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA20282_hap1_hprc_r2_v1.0.1	NA20282_hap1_hprc_r2_v1.0.1|w5|c1	h21+	314.5575	hybrid		right (A-, telomeric)		hybrid
+NA20346_hap1_hprc_r2_v1.0.1	NA20346_hap1_hprc_r2_v1.0.1|w4|c0	2-	-355.498	SMN2		left (A+, centromeric)		SMN2
+NA20346_hap1_hprc_r2_v1.0.1	NA20346_hap1_hprc_r2_v1.0.1|w4|c1	1+	301.508	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA20752_hap1_hprc_r2_v1.0.1	NA20752_hap1_hprc_r2_v1.0.1|w3|c0	2-	-292.979	SMN2		left (A+, centromeric)		SMN2
+NA20752_hap1_hprc_r2_v1.0.1	NA20752_hap1_hprc_r2_v1.0.1|w3|c1	1+	340.255	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA20762_hap1_hprc_r2_v1.0.1	NA20762_hap1_hprc_r2_v1.0.1|w4|c0	2-	-297.3165	SMN2		left (A+, centromeric)		SMN2
+NA20762_hap1_hprc_r2_v1.0.1	NA20762_hap1_hprc_r2_v1.0.1|w4|c1	1+	331.9575	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA20799_hap1_hprc_r2_v1.0.1	NA20799_hap1_hprc_r2_v1.0.1|w3|c0	2-	-279.359	SMN2		left (A+, centromeric)		SMN2
+NA20799_hap1_hprc_r2_v1.0.1	NA20799_hap1_hprc_r2_v1.0.1|w3|c1	1+	353.916	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA20809_hap1_hprc_r2_v1.0.1	NA20809_hap1_hprc_r2_v1.0.1|w5|c0	2-	-295.8605	SMN2		left (A+, centromeric)		SMN2
+NA20809_hap1_hprc_r2_v1.0.1	NA20809_hap1_hprc_r2_v1.0.1|w5|c1	1+	337.4095	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA20809_hap2_hprc_r2_v1.0.1	NA20809_hap2_hprc_r2_v1.0.1|w3|c0	2-	-352.0095	SMN2		left (A+, centromeric)		SMN2
+NA20809_hap2_hprc_r2_v1.0.1	NA20809_hap2_hprc_r2_v1.0.1|w3|c1	1+	320.5865	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA20827_hap2_hprc_r2_v1.0.1	NA20827_hap2_hprc_r2_v1.0.1|w2|c0	d2-	-314.0375	other		left (A+, centromeric)		other
+NA20827_hap2_hprc_r2_v1.0.1	NA20827_hap2_hprc_r2_v1.0.1|w2|c1	1+	297.2095	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA20850_hap1_hprc_r2_v1.0.1	NA20850_hap1_hprc_r2_v1.0.1|w4|c0	2-	-300.1025	SMN2		left (A+, centromeric)		SMN2
+NA20850_hap1_hprc_r2_v1.0.1	NA20850_hap1_hprc_r2_v1.0.1|w4|c1	1+	334.0185	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA20850_hap2_hprc_r2_v1.0.1	NA20850_hap2_hprc_r2_v1.0.1|w3|c0	2-	-316.3965	SMN2		left (A+, centromeric)		SMN2
+NA20850_hap2_hprc_r2_v1.0.1	NA20850_hap2_hprc_r2_v1.0.1|w3|c1	1+	297.0895	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA20870_hap2_hprc_r2_v1.0.1	NA20870_hap2_hprc_r2_v1.0.1|w4|c0	2-	-300.0175	SMN2		left (A+, centromeric)		SMN2
+NA20870_hap2_hprc_r2_v1.0.1	NA20870_hap2_hprc_r2_v1.0.1|w4|c1	1+	313.5085	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA21093_hap2_hprc_r2_v1.0.1	NA21093_hap2_hprc_r2_v1.0.1|w4|c0	1-	-316.5395	SMN1	A	left (A+, centromeric)	A	SMN1 A
+NA21093_hap2_hprc_r2_v1.0.1	NA21093_hap2_hprc_r2_v1.0.1|w4|c1	1+	276.8045	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA21106_hap1_hprc_r2_v1.0.1	NA21106_hap1_hprc_r2_v1.0.1|w4|c0	2-	-299.5765	SMN2		left (A+, centromeric)		SMN2
+NA21106_hap1_hprc_r2_v1.0.1	NA21106_hap1_hprc_r2_v1.0.1|w4|c1	1+	313.8645	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA21106_hap2_hprc_r2_v1.0.1	NA21106_hap2_hprc_r2_v1.0.1|w4|c0	2-	-292.961	SMN2		left (A+, centromeric)		SMN2
+NA21106_hap2_hprc_r2_v1.0.1	NA21106_hap2_hprc_r2_v1.0.1|w4|c1	1+	299.981	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA21110_hap1_hprc_r2_v1.0.1	NA21110_hap1_hprc_r2_v1.0.1|w3|c0	2-	-316.35	SMN2		left (A+, centromeric)		SMN2
+NA21110_hap1_hprc_r2_v1.0.1	NA21110_hap1_hprc_r2_v1.0.1|w3|c1	1+	317.54	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA21110_hap2_hprc_r2_v1.0.1	NA21110_hap2_hprc_r2_v1.0.1|w4|c0	2-	-299.4605	SMN2		left (A+, centromeric)		SMN2
+NA21110_hap2_hprc_r2_v1.0.1	NA21110_hap2_hprc_r2_v1.0.1|w4|c1	1+	313.9765	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA21144_hap1_hprc_r2_v1.0.1	NA21144_hap1_hprc_r2_v1.0.1|w4|c0	1-	-296.423	SMN1	A	left (A+, centromeric)	A	SMN1 A
+NA21144_hap1_hprc_r2_v1.0.1	NA21144_hap1_hprc_r2_v1.0.1|w4|c1	2+	276.402	SMN2		right (A-, telomeric)		SMN2
+NA21309_mat_hprc_r2_v1.0.1	NA21309_mat_hprc_r2_v1.0.1|w4|c1	1-	-398.1435	SMN1	A	left (A+, centromeric)	A	SMN1 A
+NA21309_mat_hprc_r2_v1.0.1	NA21309_mat_hprc_r2_v1.0.1|w4|c2	1+	276.1055	SMN1	A	right (A-, telomeric)	A	SMN1 A
+NA21309_pat_hprc_r2_v1.0.1	NA21309_pat_hprc_r2_v1.0.1|w4|c0	1-	-280.5755	SMN1	B	left (A+, centromeric)	B1	SMN1 B1
+NA21309_pat_hprc_r2_v1.0.1	NA21309_pat_hprc_r2_v1.0.1|w4|c1	1+	313.8175	SMN1	B	right (A-, telomeric)	B2	SMN1 B2
+hg002v1.1.pat.PanSN	hg002v1.1.pat.PanSN|w4|c0	2-	-297.1565	SMN2		left (A+, centromeric)		SMN2
+hg002v1.1.pat.PanSN	hg002v1.1.pat.PanSN|w4|c1	1+	317.6665	SMN1	A	right (A-, telomeric)	A	SMN1 A

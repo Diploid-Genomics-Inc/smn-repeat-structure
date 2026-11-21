@@ -1,0 +1,13 @@
+{
+ "haplotypes": 436,
+ "dropped_no_SMN1_in_tree": 4,
+ "pairs": 94830,
+ "shuffles": 1999,
+ "makeups": {
+  "A": 347,
+  "BB": 43,
+  "B": 28,
+  "AA": 15,
+  "AB": 3
+ }
+}

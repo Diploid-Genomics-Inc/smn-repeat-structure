@@ -1,0 +1,50 @@
+{
+ "del7_8_copies_left_out": 8,
+ "gene_body_columns": 28778,
+ "copies": 864,
+ "aln_columns_used": 28778,
+ "variable_columns": 486,
+ "haplotypes": 440,
+ "mantel_spearman": 0.4599,
+ "mantel_p": 0.001,
+ "mantel_SMN1_only": {
+  "haplotypes": 436,
+  "spearman": 0.4229,
+  "p": 0.001
+ },
+ "mantel_SMN1_only_perm_within_ancestry": {
+  "haplotypes": 436,
+  "spearman": 0.4229,
+  "p": 0.001
+ },
+ "mantel_SMN1_only_AFR": {
+  "haplotypes": 133,
+  "spearman": 0.2424,
+  "p": 0.001
+ },
+ "mantel_SMN1_only_nonAFR": {
+  "haplotypes": 303,
+  "spearman": 0.5415,
+  "p": 0.001
+ },
+ "mantel_SMN2_only": {
+  "haplotypes": 287,
+  "spearman": 0.5392,
+  "p": 0.001
+ },
+ "mantel_SMN2_only_perm_within_ancestry": {
+  "haplotypes": 287,
+  "spearman": 0.5392,
+  "p": 0.001
+ },
+ "struct_dist_same_vs_diff_arrangement": [
+  0.2225,
+  0.3994
+ ],
+ "seq_dist_same_vs_diff_arrangement": [
+  0.000215,
+  0.000716
+ ],
+ "tanglegram_haplotypes": 436,
+ "cophenetic_corr_struct_tree_vs_seq_tree": 0.3937
+}

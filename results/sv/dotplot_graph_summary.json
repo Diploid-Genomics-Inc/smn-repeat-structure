@@ -1,0 +1,193 @@
+{
+ "shimmer": {
+  "w": 24,
+  "k": 48,
+  "r": 2,
+  "min_span": 12
+ },
+ "a": {
+  "form": "C1|T0",
+  "src": "NA18940_hap2_hprc_r2_v1.0.1",
+  "length": 1914137,
+  "dots": 151317,
+  "off_diagonal": 116826,
+  "axis_kb": 902.423,
+  "beyond_A_cen_dots": 5648,
+  "beyond_A_tel_dots": 16294
+ },
+ "b": {
+  "form": "C1|T1",
+  "src": "NA19776_hap2_hprc_r2_v1.0.1",
+  "length": 2176426,
+  "dots": 184541,
+  "off_diagonal": 145002,
+  "axis_kb": 847.9985,
+  "beyond_A_cen_dots": 4236,
+  "beyond_A_tel_dots": 21740
+ },
+ "c": {
+  "form": "C0|T0",
+  "src": "HG00321_hap2_hprc_r2_v1.0.1",
+  "length": 1551060,
+  "dots": 95613,
+  "off_diagonal": 67438,
+  "axis_kb": 571.3035,
+  "beyond_A_cen_dots": 46,
+  "beyond_A_tel_dots": 6412
+ },
+ "d": {
+  "form": "C0|T1",
+  "src": "HG03098_mat_hprc_r2_v1.0.1",
+  "length": 1880649,
+  "dots": 129784,
+  "off_diagonal": 95806,
+  "axis_kb": 560.3905,
+  "beyond_A_cen_dots": 42,
+  "beyond_A_tel_dots": 21182
+ },
+ "graph_arrays": [
+  {
+   "src": "HG03816_pat_hprc_r2_v1.0.1",
+   "side": "cen",
+   "where": "inner",
+   "unit_kb": 20.45,
+   "copies": 1.99,
+   "kb": 40.6
+  },
+  {
+   "src": "HG03816_pat_hprc_r2_v1.0.1",
+   "side": "cen",
+   "where": "outer",
+   "unit_kb": 20.46,
+   "copies": 2.0,
+   "kb": 40.9
+  },
+  {
+   "src": "HG03816_pat_hprc_r2_v1.0.1",
+   "side": "tel",
+   "where": "inner",
+   "unit_kb": 20.45,
+   "copies": 3.0,
+   "kb": 61.4
+  },
+  {
+   "src": "HG03816_pat_hprc_r2_v1.0.1",
+   "side": "tel",
+   "where": "outer",
+   "unit_kb": 18.02,
+   "copies": 9.23,
+   "kb": 166.4
+  },
+  {
+   "src": "HG01099_mat_hprc_r2_v1.0.1",
+   "side": "cen",
+   "where": "inner",
+   "unit_kb": 20.45,
+   "copies": 1.99,
+   "kb": 40.6
+  },
+  {
+   "src": "HG01099_mat_hprc_r2_v1.0.1",
+   "side": "cen",
+   "where": "outer",
+   "unit_kb": 20.46,
+   "copies": 2.68,
+   "kb": 54.7
+  },
+  {
+   "src": "HG01099_mat_hprc_r2_v1.0.1",
+   "side": "tel",
+   "where": "inner",
+   "unit_kb": 20.43,
+   "copies": 2.0,
+   "kb": 40.9
+  },
+  {
+   "src": "HG01099_mat_hprc_r2_v1.0.1",
+   "side": "tel",
+   "where": "outer",
+   "unit_kb": 18.03,
+   "copies": 6.0,
+   "kb": 108.1
+  },
+  {
+   "src": "HG01167_hap1_hprc_r2_v1.0.1",
+   "side": "cen",
+   "where": "inner",
+   "unit_kb": 20.45,
+   "copies": 2.27,
+   "kb": 46.4
+  },
+  {
+   "src": "HG01167_hap1_hprc_r2_v1.0.1",
+   "side": "tel",
+   "where": "inner",
+   "unit_kb": 20.45,
+   "copies": 3.0,
+   "kb": 61.3
+  },
+  {
+   "src": "HG01167_hap1_hprc_r2_v1.0.1",
+   "side": "tel",
+   "where": "outer",
+   "unit_kb": 18.03,
+   "copies": 1.84,
+   "kb": 33.3
+  },
+  {
+   "src": "HG01167_hap1_hprc_r2_v1.0.1",
+   "side": "tel",
+   "where": "outer",
+   "unit_kb": 18.02,
+   "copies": 4.78,
+   "kb": 86.3
+  }
+ ],
+ "graph_paths": {
+  "HG03816_pat": {
+   "steps": 11525,
+   "steps_on_edges": 10485
+  },
+  "HG01099_mat": {
+   "steps": 11139,
+   "steps_on_edges": 10156
+  },
+  "GRCh38": {
+   "steps": 11599,
+   "steps_on_edges": 10289
+  },
+  "CHM13": {
+   "steps": 9873,
+   "steps_on_edges": 8851
+  },
+  "HG01167_hap1": {
+   "steps": 10512,
+   "steps_on_edges": 9404
+  }
+ },
+ "graph": {
+  "haplotypes": [
+   "HG03816_pat_hprc_r2_v1.0.1",
+   "HG01099_mat_hprc_r2_v1.0.1",
+   "GCA_000001405.15_GRCh38_no_alt_analysis_set.PanSN",
+   "chm13v2.0_maskedY_rCRS.fa.PanSN",
+   "HG01167_hap1_hprc_r2_v1.0.1"
+  ],
+  "nodes": 5535,
+  "edges": 5590,
+  "components": 1,
+  "bundles": 264,
+  "bundles_coloured": 20,
+  "bed_segments": 797,
+  "study_segments": 429,
+  "study_bundles": 24,
+  "nodes_in_bundles": 5535,
+  "decomp": {
+   "w": 48,
+   "k": 56,
+   "r": 4,
+   "bundle_merge_distance": 10000,
+   "bundle_length_cutoff": 2500
+  }
+ }
+}

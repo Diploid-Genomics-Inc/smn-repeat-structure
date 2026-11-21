@@ -1,0 +1,465 @@
+sample	hap	src	population	status	resolved	trio_phased	SMN1	SMN2	h12	h21	del7_8	truncated	fragment	SMN1_ex7	SMN2_ex7	SMN1_ex8	SMN2_ex8	mosaic_copies	env_swap_copies	arrangement	SMN1_ex7_dosage	SMN2_ex7_dosage	SMN1_ex8_dosage	SMN2_ex8_dosage	truncated_site_read	hybrid	conversion_signal	smn1_ex7_2plus	smn1_ex7_zero
+HG00097	hap1	HG00097_hap1_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG00097	hap2	HG00097_hap2_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG00099	hap1	HG00099_hap1_hprc_r2_v1.0.1	GBR	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG00099	hap2	HG00099_hap2_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00126	hap1	HG00126_hap1_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00126	hap2	HG00126_hap2_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00128	hap1	HG00128_hap1_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00128	hap2	HG00128_hap2_hprc_r2_v1.0.1	GBR	gapped	True	False	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG00133	hap1	HG00133_hap1_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	1	2- 1+	1	1	1	1	0	False	True	False	False
+HG00133	hap2	HG00133_hap2_hprc_r2_v1.0.1	GBR	complete	True	False	1	0	0	0	1	0	0	1	0	1	0	0	0	d2- 1+	1	0	1	0	0	False	False	False	False
+HG00140	hap1	HG00140_hap1_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	1	1- 2+	1	1	1	1	0	False	True	False	False
+HG00140	hap2	HG00140_hap2_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00146	hap1	HG00146_hap1_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00146	hap2	HG00146_hap2_hprc_r2_v1.0.1	GBR	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG00232	hap1	HG00232_hap1_hprc_r2_v1.0.1	GBR	split	False	False	1	2	0	0	0	0	0	1	2	1	2	0	0	2- | 2- 1-	1	2	1	2	0	False	False	False	False
+HG00232	hap2	HG00232_hap2_hprc_r2_v1.0.1	GBR	partial	False	False	0	0	0	0	0	1	0	0	0	0	0	0	0	t+	0	0	0	0	0	False	False	False	True
+HG00235	hap1	HG00235_hap1_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG00235	hap2	HG00235_hap2_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	1+ 2+	1	1	1	1	0	False	False	False	False
+HG00253	hap1	HG00253_hap1_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00253	hap2	HG00253_hap2_hprc_r2_v1.0.1	GBR	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG00272	hap1	HG00272_hap1_hprc_r2_v1.0.1	FIN	complete	True	False	1	0	0	0	1	0	0	1	0	1	0	0	0	d2- 1+	1	0	1	0	0	False	False	False	False
+HG00272	hap2	HG00272_hap2_hprc_r2_v1.0.1	FIN	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00280	hap1	HG00280_hap1_hprc_r2_v1.0.1	FIN	partial	False	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00280	hap2	HG00280_hap2_hprc_r2_v1.0.1	FIN	partial	False	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG00290	hap1	HG00290_hap1_hprc_r2_v1.0.1	FIN	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00290	hap2	HG00290_hap2_hprc_r2_v1.0.1	FIN	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	1	1+	1	0	1	0	0	False	True	False	False
+HG00320	hap1	HG00320_hap1_hprc_r2_v1.0.1	FIN	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG00320	hap2	HG00320_hap2_hprc_r2_v1.0.1	FIN	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00321	hap1	HG00321_hap1_hprc_r2_v1.0.1	FIN	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+HG00321	hap2	HG00321_hap2_hprc_r2_v1.0.1	FIN	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00323	hap1	HG00323_hap1_hprc_r2_v1.0.1	FIN	gapped	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00323	hap2	HG00323_hap2_hprc_r2_v1.0.1	FIN	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00329	hap1	HG00329_hap1_hprc_r2_v1.0.1	FIN	split	False	False	1	1	0	0	0	1	0	1	1	1	1	1	0	t- 1+ | 2+	1	1	1	1	0	False	True	False	False
+HG00329	hap2	HG00329_hap2_hprc_r2_v1.0.1	FIN	split	False	False	1	2	0	0	0	1	0	1	2	1	2	1	0	2- 1+ | 2+ | t+	2	2	2	2	1	False	True	False	False
+HG00344	hap1	HG00344_hap1_hprc_r2_v1.0.1	FIN	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00344	hap2	HG00344_hap2_hprc_r2_v1.0.1	FIN	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	1- 2+	1	1	1	1	0	False	False	False	False
+HG00350	hap1	HG00350_hap1_hprc_r2_v1.0.1	FIN	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG00350	hap2	HG00350_hap2_hprc_r2_v1.0.1	FIN	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG00408	mat	HG00408_mat_hprc_r2_v1.0.1	CHS	gapped	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00408	pat	HG00408_pat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00423	mat	HG00423_mat_hprc_r2_v1.0.1	CHS	split	False	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- | 1+	1	1	1	1	0	False	False	False	False
+HG00423	pat	HG00423_pat_hprc_r2_v1.0.1	CHS	split	False	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- | 1+	1	1	1	1	0	False	False	False	False
+HG00438	mat	HG00438_mat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	1+ 2+	1	1	1	1	0	False	False	False	False
+HG00438	pat	HG00438_pat_hprc_r2_v1.0.1	CHS	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG00544	mat	HG00544_mat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00544	pat	HG00544_pat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG00558	mat	HG00558_mat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00558	pat	HG00558_pat_hprc_r2_v1.0.1	CHS	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG00597	mat	HG00597_mat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00597	pat	HG00597_pat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG005	mat	HG005_mat_hprc_r2_v1.0.1		complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG005	pat	HG005_pat_hprc_r2_v1.0.1		complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00609	mat	HG00609_mat_hprc_r2_v1.0.1	CHS	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	1	1-	1	0	1	0	0	False	True	False	False
+HG00609	pat	HG00609_pat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1-	1	1	1	1	0	False	False	False	False
+HG00621	mat	HG00621_mat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG00621	pat	HG00621_pat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00639	mat	HG00639_mat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG00639	pat	HG00639_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00642	mat	HG00642_mat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	1	2+ 1+	1	1	1	1	0	False	True	False	False
+HG00642	pat	HG00642_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	1- 2-	1	1	1	1	0	False	False	False	False
+HG00658	mat	HG00658_mat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00658	pat	HG00658_pat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00673	mat	HG00673_mat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00673	pat	HG00673_pat_hprc_r2_v1.0.1	CHS	gapped	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00706	mat	HG00706_mat_hprc_r2_v1.0.1	CHS	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00706	pat	HG00706_pat_hprc_r2_v1.0.1	CHS	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	h21- 1+	1	1	2	0	0	True	True	False	False
+HG00733	mat	HG00733_mat_hprc_r2_v1.0.1	PUR	split	False	True	1	2	0	0	0	0	0	1	2	1	2	0	0	2- 1+ | 2+	1	2	1	2	0	False	False	False	False
+HG00733	pat	HG00733_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	0	0	0	1	0	0	1	0	1	0	0	0	d2- 1+	1	0	1	0	0	False	False	False	False
+HG00735	mat	HG00735_mat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00735	pat	HG00735_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00738	mat	HG00738_mat_hprc_r2_v1.0.1	PUR	gapped	True	True	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG00738	pat	HG00738_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG00741	mat	HG00741_mat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	1	0	1- 2-	1	1	1	1	0	False	True	False	False
+HG00741	pat	HG00741_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01071	mat	HG01071_mat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	1	1- 2+	1	1	1	1	0	False	True	False	False
+HG01071	pat	HG01071_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01074	mat	HG01074_mat_hprc_r2_v1.0.1	PUR	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	1	0	1+	1	0	1	0	0	False	True	False	False
+HG01074	pat	HG01074_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	0	0	0	1	0	0	1	0	1	0	0	0	d2- 1+	1	0	1	0	0	False	False	False	False
+HG01081	mat	HG01081_mat_hprc_r2_v1.0.1	PUR	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01081	pat	HG01081_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01099	mat	HG01099_mat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	1	2- 1+	1	1	1	1	0	False	True	False	False
+HG01099	pat	HG01099_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01106	mat	HG01106_mat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01106	pat	HG01106_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01109	mat	HG01109_mat_hprc_r2_v1.0.1	PUR	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	1	1- 1+	2	0	2	0	0	False	True	True	False
+HG01109	pat	HG01109_pat_hprc_r2_v1.0.1	PUR	split	False	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- | 1+	1	1	1	1	0	False	False	False	False
+HG01123	mat	HG01123_mat_hprc_r2_v1.0.1	CLM	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1-	2	0	2	0	0	False	False	True	False
+HG01123	pat	HG01123_pat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG01150	mat	HG01150_mat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG01150	pat	HG01150_pat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01167	hap1	HG01167_hap1_hprc_r2_v1.0.1	PUR	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG01167	hap2	HG01167_hap2_hprc_r2_v1.0.1	PUR	gapped	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG01175	mat	HG01175_mat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01175	pat	HG01175_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	0	0	0	1	0	0	1	0	1	0	0	0	d2- 1+	1	0	1	0	0	False	False	False	False
+HG01192	mat	HG01192_mat_hprc_r2_v1.0.1	PUR	gapped	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01192	pat	HG01192_pat_hprc_r2_v1.0.1	PUR	complete	True	True	1	0	0	0	1	0	0	1	0	1	0	0	0	d2- 1+	1	0	1	0	0	False	False	False	False
+HG01243	mat	HG01243_mat_hprc_r2_v1.0.1	PUR	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG01243	pat	HG01243_pat_hprc_r2_v1.0.1	PUR	complete	True	True	2	1	0	0	0	0	0	2	1	2	1	0	0	1- 2- 1+	2	1	2	1	0	False	False	True	False
+HG01252	mat	HG01252_mat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG01252	pat	HG01252_pat_hprc_r2_v1.0.1	CLM	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01255	mat	HG01255_mat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01255	pat	HG01255_pat_hprc_r2_v1.0.1	CLM	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01258	mat	HG01258_mat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG01258	pat	HG01258_pat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG01261	mat	HG01261_mat_hprc_r2_v1.0.1	CLM	split	False	True	1	2	0	0	0	0	0	1	2	1	2	0	0	2- 1- | 2+	1	2	1	2	0	False	False	False	False
+HG01261	pat	HG01261_pat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG01346	mat	HG01346_mat_hprc_r2_v1.0.1	CLM	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01346	pat	HG01346_pat_hprc_r2_v1.0.1	CLM	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01358	mat	HG01358_mat_hprc_r2_v1.0.1	CLM	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01358	pat	HG01358_pat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG01361	mat	HG01361_mat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01361	pat	HG01361_pat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01433	mat	HG01433_mat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	1	0	2+ 1+	1	1	1	1	0	False	True	False	False
+HG01433	pat	HG01433_pat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG01496	mat	HG01496_mat_hprc_r2_v1.0.1	CLM	gapped	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01496	pat	HG01496_pat_hprc_r2_v1.0.1	CLM	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG01530	hap1	HG01530_hap1_hprc_r2_v1.0.1	IBS	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	1	1- 2+	1	1	1	1	0	False	True	False	False
+HG01530	hap2	HG01530_hap2_hprc_r2_v1.0.1	IBS	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG01784	hap1	HG01784_hap1_hprc_r2_v1.0.1	IBS	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01784	hap2	HG01784_hap2_hprc_r2_v1.0.1	IBS	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG01786	hap1	HG01786_hap1_hprc_r2_v1.0.1	IBS	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG01786	hap2	HG01786_hap2_hprc_r2_v1.0.1	IBS	complete	True	False	2	1	0	0	0	0	0	2	1	2	1	0	0	2- 1- 1+	2	1	2	1	0	False	False	True	False
+HG01884	mat	HG01884_mat_hprc_r2_v1.0.1	ACB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01884	pat	HG01884_pat_hprc_r2_v1.0.1	ACB	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	h21- 1-	1	1	2	0	0	True	True	False	False
+HG01891	mat	HG01891_mat_hprc_r2_v1.0.1	ACB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01891	pat	HG01891_pat_hprc_r2_v1.0.1	ACB	gapped	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG01928	mat	HG01928_mat_hprc_r2_v1.0.1	PEL	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+HG01928	pat	HG01928_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG01934	mat	HG01934_mat_hprc_r2_v1.0.1	PEL	split	False	True	1	0	0	0	1	0	0	1	0	1	0	0	0	d2- | 1+	1	0	1	0	0	False	False	False	False
+HG01934	pat	HG01934_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01940	mat	HG01940_mat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	1	2- 1+	1	1	1	1	0	False	True	False	False
+HG01940	pat	HG01940_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01943	mat	HG01943_mat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01943	pat	HG01943_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01952	mat	HG01952_mat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01952	pat	HG01952_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG01960	mat	HG01960_mat_hprc_r2_v1.0.1	ACB	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG01960	pat	HG01960_pat_hprc_r2_v1.0.1	ACB	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	2	0	1- 1+	2	0	2	0	0	False	True	True	False
+HG01969	mat	HG01969_mat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01969	pat	HG01969_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01975	mat	HG01975_mat_hprc_r2_v1.0.1	PEL	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG01975	pat	HG01975_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01978	mat	HG01978_mat_hprc_r2_v1.1.0	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01978	pat	HG01978_pat_hprc_r2_v1.1.0	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	1	2- 1+	1	1	1	1	0	False	True	False	False
+HG01981	mat	HG01981_mat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	1+ 2+	1	1	1	1	0	False	False	False	False
+HG01981	pat	HG01981_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG01993	mat	HG01993_mat_hprc_r2_v1.0.1	PEL	split	False	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- | 1+	1	1	1	1	0	False	False	False	False
+HG01993	pat	HG01993_pat_hprc_r2_v1.0.1	PEL	split	False	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- | 1+	1	1	1	1	0	False	False	False	False
+HG02004	mat	HG02004_mat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02004	pat	HG02004_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG02015	mat	HG02015_mat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02015	pat	HG02015_pat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02027	mat	HG02027_mat_hprc_r2_v1.0.1	KHV	gapped	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02027	pat	HG02027_pat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02040	hap1	HG02040_hap1_hprc_r2_v1.0.1	KHV	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG02040	hap2	HG02040_hap2_hprc_r2_v1.0.1	KHV	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG02055	mat	HG02055_mat_hprc_r2_v1.0.1	ACB	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+HG02055	pat	HG02055_pat_hprc_r2_v1.0.1	ACB	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02056	mat	HG02056_mat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG02056	pat	HG02056_pat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02071	mat	HG02071_mat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02071	pat	HG02071_pat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02074	mat	HG02074_mat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02074	pat	HG02074_pat_hprc_r2_v1.0.1	KHV	gapped	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02080	mat	HG02080_mat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02080	pat	HG02080_pat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02083	mat	HG02083_mat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02083	pat	HG02083_pat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	1- 2+	1	1	1	1	0	False	False	False	False
+HG02109	mat	HG02109_mat_hprc_r2_v1.0.1	ACB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02109	pat	HG02109_pat_hprc_r2_v1.0.1	ACB	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02129	mat	HG02129_mat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02129	pat	HG02129_pat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02132	mat	HG02132_mat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG02132	pat	HG02132_pat_hprc_r2_v1.0.1	KHV	complete	True	True	0	3	0	0	0	0	0	0	3	0	3	0	0	2+ 2- 2+	0	3	0	3	0	False	False	False	True
+HG02135	mat	HG02135_mat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02135	pat	HG02135_pat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02145	mat	HG02145_mat_hprc_r2_v1.0.1	ACB	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	2	0	1- 1+	2	0	2	0	0	False	True	True	False
+HG02145	pat	HG02145_pat_hprc_r2_v1.0.1	ACB	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02148	mat	HG02148_mat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG02148	pat	HG02148_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG02155	hap1	HG02155_hap1_hprc_r2_v1.0.1	CDX	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG02155	hap2	HG02155_hap2_hprc_r2_v1.0.1	CDX	complete	True	False	1	0	0	1	0	0	0	1	1	2	0	1	0	h21- 1+	1	1	2	0	0	True	True	False	False
+HG02165	hap1	HG02165_hap1_hprc_r2_v1.0.1	CDX	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG02165	hap2	HG02165_hap2_hprc_r2_v1.0.1	CDX	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG02178	hap1	HG02178_hap1_hprc_r2_v1.0.1	CDX	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02178	hap2	HG02178_hap2_hprc_r2_v1.0.1	CDX	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02257	mat	HG02257_mat_hprc_r2_v1.1.0	ACB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	1+ 2+	1	1	1	1	0	False	False	False	False
+HG02257	pat	HG02257_pat_hprc_r2_v1.1.0	ACB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG02258	mat	HG02258_mat_hprc_r2_v1.0.1	ACB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02258	pat	HG02258_pat_hprc_r2_v1.0.1	ACB	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02273	hap1	HG02273_hap1_hprc_r2_v1.0.1	PEL	split	False	False	1	1	0	0	0	0	0	1	1	1	1	1	0	2- | 1+	1	1	1	1	0	False	True	False	False
+HG02273	hap2	HG02273_hap2_hprc_r2_v1.0.1	PEL	split	False	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- | 1+	2	0	2	0	0	False	False	True	False
+HG02280	mat	HG02280_mat_hprc_r2_v1.0.1	ACB	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	2	0	1- 1+	2	0	2	0	0	False	True	True	False
+HG02280	pat	HG02280_pat_hprc_r2_v1.0.1	ACB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02293	mat	HG02293_mat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02293	pat	HG02293_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02300	mat	HG02300_mat_hprc_r2_v1.0.1	PEL	complete	True	True	1	0	1	0	0	0	0	2	0	1	1	1	0	h12- 1+	2	0	1	1	0	True	True	True	False
+HG02300	pat	HG02300_pat_hprc_r2_v1.0.1	PEL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02391	hap1	HG02391_hap1_hprc_r2_v1.0.1	CDX	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG02391	hap2	HG02391_hap2_hprc_r2_v1.0.1	CDX	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02392	hap1	HG02392_hap1_hprc_r2_v1.0.1	CDX	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02392	hap2	HG02392_hap2_hprc_r2_v1.0.1	CDX	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02451	mat	HG02451_mat_hprc_r2_v1.0.1	ACB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02451	pat	HG02451_pat_hprc_r2_v1.0.1	ACB	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG02486	mat	HG02486_mat_hprc_r2_v1.0.1	ACB	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02486	pat	HG02486_pat_hprc_r2_v1.0.1	ACB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02514	mat	HG02514_mat_hprc_r2_v1.0.1	KHV	gapped	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG02514	pat	HG02514_pat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG02523	mat	HG02523_mat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02523	pat	HG02523_pat_hprc_r2_v1.0.1	KHV	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02559	mat	HG02559_mat_hprc_r2_v1.0.1	ACB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG02559	pat	HG02559_pat_hprc_r2_v1.0.1	ACB	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	1- h21+	1	1	2	0	0	True	True	False	False
+HG02572	mat	HG02572_mat_hprc_r2_v1.0.1	GWD	gapped	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02572	pat	HG02572_pat_hprc_r2_v1.0.1	GWD	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02583	hap1	HG02583_hap1_hprc_r2_v1.0.1	GWD	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG02583	hap2	HG02583_hap2_hprc_r2_v1.0.1	GWD	gapped	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02602	mat	HG02602_mat_hprc_r2_v1.0.1	PJL	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+HG02602	pat	HG02602_pat_hprc_r2_v1.0.1	PJL	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG02615	mat	HG02615_mat_hprc_r2_v1.0.1	GWD	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	1- h21+	1	1	2	0	0	True	True	False	False
+HG02615	pat	HG02615_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1-	1	1	1	1	0	False	False	False	False
+HG02622	mat	HG02622_mat_hprc_r2_v1.0.1	GWD	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02622	pat	HG02622_pat_hprc_r2_v1.0.1	GWD	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02630	mat	HG02630_mat_hprc_r2_v1.0.1	GWD	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02630	pat	HG02630_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1-	1	1	1	1	0	False	False	False	False
+HG02647	mat	HG02647_mat_hprc_r2_v1.0.1	GWD	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02647	pat	HG02647_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	1- h21+	1	1	2	0	0	True	True	False	False
+HG02668	mat	HG02668_mat_hprc_r2_v1.0.1	GWD	gapped	True	True	2	1	0	0	0	0	0	2	1	2	1	0	0	1- 2- 1-	2	1	2	1	0	False	False	True	False
+HG02668	pat	HG02668_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02698	mat	HG02698_mat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	1	1- 2+	1	1	1	1	0	False	True	False	False
+HG02698	pat	HG02698_pat_hprc_r2_v1.0.1	PJL	complete	True	True	2	0	1	0	0	0	0	3	0	2	1	1	0	1- h12+ 1+	3	0	2	1	0	True	True	True	False
+HG02717	mat	HG02717_mat_hprc_r2_v1.0.1	GWD	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02717	pat	HG02717_pat_hprc_r2_v1.0.1	GWD	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02723	mat	HG02723_mat_hprc_r2_v1.0.1	GWD	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	1- h21+	1	1	2	0	0	True	True	False	False
+HG02723	pat	HG02723_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02735	mat	HG02735_mat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG02735	pat	HG02735_pat_hprc_r2_v1.0.1	PJL	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+HG02738	mat	HG02738_mat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02738	pat	HG02738_pat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	1+ 2+	1	1	1	1	0	False	False	False	False
+HG02809	mat	HG02809_mat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	1- 2+	1	1	1	1	0	False	False	False	False
+HG02809	pat	HG02809_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02818	mat	HG02818_mat_hprc_r2_v1.0.1	GWD	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	1	1	1- 1+	2	0	2	0	0	False	True	True	False
+HG02818	pat	HG02818_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	1- 2+	1	1	1	1	0	False	False	False	False
+HG02841	mat	HG02841_mat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02841	pat	HG02841_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1-	1	1	1	1	0	False	False	False	False
+HG02886	mat	HG02886_mat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG02886	pat	HG02886_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1-	1	1	1	1	0	False	False	False	False
+HG02922	hap1	HG02922_hap1_hprc_r2_v1.0.1	ESN	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02922	hap2	HG02922_hap2_hprc_r2_v1.0.1	ESN	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG02965	hap1	HG02965_hap1_hprc_r2_v1.0.1	ESN	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+HG02965	hap2	HG02965_hap2_hprc_r2_v1.0.1	ESN	complete	True	False	1	0	0	1	0	0	0	1	1	2	0	1	0	h21+ 1-	1	1	2	0	0	True	True	False	False
+HG02976	hap1	HG02976_hap1_hprc_r2_v1.0.1	ESN	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02976	hap2	HG02976_hap2_hprc_r2_v1.0.1	ESN	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	1- 2+	1	1	1	1	0	False	False	False	False
+HG02984	mat	HG02984_mat_hprc_r2_v1.0.1	GWD	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG02984	pat	HG02984_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03017	mat	HG03017_mat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03017	pat	HG03017_pat_hprc_r2_v1.0.1	PJL	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03041	mat	HG03041_mat_hprc_r2_v1.0.1	GWD	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG03041	pat	HG03041_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03050	mat	HG03050_mat_hprc_r2_v1.0.1	GWD	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	1+ h21+	1	1	2	0	0	True	True	False	False
+HG03050	pat	HG03050_pat_hprc_r2_v1.0.1	GWD	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG03098	mat	HG03098_mat_hprc_r2_v1.0.1	MSL	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03098	pat	HG03098_pat_hprc_r2_v1.0.1	MSL	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	1- h21-	1	1	2	0	0	True	True	False	False
+HG03130	hap1	HG03130_hap1_hprc_r2_v1.0.1	ESN	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03130	hap2	HG03130_hap2_hprc_r2_v1.0.1	ESN	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03139	hap1	HG03139_hap1_hprc_r2_v1.0.1	ESN	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03139	hap2	HG03139_hap2_hprc_r2_v1.0.1	ESN	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG03195	hap1	HG03195_hap1_hprc_r2_v1.0.1	ESN	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	1	0	1+	1	0	1	0	0	False	True	False	False
+HG03195	hap2	HG03195_hap2_hprc_r2_v1.0.1	ESN	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03209	hap1	HG03209_hap1_hprc_r2_v1.0.1	MSL	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03209	hap2	HG03209_hap2_hprc_r2_v1.0.1	MSL	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	1	1	2- 1+	1	1	1	1	0	False	True	False	False
+HG03225	hap1	HG03225_hap1_hprc_r2_v1.0.1	MSL	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03225	hap2	HG03225_hap2_hprc_r2_v1.0.1	MSL	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	1- 2-	1	1	1	1	0	False	False	False	False
+HG03239	mat	HG03239_mat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03239	pat	HG03239_pat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03270	hap1	HG03270_hap1_hprc_r2_v1.0.1	ESN	partial	False	False	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG03270	hap2	HG03270_hap2_hprc_r2_v1.0.1	ESN	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03369	hap1	HG03369_hap1_hprc_r2_v1.0.1	ESN	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03369	hap2	HG03369_hap2_hprc_r2_v1.0.1	ESN	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03453	mat	HG03453_mat_hprc_r2_v1.0.1	MSL	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	1+ h21+	1	1	2	0	0	True	True	False	False
+HG03453	pat	HG03453_pat_hprc_r2_v1.0.1	MSL	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03470	hap1	HG03470_hap1_hprc_r2_v1.0.1	MSL	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG03470	hap2	HG03470_hap2_hprc_r2_v1.0.1	MSL	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03471	hap1	HG03471_hap1_hprc_r2_v1.0.1	MSL	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03471	hap2	HG03471_hap2_hprc_r2_v1.0.1	MSL	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	1	1	2- 1+	1	1	1	1	0	False	True	False	False
+HG03486	mat	HG03486_mat_hprc_r2_v1.0.1	MSL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03486	pat	HG03486_pat_hprc_r2_v1.0.1	MSL	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03516	mat	HG03516_mat_hprc_r2_v1.1.0	ESN	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	1	0	1+	1	0	1	0	0	False	True	False	False
+HG03516	pat	HG03516_pat_hprc_r2_v1.1.0	ESN	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	1- h21+	1	1	2	0	0	True	True	False	False
+HG03521	hap1	HG03521_hap1_hprc_r2_v1.0.1	ESN	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+HG03521	hap2	HG03521_hap2_hprc_r2_v1.0.1	ESN	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	1- 2+	1	1	1	1	0	False	False	False	False
+HG03540	mat	HG03540_mat_hprc_r2_v1.0.1	GWD	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	h21- 1+	1	1	2	0	0	True	True	False	False
+HG03540	pat	HG03540_pat_hprc_r2_v1.0.1	GWD	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03579	mat	HG03579_mat_hprc_r2_v1.0.1	MSL	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	1	1- 1+	2	0	2	0	0	False	True	True	False
+HG03579	pat	HG03579_pat_hprc_r2_v1.0.1	MSL	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	1	0	1+	1	0	1	0	0	False	True	False	False
+HG03583	hap1	HG03583_hap1_hprc_r2_v1.0.1	MSL	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	1	0	1+	1	0	1	0	0	False	True	False	False
+HG03583	hap2	HG03583_hap2_hprc_r2_v1.0.1	MSL	complete	True	False	0	1	0	0	0	0	0	0	1	0	1	0	0	2-	0	1	0	1	0	False	False	False	True
+HG03654	mat	HG03654_mat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	2	0	2- 1+	1	1	1	1	0	False	True	False	False
+HG03654	pat	HG03654_pat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	1- 2+	1	1	1	1	0	False	False	False	False
+HG03669	mat	HG03669_mat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+HG03669	pat	HG03669_pat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03688	mat	HG03688_mat_hprc_r2_v1.0.1	STU	gapped	True	True	2	1	0	0	0	0	0	2	1	2	1	0	0	2- 1- 1+	2	1	2	1	0	False	False	True	False
+HG03688	pat	HG03688_pat_hprc_r2_v1.0.1	STU	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03704	mat	HG03704_mat_hprc_r2_v1.0.1	PJL	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG03704	pat	HG03704_pat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03710	mat	HG03710_mat_hprc_r2_v1.0.1	PJL	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	1	h21- 1+	1	1	2	0	0	True	True	False	False
+HG03710	pat	HG03710_pat_hprc_r2_v1.0.1	PJL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03742	hap1	HG03742_hap1_hprc_r2_v1.0.1	ITU	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03742	hap2	HG03742_hap2_hprc_r2_v1.0.1	ITU	gapped	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+HG03784	hap1	HG03784_hap1_hprc_r2_v1.0.1	ITU	split	False	False	0	0	0	0	0	4	0	0	0	0	0	0	0	t- t- | t+ | t+	1	1	1	1	2	False	False	False	True
+HG03784	hap2	HG03784_hap2_hprc_r2_v1.0.1	ITU	split	False	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- | 1+	1	1	1	1	0	False	False	False	False
+HG03804	mat	HG03804_mat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03804	pat	HG03804_pat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03816	mat	HG03816_mat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03816	pat	HG03816_pat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03831	mat	HG03831_mat_hprc_r2_v1.0.1	BEB	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+HG03831	pat	HG03831_pat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG03834	mat	HG03834_mat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03834	pat	HG03834_pat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG03874	hap1	HG03874_hap1_hprc_r2_v1.0.1	ITU	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	1	1+	1	0	1	0	0	False	True	False	False
+HG03874	hap2	HG03874_hap2_hprc_r2_v1.0.1	ITU	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	1	1+	1	0	1	0	0	False	True	False	False
+HG03927	mat	HG03927_mat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG03927	pat	HG03927_pat_hprc_r2_v1.0.1	BEB	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	1	1+	1	0	1	0	0	False	True	False	False
+HG03942	mat	HG03942_mat_hprc_r2_v1.0.1	BEB	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	1	1+	1	0	1	0	0	False	True	False	False
+HG03942	pat	HG03942_pat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG04115	mat	HG04115_mat_hprc_r2_v1.0.1	STU	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG04115	pat	HG04115_pat_hprc_r2_v1.0.1	STU	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG04157	mat	HG04157_mat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG04157	pat	HG04157_pat_hprc_r2_v1.0.1	BEB	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG04160	mat	HG04160_mat_hprc_r2_v1.0.1	BEB	complete	True	True	1	0	0	1	0	0	0	1	1	2	0	1	0	h21- 1+	1	1	2	0	0	True	True	False	False
+HG04160	pat	HG04160_pat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG04184	mat	HG04184_mat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG04184	pat	HG04184_pat_hprc_r2_v1.0.1	BEB	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	1	1-	1	0	1	0	0	False	True	False	False
+HG04187	mat	HG04187_mat_hprc_r2_v1.0.1	BEB	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+HG04187	pat	HG04187_pat_hprc_r2_v1.0.1	BEB	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+HG04199	mat	HG04199_mat_hprc_r2_v1.0.1	STU	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG04199	pat	HG04199_pat_hprc_r2_v1.0.1	STU	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG04204	mat	HG04204_mat_hprc_r2_v1.0.1	STU	gapped	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG04204	pat	HG04204_pat_hprc_r2_v1.0.1	STU	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG04228	mat	HG04228_mat_hprc_r2_v1.0.1	STU	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG04228	pat	HG04228_pat_hprc_r2_v1.0.1	STU	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG06807	mat	HG06807_mat_v1.0.genbank	ASL	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG06807	pat	HG06807_pat_v1.0.genbank	ASL	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+NA18505	hap1	NA18505_hap1_hprc_r2_v1.0.1	YRI	complete	True	False	1	0	0	1	0	0	0	1	1	2	0	1	0	1- h21-	1	1	2	0	0	True	True	False	False
+NA18505	hap2	NA18505_hap2_hprc_r2_v1.0.1	YRI	complete	True	False	1	0	0	1	0	0	0	1	1	2	0	1	0	h21+ 1-	1	1	2	0	0	True	True	False	False
+NA18508	hap1	NA18508_hap1_hprc_r2_v1.0.1	YRI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18508	hap2	NA18508_hap2_hprc_r2_v1.0.1	YRI	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+NA18522	hap1	NA18522_hap1_hprc_r2_v1.0.1	YRI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18522	hap2	NA18522_hap2_hprc_r2_v1.0.1	YRI	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	1	1	1- 1+	2	0	2	0	0	False	True	True	False
+NA18565	hap1	NA18565_hap1_hprc_r2_v1.0.1	CHB	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	1	1- 1+	2	0	2	0	0	False	True	True	False
+NA18565	hap2	NA18565_hap2_hprc_r2_v1.0.1	CHB	gapped	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18570	hap1	NA18570_hap1_hprc_r2_v1.0.1	CHB	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18570	hap2	NA18570_hap2_hprc_r2_v1.0.1	CHB	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18608	hap1	NA18608_hap1_hprc_r2_v1.0.1	CHB	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+NA18608	hap2	NA18608_hap2_hprc_r2_v1.0.1	CHB	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18620	hap1	NA18620_hap1_hprc_r2_v1.0.1	CHB	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18620	hap2	NA18620_hap2_hprc_r2_v1.0.1	CHB	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18747	hap1	NA18747_hap1_hprc_r2_v1.0.1	CHB	split	False	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- | 1+	1	1	1	1	0	False	False	False	False
+NA18747	hap2	NA18747_hap2_hprc_r2_v1.0.1	CHB	split	False	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- | 1+	1	1	1	1	0	False	False	False	False
+NA18879	hap1	NA18879_hap1_hprc_r2_v1.0.1	YRI	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+NA18879	hap2	NA18879_hap2_hprc_r2_v1.0.1	YRI	complete	True	False	0	1	1	0	0	0	0	1	1	0	2	1	0	2- h12+	1	1	0	2	0	True	True	False	False
+NA18906	mat	NA18906_mat_hprc_r2_v1.0.1	YRI	complete	True	True	1	0	0	0	0	0	0	1	0	1	0	1	0	1+	1	0	1	0	0	False	True	False	False
+NA18906	pat	NA18906_pat_hprc_r2_v1.0.1	YRI	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18940	hap1	NA18940_hap1_hprc_r2_v1.0.1	JPT	gapped	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18940	hap2	NA18940_hap2_hprc_r2_v1.0.1	JPT	gapped	True	False	1	1	0	0	0	0	0	1	1	1	1	1	1	2- 1+	1	1	1	1	0	False	True	False	False
+NA18943	hap1	NA18943_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18943	hap2	NA18943_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA18944	hap1	NA18944_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+NA18944	hap2	NA18944_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18945	hap1	NA18945_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18945	hap2	NA18945_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	0	1	1	0	0	0	0	1	1	0	2	1	0	2- h12+	1	1	0	2	0	True	True	False	False
+NA18948	hap1	NA18948_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA18948	hap2	NA18948_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	2	0	0	0	0	0	1	2	1	2	0	0	2- 2- 1+	1	2	1	2	0	False	False	False	False
+NA18952	hap1	NA18952_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+NA18952	hap2	NA18952_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18959	hap1	NA18959_hap1_hprc_r2_v1.0.1	JPT	gapped	True	False	1	1	0	0	0	1	0	1	1	1	1	0	0	t- 2- 1+	1	2	1	2	1	False	False	False	False
+NA18959	hap2	NA18959_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18960	hap1	NA18960_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	2	0	0	0	0	0	1	2	1	2	0	0	2- 2- 1-	1	2	1	2	0	False	False	False	False
+NA18960	hap2	NA18960_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	1	1-	1	0	1	0	0	False	True	False	False
+NA18967	hap1	NA18967_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18967	hap2	NA18967_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	1	1-	1	0	1	0	0	False	True	False	False
+NA18970	hap1	NA18970_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+NA18970	hap2	NA18970_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18971	hap1	NA18971_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18971	hap2	NA18971_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+NA18974	hap1	NA18974_hap1_hprc_r2_v1.0.1	JPT	partial	False	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+NA18974	hap2	NA18974_hap2_hprc_r2_v1.0.1	JPT	split	False	False	1	1	0	0	0	1	0	1	1	1	1	0	0	2- | t- 1+	1	1	1	1	0	False	False	False	False
+NA18976	hap1	NA18976_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18976	hap2	NA18976_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+NA18982	hap1	NA18982_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18982	hap2	NA18982_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+NA18983	hap1	NA18983_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA18983	hap2	NA18983_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA19036	hap1	NA19036_hap1_hprc_r2_v1.0.1	LWK	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1+ 1-	2	0	2	0	0	False	False	True	False
+NA19036	hap2	NA19036_hap2_hprc_r2_v1.0.1	LWK	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+NA19043	hap1	NA19043_hap1_hprc_r2_v1.0.1	LWK	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	1	1- 1+	2	0	2	0	0	False	True	True	False
+NA19043	hap2	NA19043_hap2_hprc_r2_v1.0.1	LWK	gapped	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+NA19087	hap1	NA19087_hap1_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA19087	hap2	NA19087_hap2_hprc_r2_v1.0.1	JPT	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1+	1	1	1	1	0	False	False	False	False
+NA19159	hap1	NA19159_hap1_hprc_r2_v1.0.1	YRI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA19159	hap2	NA19159_hap2_hprc_r2_v1.0.1	YRI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	1	1	2- 1+	1	1	1	1	0	False	True	False	False
+NA19185	hap1	NA19185_hap1_hprc_r2_v1.0.1	YRI	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+NA19185	hap2	NA19185_hap2_hprc_r2_v1.0.1	YRI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA19240	mat	NA19240_mat_hprc_r2_v1.0.1	YRI	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+NA19240	pat	NA19240_pat_hprc_r2_v1.0.1	YRI	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+NA19338	hap1	NA19338_hap1_hprc_r2_v1.0.1	LWK	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+NA19338	hap2	NA19338_hap2_hprc_r2_v1.0.1	LWK	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA19391	hap1	NA19391_hap1_hprc_r2_v1.0.1	LWK	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA19391	hap2	NA19391_hap2_hprc_r2_v1.0.1	LWK	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA19443	hap1	NA19443_hap1_hprc_r2_v1.0.1	LWK	split	False	False	1	2	0	0	0	0	0	1	2	1	2	0	0	2- 1+ | 2+	1	2	1	2	0	False	False	False	False
+NA19443	hap2	NA19443_hap2_hprc_r2_v1.0.1	LWK	partial	False	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+NA19468	hap1	NA19468_hap1_hprc_r2_v1.0.1	LWK	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA19468	hap2	NA19468_hap2_hprc_r2_v1.0.1	LWK	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+NA19682	hap1	NA19682_hap1_hprc_r2_v1.0.1	MXL	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA19682	hap2	NA19682_hap2_hprc_r2_v1.0.1	MXL	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	1	0	2- 1+	1	1	1	1	0	False	True	False	False
+NA19700	hap1	NA19700_hap1_hprc_r2_v1.0.1	ASW	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+NA19700	hap2	NA19700_hap2_hprc_r2_v1.0.1	ASW	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+NA19776	hap1	NA19776_hap1_hprc_r2_v1.0.1	MXL	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA19776	hap2	NA19776_hap2_hprc_r2_v1.0.1	MXL	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA19835	hap1	NA19835_hap1_hprc_r2_v1.0.1	ASW	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA19835	hap2	NA19835_hap2_hprc_r2_v1.0.1	ASW	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+NA19909	hap1	NA19909_hap1_hprc_r2_v1.0.1	ASW	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA19909	hap2	NA19909_hap2_hprc_r2_v1.0.1	ASW	complete	True	False	1	0	0	1	0	0	0	1	1	2	0	1	0	1- h21-	1	1	2	0	0	True	True	False	False
+NA20129	mat	NA20129_mat_hprc_r2_v1.0.1	ASW	gapped	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA20129	pat	NA20129_pat_hprc_r2_v1.0.1	ASW	complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA20282	hap1	NA20282_hap1_hprc_r2_v1.0.1	ASW	complete	True	False	1	0	0	1	0	0	0	1	1	2	0	1	0	1- h21+	1	1	2	0	0	True	True	False	False
+NA20282	hap2	NA20282_hap2_hprc_r2_v1.0.1	ASW	complete	True	False	1	0	0	1	0	0	0	1	1	2	0	1	0	1- h21-	1	1	2	0	0	True	True	False	False
+NA20346	hap1	NA20346_hap1_hprc_r2_v1.0.1	ASW	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA20346	hap2	NA20346_hap2_hprc_r2_v1.0.1	ASW	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+NA20503	hap1	NA20503_hap1_hprc_r2_v1.0.1	TSI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA20503	hap2	NA20503_hap2_hprc_r2_v1.0.1	TSI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA20752	hap1	NA20752_hap1_hprc_r2_v1.0.1	TSI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA20752	hap2	NA20752_hap2_hprc_r2_v1.0.1	TSI	split	False	False	1	2	0	0	0	0	0	1	2	1	2	0	0	2- 1- | 2+	1	2	1	2	0	False	False	False	False
+NA20762	hap1	NA20762_hap1_hprc_r2_v1.0.1	TSI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA20762	hap2	NA20762_hap2_hprc_r2_v1.0.1	TSI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	1+ 2+	1	1	1	1	0	False	False	False	False
+NA20799	hap1	NA20799_hap1_hprc_r2_v1.0.1	TSI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA20799	hap2	NA20799_hap2_hprc_r2_v1.0.1	TSI	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+NA20805	hap1	NA20805_hap1_hprc_r2_v1.0.1	TSI	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+NA20805	hap2	NA20805_hap2_hprc_r2_v1.0.1	TSI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA20806	hap1	NA20806_hap1_hprc_r2_v1.0.1	TSI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA20806	hap2	NA20806_hap2_hprc_r2_v1.0.1	TSI	gapped	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2+ 1-	1	1	1	1	0	False	False	False	False
+NA20809	hap1	NA20809_hap1_hprc_r2_v1.0.1	TSI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA20809	hap2	NA20809_hap2_hprc_r2_v1.0.1	TSI	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA20827	hap1	NA20827_hap1_hprc_r2_v1.0.1	TSI	gapped	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1-	1	1	1	1	0	False	False	False	False
+NA20827	hap2	NA20827_hap2_hprc_r2_v1.0.1	TSI	complete	True	False	1	0	0	0	1	0	0	1	0	1	0	0	0	d2- 1+	1	0	1	0	0	False	False	False	False
+NA20850	hap1	NA20850_hap1_hprc_r2_v1.0.1	GIH	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA20850	hap2	NA20850_hap2_hprc_r2_v1.0.1	GIH	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA20870	hap1	NA20870_hap1_hprc_r2_v1.0.1	GIH	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1+	1	0	1	0	0	False	False	False	False
+NA20870	hap2	NA20870_hap2_hprc_r2_v1.0.1	GIH	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA20905	hap1	NA20905_hap1_hprc_r2_v1.0.1	GIH	complete	True	False	1	0	0	0	0	0	1	1	0	1	0	0	0	f- 1-	1	0	1	0	0	False	False	False	False
+NA20905	hap2	NA20905_hap2_hprc_r2_v1.0.1	GIH	complete	True	False	1	2	0	0	0	0	0	1	2	1	2	0	1	2- 2- 1-	1	2	1	2	0	False	True	False	False
+NA21093	hap1	NA21093_hap1_hprc_r2_v1.0.1	GIH	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	1+ 2+	1	1	1	1	0	False	False	False	False
+NA21093	hap2	NA21093_hap2_hprc_r2_v1.0.1	GIH	complete	True	False	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+NA21102	hap1	NA21102_hap1_hprc_r2_v1.0.1	GIH	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	1+ 2+	1	1	1	1	0	False	False	False	False
+NA21102	hap2	NA21102_hap2_hprc_r2_v1.0.1	GIH	complete	True	False	1	2	0	0	0	0	0	1	2	1	2	0	0	2+ 1+ 2+	1	2	1	2	0	False	False	False	False
+NA21106	hap1	NA21106_hap1_hprc_r2_v1.0.1	GIH	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA21106	hap2	NA21106_hap2_hprc_r2_v1.0.1	GIH	gapped	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA21110	hap1	NA21110_hap1_hprc_r2_v1.0.1	GIH	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA21110	hap2	NA21110_hap2_hprc_r2_v1.0.1	GIH	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+NA21144	hap1	NA21144_hap1_hprc_r2_v1.0.1	GIH	complete	True	False	1	1	0	0	0	0	0	1	1	1	1	0	0	1- 2+	1	1	1	1	0	False	False	False	False
+NA21144	hap2	NA21144_hap2_hprc_r2_v1.0.1	GIH	complete	True	False	1	0	0	0	0	0	0	1	0	1	0	0	0	1-	1	0	1	0	0	False	False	False	False
+NA21309	mat	NA21309_mat_hprc_r2_v1.0.1	MKK	complete	True	True	2	1	0	0	0	0	0	2	1	2	1	1	0	2+ 1- 1+	2	1	2	1	0	False	True	True	False
+NA21309	pat	NA21309_pat_hprc_r2_v1.0.1	MKK	complete	True	True	2	0	0	0	0	0	0	2	0	2	0	0	0	1- 1+	2	0	2	0	0	False	False	True	False
+HG002_Q100	mat	hg002v1.1.mat_MT.PanSN		complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False
+HG002_Q100	pat	hg002v1.1.pat.PanSN		complete	True	True	1	1	0	0	0	0	0	1	1	1	1	0	0	2- 1+	1	1	1	1	0	False	False	False	False

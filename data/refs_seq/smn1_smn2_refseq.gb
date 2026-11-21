@@ -1,0 +1,801 @@
+LOCUS       NM_000344               1482 bp    mRNA    linear   PRI 05-SEP-2026
+DEFINITION  Homo sapiens survival of motor neuron 1, telomeric (SMN1),
+            transcript variant d, mRNA.
+ACCESSION   NM_000344 XM_001126655
+VERSION     NM_000344.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1482)
+  AUTHORS   Schaffer,L.V., Hu,M., Qian,G., Moon,K.M., Pal,A., Soni,N.,
+            Latham,A.P., Pontano Vaites,L., Tsai,D., Mattson,N.M., Licon,K.,
+            Bachelder,R., Cesnik,A., Gaur,I., Le,T., Leineweber,W., Palar,A.,
+            Pulido,E., Qin,Y., Zhao,X., Churas,C., Lenkiewicz,J., Chen,J.,
+            Ono,K., Pratt,D., Zage,P., Echeverria,I., Sali,A., Harper,J.W.,
+            Gygi,S.P., Foster,L.J., Huttlin,E.L., Lundberg,E. and Ideker,T.
+  TITLE     Multimodal cell maps as a foundation for structural and functional
+            genomics
+  JOURNAL   Nature 642 (8066), 222-231 (2025)
+   PUBMED   40205054
+  REMARK    Erratum:[Nature. 2025 Oct;646(8086):E16. doi:
+            10.1038/s41586-025-09648-x. PMID: 41039152]
+REFERENCE   2  (bases 1 to 1482)
+  AUTHORS   Nurputra,D.K., Sofian,J., Iskandar,K., Triono,A., Herini,E.S.,
+            Sunartini and Ulhaq,Z.S.
+  TITLE     Multidisciplinary approach on divergent outcomes in spinal muscular
+            atrophies: comparing DYNC1H1 and SMN1 gene mutations
+  JOURNAL   Neurol Sci 45 (9), 4583-4588 (2024)
+   PUBMED   38806879
+  REMARK    GeneRIF: Multidisciplinary approach on divergent outcomes in spinal
+            muscular atrophies: comparing DYNC1H1 and SMN1 gene mutations.
+REFERENCE   3  (bases 1 to 1482)
+  AUTHORS   Polverini,E., Squeri,P. and Gherardi,V.
+  TITLE     Effect of E134K pathogenic mutation of SMN protein on SMN-SmD1
+            interaction, with implication in spinal muscular atrophy: A
+            molecular dynamics study
+  JOURNAL   Int J Biol Macromol 275 (Pt 2), 133663 (2024)
+   PUBMED   38969036
+  REMARK    GeneRIF: Effect of E134K pathogenic mutation of SMN protein on
+            SMN-SmD1 interaction, with implication in spinal muscular atrophy:
+            A molecular dynamics study.
+REFERENCE   4  (bases 1 to 1482)
+  AUTHORS   Li,L., Menezes,M.P., Smith,M., Forbes,R., Zuchner,S., Burgess,A.,
+            Woodcock,I.R., Delatycki,M.B. and Yiu,E.M.
+  TITLE     Rare homozygous disease-associated sequence variants in children
+            with spinal muscular atrophy: a phenotypic description and review
+            of the literature
+  JOURNAL   Neuromuscul Disord 37, 29-35 (2024)
+   PUBMED   38520993
+  REMARK    GeneRIF: Rare homozygous disease-associated sequence variants in
+            children with spinal muscular atrophy: a phenotypic description and
+            review of the literature.
+            Review article
+REFERENCE   5  (bases 1 to 1482)
+  AUTHORS   Valsecchi,V., Errico,F., Bassareo,V., Marino,C., Nuzzo,T.,
+            Brancaccio,P., Laudati,G., Casamassa,A., Grimaldi,M., D'Amico,A.,
+            Carta,M., Bertini,E., Pignataro,G., D'Ursi,A.M. and Usiello,A.
+  TITLE     SMN deficiency perturbs monoamine neurotransmitter metabolism in
+            spinal muscular atrophy
+  JOURNAL   Commun Biol 6 (1), 1155 (2023)
+   PUBMED   37957344
+  REMARK    GeneRIF: SMN deficiency perturbs monoamine neurotransmitter
+            metabolism in spinal muscular atrophy.
+REFERENCE   6  (bases 1 to 1482)
+  AUTHORS   Bussaglia,E., Clermont,O., Tizzano,E., Lefebvre,S., Burglen,L.,
+            Cruaud,C., Urtizberea,J.A., Colomer,J., Munnich,A., Baiget,M. et
+            al.
+  TITLE     A frame-shift deletion in the survival motor neuron gene in Spanish
+            spinal muscular atrophy patients
+  JOURNAL   Nat Genet 11 (3), 335-337 (1995)
+   PUBMED   7581461
+REFERENCE   7  (bases 1 to 1482)
+  AUTHORS   Gennarelli,M., Lucarelli,M., Capon,F., Pizzuti,A., Merlini,L.,
+            Angelini,C., Novelli,G. and Dallapiccola,B.
+  TITLE     Survival motor neuron gene transcript analysis in muscles from
+            spinal muscular atrophy patients
+  JOURNAL   Biochem Biophys Res Commun 213 (1), 342-348 (1995)
+   PUBMED   7639755
+REFERENCE   8  (bases 1 to 1482)
+  AUTHORS   Lefebvre,S., Burglen,L., Reboullet,S., Clermont,O., Burlet,P.,
+            Viollet,L., Benichou,B., Cruaud,C., Millasseau,P., Zeviani,M. et
+            al.
+  TITLE     Identification and characterization of a spinal muscular
+            atrophy-determining gene
+  JOURNAL   Cell 80 (1), 155-165 (1995)
+   PUBMED   7813012
+REFERENCE   9  (bases 1 to 1482)
+  AUTHORS   van der Steege,G., Draaijers,T.G., Grootscholten,P.M., Osinga,J.,
+            Anzevino,R., Velona,I., Den Dunnen,J.T., Scheffer,H., Brahe,C., van
+            Ommen,G.J. et al.
+  TITLE     A provisional transcript map of the spinal muscular atrophy (SMA)
+            critical region
+  JOURNAL   Eur J Hum Genet 3 (2), 87-95 (1995)
+   PUBMED   7552146
+REFERENCE   10 (bases 1 to 1482)
+  AUTHORS   Prior,T.W., Leach,M.E. and Finanger,E.L.
+  TITLE     Spinal Muscular Atrophy
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301526
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC139834.2, BC062723.1 and
+            AC044797.5.
+            
+            On Feb 5, 2020 this sequence version replaced NM_000344.3.
+            
+            Summary: This gene is part of a 500 kb inverted duplication on
+            chromosome 5q13. This duplicated region contains at least four
+            genes and repetitive elements which make it prone to rearrangements
+            and deletions. The repetitiveness and complexity of the sequence
+            have also caused difficulty in determining the organization of this
+            genomic region. The telomeric and centromeric copies of this gene
+            are nearly identical and encode the same protein. However,
+            mutations in this gene, the telomeric copy, are associated with
+            spinal muscular atrophy; mutations in the centromeric copy do not
+            lead to disease. The centromeric copy may be a modifier of disease
+            caused by mutation in the telomeric copy. The critical sequence
+            difference between the two genes is a single nucleotide in exon 7,
+            which is thought to be an exon splice enhancer. Note that the nine
+            exons of both the telomeric and centromeric copies are designated
+            historically as exon 1, 2a, 2b, and 3-8. It is thought that gene
+            conversion events may involve the two genes, leading to varying
+            copy numbers of each gene. The protein encoded by this gene
+            localizes to both the cytoplasm and the nucleus. Within the
+            nucleus, the protein localizes to subnuclear bodies called gems
+            which are found near coiled bodies containing high concentrations
+            of small ribonucleoproteins (snRNPs). This protein forms
+            heteromeric complexes with proteins such as SIP1 and GEMIN4, and
+            also interacts with several proteins known to be involved in the
+            biogenesis of snRNPs, such as hnRNP U protein and the small
+            nucleolar RNA binding protein. Multiple transcript variants
+            encoding distinct isoforms have been described. [provided by
+            RefSeq, Jul 2014].
+            
+            Transcript Variant: This variant (d) represents the longest
+            transcript and encodes the longest isoform (d). This variant is
+            thought to be the predominant transcript produced by this copy of
+            the gene.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC062723.1, U18423.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000380707.9/ ENSP00000370083.4
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-2                 AC139834.2         174697-174698
+            3-1236              BC062723.1         5-1238
+            1237-1479           BC062723.1         1240-1482
+            1480-1482           AC044797.5         49999-50001
+FEATURES             Location/Qualifiers
+     source          1..1482
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5q13.2"
+     gene            1..1482
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="survival of motor neuron 1, telomeric"
+                     /db_xref="GeneID:6606"
+                     /db_xref="HGNC:HGNC:11117"
+                     /db_xref="MIM:600354"
+     exon            1..98
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             18..902
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="isoform d is encoded by transcript variant d;
+                     gemin-1; component of gems 1; survival motor neuron 1
+                     protein; tudor domain containing 16A"
+                     /codon_start=1
+                     /product="survival motor neuron protein isoform d"
+                     /protein_id="NP_000335.1"
+                     /db_xref="CCDS:CCDS34181.1"
+                     /db_xref="GeneID:6606"
+                     /db_xref="HGNC:HGNC:11117"
+                     /db_xref="MIM:600354"
+                     /translation="MAMSSGGSGGGVPEQEDSVLFRRGTGQSDDSDIWDDTALIKAYD
+                     KAVASFKHALKNGDICETSGKPKTTPKRKPAKKNKSQKKNTAASLQQWKVGDKCSAIW
+                     SEDGCIYPATIASIDFKRETCVVVYTGYGNREEQNLSDLLSPICEVANNIEQNAQENE
+                     NESQVSTDESENSRSPGNKSDNIKPKSAPWNSFLPPPPPMPGPRLGPGKPGLKFNGPP
+                     PPPPPPPPHLLSCWLPPFPSGPPIIPPPPPICPDSLDDADALGSMLISWYMSGYHTGY
+                     YMGFRQNQKEGRCSHSLN"
+     misc_feature    18..113
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    21..23
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="N-acetylalanine.
+                     /evidence=ECO:0007744|PubMed:19413330,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:22223895,
+                     ECO:0007744|PubMed:22814378; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); acetylation site"
+     misc_feature    27..29
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000269|PubMed:21609790,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     phosphorylation site"
+     misc_feature    30..32
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000269|PubMed:21609790,
+                     ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    39..41
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000269|PubMed:21609790,
+                     ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    90..92
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:19369195,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:23186163,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    93..170
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Interacts with GEMIN2.
+                     /evidence=ECO:0000269|PubMed:21816274,
+                     ECO:0000269|PubMed:22607171, ECO:0000269|PubMed:26092730"
+     misc_feature    99..101
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:18691976,
+                     ECO:0007744|PubMed:19369195, ECO:0007744|PubMed:19690332,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     phosphorylation site"
+     misc_feature    108..110
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:17487921, ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:19369195,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     phosphorylation site"
+     misc_feature    192..281
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    222..224
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    270..272
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="Phosphothreonine, by PKA.
+                     /evidence=ECO:0000269|PubMed:21609790; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    306..644
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Required for interaction with RPP20/POP7"
+     misc_feature    483..683
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    576..578
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000269|PubMed:21609790; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    735..818
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: P2 (binding site for SNRPB)"
+     misc_feature    771..857
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Involved in homooligomerization.
+                     /evidence=ECO:0000269|PubMed:10500148,
+                     ECO:0000269|PubMed:14715275, ECO:0000269|PubMed:17178713,
+                     ECO:0000269|PubMed:21816274, ECO:0000269|PubMed:23022347,
+                     ECO:0000269|PubMed:26092730"
+     misc_feature    852..899
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Required for interaction with SYNCRIP.
+                     /evidence=ECO:0000269|PubMed:11574476"
+     exon            99..170
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /inference="alignment:Splign:2.1.0"
+     exon            171..290
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /inference="alignment:Splign:2.1.0"
+     exon            291..491
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /inference="alignment:Splign:2.1.0"
+     exon            492..644
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /inference="alignment:Splign:2.1.0"
+     exon            645..740
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /inference="alignment:Splign:2.1.0"
+     exon            741..851
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /inference="alignment:Splign:2.1.0"
+     exon            852..905
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /inference="alignment:Splign:2.1.0"
+     exon            906..1482
+                     /gene="SMN1"
+                     /gene_synonym="BCD541; GEMIN1; SMA; SMA1; SMA2; SMA3;
+                     SMA4; SMA@; SMN; SMNT; T-BCD541; TDRD16A"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 gcacccgcgg gtttgctatg gcgatgagca gcggcggcag tggtggcggc gtcccggagc
+       61 aggaggattc cgtgctgttc cggcgcggca caggccagag cgatgattct gacatttggg
+      121 atgatacagc actgataaaa gcatatgata aagctgtggc ttcatttaag catgctctaa
+      181 agaatggtga catttgtgaa acttcgggta aaccaaaaac cacacctaaa agaaaacctg
+      241 ctaagaagaa taaaagccaa aagaagaata ctgcagcttc cttacaacag tggaaagttg
+      301 gggacaaatg ttctgccatt tggtcagaag acggttgcat ttacccagct accattgctt
+      361 caattgattt taagagagaa acctgtgttg tggtttacac tggatatgga aatagagagg
+      421 agcaaaatct gtccgatcta ctttccccaa tctgtgaagt agctaataat atagaacaaa
+      481 atgctcaaga gaatgaaaat gaaagccaag tttcaacaga tgaaagtgag aactccaggt
+      541 ctcctggaaa taaatcagat aacatcaagc ccaaatctgc tccatggaac tcttttctcc
+      601 ctccaccacc ccccatgcca gggccaagac tgggaccagg aaagccaggt ctaaaattca
+      661 atggcccacc accgccaccg ccaccaccac caccccactt actatcatgc tggctgcctc
+      721 catttccttc tggaccacca ataattcccc caccacctcc catatgtcca gattctcttg
+      781 atgatgctga tgctttggga agtatgttaa tttcatggta catgagtggc tatcatactg
+      841 gctattatat gggtttcaga caaaatcaaa aagaaggaag gtgctcacat tccttaaatt
+      901 aaggagaaat gctggcatag agcagcacta aatgacacca ctaaagaaac gatcagacag
+      961 atctggaatg tgaagcgtta tagaagataa ctggcctcat ttcttcaaaa tatcaagtgt
+     1021 tgggaaagaa aaaaggaagt ggaatgggta actcttcttg attaaaagtt atgtaataac
+     1081 caaatgcaat gtgaaatatt ttactggact ctattttgaa aaaccatctg taaaagactg
+     1141 gggtgggggt gggaggccag cacggtggtg aggcagttga gaaaatttga atgtggatta
+     1201 gattttgaat gatattggat aattattggt aattttatga gctgtgagaa gggtgttgta
+     1261 gtttataaaa gactgtctta atttgcatac ttaagcattt aggaatgaag tgttagagtg
+     1321 tcttaaaatg tttcaaatgg tttaacaaaa tgtatgtgag gcgtatgtgg caaaatgtta
+     1381 cagaatctaa ctggtggaca tggctgttca ttgtactgtt tttttctatc ttctatatgt
+     1441 ttaaaagtat ataataaaaa tatttaattt ttttttaaat ta
+//
+
+LOCUS       NM_017411               1482 bp    mRNA    linear   PRI 05-SEP-2026
+DEFINITION  Homo sapiens survival of motor neuron 2, centromeric (SMN2),
+            transcript variant d, mRNA.
+ACCESSION   NM_017411
+VERSION     NM_017411.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1482)
+  AUTHORS   Schaffer,L.V., Hu,M., Qian,G., Moon,K.M., Pal,A., Soni,N.,
+            Latham,A.P., Pontano Vaites,L., Tsai,D., Mattson,N.M., Licon,K.,
+            Bachelder,R., Cesnik,A., Gaur,I., Le,T., Leineweber,W., Palar,A.,
+            Pulido,E., Qin,Y., Zhao,X., Churas,C., Lenkiewicz,J., Chen,J.,
+            Ono,K., Pratt,D., Zage,P., Echeverria,I., Sali,A., Harper,J.W.,
+            Gygi,S.P., Foster,L.J., Huttlin,E.L., Lundberg,E. and Ideker,T.
+  TITLE     Multimodal cell maps as a foundation for structural and functional
+            genomics
+  JOURNAL   Nature 642 (8066), 222-231 (2025)
+   PUBMED   40205054
+  REMARK    Erratum:[Nature. 2025 Oct;646(8086):E16. doi:
+            10.1038/s41586-025-09648-x. PMID: 41039152]
+REFERENCE   2  (bases 1 to 1482)
+  AUTHORS   Ricci,M., Cicala,G., Capasso,A., Coratti,G., Fiori,S., Cutrona,C.,
+            D'Amico,A., Sansone,V.A., Bruno,C., Messina,S., Mongini,T.,
+            Coccia,M., Siciliano,G., Pegoraro,E., Masson,R., Filosto,M.,
+            Comi,G.P., Corti,S., Ronchi,D., Maggi,L., D'Angelo,M.G.,
+            Vacchiano,V., Ticci,C., Ruggiero,L., Verriello,L., Ricci,F.S.,
+            Berardinelli,A.L., Maioli,M.A., Garibaldi,M., Nigro,V.,
+            Previtali,S.C., Pera,M.C., Tizzano,E., Pane,M., Tiziano,F.D. and
+            Mercuri,E.
+  CONSRTM   ITASMAC Working Group
+  TITLE     Clinical Phenotype of Pediatric and Adult Patients With Spinal
+            Muscular Atrophy With Four SMN2 Copies: Are They Really All Stable?
+  JOURNAL   Ann Neurol 94 (6), 1126-1135 (2023)
+   PUBMED   37695206
+  REMARK    GeneRIF: Clinical Phenotype of Pediatric and Adult Patients With
+            Spinal Muscular Atrophy With Four SMN2 Copies: Are They Really All
+            Stable?
+REFERENCE   3  (bases 1 to 1482)
+  AUTHORS   Kimizu,T., Ida,S., Oki,K., Shima,M., Nishimoto,S., Nakajima,K.,
+            Ikeda,T., Mogami,Y., Yanagihara,K., Matsuda,K., Nishi,E.,
+            Hasegawa,Y., Nozaki,M., Fujita,H., Irie,A., Katayama,T.,
+            Okamoto,N., Imai,K., Nishio,H. and Suzuki,Y.
+  TITLE     Newborn screening for spinal muscular atrophy in Osaka -challenges
+            in a Japanese pilot study
+  JOURNAL   Brain Dev 45 (7), 363-371 (2023)
+   PUBMED   36973114
+  REMARK    GeneRIF: Newborn screening for spinal muscular atrophy in Osaka
+            -challenges in a Japanese pilot study.
+REFERENCE   4  (bases 1 to 1482)
+  AUTHORS   Davidson,J.E., Russell,J.S., Martinez,N.N., Mowat,D.R., Jones,K.J.,
+            Kirk,E.P., Kariyawasam,D., Farrar,M. and D'Silva,A.
+  TITLE     The Carrier Frequency of Two SMN1 Genes in Parents of Symptomatic
+            Children with SMA and the Significance of SMN1 Exon 8 in Carriers
+  JOURNAL   Genes (Basel) 14 (7), 1403 (2023)
+   PUBMED   37510307
+  REMARK    GeneRIF: The Carrier Frequency of Two SMN1 Genes in Parents of
+            Symptomatic Children with SMA and the Significance of SMN1 Exon 8
+            in Carriers.
+REFERENCE   5  (bases 1 to 1482)
+  AUTHORS   Wang,L., Ji,Y., Chen,Y., Bai,J., Gao,P. and Feng,P.
+  TITLE     A splicing silencer in SMN2 intron 6 is critical in spinal muscular
+            atrophy
+  JOURNAL   Hum Mol Genet 32 (6), 971-983 (2023)
+   PUBMED   36255739
+  REMARK    GeneRIF: A splicing silencer in SMN2 intron 6 is critical in spinal
+            muscular atrophy.
+REFERENCE   6  (bases 1 to 1482)
+  AUTHORS   Liu,Q. and Dreyfuss,G.
+  TITLE     A novel nuclear structure containing the survival of motor neurons
+            protein
+  JOURNAL   EMBO J 15 (14), 3555-3565 (1996)
+   PUBMED   8670859
+REFERENCE   7  (bases 1 to 1482)
+  AUTHORS   Gennarelli,M., Lucarelli,M., Capon,F., Pizzuti,A., Merlini,L.,
+            Angelini,C., Novelli,G. and Dallapiccola,B.
+  TITLE     Survival motor neuron gene transcript analysis in muscles from
+            spinal muscular atrophy patients
+  JOURNAL   Biochem Biophys Res Commun 213 (1), 342-348 (1995)
+   PUBMED   7639755
+REFERENCE   8  (bases 1 to 1482)
+  AUTHORS   Lefebvre,S., Burglen,L., Reboullet,S., Clermont,O., Burlet,P.,
+            Viollet,L., Benichou,B., Cruaud,C., Millasseau,P., Zeviani,M. et
+            al.
+  TITLE     Identification and characterization of a spinal muscular
+            atrophy-determining gene
+  JOURNAL   Cell 80 (1), 155-165 (1995)
+   PUBMED   7813012
+REFERENCE   9  (bases 1 to 1482)
+  AUTHORS   van der Steege,G., Draaijers,T.G., Grootscholten,P.M., Osinga,J.,
+            Anzevino,R., Velona,I., Den Dunnen,J.T., Scheffer,H., Brahe,C., van
+            Ommen,G.J. et al.
+  TITLE     A provisional transcript map of the spinal muscular atrophy (SMA)
+            critical region
+  JOURNAL   Eur J Hum Genet 3 (2), 87-95 (1995)
+   PUBMED   7552146
+REFERENCE   10 (bases 1 to 1482)
+  AUTHORS   Prior,T.W., Leach,M.E. and Finanger,E.L.
+  TITLE     Spinal Muscular Atrophy
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301526
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC015308.1, CN272420.1 and
+            AI312583.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Aug 22, 2019 this sequence version replaced NM_017411.3.
+            
+            Summary: This gene is part of a 500 kb inverted duplication on
+            chromosome 5q13. This duplicated region contains at least four
+            genes and repetitive elements which make it prone to rearrangements
+            and deletions. The repetitiveness and complexity of the sequence
+            have also caused difficulty in determining the organization of this
+            genomic region. The telomeric and centromeric copies of this gene
+            are nearly identical and encode the same protein. While mutations
+            in the telomeric copy are associated with spinal muscular atrophy,
+            mutations in this gene, the centromeric copy, do not lead to
+            disease. This gene may be a modifier of disease caused by mutation
+            in the telomeric copy. The critical sequence difference between the
+            two genes is a single nucleotide in exon 7, which is thought to be
+            an exon splice enhancer. Note that the nine exons of both the
+            telomeric and centromeric copies are designated historically as
+            exon 1, 2a, 2b, and 3-8. It is thought that gene conversion events
+            may involve the two genes, leading to varying copy numbers of each
+            gene. The full length protein encoded by this gene localizes to
+            both the cytoplasm and the nucleus. Within the nucleus, the protein
+            localizes to subnuclear bodies called gems which are found near
+            coiled bodies containing high concentrations of small
+            ribonucleoproteins (snRNPs). This protein forms heteromeric
+            complexes with proteins such as SIP1 and GEMIN4, and also interacts
+            with several proteins known to be involved in the biogenesis of
+            snRNPs, such as hnRNP U protein and the small nucleolar RNA binding
+            protein. Four transcript variants encoding distinct isoforms have
+            been described. [provided by RefSeq, Sep 2008].
+            
+            Transcript Variant: This variant (d) represents the longest
+            transcript and encodes the longest isoform (d).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR7410571.120678.1,
+                                           SRR7410571.120550.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000380743.9/ ENSP00000370119.4
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-478               BC015308.1         14-491
+            479-856             CN272420.1         328-705
+            857-1479            BC015308.1         870-1492
+            1480-1482           AI312583.1         7-9                 c
+FEATURES             Location/Qualifiers
+     source          1..1482
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+                     /map="5q13.2"
+     gene            1..1482
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="survival of motor neuron 2, centromeric"
+                     /db_xref="GeneID:6607"
+                     /db_xref="HGNC:HGNC:11118"
+                     /db_xref="MIM:601627"
+     exon            1..98
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             18..902
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="isoform d is encoded by transcript variant d;
+                     survival motor neuron protein; gemin-1; component of gems
+                     1; tudor domain containing 16B"
+                     /codon_start=1
+                     /product="survival motor neuron protein isoform d"
+                     /protein_id="NP_059107.1"
+                     /db_xref="CCDS:CCDS4007.1"
+                     /db_xref="GeneID:6607"
+                     /db_xref="HGNC:HGNC:11118"
+                     /db_xref="MIM:601627"
+                     /translation="MAMSSGGSGGGVPEQEDSVLFRRGTGQSDDSDIWDDTALIKAYD
+                     KAVASFKHALKNGDICETSGKPKTTPKRKPAKKNKSQKKNTAASLQQWKVGDKCSAIW
+                     SEDGCIYPATIASIDFKRETCVVVYTGYGNREEQNLSDLLSPICEVANNIEQNAQENE
+                     NESQVSTDESENSRSPGNKSDNIKPKSAPWNSFLPPPPPMPGPRLGPGKPGLKFNGPP
+                     PPPPPPPPHLLSCWLPPFPSGPPIIPPPPPICPDSLDDADALGSMLISWYMSGYHTGY
+                     YMGFRQNQKEGRCSHSLN"
+     misc_feature    18..113
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    21..23
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="N-acetylalanine.
+                     /evidence=ECO:0007744|PubMed:19413330,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:22223895,
+                     ECO:0007744|PubMed:22814378; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); acetylation site"
+     misc_feature    27..29
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000269|PubMed:21609790,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     phosphorylation site"
+     misc_feature    30..32
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000269|PubMed:21609790,
+                     ECO:0007744|PubMed:21406692; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    39..41
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000269|PubMed:21609790,
+                     ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    90..92
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:19369195,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:23186163,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    93..170
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Interacts with GEMIN2.
+                     /evidence=ECO:0000269|PubMed:21816274,
+                     ECO:0000269|PubMed:22607171, ECO:0000269|PubMed:26092730"
+     misc_feature    99..101
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:18691976,
+                     ECO:0007744|PubMed:19369195, ECO:0007744|PubMed:19690332,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     phosphorylation site"
+     misc_feature    108..110
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:17487921, ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:18691976, ECO:0007744|PubMed:19369195,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:23186163, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     phosphorylation site"
+     misc_feature    192..281
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    222..224
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    270..272
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="Phosphothreonine, by PKA.
+                     /evidence=ECO:0000269|PubMed:21609790; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    306..644
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Required for interaction with RPP20/POP7"
+     misc_feature    483..683
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    576..578
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000269|PubMed:21609790; propagated from
+                     UniProtKB/Swiss-Prot (Q16637.1); phosphorylation site"
+     misc_feature    735..818
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: P2 (binding site for SNRPB)"
+     misc_feature    771..857
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Involved in homooligomerization.
+                     /evidence=ECO:0000269|PubMed:10500148,
+                     ECO:0000269|PubMed:14715275, ECO:0000269|PubMed:17178713,
+                     ECO:0000269|PubMed:21816274, ECO:0000269|PubMed:23022347,
+                     ECO:0000269|PubMed:26092730"
+     misc_feature    852..899
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q16637.1);
+                     Region: Required for interaction with SYNCRIP.
+                     /evidence=ECO:0000269|PubMed:11574476"
+     exon            99..170
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            171..290
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            291..491
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            492..644
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            645..740
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            741..851
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            852..905
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            906..1482
+                     /gene="SMN2"
+                     /gene_synonym="BCD541; C-BCD541; GEMIN1; SMNC; TDRD16B"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 gcacccgcgg gtttgctatg gcgatgagca gcggcggcag tggtggcggc gtcccggagc
+       61 aggaggattc cgtgctgttc cggcgcggca caggccagag cgatgattct gacatttggg
+      121 atgatacagc actgataaaa gcatatgata aagctgtggc ttcatttaag catgctctaa
+      181 agaatggtga catttgtgaa acttcgggta aaccaaaaac cacacctaaa agaaaacctg
+      241 ctaagaagaa taaaagccaa aagaagaata ctgcagcttc cttacaacag tggaaagttg
+      301 gggacaaatg ttctgccatt tggtcagaag acggttgcat ttacccagct accattgctt
+      361 caattgattt taagagagaa acctgtgttg tggtttacac tggatatgga aatagagagg
+      421 agcaaaatct gtccgatcta ctttccccaa tctgtgaagt agctaataat atagaacaaa
+      481 atgctcaaga gaatgaaaat gaaagccaag tttcaacaga tgaaagtgag aactccaggt
+      541 ctcctggaaa taaatcagat aacatcaagc ccaaatctgc tccatggaac tcttttctcc
+      601 ctccaccacc ccccatgcca gggccaagac tgggaccagg aaagccaggt ctaaaattca
+      661 atggcccacc accgccaccg ccaccaccac caccccactt actatcatgc tggctgcctc
+      721 catttccttc tggaccacca ataattcccc caccacctcc catatgtcca gattctcttg
+      781 atgatgctga tgctttggga agtatgttaa tttcatggta catgagtggc tatcatactg
+      841 gctattatat gggttttaga caaaatcaaa aagaaggaag gtgctcacat tccttaaatt
+      901 aaggagaaat gctggcatag agcagcacta aatgacacca ctaaagaaac gatcagacag
+      961 atctggaatg tgaagcgtta tagaagataa ctggcctcat ttcttcaaaa tatcaagtgt
+     1021 tgggaaagaa aaaaggaagt ggaatgggta actcttcttg attaaaagtt atgtaataac
+     1081 caaatgcaat gtgaaatatt ttactggact ctattttgaa aaaccatctg taaaagactg
+     1141 aggtgggggt gggaggccag cacggtggtg aggcagttga gaaaatttga atgtggatta
+     1201 gattttgaat gatattggat aattattggt aattttatga gctgtgagaa gggtgttgta
+     1261 gtttataaaa gactgtctta atttgcatac ttaagcattt aggaatgaag tgttagagtg
+     1321 tcttaaaatg tttcaaatgg tttaacaaaa tgtatgtgag gcgtatgtgg caaaatgtta
+     1381 cagaatctaa ctggtggaca tggctgttca ttgtactgtt tttttctatc ttctatatgt
+     1441 ttaaaagtat ataataaaaa tatttaattt ttttttaaat ta
+//
+
